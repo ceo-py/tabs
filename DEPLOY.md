@@ -1,108 +1,103 @@
-# Качване на сайта на VPS-а (Caddy)
+# Качване и обновяване на TABS 90
 
 Сайтът е **изцяло статичен** — Caddy му обслужва файловете и нищо друго.
 Няма Node, няма PHP, няма база данни, няма build на сървъра.
 
-## 1. Подготвен пакет
+## Къде какво стои на VPS-а (Oriahovo)
 
-```powershell
-py -3.14 build_dist.py
+```
+/home/ceo/production/
+├── tabs/              ← WEB ROOT, това се сервира (index.html в корена)
+│   ├── index.html
+│   ├── style.css
+│   ├── app.js
+│   ├── data/songs.json
+│   ├── cards/*.webp   (72)
+│   └── thumbs/*.webp  (72)
+├── tabs-repo/         ← git clone на github.com/ceo-py/tabs.git
+├── tabs-deploy.sh     ← скриптът, който дърпа репото и синхронизира site/ -> tabs/
+└── deploy.log         ← логът му
+
+/etc/caddy/
+├── Caddyfile          ← глобален: admin off + import caddy.d/*.conf
+└── caddy.d/
+    ├── api-camera.conf
+    ├── jellyfin.conf
+    ├── nextcloud.conf
+    ├── pi-hole.conf
+    ├── ...
+    └── tabs.conf      ← настройките за ТОЗИ сайт (нужен е sudo за копирането)
 ```
 
-Резултат: `dist/tabs90-site.zip` (~10 MB) — готов за качване.
+Всяка настройка на сайт е в **отделен файл** в `caddy.d/` — същата структура
+като останалите сайтове. Скриптът `tabs-deploy.sh` е в user crontab-а и
+дърпа репото на всеки 5 минути, така че `git push` в GitHub обновява живия
+сайт автоматично.
 
-## 2. На сървъра
+## Първоначална инсталация на Caddy блока (само веднъж, иска sudo)
+
+Файлът с настройките живее в репото: `deploy/tabs.conf`.
 
 ```bash
-ssh <user>@<vps>
-
-sudo mkdir -p /var/www/tabs90
-sudo chown -R $USER:$USER /var/www/tabs90
-cd /var/www/tabs90
-
-# качи архива (от твоята машина):
-#   scp dist/tabs90-site.zip user@vps:/tmp/
-
-unzip -o /tmp/tabs90-site.zip -d /var/www/tabs90
-ls -la /var/www/tabs90      # index.html трябва да е в корена
+sudo cp /home/ceo/production/tabs-repo/deploy/tabs.conf /etc/caddy/caddy.d/tabs.conf \
+  && sudo caddy validate --config /etc/caddy/Caddyfile \
+  && sudo systemctl reload caddy
 ```
 
-Ако няма `unzip`: `apt install unzip`.
+Caddy сам ще вземе TLS сертификата (DNS-ът вече сочи към VPS-а).
 
-## 3. Caddy
-
-Отвори `/etc/caddy/Caddyfile` и добави блока (замени домейна с твоя):
-
-```caddy
-tabs90.example.com {
-    root * /var/www/tabs90
-    file_server
-
-    # кеш за статиката, но не за манифеста
-    @manifest path /data/songs.json
-    header @manifest Cache-Control "no-cache"
-    header Cache-Control "public, max-age=3600"
-
-    # YouTube вграждания -> всичко е от youtube-nocookie.com
-    header {
-        Content-Security-Policy "default-src 'self'; img-src 'self' data: https:; frame-src https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' https://www.youtube.com https://www.youtube-nocookie.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://www.youtube-nocookie.com https://www.youtube.com"
-        X-Content-Type-Options "nosniff"
-        Referrer-Policy "strict-origin-when-cross-origin"
-    }
-}
-```
-
-После:
+Проверка:
 
 ```bash
-sudo caddy validate --config /etc/caddy/Caddyfile
-sudo systemctl reload caddy
+curl -sI https://tabs.ceo-py.eu/ | head -3
 ```
 
-Caddy сам ще вземе TLS сертификата (Let's Encrypt), ако DNS сочи към VPS-а.
+## Обновяване при нови карти
 
-## 4. Обновяване, когато излязат нови карти
-
-Локално:
+Локално (на машината с проекта):
 
 ```powershell
-py -3.14 build_dist.py     # обновява каталога + assets + архива
+py -3.14 build_dist.py     # import_cards -> site_build -> dist/tabs90-site.zip
+git add -A
+git commit -m "new cards"
+git push
 ```
 
-На сървъра:
+VPS-ът го вижда до 5 минути (cron) и обновява `~/production/tabs`.
+За незабавно обновяване — без да чакаш cron-а:
+
+```bash
+/home/ceo/production/tabs-deploy.sh && tail -3 /home/ceo/production/deploy.log
+```
+
+Ръчно качване през scp (без Git) също работи:
 
 ```bash
 scp dist/tabs90-site.zip user@vps:/tmp/
-ssh user@vps 'unzip -o /tmp/tabs90-site.zip -d /var/www/tabs90 && systemctl reload caddy'
+ssh user@vps 'unzip -o /tmp/tabs90-site.zip -d /home/ceo/production/tabs'
 ```
 
-Това е целият цикъл. `import_cards.py` добавя само нови записи и не пипа
-ръчно редактираните, `site_build.py` генерира webp файловете и манифеста.
+## Локално пускане
 
-## 5. Напълно автоматично обновяване (когато имаш субдомейн)
+```powershell
+Set-Location site
+py -3.14 -m http.server 8765 --bind 0.0.0.0
+```
 
-Двата варианта се избират **веднъж**, после само се push-ва:
-
-**Вариант А — GitHub Actions → rsync към VPS-а**
-- repo в GitHub, push-ваш `songs.json` + `site/`
-- workflow: `py import_cards.py && py site_build.py` → rsync `site/` на сървъра
-- нужен е deploy key (без пароли)
-
-**Вариант Б — сам VPS-ът дърпа от Git**
-- `git clone` на сървъра + systemd timer, който на всеки час прави
-  `git pull && py site_build.py` и релоадва Caddy
-
-И двате работят с едно и също съдържание — разликата е къде тече build-ът.
-Ако искаш, мога да го настроя, когато субдомейнът е готов.
+- този компютър: <http://127.0.0.1:8765/>
+- телефон в същата мрежа: `http://<LAN-IP>:8765/`
 
 ---
 
 ## Важни бележки
 
-- **Ембедването на YouTube** зависи от настройките на канала (embedding).
-  Ако някое видео откаже да се пуска вътре в плеъра, картата все пак
-  показва пълните табове, а бутонът **OPEN ON YOUTUBE** го отваря директно.
-- **Шрифтовете** идват от Google Fonts — ако VPS-ът няма изход към Google,
-  сайтът ще падне на системните шрифтове (всичко остава работещо).
+- **Ембедването на YouTube** зависи от настройките на канала (embedding) и
+  от браузъра на посетителя. Ако някое видео откаже да се пуска вътре в
+  плеъра, картата все пак показва пълните табове, а бутонът
+  **OPEN ON YOUTUBE** го отваря директно.
+- **Шрифтовете** идват от Google Fonts — без изход към Google сайтът пада на
+  системните шрифтове (всичко остава работещо).
 - `data/songs.json` е с `no-cache`, за да се обнови веднага след нов deploy;
-  картите и миниатюрите са с кеш.
+  картите и миниатюрите са с кеш 1 ден.
+- `Caddyfile` има `admin off` — Caddy Admin API не е достъпен, промените
+  стават само чрез файл и `systemctl reload caddy`.
