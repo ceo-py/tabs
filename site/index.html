@@ -38,11 +38,14 @@
 
 <div class="checkers" aria-hidden="true"></div>
 
-<nav class="controls">
+<div class="searchbar">
   <div class="search">
     <span class="search__ico" aria-hidden="true">⌕</span>
     <input id="q" type="search" placeholder="Search a song or an artist…" autocomplete="off" aria-label="Search">
   </div>
+</div>
+
+<nav class="controls">
   <div class="chips" id="chips" role="group" aria-label="Filters">
     <button class="chip is-on" data-f="all">ALL</button>
     <button class="chip" data-f="rock">ROCK</button>
@@ -74,16 +77,12 @@
       <span id="lbArtist">—</span>
     </div>
     <div class="lb__acts">
-      <button class="btn btn--play" id="lbPlay" type="button">▶ PLAY</button>
-      <a class="btn btn--yt" id="lbVideo" href="#" target="_blank" rel="noopener">YOUTUBE</a>
       <button class="btn" id="lbClose" aria-label="Close">✕</button>
     </div>
   </div>
   <div class="lb__body" id="lbBody">
     <div class="lb__player" id="lbPlayerWrap">
       <iframe id="lbPlayer" title="Video lesson" loading="lazy" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; clipboard-write" allowfullscreen></iframe>
-      <div class="lb__playerhint">▶ TAP TO PLAY</div>
-      <a class="lb__openyt" id="lbOpenYt" href="#" target="_blank" rel="noopener">▶ OPEN ON YOUTUBE</a>
     </div>
     <img id="lbImg" alt="">
   </div>

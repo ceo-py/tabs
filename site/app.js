@@ -86,30 +86,17 @@ function paint() {
 /* ---------- lightbox --------------------------------------------- */
 const lb = $('#lb');
 let current = null;
-let playing = false;
+let lastCard = null;
 
 function ytId(s) {
   if (!s.url) return '';
   try { return new URL(s.url).searchParams.get('v') || ''; } catch { return ''; }
 }
 
-/* YouTube iframe command (works without loading the YT JS API) */
-function ytCmd(func) {
-  const pl = $('#lbPlayer');
-  if (!pl.getAttribute('src')) return;
-  pl.contentWindow.postMessage(
-    JSON.stringify({ event: 'command', func: func, args: [] }), '*');
-}
-
 function openLB(s) {
   current = s;
-  playing = false;
   $('#lbTitle').textContent = s.title;
   $('#lbArtist').textContent = s.artist + ' · ' + (s.tag || '');
-
-  const v = $('#lbVideo');
-  if (s.url) { v.href = s.url; v.style.display = ''; } else { v.style.display = 'none'; }
-  $('#lbOpenYt').href = s.url || '#';
 
   // embedded YouTube player at the top of the card
   const id = ytId(s);
@@ -120,7 +107,6 @@ function openLB(s) {
     pl.src = 'https://www.youtube-nocookie.com/embed/' + id +
       '?rel=0&modestbranding=1&playsinline=1&enablejsapi=1&origin=' + origin;
     $('#lbPlayerWrap').style.display = '';
-    $('#lbPlay').textContent = '▶ PLAY';
   } else {
     pl.removeAttribute('src');
     $('#lbPlayerWrap').style.display = 'none';
@@ -136,29 +122,32 @@ function openLB(s) {
   $('#lbBody').scrollTop = 0;
 }
 
-function closeLB() {
+function closeLB(back) {
   lb.hidden = true;
   document.body.classList.remove('lb-open');
   $('#lbPlayer').removeAttribute('src');   // stop playback
   document.body.style.overflow = '';
   current = null;
-  playing = false;
+  /* closing takes you back to the card you opened */
+  if (back && lastCard) {
+    const card = lastCard;
+    lastCard = null;
+    requestAnimationFrame(() => {
+      card.scrollIntoView({ block: 'center', behavior: 'smooth' });
+      card.focus({ preventScroll: true });
+    });
+  }
 }
-
-/* play / pause the embedded video */
-$('#lbPlay').addEventListener('click', () => {
-  if (playing) { ytCmd('pauseVideo'); playing = false; $('#lbPlay').textContent = '▶ PLAY'; }
-  else { ytCmd('playVideo'); playing = true; $('#lbPlay').textContent = '❚❚ PAUSE'; }
-});
 
 document.addEventListener('click', e => {
   const card = e.target.closest('.card');
   if (card) {
+    lastCard = card;
     openLB(state.view[+card.dataset.i]);
     return;
   }
-  if (e.target.closest('#lbClose') || e.target.id === 'lb') closeLB();
-  else if (e.target.closest('#lbBody') && !e.target.closest('img')) closeLB();
+  if (e.target.closest('#lbClose') || e.target.id === 'lb') closeLB(true);
+  else if (e.target.closest('#lbBody') && !e.target.closest('img')) closeLB(true);
 });
 
 document.addEventListener('keydown', e => {
@@ -176,6 +165,7 @@ $('#lbBody').addEventListener('click', e => {
 document.addEventListener('keydown', e => {
   if ((e.key === 'Enter' || e.key === ' ') && e.target.classList?.contains('card')) {
     e.preventDefault();
+    lastCard = e.target;
     openLB(state.view[+e.target.dataset.i]);
   }
 });

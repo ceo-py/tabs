@@ -37,18 +37,20 @@ a{color:var(--cyan)}
 img{max-width:100%;display:block}
 
 /* CRT / TV static -------------------------------------------------- */
+/* NOTE: no mix-blend-mode here — it forces a full-screen re-composite on
+   every scroll frame and was the main source of the scroll lag. */
 .crt{
   position:fixed; inset:0; z-index:60; pointer-events:none;
   background:
-    repeating-linear-gradient(to bottom, rgba(255,255,255,.045) 0 1px, transparent 1px 3px),
-    radial-gradient(120% 90% at 50% 50%, transparent 55%, rgba(0,0,0,.55) 100%);
-  mix-blend-mode:overlay;
+    repeating-linear-gradient(to bottom, rgba(255,255,255,.035) 0 1px, transparent 1px 3px),
+    radial-gradient(120% 90% at 50% 50%, transparent 55%, rgba(0,0,0,.5) 100%);
 }
 .crt::after{
   content:''; position:absolute; inset:0;
   background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='120' height='120' filter='url(%23n)' opacity='.5'/%3E%3C/svg%3E");
-  opacity:.05;
-  animation:static 1.2s steps(4) infinite;
+  opacity:.045;
+  animation:static 1.4s steps(4) infinite;
+  will-change:transform;
 }
 @keyframes static{0%{transform:translate(0,0)}25%{transform:translate(-3px,2px)}50%{transform:translate(2px,-3px)}75%{transform:translate(-2px,-2px)}100%{transform:translate(0,0)}}
 
@@ -57,17 +59,16 @@ img{max-width:100%;display:block}
   position:relative; overflow:hidden; white-space:nowrap;
   background:linear-gradient(90deg,var(--pink),var(--violet),var(--cyan),var(--pink));
   background-size:300% 100%;
-  animation:hue 9s linear infinite;
   border-bottom:3px solid #000;
 }
 .ticker__row{
   display:inline-flex; gap:2.5rem; padding:.35rem 0;
   animation:slide 28s linear infinite;
+  will-change:transform;
   font-family:var(--display); font-size:.78rem; letter-spacing:.12em;
 }
 .ticker__row span{color:#0a0a0f; text-shadow:0 1px 0 rgba(255,255,255,.35)}
 @keyframes slide{from{transform:translateX(0)}to{transform:translateX(-50%)}}
-@keyframes hue{to{background-position:300% 0}}
 
 /* hero ------------------------------------------------------------- */
 .hero{
@@ -87,7 +88,9 @@ img{max-width:100%;display:block}
   transform:skewX(-7deg);
   background:linear-gradient(180deg,#fff 0%,#cfe9ff 28%,#7fb6ff 45%,#2b4a8f 52%,#c8d9ff 62%,#fff 100%);
   -webkit-background-clip:text; background-clip:text; color:transparent;
-  filter:drop-shadow(0 0 22px rgba(0,229,255,.55)) drop-shadow(4px 5px 0 var(--pink));
+  /* text-shadow instead of filter:drop-shadow() — a filter forces the whole
+     element to be re-rasterised, text-shadow is painted once */
+  text-shadow:0 0 22px rgba(0,229,255,.55), 4px 5px 0 var(--pink);
 }
 .hero__title-alt{
   -webkit-text-fill-color:var(--yellow);
@@ -124,14 +127,15 @@ img{max-width:100%;display:block}
 }
 
 /* controls --------------------------------------------------------- */
-.controls{
+/* Only the search bar sticks to the top while scrolling through the grid.
+   The chips scroll away with the page. */
+.searchbar{
   position:sticky; top:0; z-index:40;
-  padding:.7rem var(--pad) .8rem;
-  background:rgba(7,7,10,.92);
-  backdrop-filter:blur(8px);
+  padding:.7rem var(--pad);
+  background:#0c0c16;                 /* opaque: no backdrop-filter (scroll killer) */
   border-bottom:2px solid rgba(255,255,255,.12);
 }
-.search{position:relative; max-width:640px; margin:0 auto .6rem}
+.search{position:relative; max-width:640px; margin:0 auto}
 .search__ico{position:absolute; left:.7rem; top:50%; transform:translateY(-50%); color:var(--cyan); font-size:1.3rem; line-height:1}
 .search input{
   width:100%; padding:.7rem .9rem .7rem 2.4rem;
@@ -142,6 +146,8 @@ img{max-width:100%;display:block}
 }
 .search input::placeholder{color:rgba(244,244,248,.45)}
 .search input:focus{border-color:var(--pink); box-shadow:0 0 22px rgba(255,47,176,.35) inset}
+
+.controls{padding:.7rem var(--pad) .2rem}
 .chips{display:flex; gap:.45rem; justify-content:center; flex-wrap:wrap; max-width:760px; margin:0 auto}
 .chip{
   font-family:var(--display); font-size:.66rem; letter-spacing:.1em;
@@ -222,22 +228,23 @@ main{padding:var(--pad) var(--pad) 0}
 body.lb-open > *:not(.lb){visibility:hidden}
 .lb__bar{
   display:flex; gap:.7rem; align-items:center; justify-content:space-between;
-  padding:.6rem var(--pad); border-bottom:2px solid var(--pink);
-  background:rgba(7,7,10,.9); flex-wrap:wrap;
+  padding:.6rem calc(var(--pad) + 3.2rem) .6rem var(--pad);
+  border-bottom:2px solid var(--pink);
+  background:rgba(7,7,10,.9);
 }
 .lb__meta b{display:block; font-family:var(--heavy); font-size:.9rem; text-transform:uppercase}
 .lb__meta span{font-size:.66rem; color:var(--cyan)}
-.lb__acts{display:flex; gap:.5rem; align-items:center}
+/* the close button always sits in the top-right corner of the card */
+.lb__acts{
+  position:absolute; top:.5rem; right:var(--pad); z-index:6;
+  display:flex; gap:.5rem; align-items:center;
+}
 .btn{
   font-family:var(--display); font-size:.68rem; letter-spacing:.1em; text-decoration:none;
   padding:.5rem .8rem; cursor:pointer; color:var(--white);
   background:transparent; border:2px solid var(--white); border-radius:var(--radius);
 }
 .btn:hover{border-color:var(--cyan); color:var(--cyan)}
-.btn--yt{background:var(--pink); border-color:var(--pink); color:#12000c}
-.btn--yt:hover{background:var(--yellow); border-color:var(--yellow); color:#12000c}
-.btn--play{background:var(--green); border-color:var(--green); color:#06210a}
-.btn--play:hover{background:var(--yellow); border-color:var(--yellow); color:#1a1500}
 
 .lb__player{
   position:relative; width:min(100%,1100px); margin:0 auto var(--pad);
@@ -245,22 +252,49 @@ body.lb-open > *:not(.lb){visibility:hidden}
   border:2px solid var(--cyan); box-shadow:0 0 24px rgba(0,229,255,.25);
 }
 .lb__player iframe{width:100%; height:100%; border:0; display:block; position:relative; z-index:1}
-.lb__playerhint{
-  position:absolute; inset:0; z-index:0; display:flex; align-items:center; justify-content:center;
-  font-family:var(--display); font-size:clamp(.7rem,2.6vw,1rem); letter-spacing:.14em;
-  color:rgba(255,255,255,.35); pointer-events:none;
-}
-.lb__openyt{
-  position:absolute; right:.5rem; bottom:.5rem; z-index:2;
-  font-family:var(--display); font-size:.6rem; letter-spacing:.1em; text-decoration:none;
-  padding:.35rem .55rem; color:#12000c; background:var(--yellow);
-  box-shadow:2px 2px 0 rgba(0,0,0,.6);
-}
-.lb__openyt:hover{background:var(--pink); color:#fff}
 .lb__body{flex:1 1 auto; overflow:auto; -webkit-overflow-scrolling:touch; padding:var(--pad); text-align:center}
 .lb__body img{margin:0 auto; max-width:min(100%,1100px); height:auto; border:2px solid rgba(255,255,255,.18)}
 .lb__body.is-zoom img{max-width:none; width:min(1600px,220vw); cursor:zoom-out}
 .lb__body.is-zoom{cursor:zoom-in}
+
+/* landscape (phone / tablet on its side) ---------------------------- */
+/* The index stays a grid so many cards fit on screen; the full-width
+   tab sheet is only for the opened card. Nothing is sticky in the
+   card view — the whole screen belongs to the tabs. */
+@media (orientation:landscape){
+  /* the card header becomes a small floating close button — no height taken */
+  .lb__bar{
+    position:absolute; top:0; left:0; right:0; z-index:5;
+    padding:.45rem calc(var(--pad) + 3.2rem) .45rem var(--pad);
+    border:0; background:transparent; pointer-events:none;
+  }
+  .lb__meta{display:none}
+  .lb__acts{pointer-events:auto}
+  .lb__bar .btn{
+    width:36px; height:36px; padding:0; font-size:.95rem;
+    background:rgba(7,7,10,.8);
+  }
+  /* the tab sheet takes the whole width of the screen */
+  .lb__body{padding:.5rem}
+  .lb__body img{max-width:100%; border-width:1px}
+}
+
+/* short landscape screens (phone) — everything shrinks to fit */
+@media (orientation:landscape) and (max-height:620px){
+  .hero{padding:.6rem var(--pad) .5rem}
+  .hero__mark{font-size:.58rem; letter-spacing:.2em; margin-bottom:.4rem; padding:.2rem .5rem}
+  .hero__title{font-size:clamp(1.9rem,8vh,3.2rem)}
+  .hero__sub{margin:.4rem 0 .1rem; font-size:.6rem}
+  .hero__note{display:none}
+  .hero__stats{margin-top:.5rem; gap:.5rem}
+  .stat{min-width:60px; padding:.2rem .5rem}
+  .stat b{font-size:1rem}
+  .checkers{height:8px; background-size:18px 18px}
+  .searchbar{padding:.45rem var(--pad)}
+  .search input{padding:.45rem .8rem .45rem 2.2rem; font-size:.85rem}
+  .controls{padding:.5rem var(--pad) .2rem}
+  .lb__player{max-height:26vh}
+}
 
 /* footer ----------------------------------------------------------- */
 .foot{margin-top:clamp(28px,6vw,60px); border-top:3px solid var(--pink); background:rgba(0,0,0,.45)}

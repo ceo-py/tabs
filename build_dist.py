@@ -11,7 +11,7 @@ Steps:
 
 On the VPS (see DEPLOY.md):
 
-    unzip -o tabs90-site.zip -d /var/www/tabs90 && systemctl reload caddy
+    /home/ceo/production/tabs-deploy.sh
 """
 import os
 import subprocess
@@ -48,8 +48,8 @@ def main():
 
     size = os.path.getsize(ZIP) / 1048576
     print('\n%s  (%.2f MB)' % (os.path.relpath(ZIP, ROOT), size))
-    print('upload it to the VPS and run:')
-    print('  unzip -o tabs90-site.zip -d /var/www/tabs90 && systemctl reload caddy')
+    print('the VPS syncs itself from GitHub every 5 minutes:')
+    print('  git push origin main   ->   /home/ceo/production/tabs-deploy.sh')
 
 
 if __name__ == '__main__':

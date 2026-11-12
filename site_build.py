@@ -17,6 +17,8 @@ import json
 import os
 from PIL import Image
 
+import strip_link
+
 ROOT = os.path.dirname(os.path.abspath(__file__))
 CATALOG = os.path.join(ROOT, 'songs.json')
 SITE = os.path.join(ROOT, 'site')
@@ -35,6 +37,9 @@ def slug(path):
 def build_assets(src, name):
     """preview = top of the card, always exactly 4:5 portrait, never distorted"""
     im = Image.open(src).convert('RGB')
+    # the "▶ youtube.com/watch?v=..." line is dropped from the site copy
+    # (the archived PNGs in out/ and out_gz/ stay untouched)
+    strip_link.strip_link(im)
     w, h = im.size
 
     tw = min(THUMB_W, w)
