@@ -1,0 +1,37 @@
+# TABS 90 — Caddy site block
+#
+# Install with:
+#   sudo cp /home/ceo/production/caddy-tabs.conf /etc/caddy/caddy.d/tabs.conf
+#   sudo caddy validate --config /etc/caddy/Caddyfile
+#   sudo systemctl reload caddy
+#
+# The global /etc/caddy/Caddyfile already does `import caddy.d/*.conf`.
+
+tabs.ceo-py.eu {
+	root * /home/ceo/production/tabs
+	file_server
+
+	encode zstd gzip
+
+	# the manifest lists the songs -> never cache it, new cards appear at once
+	@manifest path /data/songs.json
+	header @manifest Cache-Control "no-cache, must-revalidate"
+
+	# the card images never change under the same name -> cache them hard
+	@assets path /cards/* /thumbs/*
+	header @assets Cache-Control "public, max-age=86400, immutable"
+
+	header {
+		X-Content-Type-Options "nosniff"
+		Referrer-Policy "strict-origin-when-cross-origin"
+		Permissions-Policy "geolocation=(), microphone=(), camera=()"
+		Content-Security-Policy "default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; script-src 'self'; frame-src https://www.youtube-nocookie.com https://www.youtube.com; connect-src 'self'; media-src 'self'"
+	}
+
+	log {
+		output file /var/log/caddy/tabs-access.log {
+			roll_size 10MiB
+			roll_keep 5
+		}
+	}
+}
