@@ -41,8 +41,13 @@
 ```bash
 sudo cp /home/ceo/production/tabs-repo/deploy/tabs.conf /etc/caddy/caddy.d/tabs.conf \
   && sudo caddy validate --config /etc/caddy/Caddyfile \
-  && sudo systemctl reload caddy
+  && sudo systemctl restart caddy
 ```
+
+> ⚠️ Използвай **`restart`**, не `reload`. Глобалният Caddyfile съдържа
+> `admin off` → Admin API-то на :2019 не работи и `caddy reload` винаги
+> пада с „connection refused“. Пълният restart отнема секунда-две и
+> прекъсва за кратко останалите сайтове.
 
 Caddy сам ще вземе TLS сертификата (DNS-ът вече сочи към VPS-а).
 
