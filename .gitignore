@@ -1,0 +1,70 @@
+# ---------------------------------------------------------------------------
+# TABS 90 — git ignore
+# The repository holds the website and the tooling that rebuilds it.
+# Heavy local artefacts (videos, frames, tool binaries, scratch data) stay out.
+# ---------------------------------------------------------------------------
+
+# downloaded videos + extracted frames
+dl/
+frames/
+b1_backup/
+b4_specs/
+
+# tool runtimes / servers (local only)
+denobin/
+potsrc/
+potserver/
+yt_dlp_plugins/
+yt-dlp-plugins/
+ytdlp_plugins_dir/
+deno.zip
+potserver.zip
+ytdlp.exe
+
+# python cache / logs
+__pycache__/
+*.pyc
+*.log
+*.tmp
+
+# local packaging output
+dist/
+
+# large intermediate datasets
+gz_meta.json
+gz_meta_part_*.jsonl
+chunk_*.json
+chunk_*.txt
+meta_all.json
+classified.json
+guitar_only.json
+gz_all_rows.json
+gz_rows.json
+gz_meta*.txt
+videos_raw.txt
+shorts_raw.txt
+cand_*.txt
+cand_*.tsv
+pl_*.tsv
+gz_chunk_*.txt
+gz_playlists.txt
+gz_videos.txt
+gz_ids.txt
+cand_ids.txt
+chunk_done_ids.txt
+
+# per-agent scratch helpers (the shared pipeline is tracked)
+b1_*
+b2_*
+b3_*
+b4_*
+w_*
+
+# local-only odds and ends
+remote.ps1
+missing_ids.txt
+gz_artist_counts.txt
+gz_pairs.txt
+gz_playlist_items.txt
+gz_shorts.txt
+ROCK-CARDS-CONTACT-SHEET.png

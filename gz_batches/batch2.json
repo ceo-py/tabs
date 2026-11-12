@@ -1,0 +1,110 @@
+[
+ {
+  "id": "fQaH_MIM81c",
+  "artist": "Alanis Morissette",
+  "song": "Ironic",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Alanis-Morissette-Ironic.png",
+  "url": "https://www.youtube.com/watch?v=fQaH_MIM81c"
+ },
+ {
+  "id": "XbKIMQCQYCM",
+  "artist": "Alex Warren",
+  "song": "Ordinary",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Alex-Warren-Ordinary.png",
+  "url": "https://www.youtube.com/watch?v=XbKIMQCQYCM"
+ },
+ {
+  "id": "D-8N45RZQa8",
+  "artist": "Ali Gatie",
+  "song": "It’s You",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ali-Gatie-Its-You.png",
+  "url": "https://www.youtube.com/watch?v=D-8N45RZQa8"
+ },
+ {
+  "id": "2cHa5jwiQB0",
+  "artist": "Alice In Chains",
+  "song": "Nutshell",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Alice-In-Chains-Nutshell.png",
+  "url": "https://www.youtube.com/watch?v=2cHa5jwiQB0"
+ },
+ {
+  "id": "FvgQL9ROfOo",
+  "artist": "Alicia Keys",
+  "song": "If I Ain't Got You",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Alicia-Keys-If-I-Aint-Got-You.png",
+  "url": "https://www.youtube.com/watch?v=FvgQL9ROfOo"
+ },
+ {
+  "id": "YirmKgJ0h44",
+  "artist": "America",
+  "song": "A Horse With No Name",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/America-A-Horse-With-No-Name.png",
+  "url": "https://www.youtube.com/watch?v=YirmKgJ0h44"
+ },
+ {
+  "id": "A_BYtHSCcRA",
+  "artist": "America",
+  "song": "Ventura Highway",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/America-Ventura-Highway.png",
+  "url": "https://www.youtube.com/watch?v=A_BYtHSCcRA"
+ },
+ {
+  "id": "Ryxmk_-XIJ0",
+  "artist": "And Dry Radiohead",
+  "song": "High",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/And-Dry-Radiohead-High.png",
+  "url": "https://www.youtube.com/watch?v=Ryxmk_-XIJ0"
+ },
+ {
+  "id": "xJ8TDilOCzo",
+  "artist": "Angus & Julia Stone",
+  "song": "Big Jet Plane",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Angus-Julia-Stone-Big-Jet-Plane.png",
+  "url": "https://www.youtube.com/watch?v=xJ8TDilOCzo"
+ },
+ {
+  "id": "qMRy6ET3GZ8",
+  "artist": "Anne-Marie",
+  "song": "2002",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/AnneMarie-2002.png",
+  "url": "https://www.youtube.com/watch?v=qMRy6ET3GZ8"
+ },
+ {
+  "id": "tyXLH66wLBw",
+  "artist": "Arctic Monkeys",
+  "song": "505",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Arctic-Monkeys-505.png",
+  "url": "https://www.youtube.com/watch?v=tyXLH66wLBw"
+ },
+ {
+  "id": "SfSDd0uZ9aA",
+  "artist": "Arctic Monkeys",
+  "song": "I Wanna Be Yours",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Arctic-Monkeys-I-Wanna-Be-Yours.png",
+  "url": "https://www.youtube.com/watch?v=SfSDd0uZ9aA"
+ }
+]

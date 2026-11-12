@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#07070a">
+<title>TABS 90 — guitar lesson cards with tabs</title>
+<meta name="description" content="Guitar lesson cards with TAB notation, chord pattern and strumming pattern, extracted straight from the videos.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Archivo+Black&family=Permanent+Marker&family=Rubik+Mono+One&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%2307070a'/><text y='78' x='50' text-anchor='middle' font-size='72' font-family='Arial' font-weight='bold' fill='%23ff2fb0'>T</text></svg>">
+</head>
+<body>
+
+<div class="crt" aria-hidden="true"></div>
+
+<div class="ticker" aria-hidden="true">
+  <div class="ticker__row">
+    <span>★ NEW TABS EVERY WEEK ★</span><span>HOT CHORDS</span><span>ROCK &amp; ROLL</span>
+    <span>★ NEW TABS EVERY WEEK ★</span><span>HOT CHORDS</span><span>ROCK &amp; ROLL</span>
+    <span>★ NEW TABS EVERY WEEK ★</span><span>HOT CHORDS</span><span>ROCK &amp; ROLL</span>
+  </div>
+</div>
+
+<header class="hero">
+  <div class="hero__mark">MTV</div>
+  <h1 class="hero__title">TABS<span class="hero__title-alt">90</span></h1>
+  <p class="hero__sub">LESSON CARDS · TAB&nbsp;·&nbsp;CHORD PATTERN&nbsp;·&nbsp;STRUMMING PATTERN</p>
+  <p class="hero__note">Every symbol is pulled straight from the video frames — nothing is reconstructed.</p>
+  <div class="hero__stats">
+    <div class="stat"><b id="statTotal">—</b><span>SONGS</span></div>
+    <div class="stat"><b id="statRock">—</b><span>ROCK</span></div>
+    <div class="stat"><b id="statChannels">—</b><span>CHANNELS</span></div>
+  </div>
+</header>
+
+<div class="checkers" aria-hidden="true"></div>
+
+<nav class="controls">
+  <div class="search">
+    <span class="search__ico" aria-hidden="true">⌕</span>
+    <input id="q" type="search" placeholder="Search a song or an artist…" autocomplete="off" aria-label="Search">
+  </div>
+  <div class="chips" id="chips" role="group" aria-label="Filters">
+    <button class="chip is-on" data-f="all">ALL</button>
+    <button class="chip" data-f="rock">ROCK</button>
+    <button class="chip" data-f="GuitarZero2HeroExpress">GUITARZERO</button>
+    <button class="chip" data-f="BernadetteTeachesMusic">BERNADETTE</button>
+  </div>
+</nav>
+
+<main>
+  <p id="count" class="count"></p>
+  <div class="grid" id="grid"></div>
+  <p class="empty" id="empty" hidden>Nothing matches this filter.</p>
+</main>
+
+<footer class="foot">
+  <div class="foot__row">
+    <span class="foot__mark">TABS&nbsp;90</span>
+    <span>Learn the song. Grab the card. Play.</span>
+  </div>
+  <div class="foot__row foot__row--dim">
+    <span>Sources: <a href="https://www.youtube.com/@GuitarZero2HeroExpress" target="_blank" rel="noopener">GuitarZero2HeroExpress</a> · <a href="https://www.youtube.com/@BernadetteTeachesMusic" target="_blank" rel="noopener">BernadetteTeachesMusic</a></span>
+  </div>
+</footer>
+
+<div class="lb" id="lb" hidden>
+  <div class="lb__bar">
+    <div class="lb__meta">
+      <b id="lbTitle">—</b>
+      <span id="lbArtist">—</span>
+    </div>
+    <div class="lb__acts">
+      <button class="btn btn--play" id="lbPlay" type="button">▶ PLAY</button>
+      <a class="btn btn--yt" id="lbVideo" href="#" target="_blank" rel="noopener">YOUTUBE</a>
+      <button class="btn" id="lbClose" aria-label="Close">✕</button>
+    </div>
+  </div>
+  <div class="lb__body" id="lbBody">
+    <div class="lb__player" id="lbPlayerWrap">
+      <iframe id="lbPlayer" title="Video lesson" loading="lazy" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; clipboard-write" allowfullscreen></iframe>
+      <div class="lb__playerhint">▶ TAP TO PLAY</div>
+      <a class="lb__openyt" id="lbOpenYt" href="#" target="_blank" rel="noopener">▶ OPEN ON YOUTUBE</a>
+    </div>
+    <img id="lbImg" alt="">
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
