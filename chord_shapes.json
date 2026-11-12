@@ -1,0 +1,1046 @@
+{
+ "A": {
+  "frets": [
+   -1,
+   0,
+   2,
+   2,
+   2,
+   0
+  ],
+  "base": "A",
+  "bass": null
+ },
+ "A7": {
+  "frets": [
+   -1,
+   0,
+   2,
+   0,
+   2,
+   0
+  ],
+  "base": "A7",
+  "bass": null
+ },
+ "Am": {
+  "frets": [
+   -1,
+   0,
+   2,
+   2,
+   1,
+   0
+  ],
+  "base": "Am",
+  "bass": null
+ },
+ "Am7": {
+  "frets": [
+   -1,
+   0,
+   2,
+   0,
+   1,
+   0
+  ],
+  "base": "Am7",
+  "bass": null
+ },
+ "Asus2": {
+  "frets": [
+   -1,
+   0,
+   2,
+   2,
+   0,
+   0
+  ],
+  "base": "Asus2",
+  "bass": null
+ },
+ "Asus4": {
+  "frets": [
+   -1,
+   0,
+   2,
+   2,
+   3,
+   0
+  ],
+  "base": "Asus4",
+  "bass": null
+ },
+ "B": {
+  "frets": [
+   -1,
+   2,
+   4,
+   4,
+   4,
+   2
+  ],
+  "base": "B",
+  "bass": null
+ },
+ "B7": {
+  "frets": [
+   -1,
+   2,
+   1,
+   2,
+   0,
+   2
+  ],
+  "base": "B7",
+  "bass": null
+ },
+ "Bm": {
+  "frets": [
+   -1,
+   2,
+   4,
+   4,
+   3,
+   2
+  ],
+  "base": "Bm",
+  "bass": null
+ },
+ "Bm7": {
+  "frets": [
+   -1,
+   2,
+   4,
+   2,
+   3,
+   2
+  ],
+  "base": "Bm7",
+  "bass": null
+ },
+ "Bmadd11": {
+  "frets": [
+   -1,
+   2,
+   4,
+   4,
+   3,
+   2
+  ],
+  "base": "Bmadd11",
+  "bass": null
+ },
+ "Bsus4": {
+  "frets": [
+   -1,
+   2,
+   4,
+   4,
+   4,
+   0
+  ],
+  "base": "Bsus4",
+  "bass": null
+ },
+ "C": {
+  "frets": [
+   -1,
+   3,
+   2,
+   0,
+   1,
+   0
+  ],
+  "base": "C",
+  "bass": null
+ },
+ "C7": {
+  "frets": [
+   -1,
+   3,
+   2,
+   3,
+   1,
+   0
+  ],
+  "base": "C7",
+  "bass": null
+ },
+ "C9": {
+  "frets": [
+   -1,
+   3,
+   2,
+   0,
+   1,
+   3
+  ],
+  "base": "C9",
+  "bass": null
+ },
+ "Cadd9": {
+  "frets": [
+   -1,
+   3,
+   2,
+   0,
+   3,
+   0
+  ],
+  "base": "Cadd9",
+  "bass": null
+ },
+ "Cm": {
+  "frets": [
+   -1,
+   3,
+   5,
+   5,
+   4,
+   3
+  ],
+  "base": "Cm",
+  "bass": null
+ },
+ "Cmaj7": {
+  "frets": [
+   -1,
+   3,
+   2,
+   0,
+   0,
+   0
+  ],
+  "base": "Cmaj7",
+  "bass": null
+ },
+ "Csus2": {
+  "frets": [
+   -1,
+   3,
+   0,
+   0,
+   1,
+   3
+  ],
+  "base": "Csus2",
+  "bass": null
+ },
+ "D": {
+  "frets": [
+   -1,
+   -1,
+   0,
+   2,
+   3,
+   2
+  ],
+  "base": "D",
+  "bass": null
+ },
+ "D6": {
+  "frets": [
+   -1,
+   -1,
+   0,
+   2,
+   0,
+   2
+  ],
+  "base": "D6",
+  "bass": null
+ },
+ "D7": {
+  "frets": [
+   -1,
+   -1,
+   0,
+   2,
+   1,
+   2
+  ],
+  "base": "D7",
+  "bass": null
+ },
+ "Dm": {
+  "frets": [
+   -1,
+   -1,
+   0,
+   2,
+   3,
+   1
+  ],
+  "base": "Dm",
+  "bass": null
+ },
+ "Dm7": {
+  "frets": [
+   -1,
+   -1,
+   0,
+   2,
+   1,
+   1
+  ],
+  "base": "Dm7",
+  "bass": null
+ },
+ "Dmaj7": {
+  "frets": [
+   -1,
+   -1,
+   0,
+   2,
+   2,
+   2
+  ],
+  "base": "Dmaj7",
+  "bass": null
+ },
+ "Dsus2": {
+  "frets": [
+   -1,
+   -1,
+   0,
+   2,
+   3,
+   0
+  ],
+  "base": "Dsus2",
+  "bass": null
+ },
+ "Dsus4": {
+  "frets": [
+   -1,
+   -1,
+   0,
+   2,
+   3,
+   3
+  ],
+  "base": "Dsus4",
+  "bass": null
+ },
+ "E": {
+  "frets": [
+   0,
+   2,
+   2,
+   1,
+   0,
+   0
+  ],
+  "base": "E",
+  "bass": null
+ },
+ "E7": {
+  "frets": [
+   0,
+   2,
+   0,
+   1,
+   0,
+   0
+  ],
+  "base": "E7",
+  "bass": null
+ },
+ "Em": {
+  "frets": [
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  "base": "Em",
+  "bass": null
+ },
+ "Em7": {
+  "frets": [
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  "base": "Em7",
+  "bass": null
+ },
+ "F": {
+  "frets": [
+   1,
+   3,
+   3,
+   2,
+   1,
+   1
+  ],
+  "base": "F",
+  "bass": null
+ },
+ "Fmaj7": {
+  "frets": [
+   1,
+   3,
+   2,
+   1,
+   0,
+   0
+  ],
+  "base": "Fmaj7",
+  "bass": null
+ },
+ "Fm": {
+  "frets": [
+   1,
+   3,
+   3,
+   1,
+   1,
+   1
+  ],
+  "base": "Fm",
+  "bass": null
+ },
+ "G": {
+  "frets": [
+   3,
+   2,
+   0,
+   0,
+   0,
+   3
+  ],
+  "base": "G",
+  "bass": null
+ },
+ "G6": {
+  "frets": [
+   3,
+   2,
+   0,
+   0,
+   0,
+   2
+  ],
+  "base": "G6",
+  "bass": null
+ },
+ "G7": {
+  "frets": [
+   3,
+   2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "base": "G7",
+  "bass": null
+ },
+ "Gm": {
+  "frets": [
+   3,
+   5,
+   5,
+   3,
+   3,
+   3
+  ],
+  "base": "Gm",
+  "bass": null
+ },
+ "Gm6": {
+  "frets": [
+   3,
+   5,
+   3,
+   3,
+   3,
+   3
+  ],
+  "base": "Gm6",
+  "bass": null
+ },
+ "Gmaj7": {
+  "frets": [
+   3,
+   2,
+   0,
+   0,
+   0,
+   2
+  ],
+  "base": "Gmaj7",
+  "bass": null
+ },
+ "Gs": {
+  "frets": [
+   3,
+   5,
+   5,
+   4,
+   3,
+   3
+  ],
+  "base": "Gs",
+  "bass": null
+ },
+ "Gsus2": {
+  "frets": [
+   -1,
+   -1,
+   0,
+   0,
+   3,
+   3
+  ],
+  "base": "Gsus2",
+  "bass": null
+ },
+ "Bb": {
+  "frets": [
+   -1,
+   1,
+   3,
+   3,
+   3,
+   1
+  ],
+  "base": "Bb",
+  "bass": null
+ },
+ "Bb7": {
+  "frets": [
+   -1,
+   1,
+   3,
+   2,
+   3,
+   1
+  ],
+  "base": "Bb7",
+  "bass": null
+ },
+ "Bbsus2": {
+  "frets": [
+   -1,
+   1,
+   3,
+   1,
+   1,
+   1
+  ],
+  "base": "Bbsus2",
+  "bass": null
+ },
+ "C#": {
+  "frets": [
+   -1,
+   4,
+   6,
+   6,
+   5,
+   4
+  ],
+  "base": "C#",
+  "bass": null
+ },
+ "C#7": {
+  "frets": [
+   -1,
+   4,
+   6,
+   4,
+   5,
+   4
+  ],
+  "base": "C#7",
+  "bass": null
+ },
+ "C#m": {
+  "frets": [
+   -1,
+   4,
+   6,
+   6,
+   5,
+   4
+  ],
+  "base": "C#m",
+  "bass": null
+ },
+ "D#": {
+  "frets": [
+   -1,
+   4,
+   6,
+   6,
+   5,
+   4
+  ],
+  "base": "D#",
+  "bass": null
+ },
+ "F#": {
+  "frets": [
+   2,
+   4,
+   4,
+   3,
+   2,
+   2
+  ],
+  "base": "F#",
+  "bass": null
+ },
+ "F#7": {
+  "frets": [
+   2,
+   4,
+   2,
+   3,
+   2,
+   0
+  ],
+  "base": "F#7",
+  "bass": null
+ },
+ "F#m": {
+  "frets": [
+   2,
+   4,
+   4,
+   3,
+   2,
+   2
+  ],
+  "base": "F#m",
+  "bass": null
+ },
+ "F#m7": {
+  "frets": [
+   2,
+   4,
+   2,
+   3,
+   2,
+   2
+  ],
+  "base": "F#m7",
+  "bass": null
+ },
+ "F#m11": {
+  "frets": [
+   -1,
+   4,
+   4,
+   3,
+   2,
+   0
+  ],
+  "base": "F#m11",
+  "bass": null
+ },
+ "G#": {
+  "frets": [
+   4,
+   6,
+   6,
+   5,
+   4,
+   4
+  ],
+  "base": "G#",
+  "bass": null
+ },
+ "G#7": {
+  "frets": [
+   4,
+   6,
+   4,
+   5,
+   4,
+   4
+  ],
+  "base": "G#7",
+  "bass": null
+ },
+ "E5": {
+  "frets": [
+   0,
+   2,
+   2,
+   -1,
+   -1,
+   -1
+  ],
+  "base": "E5",
+  "bass": null
+ },
+ "D5": {
+  "frets": [
+   -1,
+   5,
+   7,
+   -1,
+   -1,
+   -1
+  ],
+  "base": "D5",
+  "bass": null
+ },
+ "A5": {
+  "frets": [
+   -1,
+   0,
+   2,
+   -1,
+   -1,
+   -1
+  ],
+  "base": "A5",
+  "bass": null
+ },
+ "B5": {
+  "frets": [
+   -1,
+   2,
+   4,
+   -1,
+   -1,
+   -1
+  ],
+  "base": "B5",
+  "bass": null
+ },
+ "G5": {
+  "frets": [
+   3,
+   5,
+   7,
+   -1,
+   -1,
+   -1
+  ],
+  "base": "G5",
+  "bass": null
+ },
+ "G5(5)": {
+  "frets": [
+   8,
+   10,
+   12,
+   -1,
+   -1,
+   -1
+  ],
+  "base": "G5(5)",
+  "bass": null
+ },
+ "Am/E": {
+  "frets": [
+   0,
+   0,
+   2,
+   2,
+   1,
+   0
+  ],
+  "base": "Am/E",
+  "bass": null
+ },
+ "C#m7": {
+  "frets": [
+   -1,
+   4,
+   6,
+   4,
+   5,
+   4
+  ],
+  "base": "C#m7",
+  "bass": null
+ },
+ "Dadd11": {
+  "frets": [
+   -1,
+   -1,
+   0,
+   2,
+   3,
+   3
+  ],
+  "base": "Dadd11",
+  "bass": null
+ },
+ "E7/B": {
+  "frets": [
+   -1,
+   2,
+   0,
+   1,
+   0,
+   0
+  ],
+  "base": "E7/B",
+  "bass": null
+ },
+ "Em/B": {
+  "frets": [
+   -1,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  "base": "Em/B",
+  "bass": null
+ },
+ "Em/G": {
+  "frets": [
+   3,
+   -1,
+   2,
+   0,
+   0,
+   0
+  ],
+  "base": "Em/G",
+  "bass": null
+ },
+ "Fmaj7(b5)": {
+  "frets": [
+   -1,
+   -1,
+   3,
+   2,
+   1,
+   0
+  ],
+  "base": "Fmaj7(b5)",
+  "bass": null
+ },
+ "G(A)": {
+  "frets": [
+   -1,
+   0,
+   0,
+   0,
+   3,
+   3
+  ],
+  "base": "G(A)",
+  "bass": null
+ },
+ "G/F#": {
+  "frets": [
+   2,
+   -1,
+   0,
+   0,
+   0,
+   3
+  ],
+  "base": "G/F#",
+  "bass": null
+ },
+ "A/B": {
+  "frets": [
+   -1,
+   0,
+   2,
+   2,
+   2,
+   0
+  ],
+  "base": "A",
+  "bass": "B"
+ },
+ "A/G": {
+  "frets": [
+   -1,
+   0,
+   2,
+   2,
+   2,
+   0
+  ],
+  "base": "A",
+  "bass": "G"
+ },
+ "A/D": {
+  "frets": [
+   -1,
+   0,
+   2,
+   2,
+   2,
+   0
+  ],
+  "base": "A",
+  "bass": "D"
+ },
+ "A/C#": {
+  "frets": [
+   -1,
+   0,
+   2,
+   2,
+   2,
+   0
+  ],
+  "base": "A",
+  "bass": "C#"
+ },
+ "A/E": {
+  "frets": [
+   -1,
+   0,
+   2,
+   2,
+   2,
+   0
+  ],
+  "base": "A",
+  "bass": "E"
+ },
+ "Am/C": {
+  "frets": [
+   -1,
+   0,
+   2,
+   2,
+   1,
+   0
+  ],
+  "base": "Am",
+  "bass": "C"
+ },
+ "C/G": {
+  "frets": [
+   -1,
+   3,
+   2,
+   0,
+   1,
+   0
+  ],
+  "base": "C",
+  "bass": "G"
+ },
+ "D/F#": {
+  "frets": [
+   -1,
+   -1,
+   0,
+   2,
+   3,
+   2
+  ],
+  "base": "D",
+  "bass": "F#"
+ },
+ "F/A": {
+  "frets": [
+   1,
+   3,
+   3,
+   2,
+   1,
+   1
+  ],
+  "base": "F",
+  "bass": "A"
+ },
+ "G/A": {
+  "frets": [
+   3,
+   2,
+   0,
+   0,
+   0,
+   3
+  ],
+  "base": "G",
+  "bass": "A"
+ },
+ "G/B": {
+  "frets": [
+   3,
+   2,
+   0,
+   0,
+   0,
+   3
+  ],
+  "base": "G",
+  "bass": "B"
+ },
+ "G/F": {
+  "frets": [
+   3,
+   2,
+   0,
+   0,
+   0,
+   3
+  ],
+  "base": "G",
+  "bass": "F"
+ },
+ "G(F)": {
+  "frets": [
+   3,
+   2,
+   0,
+   0,
+   0,
+   3
+  ],
+  "base": "G",
+  "bass": "F"
+ },
+ "A(D/F#)": {
+  "frets": [
+   -1,
+   0,
+   2,
+   2,
+   2,
+   0
+  ],
+  "base": "A",
+  "bass": "D/F#"
+ },
+ "Em(D/F#)": {
+  "frets": [
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  "base": "Em",
+  "bass": "D/F#"
+ },
+ "C(D/F#)": {
+  "frets": [
+   -1,
+   3,
+   2,
+   0,
+   1,
+   0
+  ],
+  "base": "C",
+  "bass": "D/F#"
+ }
+}

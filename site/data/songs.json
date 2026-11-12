@@ -25,7 +25,13 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2626
+   "h": 2626,
+   "chords": [
+    "Am",
+    "F",
+    "G",
+    "C"
+   ]
   },
   {
    "id": "5Tzz_5vpAn8",
@@ -40,7 +46,15 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2054
+   "h": 2054,
+   "chords": [
+    "Bm",
+    "A",
+    "G",
+    "Dsus2",
+    "D",
+    "Bmadd11"
+   ]
   },
   {
    "id": "ageJCF6AmPI",
@@ -55,7 +69,12 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 1988
+   "h": 1988,
+   "chords": [
+    "A",
+    "Bm",
+    "D"
+   ]
   },
   {
    "id": "kW6BCslkipk",
@@ -70,7 +89,13 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1838
+   "h": 1838,
+   "chords": [
+    "G",
+    "D",
+    "Am",
+    "Cadd9"
+   ]
   },
   {
    "id": "X6jXsuBQ2NU",
@@ -85,7 +110,14 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 2018
+   "h": 2018,
+   "chords": [
+    "Dm",
+    "G",
+    "C",
+    "Am",
+    "F"
+   ]
   },
   {
    "id": "hSwCJff0v8k",
@@ -100,7 +132,13 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1302
+   "h": 1302,
+   "chords": [
+    "Em",
+    "D",
+    "G",
+    "C"
+   ]
   },
   {
    "id": "NO3uW7-8p48",
@@ -115,7 +153,15 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2622
+   "h": 2622,
+   "chords": [
+    "E5",
+    "D5",
+    "A5",
+    "B5",
+    "G5",
+    "D"
+   ]
   },
   {
    "id": "zgPeDuZnTRo",
@@ -130,7 +176,16 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1590,
-   "h": 3480
+   "h": 3480,
+   "chords": [
+    "Am",
+    "F",
+    "G",
+    "Bb",
+    "C",
+    "Dm",
+    "E"
+   ]
   },
   {
    "id": "f0D-dGh7yj0",
@@ -145,7 +200,14 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2048
+   "h": 2048,
+   "chords": [
+    "A",
+    "Bm",
+    "C#m",
+    "D",
+    "E"
+   ]
   },
   {
    "id": "7S59m2CAwXI",
@@ -160,7 +222,14 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2622
+   "h": 2622,
+   "chords": [
+    "C",
+    "Am",
+    "Em",
+    "F",
+    "G"
+   ]
   },
   {
    "id": "YH_6caceDd0",
@@ -175,7 +244,17 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2052
+   "h": 2052,
+   "chords": [
+    "G",
+    "D",
+    "F",
+    "C",
+    "Cm",
+    "A7",
+    "D7",
+    "B7"
+   ]
   },
   {
    "id": "mjwqrQkMLpQ",
@@ -190,7 +269,16 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2047
+   "h": 2047,
+   "chords": [
+    "G",
+    "D/F#",
+    "Em",
+    "C",
+    "D",
+    "Am",
+    "G/B"
+   ]
   },
   {
    "id": "Yzu5kz6Su2I",
@@ -205,7 +293,22 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2615
+   "h": 2615,
+   "chords": [
+    "D",
+    "A/C#",
+    "Bm7",
+    "G",
+    "D/F#",
+    "Em7",
+    "F#m",
+    "Asus4",
+    "C",
+    "G/B",
+    "Bb",
+    "F/A",
+    "Dm7"
+   ]
   },
   {
    "id": "fQaH_MIM81c",
@@ -220,7 +323,19 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 2585
+   "h": 2585,
+   "chords": [
+    "D/F#",
+    "Gsus2",
+    "Em7",
+    "D",
+    "G",
+    "Em",
+    "F",
+    "C",
+    "Cmaj7",
+    "D6"
+   ]
   },
   {
    "id": "XbKIMQCQYCM",
@@ -235,7 +350,15 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2091
+   "h": 2091,
+   "chords": [
+    "Em",
+    "D",
+    "G(A)",
+    "Bm",
+    "A(D/F#)",
+    "Em(D/F#)"
+   ]
   },
   {
    "id": "D-8N45RZQa8",
@@ -250,7 +373,13 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1590,
-   "h": 1628
+   "h": 1628,
+   "chords": [
+    "Bm",
+    "G",
+    "A",
+    "D"
+   ]
   },
   {
    "id": "2cHa5jwiQB0",
@@ -265,7 +394,13 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2102
+   "h": 2102,
+   "chords": [
+    "Cadd9",
+    "Em7",
+    "G",
+    "D"
+   ]
   },
   {
    "id": "FvgQL9ROfOo",
@@ -280,7 +415,15 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2439
+   "h": 2439,
+   "chords": [
+    "G",
+    "Em",
+    "Am7",
+    "D7",
+    "E",
+    "Bm7"
+   ]
   },
   {
    "id": "YirmKgJ0h44",
@@ -295,7 +438,10 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2074
+   "h": 2074,
+   "chords": [
+    "A"
+   ]
   },
   {
    "id": "A_BYtHSCcRA",
@@ -310,7 +456,12 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2068
+   "h": 2068,
+   "chords": [
+    "G6",
+    "Dmaj7",
+    "F#m11"
+   ]
   },
   {
    "id": "Ryxmk_-XIJ0",
@@ -325,7 +476,12 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2040
+   "h": 2040,
+   "chords": [
+    "F#m11",
+    "Asus2",
+    "E"
+   ]
   },
   {
    "id": "xJ8TDilOCzo",
@@ -340,7 +496,13 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1793
+   "h": 1793,
+   "chords": [
+    "C",
+    "Am",
+    "Em",
+    "G"
+   ]
   },
   {
    "id": "qMRy6ET3GZ8",
@@ -355,7 +517,13 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 2337
+   "h": 2337,
+   "chords": [
+    "E",
+    "C#m",
+    "Asus2",
+    "Bsus4"
+   ]
   },
   {
    "id": "tyXLH66wLBw",
@@ -370,7 +538,11 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2036
+   "h": 2036,
+   "chords": [
+    "Dm",
+    "Em"
+   ]
   },
   {
    "id": "SfSDd0uZ9aA",
@@ -385,7 +557,17 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2102
+   "h": 2102,
+   "chords": [
+    "Cm",
+    "Fm",
+    "Gm",
+    "Bb",
+    "F",
+    "Am",
+    "G",
+    "Em"
+   ]
   },
   {
    "id": "0cmhN-9DFLY",
@@ -400,7 +582,23 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 1629
+   "h": 1629,
+   "chords": [
+    "Bm",
+    "A/B",
+    "Gmaj7",
+    "A/G",
+    "Em",
+    "F#m7",
+    "Am",
+    "G/A",
+    "Fmaj7",
+    "G/F",
+    "Dm",
+    "Em7",
+    "G",
+    "F"
+   ]
   },
   {
    "id": "B1xQ5stbhks",
@@ -415,7 +613,18 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 3215
+   "h": 3215,
+   "chords": [
+    "G",
+    "Bm7",
+    "Cadd9",
+    "Em7",
+    "D",
+    "C#",
+    "G#",
+    "D#",
+    "Cm"
+   ]
   },
   {
    "id": "fH4_UN1O12Q",
@@ -430,7 +639,17 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 1644
+   "h": 1644,
+   "chords": [
+    "Am",
+    "G",
+    "Em7",
+    "F",
+    "C",
+    "E",
+    "Fm",
+    "D"
+   ]
   },
   {
    "id": "ttQ4zKNH3l0",
@@ -445,7 +664,14 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1430,
-   "h": 1448
+   "h": 1448,
+   "chords": [
+    "Am",
+    "F",
+    "C/G",
+    "G",
+    "E"
+   ]
   },
   {
    "id": "fHp3B-xgRNE",
@@ -460,7 +686,18 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 3812
+   "h": 3812,
+   "chords": [
+    "Am",
+    "F",
+    "C",
+    "G",
+    "Dm",
+    "Bbsus2",
+    "Csus2",
+    "Gm",
+    "Bb"
+   ]
   },
   {
    "id": "wdWG9GUtUuk",
@@ -475,7 +712,19 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 3203
+   "h": 3203,
+   "chords": [
+    "D",
+    "Bb7",
+    "G/A",
+    "F#m7",
+    "Em7",
+    "B7",
+    "F#7",
+    "C9",
+    "Am/C",
+    "Gm6"
+   ]
   },
   {
    "id": "FRNNMNbLcvc",
@@ -490,7 +739,13 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1296
+   "h": 1296,
+   "chords": [
+    "G",
+    "Em",
+    "C",
+    "D"
+   ]
   },
   {
    "id": "e0hTcpEoxIs",
@@ -505,7 +760,13 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1252
+   "h": 1252,
+   "chords": [
+    "Em7",
+    "D",
+    "G",
+    "Cadd9"
+   ]
   },
   {
    "id": "DngT6PiTNvk",
@@ -520,7 +781,15 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1560,
-   "h": 2922
+   "h": 2922,
+   "chords": [
+    "Am",
+    "Em",
+    "G",
+    "Dm",
+    "Am7",
+    "Em7"
+   ]
   },
   {
    "id": "rQA7pqNCL3Y",
@@ -535,7 +804,12 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 838
+   "h": 838,
+   "chords": [
+    "C",
+    "Am",
+    "Em"
+   ]
   },
   {
    "id": "aPCfY2fHA08",
@@ -550,7 +824,17 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2622
+   "h": 2622,
+   "chords": [
+    "C",
+    "Am7",
+    "Dm7",
+    "G",
+    "D",
+    "Bm7",
+    "Em7",
+    "A"
+   ]
   },
   {
    "id": "B-215Hr3td4",
@@ -565,7 +849,13 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1220
+   "h": 1220,
+   "chords": [
+    "C",
+    "F",
+    "Em",
+    "Fmaj7"
+   ]
   },
   {
    "id": "-zxagWw41PA",
@@ -580,7 +870,13 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1894
+   "h": 1894,
+   "chords": [
+    "Dmaj7",
+    "E",
+    "C#m",
+    "C#7"
+   ]
   },
   {
    "id": "keI-AswMGiE",
@@ -595,7 +891,21 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2061
+   "h": 2061,
+   "chords": [
+    "C",
+    "E7",
+    "Am7",
+    "Dm7",
+    "G7",
+    "C/G",
+    "E7/B",
+    "Am/E",
+    "Fm",
+    "Em",
+    "Am",
+    "F"
+   ]
   },
   {
    "id": "w2pv_KYG1so",
@@ -610,7 +920,16 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2128
+   "h": 2128,
+   "chords": [
+    "Fmaj7(b5)",
+    "Cmaj7",
+    "C",
+    "F",
+    "Dm",
+    "Em",
+    "Fmaj7"
+   ]
   },
   {
    "id": "1MRVR_c7qQw",
@@ -625,7 +944,12 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2080
+   "h": 2080,
+   "chords": [
+    "C",
+    "Em",
+    "Bm"
+   ]
   },
   {
    "id": "-QQi3OYlKaY",
@@ -640,7 +964,18 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2080
+   "h": 2080,
+   "chords": [
+    "Cadd9",
+    "G",
+    "D",
+    "Em7",
+    "Am",
+    "Em",
+    "C",
+    "D/F#",
+    "G/B"
+   ]
   },
   {
    "id": "v3RfjhkbCRk",
@@ -655,7 +990,19 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2080
+   "h": 2080,
+   "chords": [
+    "Cmaj7",
+    "C7",
+    "Fmaj7",
+    "Fm",
+    "Em",
+    "Am",
+    "G",
+    "D/F#",
+    "F",
+    "Bb"
+   ]
   },
   {
    "id": "Sjw68txPZvo",
@@ -670,7 +1017,14 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2075
+   "h": 2075,
+   "chords": [
+    "Em",
+    "C",
+    "A",
+    "B",
+    "Am"
+   ]
   },
   {
    "id": "YiG2G7SSYz0",
@@ -685,7 +1039,13 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 2056
+   "h": 2056,
+   "chords": [
+    "C",
+    "Dsus2",
+    "Em",
+    "G"
+   ]
   },
   {
    "id": "FYvQ21RSzIU",
@@ -700,7 +1060,19 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2080
+   "h": 2080,
+   "chords": [
+    "Am",
+    "G",
+    "D5",
+    "G/F#",
+    "Em",
+    "C",
+    "Em/B",
+    "G5",
+    "G5(5)",
+    "Em/G"
+   ]
   },
   {
    "id": "8AU8aAPOl5A",
@@ -715,7 +1087,14 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2080
+   "h": 2080,
+   "chords": [
+    "G",
+    "G/F#",
+    "Em",
+    "C",
+    "Dadd11"
+   ]
   },
   {
    "id": "1fSVKRfDBR0",
@@ -730,7 +1109,13 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2080
+   "h": 2080,
+   "chords": [
+    "C#m7",
+    "F#m",
+    "E",
+    "C#7"
+   ]
   },
   {
    "id": "QsrjLG_7h9Y",
@@ -745,7 +1130,14 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 2244
+   "h": 2244,
+   "chords": [
+    "Am",
+    "D7",
+    "G",
+    "Em",
+    "D/F#"
+   ]
   },
   {
    "id": "nawO_5uPNb4",
@@ -760,7 +1152,12 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2080
+   "h": 2080,
+   "chords": [
+    "Fmaj7",
+    "Am",
+    "Em"
+   ]
   },
   {
    "id": "Coldplay-Viva-La-Vida.png",
@@ -775,7 +1172,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1612
+   "h": 1612,
+   "chords": []
   },
   {
    "id": "Coldplay-Yellow.png",
@@ -790,7 +1188,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 1476
+   "h": 1476,
+   "chords": []
   },
   {
    "id": "Coldplay-Yellow-Short-2023.png",
@@ -805,7 +1204,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 2100
+   "h": 2100,
+   "chords": []
   },
   {
    "id": "Coldplay-Yellow-Short-2023b.png",
@@ -820,7 +1220,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1732
+   "h": 1732,
+   "chords": []
   },
   {
    "id": "Coldplay-Yellow-Short-2024.png",
@@ -835,7 +1236,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1528
+   "h": 1528,
+   "chords": []
   },
   {
    "id": "CCR-Bad-Moon-Rising-Challenge.png",
@@ -850,7 +1252,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1510,
-   "h": 2506
+   "h": 2506,
+   "chords": []
   },
   {
    "id": "CCR-Bad-Moon-Rising-Easy-Chords.png",
@@ -865,7 +1268,12 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1560,
-   "h": 1096
+   "h": 1096,
+   "chords": [
+    "D",
+    "A",
+    "G"
+   ]
   },
   {
    "id": "CCR-Bad-Moon-Rising-Jam-Along.png",
@@ -880,7 +1288,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 1472
+   "h": 1472,
+   "chords": []
   },
   {
    "id": "CCR-Down-on-the-Corner.png",
@@ -895,7 +1304,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 2169
+   "h": 2169,
+   "chords": []
   },
   {
    "id": "CCR-Have-You-Ever-Seen-The-Rain.png",
@@ -910,7 +1320,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1560,
-   "h": 2652
+   "h": 2652,
+   "chords": []
   },
   {
    "id": "CCR-Have-You-Ever-Seen-The-Rain-Short.png",
@@ -925,7 +1336,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1578
+   "h": 1578,
+   "chords": []
   },
   {
    "id": "CCR-Proud-Mary.png",
@@ -940,7 +1352,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
-   "h": 2057
+   "h": 2057,
+   "chords": []
   },
   {
    "id": "Elvis-Love-Me-Tender.png",
@@ -955,7 +1368,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1658
+   "h": 1658,
+   "chords": []
   },
   {
    "id": "Sweet-Child-O-Mine.png",
@@ -970,7 +1384,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1531,
-   "h": 1606
+   "h": 1606,
+   "chords": []
   },
   {
    "id": "John-Denver-Take-Me-Home-Country-Roads.png",
@@ -985,7 +1400,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1460,
-   "h": 1266
+   "h": 1266,
+   "chords": []
   },
   {
    "id": "Johnny-Cash-I-Walk-The-Line.png",
@@ -1000,7 +1416,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 2054
+   "h": 2054,
+   "chords": []
   },
   {
    "id": "Pearl-Jam-Last-Kiss.png",
@@ -1015,7 +1432,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1520,
-   "h": 814
+   "h": 814,
+   "chords": []
   },
   {
    "id": "Queen-Crazy-Little-Thing-Called-Love.png",
@@ -1030,7 +1448,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1839
+   "h": 1839,
+   "chords": []
   },
   {
    "id": "REM-Losing-My-Religion.png",
@@ -1045,7 +1464,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1576
+   "h": 1576,
+   "chords": []
   },
   {
    "id": "Eagles-Hotel-California-Short.png",
@@ -1060,7 +1480,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1044
+   "h": 1044,
+   "chords": []
   },
   {
    "id": "Hotel-California.png",
@@ -1075,7 +1496,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1412,
-   "h": 1028
+   "h": 1028,
+   "chords": []
   },
   {
    "id": "White-Stripes-Were-Going-To-Be-Friends.png",
@@ -1090,7 +1512,8 @@
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
-   "h": 1754
+   "h": 1754,
+   "chords": []
   }
  ]
 }

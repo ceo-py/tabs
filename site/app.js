@@ -35,8 +35,21 @@ async function load() {
   if (!res.ok) throw new Error('songs.json: HTTP ' + res.status);
   const data = await res.json();
   state.all = data.songs || [];
+  await loadShapes();
   renderStats(data);
   apply();
+}
+
+/* the fretboard shapes of the chords — needed by the legend strip */
+async function loadShapes() {
+  if (!window.Chords) return;
+  try {
+    const res = await fetch('data/chord_shapes.json' + (BUILD ? '?v=' + BUILD : ''),
+      { cache: 'no-cache' });
+    if (res.ok) Chords.setShapes(await res.json());
+  } catch (err) {
+    console.warn('chord shapes unavailable:', err.message);
+  }
 }
 
 function renderStats(data) {
@@ -127,11 +140,29 @@ function openLB(s) {
   const img = $('#lbImg');
   img.src = s.card;
   img.alt = 'Tabs: ' + s.title + ' — ' + s.artist;
+  paintLegend(s);
   $('#lbBody').classList.remove('is-zoom');
   lb.hidden = false;
   document.body.classList.add('lb-open');
   document.body.style.overflow = 'hidden';
   $('#lbBody').scrollTop = 0;
+}
+
+/* the chord legend strip — fretboard diagrams for the chords of this card.
+   Cards that already show a fretboard diagram in the video have no
+   `chords` list in the manifest, so nothing is drawn for them. */
+function paintLegend(s) {
+  const box = $('#lbChords');
+  const row = $('#lbChordsRow');
+  const chords = (s && s.chords) || [];
+  if (!row || !box) return;
+  if (!chords.length || !window.Chords) {
+    row.innerHTML = '';
+    box.hidden = true;
+    return;
+  }
+  row.innerHTML = Chords.legend(chords);
+  box.hidden = false;
 }
 
 function closeLB(back) {
@@ -159,7 +190,9 @@ document.addEventListener('click', e => {
     return;
   }
   if (e.target.closest('#lbClose') || e.target.id === 'lb') closeLB(true);
-  else if (e.target.closest('#lbBody') && !e.target.closest('img')) closeLB(true);
+  /* only the empty space around the card closes it — the chord strip and
+     the picture itself must stay interactive */
+  else if (e.target.id === 'lbBody') closeLB(true);
 });
 
 document.addEventListener('keydown', e => {

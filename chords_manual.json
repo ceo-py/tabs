@@ -1,0 +1,17 @@
+{
+ "out_gz/3-Doors-Down-Here-Without-You.png": ["Am", "F", "G", "C"],
+ "out_gz/3-Doors-Down-Here-Without-You-Alt.png": ["Bm", "A", "G", "Dsus2", "D", "Bmadd11"],
+ "out_gz/4-Non-Blondes-Whats-Up.png": ["A", "Bm", "D"],
+ "out_gz/5SOS-Ghost-Of-You.png": ["G", "D", "Am", "Cadd9"],
+ "out_gz/5SOS-Lie-To-Me.png": ["Dm", "G", "C", "Am", "F"],
+ "out_gz/5SOS-Youngblood.png": ["Em", "D", "G", "C"],
+ "out_gz/ACDC-Back-in-Black.png": ["E5", "D5", "A5", "B5", "G5", "D"],
+ "out_gz/Acoustic-Westworld-Theme.png": ["Am", "F", "G", "Bb", "C", "Dm", "E"],
+ "out_gz/Adam-Sandler-Grow-Old-With-You.png": ["A", "Bm", "C#m", "D", "E"],
+ "out_gz/Adele-Easy-On-Me.png": ["C", "Am", "Em", "F", "G"],
+ "out_gz/Adele-Make-You-Feel-My-Love.png": ["G", "D", "F", "C", "Cm", "A7", "D7", "B7"],
+ "out_gz/Adele-Someone-Like-You.png": ["G", "D/F#", "Em", "C", "D", "Am", "G/B"],
+ "out_gz/Aerosmith-I-Dont-Want-To-Miss-A-Thing.png": ["D", "A/C#", "Bm7", "G", "D/F#", "Em7", "F#m", "Asus4", "C", "G/B", "Bb", "F/A", "Dm7"],
+ "out/CCR-Bad-Moon-Rising-Easy-Chords.png": ["D", "A", "G"],
+ "out/Pearl-Jam-Last-Kiss.png": []
+}

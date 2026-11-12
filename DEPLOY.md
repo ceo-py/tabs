@@ -11,7 +11,9 @@
 │   ├── index.html
 │   ├── style.css
 │   ├── app.js
+│   ├── chords.js
 │   ├── data/songs.json
+│   ├── data/chord_shapes.json
 │   ├── cards/*.webp   (72)
 │   └── thumbs/*.webp  (72)
 ├── tabs-repo/         ← git clone на github.com/ceo-py/tabs.git
@@ -81,6 +83,33 @@ VPS-ът го вижда до 5 минути (cron) и обновява `~/produ
 scp dist/tabs90-site.zip user@vps:/tmp/
 ssh user@vps 'unzip -o /tmp/tabs90-site.zip -d /home/ceo/production/tabs'
 ```
+
+## Легенда на акордите (грифни диаграми)
+
+Под вся карта, която показва **само букви** (без грифна диаграма), светът рисува
+лента с грифните диаграми на всички акорди от урока. Картите, които вече
+имат грифни диаграми в самото видео, не получават лента.
+
+Данните идват от няколко файла в репото:
+
+| файл | какво е |
+|---|---|
+| `chord_shapes.json` | речникът с формите на 87 акорда (6 струни, лад по струна) |
+| `chords.json` | акордите на всяка карта, извадени от `note` полетата на спецификациите |
+| `chords_manual.json` | ръчно прочетени акорди за картите, чиито note-и не са в скриптовете |
+| `chords_diagram_p1..p4.json` | класификация на всяка карта: `DIAGRAM` / `LETTERS` / `NONE` |
+| `chords_has_diagram.json` | сборният файл (създава се от `merge_chord_diagrams.py`) |
+
+```powershell
+py -3.14 chord_shapes.py          # -> chord_shapes.json
+py -3.14 chord_extract.py         # -> chords.json
+py -3.14 merge_chord_diagrams.py  # -> chords_has_diagram.json
+py -3.14 build_dist.py            # -> site/ + dist/tabs90-site.zip
+```
+
+`site/chords.js` рисува SVG диаграмите (вертикална кутия, 6-а струна отляво),
+`site_build.py` слага списъка с акорди в манифеста (`chords` на карта), а
+`site/app.js` рисува лентата при отваряне на картата.
 
 ## Локално пускане
 

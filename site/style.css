@@ -257,6 +257,47 @@ body.lb-open > *:not(.lb){visibility:hidden}
 .lb__body.is-zoom img{max-width:none; width:min(1600px,220vw); cursor:zoom-out}
 .lb__body.is-zoom{cursor:zoom-in}
 
+/* chord shapes legend ------------------------------------------------ */
+/* A strip under the card with the fretboard diagram of every chord the
+   lesson uses — only for cards that show the chord names alone. */
+.lb__chords{margin:var(--pad) auto 0; max-width:1100px; text-align:left}
+.lb__chords[hidden]{display:none}
+.lb__chords-t{
+  font-family:var(--display); font-size:.72rem; letter-spacing:.16em; color:var(--yellow);
+  margin:0 0 .15rem;
+}
+.lb__chords-s{
+  font-family:var(--mono); font-size:.6rem; color:rgba(244,244,248,.55);
+  margin:0 0 .8rem; text-transform:uppercase; letter-spacing:.06em;
+}
+.lb__chords-row{
+  display:flex; gap:.7rem; overflow-x:auto; padding:.2rem .2rem .9rem;
+  scroll-snap-type:x proximity; -webkit-overflow-scrolling:touch;
+}
+.cd{
+  flex:0 0 auto; scroll-snap-align:start;
+  background:var(--ink); border:2px solid rgba(255,255,255,.14);
+  border-radius:var(--radius); padding:.55rem .5rem .45rem;
+  text-align:center; margin:0;
+}
+.cd-name{
+  display:block; font-family:var(--heavy); font-size:.78rem; color:var(--pink);
+  text-transform:uppercase; letter-spacing:.04em; margin-bottom:.15rem;
+}
+.cd svg{display:block; margin:0 auto}
+.cd-sn{fill:rgba(244,244,248,.62); font-family:var(--mono); font-size:9px; text-anchor:middle}
+.cd-s{stroke:rgba(244,244,248,.5); stroke-width:1}
+.cd-f{stroke:rgba(244,244,248,.45); stroke-width:1}
+.cd-nut{stroke:var(--white); stroke-width:3}
+.cd-dot{fill:var(--cyan); stroke:#04141a; stroke-width:1}
+.cd-o{fill:none; stroke:rgba(244,244,248,.7); stroke-width:1.4}
+.cd-x{fill:var(--pink); font-family:var(--mono); font-size:14px; text-anchor:middle}
+.cd-fr{fill:var(--yellow); font-family:var(--mono); font-size:11px; text-anchor:middle}
+.cd-bass{
+  display:block; font-family:var(--mono); font-size:.55rem; color:var(--cyan);
+  margin-top:.2rem; letter-spacing:.04em;
+}
+
 /* landscape (phone / tablet on its side) ---------------------------- */
 /* The index stays a grid so many cards fit on screen; the full-width
    tab sheet is only for the opened card. Nothing is sticky in the

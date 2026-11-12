@@ -57,7 +57,7 @@ def version_html(manifest_v):
     with open(html_path, encoding='utf-8') as f:
         html = f.read()
     new = html
-    for rel, attr in (('style.css', 'href'), ('app.js', 'src')):
+    for rel, attr in (('style.css', 'href'), ('app.js', 'src'), ('chords.js', 'src')):
         p = os.path.join(SITE, rel)
         if not os.path.exists(p):
             continue
@@ -108,6 +108,32 @@ def main():
 
     cat = json.load(open(CATALOG, encoding='utf-8')) if os.path.exists(CATALOG) else []
 
+    # chord shapes + the chord list of every song (for the chord legend)
+    shapes_path = os.path.join(ROOT, 'chord_shapes.json')
+    shapes = json.load(open(shapes_path, encoding='utf-8')) if os.path.exists(shapes_path) else {}
+    chords_path = os.path.join(ROOT, 'chords.json')
+    song_chords = json.load(open(chords_path, encoding='utf-8')) if os.path.exists(chords_path) else {}
+    # cards that already show a fretboard diagram in the video need no legend
+    diag_path = os.path.join(ROOT, 'chords_has_diagram.json')
+    has_diagram = json.load(open(diag_path, encoding='utf-8')) if os.path.exists(diag_path) else {}
+
+    def chords_for(card_path):
+        """the chords of a card, in lesson order, without repeats.
+
+        A card that already shows a fretboard diagram gets an empty list —
+        the legend would only duplicate what is on the picture."""
+        if has_diagram.get(card_path, 'NONE') == 'DIAGRAM':
+            return []
+        out = []
+        for c in song_chords.get(card_path, []):
+            if c not in out:
+                out.append(c)
+        return out
+
+    if shapes:
+        with open(os.path.join(DATA, 'chord_shapes.json'), 'w', encoding='utf-8') as f:
+            json.dump(shapes, f, ensure_ascii=False, separators=(',', ':'))
+
     songs, used = [], set()
     missing = 0
     for e in cat:
@@ -132,6 +158,8 @@ def main():
             'thumb': 'thumbs/%s.webp?v=%s' % (name, thumb_v),
             'thumbW': tsz[0], 'thumbH': tsz[1],
             'w': fsz[0], 'h': fsz[1],
+            # chords of the lesson -> the fretboard legend under the card
+            'chords': chords_for(e['card']),
         })
 
     # drop assets that no longer belong to any song
