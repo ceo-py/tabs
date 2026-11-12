@@ -565,6 +565,30 @@
   "F",
   "Am7"
  ],
+ "out_gz/Calum-Scott-You-Are-The-Reason.png": [
+  "G",
+  "Em7",
+  "Cadd9",
+  "D",
+  "G/B",
+  "D/F#",
+  "C",
+  "Cm"
+ ],
+ "out_gz/Cat-Stevens-Father-Son.png": [
+  "G",
+  "D",
+  "C",
+  "Am7",
+  "Em",
+  "Bm"
+ ],
+ "out_gz/Charlie-Puth-Attention.png": [
+  "Am",
+  "G",
+  "Em",
+  "F"
+ ],
  "out_gz/Coldplay-The-Chainsmokers-Something-Just-Like-This.png": [
   "G",
   "A",
@@ -625,6 +649,31 @@
   "Am",
   "F",
   "Fm"
+ ],
+ "out_gz/Creed-One-Last-Breath.png": [
+  "D",
+  "F#11",
+  "Bm",
+  "G",
+  "D/A",
+  "F#5",
+  "B5",
+  "G5",
+  "E5",
+  "A5"
+ ],
+ "out_gz/Creedence-Clearwater-Revival-Bad-Moon-Rising.png": [
+  "D",
+  "A",
+  "G"
+ ],
+ "out_gz/Creedence-Clearwater-Revival-Have-You-Ever-Seen-The-Rain.png": [
+  "Am",
+  "F",
+  "C",
+  "G",
+  "C/B",
+  "Am7/G"
  ],
  "out_gz/Don-McLean-American-Pie.png": [
   "G",

@@ -243,9 +243,19 @@ add(
     'Chords: Verse1 G D C Am7 / G Em Am7 D | Verse1 Var G D C Am7 / G Em D Riff | '
     'Verse2 G Bm C Am7 / G Em Am7 D / G Bm C Am7 / G Em D G G / D C Riff | '
     'Verse3 G D C Am7 / G Em Am7 D | Verse4 G Bm C Am7 / G Em D G G / D C G   '
-    'Strumming: D---D-DU   TAB: intro & break riff x3 (B -0-0h1 G -0-0h1 D -0-0h2 '
-    'A -x-x-x E -3-3-3), solo in 4/4 over G D C Am7',
+    'Strumming: D---D-DU',
     'out_gz/Cat-Stevens-Father-Son.png',
+)
+
+add(
+    'W3H68yxA3Dg', 'Attention', 'Charlie Puth', 'Tabs + Chords',
+    [('TAB  ·  MAIN RIFF', ['frames/b6_W3H68yxA3Dg/c_tab.png']),
+     ('CHORD PATTERN & STRUMMING  ·  GENERAL PROGRESSION',
+      ['frames/b6_W3H68yxA3Dg/c_chords.png',
+       'frames/b6_W3H68yxA3Dg/c_strum.png'])],
+    'Chords: | Am | G | Em | F |   Strumming: D--UX-D---D-D-D-DU '
+    '(played once for each chord)   TAB: main riff over Am, G, Em7, F',
+    'out_gz/Charlie-Puth-Attention.png',
 )
 
 

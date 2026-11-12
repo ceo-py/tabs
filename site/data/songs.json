@@ -1888,6 +1888,75 @@
    ]
   },
   {
+   "id": "FLSVU2NkJNg",
+   "title": "You Are The Reason",
+   "artist": "Calum Scott",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=FLSVU2NkJNg",
+   "card": "cards/Calum-Scott-You-Are-The-Reason.webp?v=0bc3c589",
+   "thumb": "thumbs/Calum-Scott-You-Are-The-Reason.webp?v=aa9aafc3",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 3914,
+   "chords": [
+    "G",
+    "Em7",
+    "Cadd9",
+    "D",
+    "G/B",
+    "D/F#",
+    "C",
+    "Cm"
+   ]
+  },
+  {
+   "id": "gaNh8-2ozT0",
+   "title": "Father & Son",
+   "artist": "Cat Stevens",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=gaNh8-2ozT0",
+   "card": "cards/Cat-Stevens-Father-Son.webp?v=3517255d",
+   "thumb": "thumbs/Cat-Stevens-Father-Son.webp?v=45412671",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 5041,
+   "chords": [
+    "G",
+    "D",
+    "C",
+    "Am7",
+    "Em",
+    "Bm"
+   ]
+  },
+  {
+   "id": "W3H68yxA3Dg",
+   "title": "Attention",
+   "artist": "Charlie Puth",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=W3H68yxA3Dg",
+   "card": "cards/Charlie-Puth-Attention.webp?v=27c79f63",
+   "thumb": "thumbs/Charlie-Puth-Attention.webp?v=54a15fd6",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 903,
+   "chords": [
+    "Am",
+    "G",
+    "Em",
+    "F"
+   ]
+  },
+  {
    "id": "Coldplay-Viva-La-Vida.png",
    "title": "Viva La Vida",
    "artist": "Coldplay",
@@ -2120,6 +2189,53 @@
    "chords": []
   },
   {
+   "id": "yL94BVu9FGU",
+   "title": "One Last Breath",
+   "artist": "Creed",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=yL94BVu9FGU",
+   "card": "cards/Creed-One-Last-Breath.webp?v=09f40129",
+   "thumb": "thumbs/Creed-One-Last-Breath.webp?v=2ac07495",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 3848,
+   "chords": [
+    "D",
+    "F#11",
+    "Bm",
+    "G",
+    "D/A",
+    "F#5",
+    "B5",
+    "G5",
+    "E5",
+    "A5"
+   ]
+  },
+  {
+   "id": "IuJc3rIKxzc",
+   "title": "Bad Moon Rising",
+   "artist": "Creedence Clearwater Revival",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=IuJc3rIKxzc",
+   "card": "cards/Creedence-Clearwater-Revival-Bad-Moon-Rising.webp?v=512d1596",
+   "thumb": "thumbs/Creedence-Clearwater-Revival-Bad-Moon-Rising.webp?v=4f72ea63",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 1547,
+   "chords": [
+    "D",
+    "A",
+    "G"
+   ]
+  },
+  {
    "id": "CCR-Bad-Moon-Rising-Challenge.png",
    "title": "Bad Moon Rising (CCR Challenge)",
    "artist": "Creedence Clearwater Revival",
@@ -2218,6 +2334,29 @@
    "w": 1400,
    "h": 1578,
    "chords": []
+  },
+  {
+   "id": "Ee-UG7G4C3Y",
+   "title": "Have You Ever Seen The Rain",
+   "artist": "Creedence Clearwater Revival",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=Ee-UG7G4C3Y",
+   "card": "cards/Creedence-Clearwater-Revival-Have-You-Ever-Seen-The-Rain.webp?v=224b4987",
+   "thumb": "thumbs/Creedence-Clearwater-Revival-Have-You-Ever-Seen-The-Rain.webp?v=2a75dfa3",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2444,
+   "chords": [
+    "Am",
+    "F",
+    "C",
+    "G",
+    "C/B",
+    "Am7/G"
+   ]
   },
   {
    "id": "CCR-Proud-Mary.png",

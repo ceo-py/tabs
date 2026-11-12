@@ -830,6 +830,36 @@
   "card": "out_gz/Calum-Scott-Dancing-On-My-Own.png"
  },
  {
+  "id": "FLSVU2NkJNg",
+  "title": "You Are The Reason",
+  "artist": "Calum Scott",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=FLSVU2NkJNg",
+  "card": "out_gz/Calum-Scott-You-Are-The-Reason.png"
+ },
+ {
+  "id": "gaNh8-2ozT0",
+  "title": "Father & Son",
+  "artist": "Cat Stevens",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=gaNh8-2ozT0",
+  "card": "out_gz/Cat-Stevens-Father-Son.png"
+ },
+ {
+  "id": "W3H68yxA3Dg",
+  "title": "Attention",
+  "artist": "Charlie Puth",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=W3H68yxA3Dg",
+  "card": "out_gz/Charlie-Puth-Attention.png"
+ },
+ {
   "id": "Coldplay-Viva-La-Vida.png",
   "title": "Viva La Vida",
   "artist": "Coldplay",
@@ -950,6 +980,26 @@
   "card": "out_gz/Creed-Higher.png"
  },
  {
+  "id": "yL94BVu9FGU",
+  "title": "One Last Breath",
+  "artist": "Creed",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=yL94BVu9FGU",
+  "card": "out_gz/Creed-One-Last-Breath.png"
+ },
+ {
+  "id": "IuJc3rIKxzc",
+  "title": "Bad Moon Rising",
+  "artist": "Creedence Clearwater Revival",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=IuJc3rIKxzc",
+  "card": "out_gz/Creedence-Clearwater-Revival-Bad-Moon-Rising.png"
+ },
+ {
   "id": "CCR-Bad-Moon-Rising-Challenge.png",
   "title": "Bad Moon Rising (CCR Challenge)",
   "artist": "Creedence Clearwater Revival",
@@ -1008,6 +1058,16 @@
   "channel": "BernadetteTeachesMusic",
   "url": "https://www.youtube.com/watch?v=CCR-Have-Yo",
   "card": "out/CCR-Have-You-Ever-Seen-The-Rain-Short.png"
+ },
+ {
+  "id": "Ee-UG7G4C3Y",
+  "title": "Have You Ever Seen The Rain",
+  "artist": "Creedence Clearwater Revival",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=Ee-UG7G4C3Y",
+  "card": "out_gz/Creedence-Clearwater-Revival-Have-You-Ever-Seen-The-Rain.png"
  },
  {
   "id": "CCR-Proud-Mary.png",

@@ -1,6 +1,7 @@
 # TABS 90 — състояние на проекта
 
-Последна актуализация: **12 ноември 2026, 19:12** (commit `b4d4f3a` е в GitHub и на живия сайт)
+**ПАУЗА — 12 ноември 2026, 19:20.** Агентите са спрени, всичко е комитнато и на живия сайт.
+Продължаваме от тук, когато е удобно.
 
 ---
 
@@ -8,11 +9,11 @@
 
 | Слой | Състояние |
 |---|---|
-| Жив сайт | <https://tabs.ceo-py.eu/> — **137 карти**, 2 канала, 64 rock, легенда на акордите |
-| Локален preview | http://127.0.0.1:8765/ (от телефон: http://192.168.0.206:8765/) — отделян процес, не умира с тайм-аута |
+| Жив сайт | <https://tabs.ceo-py.eu/> — **143 карти**, 2 канала, 67 rock, легенда на акордите |
+| Локален preview | http://127.0.0.1:8765/ — изключен при паузата (стартира се с `Start-Process`, виж т. 6) |
 | Репо | `github.com/ceo-py/tabs`, branch `main`, авто-деплой на VPS-а на всеки 5 мин |
-| Карти в архива | `out/` (22 карти на Bernadette) + `out_gz/` (115 карти на GuitarZero) |
-| Легенда на акордите | 110 от 137 карти имат лента с грифни диаграми |
+| Карти в архива | `out/` (22 карти на Bernadette) + `out_gz/` (121 карти на GuitarZero) |
+| Легенда на акордите | 112 форми в речника; 0 неразрешени акорда |
 
 ### Функционалност на сайта
 - Рендер на каталог от JSON манифест, търсене, чипове по канал/рок
@@ -28,51 +29,62 @@
 Източник: `gz_tabs_all.json` (606 песни с табове от GuitarZero2HeroExpress).
 Партидите 1–4 = първите 50 (готови). **Партидите 5–8 = следващите 100.**
 
-| Партида | Песни | Съдържание | Карти готови | Класификация |
-|---|---|---|---|---|
-| 5 | 25 | Billy Joel, Bing Crosby, Blink-182, Bob Dylan, Bob Marley, Bon Iver, Bon Jovi, Boston, Boyce Avenue, Bradley Cooper, Brenda Lee, Bring Me The Horizon, Bruno Mars | **25/25 ✅** | 23 LETTERS, 1 DIAGRAM, 1 NONE ✅ |
-| 6 | 25 | Bruno Mars, BTS, Bush, Cage The Elephant, Calum Scott, Cat Stevens, Charlie Puth, Chris Cornell, Chris Isaak, Chris Stapleton, Christmas, Chuck Berry, Clean Bandit, Clinton Kane, Coldplay ×5 | ~10/25 ⏳ | — |
-| 7 | 25 | Coldplay, Collective Soul, Conan Gray, Creed, CCR, Crowded House, Damien Rice, Dan, Daniel Caesar, Danny Vera, Darius Rucker, Dashboard Confessional, Dave Matthews, David Bowie, Dean Lewis, Death Cab, Dolly Parton | ~7/25 ⏳ | — |
-| 8 | 25 | Ed Sheeran ×25 | **25/25 ✅** | 23 LETTERS, 2 NONE ✅ |
+| Партида | Песни | Карти готови | Класификация |
+|---|---|---|---|
+| 5 | 25 | **25/25 ✅** | 23 LETTERS, 1 DIAGRAM, 1 NONE ✅ |
+| 6 | 25 | **11/25 ⏸** | ❌ не е правена |
+| 7 | 25 | **10/25 ⏸** | ❌ не е правена |
+| 8 | 25 | **25/25 ✅** | 23 LETTERS, 2 NONE ✅ |
 
-**Публикувани са 66 от 100.** Партиди 6 и 7 още се обработват.
+**Публикувани са 71 от 100. Остават 29 карти (партида 6: 14, партида 7: 15).**
 
-### Активни агенти (лимит 4)
-| Агент | Задача | Статус |
-|---|---|---|
-| `bg_f5cff672` | карти, партида 6 | тече |
-| `bg_4f6c16e9` | карти, партида 7 | тече |
-| — | карти, партида 5 | приключи 25/25 |
-| — | карти, партида 8 | приключи 25/25 |
-| — | класификация, партида 5 | приключи |
-| — | класификация, партида 8 | приключи |
+### Какво остава за партида 6 (14 песни)
+`How Long` · `Nothing Compares 2 U` · `Wicked Game` · `Tennessee Whiskey` · `O Holy Night` ·
+`The First Noel` · `Johnny B. Goode` · `Symphony` · `Chicken Tendies` · `Don't Panic` ·
+`Green Eyes` · `In My Place` · `Sky Full Of Stars` · `Sparks`
 
+### Какво остава за партида 7 (15 песни)
+`Better Be Home Soon` · `Fall At Your Feet Acoustic` · `Cannonball` · `10000 Hours` ·
+`Tequila` · `Best Part` · `Roller Coaster` · `Wagon Wheel` · `Hands Down` ·
+`Crash Into Me` · `Starman` · `Be Alright` · `Stay Awake` ·
+`I Will Follow You Into The Dark` · `Jolene`
+
+> Видеата за всички 100 песни вече са свалени в `dl/` — при нова пуск не е нужно да се тегли отново.
+> Агентът за партида 5 докладва 25/25 карти, 0 неуспешни видеа, programmatичен audit за празни панели
+> и за бележки над 2 реда (композиторът реже 3-тия ред).
 > Класификацията обхваща 122 карти: 97 LETTERS, 21 DIAGRAM, 4 NONE.
 > `Bon-Iver-Skinny-Love` е DIAGRAM (има C диаграма в горната 40% — crop-ът я пропуска).
 > `Blink182-Adams-Song`, `Ed-Sheeran-Bloodstream`, `Ed-Sheeran-Lego-House` са NONE (само TAB).
 
 ---
 
-## 3. Какво да се направи, когато партиди 6 и 7 приключат
+## 3. Как да продължим (следващата сесия)
 
+### 3.1 Да довършим картите (2 агента, по ~15 песни)
+Стартирай 2 worker агента:
+- агент А → партида 6, само останалите 14 песни
+- агент Б → партида 7, само останалите 15 песни
+
+Рецептата е същата като преди (виж `PLAYBOOK-GZ.md` / prompt-а в историята на сесията):
+`dl/v_<ID>.mp4` → `py -3.14 survey.py` → ffmpeg crop → `bN_compose.make_card(...)` → PNG в `out_gz/`.
+**За всеки агент е нужна собствена копия на композитора** — напр. `b6_compose.py` вече съществува,
+за `b7` също; ако се прави нова партида, копирай `b2_compose.py` → `bN_compose.py`.
+
+### 3.2 Класификация DIAGRAM/LETTERS за партиди 6 и 7
+Два агента по 25 карти:
+- генерирай crop-ове: `py -3.14 make_crops2.py 6 7` → `dbg_crops2/<slug>.png`
+- всеки агент чете crop-а И пълната карта (диаграмата може да е в горните 40%!) и пише
+  `chords_diagram_p6.json` / `chords_diagram_p7.json`
+- семантика: `DIAGRAM` = има грифна мрежа с точки; `LETTERS` = само букви; `NONE` = няма имена на акорди
+
+### 3.3 Публикуване
 ```powershell
-# 1. нови карти -> songs.json
-py -3.14 import_cards.py
-
-# 2. класификация DIAGRAM/LETTERS -> chords_diagram_p6.json / p7.json (по 25 карти всяка)
-#    -> merge_chord_diagrams.py вече чете всички chords_diagram_p*.json
-
-# 3. акордите за новите карти
-py -3.14 chord_extract.py
-
-# 4. формите (111 в момента) — за нов акорд: py -3.14 chord_voicings.py <акорд>
-py -3.14 chord_shapes.py
-
-# 5. пълен билд + zip
-py -3.14 build_dist.py
-
-# 6. commit + push (VPS-ът се обновява сам за 5 мин)
-git add -A ; git commit -m "..." ; git push origin main
+py -3.14 import_cards.py        # нови карти -> songs.json
+py -3.14 chord_extract.py       # акорди (note полетата от b5..b8 скриптовете и spec папките)
+py -3.14 merge_chord_diagrams.py # p1..p7 -> chords_has_diagram.json
+py -3.14 chord_shapes.py        # -> chord_shapes.json (112 форми в момента)
+py -3.14 build_dist.py          # пълен билд + dist/tabs90-site.zip
+git add -A ; git commit -m "..." ; git push origin main   # VPS-ът се обновява сам за 5 мин
 ```
 
 **Проверка на покритието на формите** (трябва да е 0 неразрешени):
@@ -93,6 +105,56 @@ def base(n):
 miss={c for card,ch in chords.items() if cls.get(card)!='DIAGRAM' for c in ch if base(c) is None}
 print('unresolved:',miss)"
 ```
+
+### 3.4 Ако се появи нов акорд без форма
+```powershell
+py -3.14 chord_voicings.py <акорд>     # намира изиграема позиция по грифа
+```
+После добави формата в `chord_shapes.py` (SHAPES или SLASH) и повтори `chord_shapes.py`.
+
+---
+
+## 4. Важни правила на проекта
+
+- **Съдържанието идва само от кадрите на видеото** — никога да не се реконструират акорди, прогресии или
+  удари по струните. Ако видеото не показва strumming pattern, разделът се пропуска.
+- Споделените помощни файлове (`card.py`, `compose_lib.py`, `survey.py`, `montage.py`, `PLAYBOOK.md`,
+  `PLAYBOOK-GZ.md`) **не се редактират**. За нова партида се прави копия: `bN_compose.py` + `bN_build.py`.
+- Архивът (`out/`, `out_gz/`) е непокътнат; линкът към видеото се маха **само в сайт асетите**
+  (`strip_link.py` вътре в `site_build.py`).
+- `songs.json` е единственият източник на истина; `import_cards.py` пази ръчните редакции.
+- Caddy: `restart`, не `reload` (`admin off`); конфиг в `/etc/caddy/caddy.d/tabs.conf`,
+  source-of-truth в репото `deploy/tabs.conf`. Sudo изисква парола → потребителят.
+- Изтриване само през recoverable delete: `rm -- "<path>"` (самоцелна команда).
+- Git: `git -C <path>`; не се прави `git add` след `Set-Location`.
+
+---
+
+## 5. Помощни скриптове
+
+| файл | роля |
+|---|---|
+| `gz_make_batches2.py` | генерира партиди 5–8 от каталога |
+| `make_crops2.py` | crop-ове (долна 60%) на картите за класификация |
+| `merge_chord_diagrams.py` | обединява `chords_diagram_p*.json` → `chords_has_diagram.json` |
+| `chord_extract.py` | вади акордите от `note` полетата (включително `b5_spec/`…`b8_spec/`) |
+| `chord_shapes.py` | речникът с формите на акордите (112) |
+| `chord_voicings.py` | намира изиграема позиция за произволен акорд |
+| `strip_link.py` | маха линка към видеото от футъра (само в сайт асетите) |
+
+## 6. Deployment и локален сървър
+
+```powershell
+# локален preview (отделен процес, не умира с тайм-аута на задачата)
+Start-Process -FilePath 'py' -ArgumentList '-3.14','-m','http.server','8765','--bind','0.0.0.0' `
+  -WorkingDirectory 'D:\MiniMax Code Repos\Guitar Lessons\site' -WindowStyle Hidden
+
+# ръчен деплой на VPS-а
+. 'D:\MiniMax Code Repos\Guitar Lessons\remote.ps1'
+Invoke-Remote '/home/ceo/production/tabs-deploy.sh && tail -3 /home/ceo/production/deploy.log'
+```
+VPS: `/home/ceo/production/tabs/` = web root, `/home/ceo/production/tabs-repo/` = clone,
+`tabs-deploy.sh` = pull + sync, user crontab `*/5 * * * *`.
 
 ---
 
