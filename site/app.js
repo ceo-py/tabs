@@ -5,6 +5,13 @@
 const $ = (s, r = document) => r.querySelector(s);
 const $$ = (s, r = document) => [...r.querySelectorAll(s)];
 
+/* safe binding: a missing element must never take the whole page down */
+function on(sel, ev, fn) {
+  const el = $(sel);
+  if (el) el.addEventListener(ev, fn);
+  return el;
+}
+
 const state = {
   all: [],
   view: [],
@@ -18,8 +25,13 @@ const CHANNEL_SHORT = {
 };
 
 /* ---------- data -------------------------------------------------- */
+/* the build stamp comes from index.html and busts any stale CDN copy
+   of songs.json */
+const BUILD = (document.querySelector('meta[name="site-build"]') || {}).content || '';
+const MANIFEST = 'data/songs.json' + (BUILD ? '?v=' + BUILD : '');
+
 async function load() {
-  const res = await fetch('data/songs.json', { cache: 'no-cache' });
+  const res = await fetch(MANIFEST, { cache: 'no-cache' });
   if (!res.ok) throw new Error('songs.json: HTTP ' + res.status);
   const data = await res.json();
   state.all = data.songs || [];
@@ -155,7 +167,7 @@ document.addEventListener('keydown', e => {
 });
 
 /* zoom toggle on the image itself */
-$('#lbBody').addEventListener('click', e => {
+on('#lbBody', 'click', e => {
   if (e.target.id === 'lbImg') {
     $('#lbBody').classList.toggle('is-zoom');
   }
@@ -171,12 +183,12 @@ document.addEventListener('keydown', e => {
 });
 
 /* ---------- controls ---------------------------------------------- */
-$('#q').addEventListener('input', e => {
+on('#q', 'input', e => {
   state.q = e.target.value.trim();
   apply();
 });
 
-$('#chips').addEventListener('click', e => {
+on('#chips', 'click', e => {
   const b = e.target.closest('.chip');
   if (!b) return;
   $$('.chip').forEach(c => c.classList.toggle('is-on', c === b));

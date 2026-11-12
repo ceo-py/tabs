@@ -13,8 +13,10 @@ Adding songs:
   new card from a batch  -> py -3.14 import_cards.py  && py -3.14 site_build.py
   one-off song          -> py -3.14 add_song.py --png ... --artist ... --title ...
 """
+import hashlib
 import json
 import os
+import re
 from PIL import Image
 
 import strip_link
@@ -34,6 +36,44 @@ def slug(path):
     return os.path.splitext(os.path.basename(path))[0]
 
 
+def stamp(path):
+    """short content hash — used to bust browser/CDN caches"""
+    with open(path, 'rb') as f:
+        return hashlib.sha1(f.read()).hexdigest()[:8]
+
+
+def version_html(manifest_v):
+    """Add ?v=<hash> to the css/js links in index.html and record the
+    manifest version in a meta tag.
+
+    Cloudflare and browsers cache by URL, so without this a rebuild would
+    keep serving the previous app.js / style.css / songs.json. The hashes
+    change only when the file itself changes, so there is no needless
+    cache churn.
+    """
+    html_path = os.path.join(SITE, 'index.html')
+    if not os.path.exists(html_path):
+        return
+    with open(html_path, encoding='utf-8') as f:
+        html = f.read()
+    new = html
+    for rel, attr in (('style.css', 'href'), ('app.js', 'src')):
+        p = os.path.join(SITE, rel)
+        if not os.path.exists(p):
+            continue
+        new = re.sub(r'%s="%s(?:\?v=[0-9a-f]+)?"' % (attr, re.escape(rel)),
+                     '%s="%s?v=%s"' % (attr, rel, stamp(p)), new)
+    meta = '<meta name="site-build" content="%s">' % manifest_v
+    if 'name="site-build"' in new:
+        new = re.sub(r'<meta name="site-build" content="[0-9a-f]*">', meta, new)
+    else:
+        new = new.replace('</head>', '  ' + meta + '\n</head>')
+    if new != html:
+        with open(html_path, 'w', encoding='utf-8', newline='\n') as f:
+            f.write(new)
+        print('  index.html: asset versions refreshed')
+
+
 def build_assets(src, name):
     """preview = top of the card, always exactly 4:5 portrait, never distorted"""
     im = Image.open(src).convert('RGB')
@@ -51,13 +91,15 @@ def build_assets(src, name):
         left = (w - cw) // 2
         crop = im.crop((left, 0, left + cw, h))
     crop = crop.resize((tw, target_h), Image.LANCZOS)
-    crop.save(os.path.join(THUMBS, name + '.webp'), 'WEBP', quality=80, method=6)
+    thumb_path = os.path.join(THUMBS, name + '.webp')
+    crop.save(thumb_path, 'WEBP', quality=80, method=6)
 
     f = im
     if w > FULL_MAX_W:
         f = im.resize((FULL_MAX_W, max(1, int(h * FULL_MAX_W / w))), Image.LANCZOS)
-    f.save(os.path.join(CARDS, name + '.webp'), 'WEBP', quality=88, method=6)
-    return (tw, target_h), f.size
+    card_path = os.path.join(CARDS, name + '.webp')
+    f.save(card_path, 'WEBP', quality=88, method=6)
+    return (tw, target_h), f.size, stamp(card_path), stamp(thumb_path)
 
 
 def main():
@@ -76,7 +118,7 @@ def main():
             continue
         name = slug(e['card'])
         used.add(name)
-        tsz, fsz = build_assets(src, name)
+        tsz, fsz, card_v, thumb_v = build_assets(src, name)
         songs.append({
             'id': e.get('id', name),
             'title': e.get('title', ''),
@@ -85,8 +127,9 @@ def main():
             'rock': bool(e.get('rock')),
             'channel': e.get('channel', ''),
             'url': e.get('url', ''),
-            'card': 'cards/%s.webp' % name,
-            'thumb': 'thumbs/%s.webp' % name,
+            # ?v=<content hash> so a rebuilt card is never served from an old cache
+            'card': 'cards/%s.webp?v=%s' % (name, card_v),
+            'thumb': 'thumbs/%s.webp?v=%s' % (name, thumb_v),
             'thumbW': tsz[0], 'thumbH': tsz[1],
             'w': fsz[0], 'h': fsz[1],
         })
@@ -109,6 +152,8 @@ def main():
     }
     with open(os.path.join(DATA, 'songs.json'), 'w', encoding='utf-8') as f:
         json.dump(payload, f, ensure_ascii=False, indent=1)
+
+    version_html(stamp(os.path.join(DATA, 'songs.json')))
 
     rocks = sum(1 for s in songs if s['rock'])
     tot = sum(os.path.getsize(os.path.join(CARDS, f)) for f in os.listdir(CARDS))
