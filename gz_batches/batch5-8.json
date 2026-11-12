@@ -1,0 +1,902 @@
+[
+ {
+  "id": "N3w4ssUBzgQ",
+  "artist": "Billy Joel",
+  "song": "Piano Man",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Billy-Joel-Piano-Man.png",
+  "url": "https://www.youtube.com/watch?v=N3w4ssUBzgQ"
+ },
+ {
+  "id": "LUkcQH7rtBM",
+  "artist": "Bing Crosby",
+  "song": "White Christmas",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bing-Crosby-White-Christmas.png",
+  "url": "https://www.youtube.com/watch?v=LUkcQH7rtBM"
+ },
+ {
+  "id": "rmZ1zZILauw",
+  "artist": "Blink-182",
+  "song": "Adam's Song",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Blink182-Adams-Song.png",
+  "url": "https://www.youtube.com/watch?v=rmZ1zZILauw"
+ },
+ {
+  "id": "Amc1SCYFwmU",
+  "artist": "Blink-182",
+  "song": "Edging",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Blink182-Edging.png",
+  "url": "https://www.youtube.com/watch?v=Amc1SCYFwmU"
+ },
+ {
+  "id": "SWkhIRk-bH4",
+  "artist": "Blink-182",
+  "song": "I Miss You",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Blink182-I-Miss-You.png",
+  "url": "https://www.youtube.com/watch?v=SWkhIRk-bH4"
+ },
+ {
+  "id": "hln5pgj4-KQ",
+  "artist": "Blink-182",
+  "song": "Stay Together For The Kids",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Blink182-Stay-Together-For-The-Kids.png",
+  "url": "https://www.youtube.com/watch?v=hln5pgj4-KQ"
+ },
+ {
+  "id": "l7j7KYSD8PM",
+  "artist": "Blink-182",
+  "song": "What's My Age Again",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Blink182-Whats-My-Age-Again.png",
+  "url": "https://www.youtube.com/watch?v=l7j7KYSD8PM"
+ },
+ {
+  "id": "rDN6W1hefO4",
+  "artist": "Bob Dylan",
+  "song": "Blowin' In The Wind",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bob-Dylan-Blowin-In-The-Wind.png",
+  "url": "https://www.youtube.com/watch?v=rDN6W1hefO4"
+ },
+ {
+  "id": "QxYJfWZlbko",
+  "artist": "Bob Dylan",
+  "song": "Don't Think Twice It's All Right",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bob-Dylan-Dont-Think-Twice-Its-All-Right.png",
+  "url": "https://www.youtube.com/watch?v=QxYJfWZlbko"
+ },
+ {
+  "id": "gp1cdMX5Slo",
+  "artist": "Bob Dylan",
+  "song": "Knockin' On Heaven's Door",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bob-Dylan-Knockin-On-Heavens-Door.png",
+  "url": "https://www.youtube.com/watch?v=gp1cdMX5Slo"
+ },
+ {
+  "id": "Qw2mDG9TTQo",
+  "artist": "Bob Dylan",
+  "song": "The Times They Are A Changin'",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bob-Dylan-The-Times-They-Are-A-Changin.png",
+  "url": "https://www.youtube.com/watch?v=Qw2mDG9TTQo"
+ },
+ {
+  "id": "vqNkOEBfdbo",
+  "artist": "Bob Marley",
+  "song": "No Woman No Cry",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bob-Marley-No-Woman-No-Cry.png",
+  "url": "https://www.youtube.com/watch?v=vqNkOEBfdbo"
+ },
+ {
+  "id": "v1epaVLbxlw",
+  "artist": "Bob Marley",
+  "song": "Redemption Song",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bob-Marley-Redemption-Song.png",
+  "url": "https://www.youtube.com/watch?v=v1epaVLbxlw"
+ },
+ {
+  "id": "T4Np29RyoLQ",
+  "artist": "Bob Marley",
+  "song": "Three Little Birds",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bob-Marley-Three-Little-Birds.png",
+  "url": "https://www.youtube.com/watch?v=T4Np29RyoLQ"
+ },
+ {
+  "id": "zy76BuTfwwE",
+  "artist": "Bobby Helms",
+  "song": "Jingle Bell Rock",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bobby-Helms-Jingle-Bell-Rock.png",
+  "url": "https://www.youtube.com/watch?v=zy76BuTfwwE"
+ },
+ {
+  "id": "GWjHB3ZkiVY",
+  "artist": "Bon Iver",
+  "song": "Skinny Love",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bon-Iver-Skinny-Love.png",
+  "url": "https://www.youtube.com/watch?v=GWjHB3ZkiVY"
+ },
+ {
+  "id": "M7C0fQxuXv0",
+  "artist": "Bon Jovi",
+  "song": "Wanted Dead or Alive",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bon-Jovi-Wanted-Dead-or-Alive.png",
+  "url": "https://www.youtube.com/watch?v=M7C0fQxuXv0"
+ },
+ {
+  "id": "buERHxePnZg",
+  "artist": "Bon Jovi",
+  "song": "You Give Love A Bad Name",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bon-Jovi-You-Give-Love-A-Bad-Name.png",
+  "url": "https://www.youtube.com/watch?v=buERHxePnZg"
+ },
+ {
+  "id": "lCNnHCsNils",
+  "artist": "Boston",
+  "song": "More Than A Feeling",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Boston-More-Than-A-Feeling.png",
+  "url": "https://www.youtube.com/watch?v=lCNnHCsNils"
+ },
+ {
+  "id": "Y-pYj_1TQKY",
+  "artist": "Boyce Avenue Version",
+  "song": "Game Of Thrones",
+  "tag": "Riffs + Tabs",
+  "rock": false,
+  "out": "out_gz/Boyce-Avenue-Version-Game-Of-Thrones.png",
+  "url": "https://www.youtube.com/watch?v=Y-pYj_1TQKY"
+ },
+ {
+  "id": "EtOixgT-aBI",
+  "artist": "Bradley Cooper",
+  "song": "Maybe It's Time",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bradley-Cooper-Maybe-Its-Time.png",
+  "url": "https://www.youtube.com/watch?v=EtOixgT-aBI"
+ },
+ {
+  "id": "otJ2EdCsRNA",
+  "artist": "Brenda Lee",
+  "song": "Rockin' Around The Christmas Tree",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Brenda-Lee-Rockin-Around-The-Christmas-Tree.png",
+  "url": "https://www.youtube.com/watch?v=otJ2EdCsRNA"
+ },
+ {
+  "id": "JtvI96DArPI",
+  "artist": "Bring Me The Horizon",
+  "song": "DiE4U",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bring-Me-The-Horizon-DiE4U.png",
+  "url": "https://www.youtube.com/watch?v=JtvI96DArPI"
+ },
+ {
+  "id": "zY4WfKFoVQQ",
+  "artist": "Bring Me The Horizon",
+  "song": "Medicine",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bring-Me-The-Horizon-Medicine.png",
+  "url": "https://www.youtube.com/watch?v=zY4WfKFoVQQ"
+ },
+ {
+  "id": "DCFTYzwq564",
+  "artist": "Bruno Mars",
+  "song": "Risk It All",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bruno-Mars-Risk-It-All.png",
+  "url": "https://www.youtube.com/watch?v=DCFTYzwq564"
+ },
+ {
+  "id": "d-XxGbC1SKQ",
+  "artist": "Bruno Mars",
+  "song": "Talking To The Moon",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bruno-Mars-Talking-To-The-Moon.png",
+  "url": "https://www.youtube.com/watch?v=d-XxGbC1SKQ"
+ },
+ {
+  "id": "P6syTu1Pv0M",
+  "artist": "Bruno Mars",
+  "song": "That's What I Like",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bruno-Mars-Thats-What-I-Like.png",
+  "url": "https://www.youtube.com/watch?v=P6syTu1Pv0M"
+ },
+ {
+  "id": "_C9O4AqPp-4",
+  "artist": "Bruno Mars & Lady Gaga",
+  "song": "Die With A Smile",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bruno-Mars-Lady-Gaga-Die-With-A-Smile.png",
+  "url": "https://www.youtube.com/watch?v=_C9O4AqPp-4"
+ },
+ {
+  "id": "QAGWrCHshbo",
+  "artist": "BTS",
+  "song": "Fake Love",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/BTS-Fake-Love.png",
+  "url": "https://www.youtube.com/watch?v=QAGWrCHshbo"
+ },
+ {
+  "id": "4iTqHXa_JuI",
+  "artist": "BTS",
+  "song": "My Universe",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/BTS-My-Universe.png",
+  "url": "https://www.youtube.com/watch?v=4iTqHXa_JuI"
+ },
+ {
+  "id": "LirohMsL65s",
+  "artist": "Bush",
+  "song": "Glycerine",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bush-Glycerine.png",
+  "url": "https://www.youtube.com/watch?v=LirohMsL65s"
+ },
+ {
+  "id": "ebAKSXveXNw",
+  "artist": "Cage The Elephant",
+  "song": "Cigarette Daydreams",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Cage-The-Elephant-Cigarette-Daydreams.png",
+  "url": "https://www.youtube.com/watch?v=ebAKSXveXNw"
+ },
+ {
+  "id": "NXU1dy4cMxo",
+  "artist": "Calum Scott",
+  "song": "Dancing On My Own",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Calum-Scott-Dancing-On-My-Own.png",
+  "url": "https://www.youtube.com/watch?v=NXU1dy4cMxo"
+ },
+ {
+  "id": "FLSVU2NkJNg",
+  "artist": "Calum Scott",
+  "song": "You Are The Reason",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Calum-Scott-You-Are-The-Reason.png",
+  "url": "https://www.youtube.com/watch?v=FLSVU2NkJNg"
+ },
+ {
+  "id": "gaNh8-2ozT0",
+  "artist": "Cat Stevens",
+  "song": "Father & Son",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Cat-Stevens-Father-Son.png",
+  "url": "https://www.youtube.com/watch?v=gaNh8-2ozT0"
+ },
+ {
+  "id": "W3H68yxA3Dg",
+  "artist": "Charlie Puth",
+  "song": "Attention",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Charlie-Puth-Attention.png",
+  "url": "https://www.youtube.com/watch?v=W3H68yxA3Dg"
+ },
+ {
+  "id": "J2-NEnpXDXA",
+  "artist": "Charlie Puth",
+  "song": "How Long",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Charlie-Puth-How-Long.png",
+  "url": "https://www.youtube.com/watch?v=J2-NEnpXDXA"
+ },
+ {
+  "id": "lVHQ7HkzIFE",
+  "artist": "Chris Cornell",
+  "song": "Nothing Compares 2 U",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Chris-Cornell-Nothing-Compares-2-U.png",
+  "url": "https://www.youtube.com/watch?v=lVHQ7HkzIFE"
+ },
+ {
+  "id": "DUlGas6qq-I",
+  "artist": "Chris Isaak",
+  "song": "Wicked Game",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Chris-Isaak-Wicked-Game.png",
+  "url": "https://www.youtube.com/watch?v=DUlGas6qq-I"
+ },
+ {
+  "id": "QZI2c80Uyg4",
+  "artist": "Chris Stapleton",
+  "song": "Tennessee Whiskey",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Chris-Stapleton-Tennessee-Whiskey.png",
+  "url": "https://www.youtube.com/watch?v=QZI2c80Uyg4"
+ },
+ {
+  "id": "B2T1EQ7ClBY",
+  "artist": "Christmas",
+  "song": "O Holy Night",
+  "tag": "Christmas Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Christmas-O-Holy-Night.png",
+  "url": "https://www.youtube.com/watch?v=B2T1EQ7ClBY"
+ },
+ {
+  "id": "FZ5ATOu7sM0",
+  "artist": "Christmas Carol",
+  "song": "The First Noel",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Christmas-Carol-The-First-Noel.png",
+  "url": "https://www.youtube.com/watch?v=FZ5ATOu7sM0"
+ },
+ {
+  "id": "OvzhSEoRwBc",
+  "artist": "Chuck Berry",
+  "song": "Johnny B. Goode",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Chuck-Berry-Johnny-B-Goode.png",
+  "url": "https://www.youtube.com/watch?v=OvzhSEoRwBc"
+ },
+ {
+  "id": "YdFnphBMOCs",
+  "artist": "Clean Bandit Zara Larsson",
+  "song": "Symphony",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Clean-Bandit-Zara-Larsson-Symphony.png",
+  "url": "https://www.youtube.com/watch?v=YdFnphBMOCs"
+ },
+ {
+  "id": "9T1IUExo0XQ",
+  "artist": "Clinton Kane",
+  "song": "Chicken Tendies",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Clinton-Kane-Chicken-Tendies.png",
+  "url": "https://www.youtube.com/watch?v=9T1IUExo0XQ"
+ },
+ {
+  "id": "8YJEdsGzQHc",
+  "artist": "Coldplay",
+  "song": "Don't Panic",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Coldplay-Dont-Panic.png",
+  "url": "https://www.youtube.com/watch?v=8YJEdsGzQHc"
+ },
+ {
+  "id": "gRfGvMhhR6U",
+  "artist": "Coldplay",
+  "song": "Green Eyes",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Coldplay-Green-Eyes.png",
+  "url": "https://www.youtube.com/watch?v=gRfGvMhhR6U"
+ },
+ {
+  "id": "dGqegPKsGys",
+  "artist": "Coldplay",
+  "song": "In My Place",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Coldplay-In-My-Place.png",
+  "url": "https://www.youtube.com/watch?v=dGqegPKsGys"
+ },
+ {
+  "id": "Kn_u3X5KRPk",
+  "artist": "Coldplay",
+  "song": "Sky Full Of Stars",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Coldplay-Sky-Full-Of-Stars.png",
+  "url": "https://www.youtube.com/watch?v=Kn_u3X5KRPk"
+ },
+ {
+  "id": "KBciUO7Iv7Y",
+  "artist": "Coldplay",
+  "song": "Sparks",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Coldplay-Sparks.png",
+  "url": "https://www.youtube.com/watch?v=KBciUO7Iv7Y"
+ },
+ {
+  "id": "lhR434nrXK4",
+  "artist": "Coldplay",
+  "song": "Viva La Vida",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Coldplay-Viva-La-Vida.png",
+  "url": "https://www.youtube.com/watch?v=lhR434nrXK4"
+ },
+ {
+  "id": "v3oYhgz0Oa0",
+  "artist": "Coldplay",
+  "song": "Yellow",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Coldplay-Yellow.png",
+  "url": "https://www.youtube.com/watch?v=v3oYhgz0Oa0"
+ },
+ {
+  "id": "lif_1sv1-u4",
+  "artist": "Coldplay & The Chainsmokers",
+  "song": "Something Just Like This",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Coldplay-The-Chainsmokers-Something-Just-Like-This.png",
+  "url": "https://www.youtube.com/watch?v=lif_1sv1-u4"
+ },
+ {
+  "id": "Cm6hFhSFmlQ",
+  "artist": "Collective Soul",
+  "song": "The World I Know",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Collective-Soul-The-World-I-Know.png",
+  "url": "https://www.youtube.com/watch?v=Cm6hFhSFmlQ"
+ },
+ {
+  "id": "m5bN4DFlVwU",
+  "artist": "Conan Gray",
+  "song": "Astronomy",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Conan-Gray-Astronomy.png",
+  "url": "https://www.youtube.com/watch?v=m5bN4DFlVwU"
+ },
+ {
+  "id": "8TSla0VNVr8",
+  "artist": "Conan Gray",
+  "song": "Heather",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Conan-Gray-Heather.png",
+  "url": "https://www.youtube.com/watch?v=8TSla0VNVr8"
+ },
+ {
+  "id": "iF0PcNmg0BA",
+  "artist": "Creed",
+  "song": "Higher",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Creed-Higher.png",
+  "url": "https://www.youtube.com/watch?v=iF0PcNmg0BA"
+ },
+ {
+  "id": "yL94BVu9FGU",
+  "artist": "Creed",
+  "song": "One Last Breath",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Creed-One-Last-Breath.png",
+  "url": "https://www.youtube.com/watch?v=yL94BVu9FGU"
+ },
+ {
+  "id": "IuJc3rIKxzc",
+  "artist": "Creedence Clearwater Revival",
+  "song": "Bad Moon Rising",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Creedence-Clearwater-Revival-Bad-Moon-Rising.png",
+  "url": "https://www.youtube.com/watch?v=IuJc3rIKxzc"
+ },
+ {
+  "id": "Ee-UG7G4C3Y",
+  "artist": "Creedence Clearwater Revival",
+  "song": "Have You Ever Seen The Rain",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Creedence-Clearwater-Revival-Have-You-Ever-Seen-The-Rain.png",
+  "url": "https://www.youtube.com/watch?v=Ee-UG7G4C3Y"
+ },
+ {
+  "id": "TsB1lxFq468",
+  "artist": "Crowded House",
+  "song": "Better Be Home Soon",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Crowded-House-Better-Be-Home-Soon.png",
+  "url": "https://www.youtube.com/watch?v=TsB1lxFq468"
+ },
+ {
+  "id": "jXMfvxe8v0A",
+  "artist": "Crowded House",
+  "song": "Fall At Your Feet Acoustic",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Crowded-House-Fall-At-Your-Feet-Acoustic.png",
+  "url": "https://www.youtube.com/watch?v=jXMfvxe8v0A"
+ },
+ {
+  "id": "mVShYWQuP4M",
+  "artist": "Damien Rice",
+  "song": "Cannonball",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Damien-Rice-Cannonball.png",
+  "url": "https://www.youtube.com/watch?v=mVShYWQuP4M"
+ },
+ {
+  "id": "4_MLrGCrkx4",
+  "artist": "Dan",
+  "song": "10000 Hours",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Dan-10000-Hours.png",
+  "url": "https://www.youtube.com/watch?v=4_MLrGCrkx4"
+ },
+ {
+  "id": "OoHr0D1Ar6E",
+  "artist": "Dan",
+  "song": "Tequila",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Dan-Tequila.png",
+  "url": "https://www.youtube.com/watch?v=OoHr0D1Ar6E"
+ },
+ {
+  "id": "2vl3cpkzFik",
+  "artist": "Daniel Caesar Feat H.E.R",
+  "song": "Best Part",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Daniel-Caesar-Feat-HER-Best-Part.png",
+  "url": "https://www.youtube.com/watch?v=2vl3cpkzFik"
+ },
+ {
+  "id": "Gl1tK7lBB0U",
+  "artist": "Danny Vera",
+  "song": "Roller Coaster",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Danny-Vera-Roller-Coaster.png",
+  "url": "https://www.youtube.com/watch?v=Gl1tK7lBB0U"
+ },
+ {
+  "id": "iE-0g-pB0K0",
+  "artist": "Darius Rucker",
+  "song": "Wagon Wheel",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Darius-Rucker-Wagon-Wheel.png",
+  "url": "https://www.youtube.com/watch?v=iE-0g-pB0K0"
+ },
+ {
+  "id": "SaLhI8mRb1w",
+  "artist": "Dashboard Confessional",
+  "song": "Hands Down",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Dashboard-Confessional-Hands-Down.png",
+  "url": "https://www.youtube.com/watch?v=SaLhI8mRb1w"
+ },
+ {
+  "id": "pRwxV2T-MdI",
+  "artist": "Dave Matthews Band",
+  "song": "Crash Into Me",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Dave-Matthews-Band-Crash-Into-Me.png",
+  "url": "https://www.youtube.com/watch?v=pRwxV2T-MdI"
+ },
+ {
+  "id": "3D-ac7RMYwc",
+  "artist": "David Bowie",
+  "song": "Starman",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/David-Bowie-Starman.png",
+  "url": "https://www.youtube.com/watch?v=3D-ac7RMYwc"
+ },
+ {
+  "id": "7EnfVOD4qt8",
+  "artist": "Dean Lewis",
+  "song": "Be Alright",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Dean-Lewis-Be-Alright.png",
+  "url": "https://www.youtube.com/watch?v=7EnfVOD4qt8"
+ },
+ {
+  "id": "uurEtjnv9VA",
+  "artist": "Dean Lewis",
+  "song": "Stay Awake",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Dean-Lewis-Stay-Awake.png",
+  "url": "https://www.youtube.com/watch?v=uurEtjnv9VA"
+ },
+ {
+  "id": "MjXTr2JPN1E",
+  "artist": "Death Cab For Cutie",
+  "song": "I Will Follow You Into The Dark",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Death-Cab-For-Cutie-I-Will-Follow-You-Into-The-Dark.png",
+  "url": "https://www.youtube.com/watch?v=MjXTr2JPN1E"
+ },
+ {
+  "id": "CjNK4wDebfM",
+  "artist": "Dolly Parton",
+  "song": "Jolene",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Dolly-Parton-Jolene.png",
+  "url": "https://www.youtube.com/watch?v=CjNK4wDebfM"
+ },
+ {
+  "id": "OYTcux3056o",
+  "artist": "Don McLean",
+  "song": "American Pie",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Don-McLean-American-Pie.png",
+  "url": "https://www.youtube.com/watch?v=OYTcux3056o"
+ },
+ {
+  "id": "yCreWjATJqY",
+  "artist": "Don McLean",
+  "song": "Vincent (Starry Starry Night)",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Don-McLean-Vincent-Starry-Starry-Night.png",
+  "url": "https://www.youtube.com/watch?v=yCreWjATJqY"
+ },
+ {
+  "id": "w1WgEw3j3Ic",
+  "artist": "Ed Sheeran",
+  "song": "Afterglow",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Afterglow.png",
+  "url": "https://www.youtube.com/watch?v=w1WgEw3j3Ic"
+ },
+ {
+  "id": "lw0oVIpUbxk",
+  "artist": "Ed Sheeran",
+  "song": "All Of The Stars",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-All-Of-The-Stars.png",
+  "url": "https://www.youtube.com/watch?v=lw0oVIpUbxk"
+ },
+ {
+  "id": "oWkYpapgABc",
+  "artist": "Ed Sheeran",
+  "song": "Bad Habits",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Bad-Habits.png",
+  "url": "https://www.youtube.com/watch?v=oWkYpapgABc"
+ },
+ {
+  "id": "tlQvOA52XSc",
+  "artist": "Ed Sheeran",
+  "song": "Beautiful People",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Beautiful-People.png",
+  "url": "https://www.youtube.com/watch?v=tlQvOA52XSc"
+ },
+ {
+  "id": "e-uOSjGyGrY",
+  "artist": "Ed Sheeran",
+  "song": "Best Part Of Me",
+  "tag": "Tabs + Solo",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Best-Part-Of-Me.png",
+  "url": "https://www.youtube.com/watch?v=e-uOSjGyGrY"
+ },
+ {
+  "id": "wa5dDum3BFo",
+  "artist": "Ed Sheeran",
+  "song": "Bloodstream",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Bloodstream.png",
+  "url": "https://www.youtube.com/watch?v=wa5dDum3BFo"
+ },
+ {
+  "id": "kzD_YraRlr4",
+  "artist": "Ed Sheeran",
+  "song": "Boat",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Boat.png",
+  "url": "https://www.youtube.com/watch?v=kzD_YraRlr4"
+ },
+ {
+  "id": "aBST752Efa4",
+  "artist": "Ed Sheeran",
+  "song": "Drunk",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Drunk.png",
+  "url": "https://www.youtube.com/watch?v=aBST752Efa4"
+ },
+ {
+  "id": "ymV7jMxuaUA",
+  "artist": "Ed Sheeran",
+  "song": "First Times",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-First-Times.png",
+  "url": "https://www.youtube.com/watch?v=ymV7jMxuaUA"
+ },
+ {
+  "id": "bPatTlH_IxU",
+  "artist": "Ed Sheeran",
+  "song": "Happier",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Happier.png",
+  "url": "https://www.youtube.com/watch?v=bPatTlH_IxU"
+ },
+ {
+  "id": "Z5qMvrEuOpI",
+  "artist": "Ed Sheeran",
+  "song": "Hearts Don't Break Around Here",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Hearts-Dont-Break-Around-Here.png",
+  "url": "https://www.youtube.com/watch?v=Z5qMvrEuOpI"
+ },
+ {
+  "id": "FPU2cThXAFU",
+  "artist": "Ed Sheeran",
+  "song": "How Would You Feel",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-How-Would-You-Feel.png",
+  "url": "https://www.youtube.com/watch?v=FPU2cThXAFU"
+ },
+ {
+  "id": "pMszV9GdnCg",
+  "artist": "Ed Sheeran",
+  "song": "I Don't Care (Acoustic)",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-I-Dont-Care-Acoustic.png",
+  "url": "https://www.youtube.com/watch?v=pMszV9GdnCg"
+ },
+ {
+  "id": "jO78M8b9asg",
+  "artist": "Ed Sheeran",
+  "song": "I See Fire",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-I-See-Fire.png",
+  "url": "https://www.youtube.com/watch?v=jO78M8b9asg"
+ },
+ {
+  "id": "0JDPugiwFRI",
+  "artist": "Ed Sheeran",
+  "song": "I'm A Mess",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Im-A-Mess.png",
+  "url": "https://www.youtube.com/watch?v=0JDPugiwFRI"
+ },
+ {
+  "id": "I7gOCyXhYrg",
+  "artist": "Ed Sheeran",
+  "song": "Kiss Me",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Kiss-Me.png",
+  "url": "https://www.youtube.com/watch?v=I7gOCyXhYrg"
+ },
+ {
+  "id": "fUTl3vAMyzM",
+  "artist": "Ed Sheeran",
+  "song": "Lego House",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Lego-House.png",
+  "url": "https://www.youtube.com/watch?v=fUTl3vAMyzM"
+ },
+ {
+  "id": "kXxoga-4JqY",
+  "artist": "Ed Sheeran",
+  "song": "Life Goes On",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Life-Goes-On.png",
+  "url": "https://www.youtube.com/watch?v=kXxoga-4JqY"
+ },
+ {
+  "id": "wnmx0ItiN-g",
+  "artist": "Ed Sheeran",
+  "song": "Love In Slow Motion",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Love-In-Slow-Motion.png",
+  "url": "https://www.youtube.com/watch?v=wnmx0ItiN-g"
+ },
+ {
+  "id": "AleTTEqmkOI",
+  "artist": "Ed Sheeran",
+  "song": "One",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-One.png",
+  "url": "https://www.youtube.com/watch?v=AleTTEqmkOI"
+ },
+ {
+  "id": "4rGimHDLb68",
+  "artist": "Ed Sheeran",
+  "song": "One Life",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-One-Life.png",
+  "url": "https://www.youtube.com/watch?v=4rGimHDLb68"
+ },
+ {
+  "id": "eBi5f7LiXsI",
+  "artist": "Ed Sheeran",
+  "song": "Overpass Graffiti",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Overpass-Graffiti.png",
+  "url": "https://www.youtube.com/watch?v=eBi5f7LiXsI"
+ },
+ {
+  "id": "W76V1agADTI",
+  "artist": "Ed Sheeran",
+  "song": "Penguins",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Ed-Sheeran-Penguins.png",
+  "url": "https://www.youtube.com/watch?v=W76V1agADTI"
+ }
+]

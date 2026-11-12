@@ -22,11 +22,8 @@ OUT = os.path.join(ROOT, 'chords_has_diagram.json')
 
 def main():
     merged = {}
-    for i in (1, 2, 3, 4):
-        p = os.path.join(ROOT, 'chords_diagram_p%d.json' % i)
-        if not os.path.exists(p):
-            print('  missing:', os.path.basename(p))
-            continue
+    import glob
+    for p in sorted(glob.glob(os.path.join(ROOT, 'chords_diagram_p*.json'))):
         with open(p, encoding='utf-8') as f:
             data = json.load(f)
         for k, v in data.items():

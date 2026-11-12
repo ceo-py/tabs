@@ -1,0 +1,39 @@
+{
+ "id": "JtvI96DArPI",
+ "title": "DiE4U",
+ "subtitle": "Bring Me The Horizon  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "sections": [
+  [
+   "TAB  ·  INTRO",
+   [
+    "frames/b5_JtvI96DArPI/c_intro_tab.png"
+   ]
+  ],
+  [
+   "CHORD PATTERN & STRUMMING  ·  BREAK",
+   [
+    "frames/b5_JtvI96DArPI/c_break.png"
+   ]
+  ],
+  [
+   "TAB  ·  VERSE 2",
+   [
+    "frames/b5_JtvI96DArPI/c_verse2_tab.png"
+   ]
+  ],
+  [
+   "CHORD PATTERN & STRUMMING  ·  CHORUS",
+   [
+    "frames/b5_JtvI96DArPI/c_chorus.png"
+   ]
+  ],
+  [
+   "TAB  ·  SOLO",
+   [
+    "frames/b5_JtvI96DArPI/c_solo_tab.png"
+   ]
+  ]
+ ],
+ "note": "Chords: Break and Chorus B5  G5 | A5  E5   Strumming: D--UDUD--UDUD-DU (1 e + a 2 e + a 3 e + a 4 e + a, change chords on highlighted strum)   TAB staves are shown for Intro, Verse 2 and Solo (the Verse 1 and Bridge panels are blank in the source)",
+ "out": "out_gz/Bring-Me-The-Horizon-DiE4U.png"
+}

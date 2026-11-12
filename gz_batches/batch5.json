@@ -1,0 +1,227 @@
+[
+ {
+  "id": "N3w4ssUBzgQ",
+  "artist": "Billy Joel",
+  "song": "Piano Man",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Billy-Joel-Piano-Man.png",
+  "url": "https://www.youtube.com/watch?v=N3w4ssUBzgQ"
+ },
+ {
+  "id": "LUkcQH7rtBM",
+  "artist": "Bing Crosby",
+  "song": "White Christmas",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bing-Crosby-White-Christmas.png",
+  "url": "https://www.youtube.com/watch?v=LUkcQH7rtBM"
+ },
+ {
+  "id": "rmZ1zZILauw",
+  "artist": "Blink-182",
+  "song": "Adam's Song",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Blink182-Adams-Song.png",
+  "url": "https://www.youtube.com/watch?v=rmZ1zZILauw"
+ },
+ {
+  "id": "Amc1SCYFwmU",
+  "artist": "Blink-182",
+  "song": "Edging",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Blink182-Edging.png",
+  "url": "https://www.youtube.com/watch?v=Amc1SCYFwmU"
+ },
+ {
+  "id": "SWkhIRk-bH4",
+  "artist": "Blink-182",
+  "song": "I Miss You",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Blink182-I-Miss-You.png",
+  "url": "https://www.youtube.com/watch?v=SWkhIRk-bH4"
+ },
+ {
+  "id": "hln5pgj4-KQ",
+  "artist": "Blink-182",
+  "song": "Stay Together For The Kids",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Blink182-Stay-Together-For-The-Kids.png",
+  "url": "https://www.youtube.com/watch?v=hln5pgj4-KQ"
+ },
+ {
+  "id": "l7j7KYSD8PM",
+  "artist": "Blink-182",
+  "song": "What's My Age Again",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Blink182-Whats-My-Age-Again.png",
+  "url": "https://www.youtube.com/watch?v=l7j7KYSD8PM"
+ },
+ {
+  "id": "rDN6W1hefO4",
+  "artist": "Bob Dylan",
+  "song": "Blowin' In The Wind",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bob-Dylan-Blowin-In-The-Wind.png",
+  "url": "https://www.youtube.com/watch?v=rDN6W1hefO4"
+ },
+ {
+  "id": "QxYJfWZlbko",
+  "artist": "Bob Dylan",
+  "song": "Don't Think Twice It's All Right",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bob-Dylan-Dont-Think-Twice-Its-All-Right.png",
+  "url": "https://www.youtube.com/watch?v=QxYJfWZlbko"
+ },
+ {
+  "id": "gp1cdMX5Slo",
+  "artist": "Bob Dylan",
+  "song": "Knockin' On Heaven's Door",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bob-Dylan-Knockin-On-Heavens-Door.png",
+  "url": "https://www.youtube.com/watch?v=gp1cdMX5Slo"
+ },
+ {
+  "id": "Qw2mDG9TTQo",
+  "artist": "Bob Dylan",
+  "song": "The Times They Are A Changin'",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bob-Dylan-The-Times-They-Are-A-Changin.png",
+  "url": "https://www.youtube.com/watch?v=Qw2mDG9TTQo"
+ },
+ {
+  "id": "vqNkOEBfdbo",
+  "artist": "Bob Marley",
+  "song": "No Woman No Cry",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bob-Marley-No-Woman-No-Cry.png",
+  "url": "https://www.youtube.com/watch?v=vqNkOEBfdbo"
+ },
+ {
+  "id": "v1epaVLbxlw",
+  "artist": "Bob Marley",
+  "song": "Redemption Song",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bob-Marley-Redemption-Song.png",
+  "url": "https://www.youtube.com/watch?v=v1epaVLbxlw"
+ },
+ {
+  "id": "T4Np29RyoLQ",
+  "artist": "Bob Marley",
+  "song": "Three Little Birds",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bob-Marley-Three-Little-Birds.png",
+  "url": "https://www.youtube.com/watch?v=T4Np29RyoLQ"
+ },
+ {
+  "id": "zy76BuTfwwE",
+  "artist": "Bobby Helms",
+  "song": "Jingle Bell Rock",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bobby-Helms-Jingle-Bell-Rock.png",
+  "url": "https://www.youtube.com/watch?v=zy76BuTfwwE"
+ },
+ {
+  "id": "GWjHB3ZkiVY",
+  "artist": "Bon Iver",
+  "song": "Skinny Love",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bon-Iver-Skinny-Love.png",
+  "url": "https://www.youtube.com/watch?v=GWjHB3ZkiVY"
+ },
+ {
+  "id": "M7C0fQxuXv0",
+  "artist": "Bon Jovi",
+  "song": "Wanted Dead or Alive",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bon-Jovi-Wanted-Dead-or-Alive.png",
+  "url": "https://www.youtube.com/watch?v=M7C0fQxuXv0"
+ },
+ {
+  "id": "buERHxePnZg",
+  "artist": "Bon Jovi",
+  "song": "You Give Love A Bad Name",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bon-Jovi-You-Give-Love-A-Bad-Name.png",
+  "url": "https://www.youtube.com/watch?v=buERHxePnZg"
+ },
+ {
+  "id": "lCNnHCsNils",
+  "artist": "Boston",
+  "song": "More Than A Feeling",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Boston-More-Than-A-Feeling.png",
+  "url": "https://www.youtube.com/watch?v=lCNnHCsNils"
+ },
+ {
+  "id": "Y-pYj_1TQKY",
+  "artist": "Boyce Avenue Version",
+  "song": "Game Of Thrones",
+  "tag": "Riffs + Tabs",
+  "rock": false,
+  "out": "out_gz/Boyce-Avenue-Version-Game-Of-Thrones.png",
+  "url": "https://www.youtube.com/watch?v=Y-pYj_1TQKY"
+ },
+ {
+  "id": "EtOixgT-aBI",
+  "artist": "Bradley Cooper",
+  "song": "Maybe It's Time",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bradley-Cooper-Maybe-Its-Time.png",
+  "url": "https://www.youtube.com/watch?v=EtOixgT-aBI"
+ },
+ {
+  "id": "otJ2EdCsRNA",
+  "artist": "Brenda Lee",
+  "song": "Rockin' Around The Christmas Tree",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Brenda-Lee-Rockin-Around-The-Christmas-Tree.png",
+  "url": "https://www.youtube.com/watch?v=otJ2EdCsRNA"
+ },
+ {
+  "id": "JtvI96DArPI",
+  "artist": "Bring Me The Horizon",
+  "song": "DiE4U",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bring-Me-The-Horizon-DiE4U.png",
+  "url": "https://www.youtube.com/watch?v=JtvI96DArPI"
+ },
+ {
+  "id": "zY4WfKFoVQQ",
+  "artist": "Bring Me The Horizon",
+  "song": "Medicine",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Bring-Me-The-Horizon-Medicine.png",
+  "url": "https://www.youtube.com/watch?v=zY4WfKFoVQQ"
+ },
+ {
+  "id": "DCFTYzwq564",
+  "artist": "Bruno Mars",
+  "song": "Risk It All",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Bruno-Mars-Risk-It-All.png",
+  "url": "https://www.youtube.com/watch?v=DCFTYzwq564"
+ }
+]

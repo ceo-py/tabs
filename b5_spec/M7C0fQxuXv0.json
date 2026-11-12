@@ -1,0 +1,39 @@
+{
+ "id": "M7C0fQxuXv0",
+ "title": "WANTED DEAD OR ALIVE",
+ "subtitle": "Bon Jovi  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "sections": [
+  [
+   "TAB  ·  INTRO",
+   [
+    "frames/b5_M7C0fQxuXv0/c_intro_tab.png"
+   ]
+  ],
+  [
+   "TAB  ·  SOLO",
+   [
+    "frames/b5_M7C0fQxuXv0/c_solo_tab.png"
+   ]
+  ],
+  [
+   "CHORD PATTERN & STRUMMING  ·  VERSE 3",
+   [
+    "frames/b5_M7C0fQxuXv0/c_verse3.png"
+   ]
+  ],
+  [
+   "CHORD PATTERN & STRUMMING  ·  CHORUS 4",
+   [
+    "frames/b5_M7C0fQxuXv0/c_chorus4.png"
+   ]
+  ],
+  [
+   "CHORD PATTERN & STRUMMING  ·  CHORUS TAG",
+   [
+    "frames/b5_M7C0fQxuXv0/c_chorus_tag.png"
+   ]
+  ]
+ ],
+ "note": "Chords: Verse 3 D  Cadd9  G / Cadd9  G  G  F  D (repeat x2)  ·  Chorus 4 Cadd9  G  F  D / Cadd9  G  RIFF  Dsus2 (repeat x2)  ·  Chorus Tag Cadd9  G  RIFF  Dsus2 / RIFF  G  RIFF  Dsus2 (repeat x2)   Strumming: Verse 3 D---D--UDUD-D-DU  ·  Chorus 4 D-D-D- | D---UDUDUDU  ·  Chorus Tag D--UDUD--UDUD-DU",
+ "out": "out_gz/Bon-Jovi-Wanted-Dead-or-Alive.png"
+}

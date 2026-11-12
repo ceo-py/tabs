@@ -1,0 +1,34 @@
+{
+ "id": "Amc1SCYFwmU",
+ "title": "EDGING",
+ "subtitle": "Blink-182  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "sections": [
+  [
+   "TAB  ·  VERSE",
+   [
+    "frames/b5_Amc1SCYFwmU/c_verse_tab.png"
+   ]
+  ],
+  [
+   "TAB  ·  CHORUS 1",
+   [
+    "frames/b5_Amc1SCYFwmU/c_chorus1_tab.png"
+   ]
+  ],
+  [
+   "TAB  ·  BRIDGE",
+   [
+    "frames/b5_Amc1SCYFwmU/c_bridge_tab.png"
+   ]
+  ],
+  [
+   "CHORD PATTERN & STRUMMING  ·  CHORUS 1 & BRIDGE",
+   [
+    "frames/b5_Amc1SCYFwmU/c_strum_chorus1.png",
+    "frames/b5_Amc1SCYFwmU/c_strum_bridge.png"
+   ]
+  ]
+ ],
+ "note": "Chords: written above the tab staff - Verse C5 F5  ·  Chorus 1 C5 F5 C5 F5 G5  ·  Bridge A5 F5 C5 E5   Strumming: Chorus 1 D - DU - UD - (1 + 2 + 3 + 4 +)  ·  Bridge D - D - DUDU (1 + 2 + 3 + 4 +)   No separate chord-shape panel; chords are printed over the tab staff",
+ "out": "out_gz/Blink182-Edging.png"
+}

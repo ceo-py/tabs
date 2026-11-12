@@ -1,0 +1,33 @@
+{
+ "id": "v1epaVLbxlw",
+ "title": "REDEMPTION SONG",
+ "subtitle": "Bob Marley  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "sections": [
+  [
+   "TAB  ·  INTRO",
+   [
+    "frames/b5_v1epaVLbxlw/c_intro_tab.png"
+   ]
+  ],
+  [
+   "CHORD PATTERN & STRUMMING  ·  VERSE 1",
+   [
+    "frames/b5_v1epaVLbxlw/c_verse1.png"
+   ]
+  ],
+  [
+   "CHORD PATTERN & STRUMMING  ·  CHORUS 1",
+   [
+    "frames/b5_v1epaVLbxlw/c_chorus1.png"
+   ]
+  ],
+  [
+   "CHORD PATTERN & STRUMMING  ·  BRIDGE",
+   [
+    "frames/b5_v1epaVLbxlw/c_bridge.png"
+   ]
+  ]
+ ],
+ "note": "Chords: Verse 1 G  Em  C  G/B  Am (repeat x3) / G  Em  C  D  D  ·  Chorus 1 G  C  D (repeat x2) / Em  C  D / G  C  D (repeat x2)  ·  Bridge Em  C  D (repeat x4)   Strumming: Verse 1 D-DU-UDU  ·  Chorus 1 D-DU-UDU  ·  Bridge DUDU",
+ "out": "out_gz/Bob-Marley-Redemption-Song.png"
+}

@@ -60,6 +60,12 @@ b3_*
 b4_*
 w_*
 
+# scratch of the current runs
+d8_crops/
+d8_helper.py
+dbg_crops2/
+chords_missing.txt
+
 # local-only odds and ends
 remote.ps1
 missing_ids.txt

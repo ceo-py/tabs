@@ -500,6 +500,336 @@
   "card": "out_gz/Billie-Eilish-Your-Power.png"
  },
  {
+  "id": "N3w4ssUBzgQ",
+  "title": "Piano Man",
+  "artist": "Billy Joel",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=N3w4ssUBzgQ",
+  "card": "out_gz/Billy-Joel-Piano-Man.png"
+ },
+ {
+  "id": "LUkcQH7rtBM",
+  "title": "White Christmas",
+  "artist": "Bing Crosby",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=LUkcQH7rtBM",
+  "card": "out_gz/Bing-Crosby-White-Christmas.png"
+ },
+ {
+  "id": "rmZ1zZILauw",
+  "title": "Adam's Song",
+  "artist": "Blink-182",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=rmZ1zZILauw",
+  "card": "out_gz/Blink182-Adams-Song.png"
+ },
+ {
+  "id": "Amc1SCYFwmU",
+  "title": "Edging",
+  "artist": "Blink-182",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=Amc1SCYFwmU",
+  "card": "out_gz/Blink182-Edging.png"
+ },
+ {
+  "id": "SWkhIRk-bH4",
+  "title": "I Miss You",
+  "artist": "Blink-182",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=SWkhIRk-bH4",
+  "card": "out_gz/Blink182-I-Miss-You.png"
+ },
+ {
+  "id": "hln5pgj4-KQ",
+  "title": "Stay Together For The Kids",
+  "artist": "Blink-182",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=hln5pgj4-KQ",
+  "card": "out_gz/Blink182-Stay-Together-For-The-Kids.png"
+ },
+ {
+  "id": "l7j7KYSD8PM",
+  "title": "What's My Age Again",
+  "artist": "Blink-182",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=l7j7KYSD8PM",
+  "card": "out_gz/Blink182-Whats-My-Age-Again.png"
+ },
+ {
+  "id": "rDN6W1hefO4",
+  "title": "Blowin' In The Wind",
+  "artist": "Bob Dylan",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=rDN6W1hefO4",
+  "card": "out_gz/Bob-Dylan-Blowin-In-The-Wind.png"
+ },
+ {
+  "id": "QxYJfWZlbko",
+  "title": "Don't Think Twice It's All Right",
+  "artist": "Bob Dylan",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=QxYJfWZlbko",
+  "card": "out_gz/Bob-Dylan-Dont-Think-Twice-Its-All-Right.png"
+ },
+ {
+  "id": "gp1cdMX5Slo",
+  "title": "Knockin' On Heaven's Door",
+  "artist": "Bob Dylan",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=gp1cdMX5Slo",
+  "card": "out_gz/Bob-Dylan-Knockin-On-Heavens-Door.png"
+ },
+ {
+  "id": "Qw2mDG9TTQo",
+  "title": "The Times They Are A Changin'",
+  "artist": "Bob Dylan",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=Qw2mDG9TTQo",
+  "card": "out_gz/Bob-Dylan-The-Times-They-Are-A-Changin.png"
+ },
+ {
+  "id": "vqNkOEBfdbo",
+  "title": "No Woman No Cry",
+  "artist": "Bob Marley",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=vqNkOEBfdbo",
+  "card": "out_gz/Bob-Marley-No-Woman-No-Cry.png"
+ },
+ {
+  "id": "v1epaVLbxlw",
+  "title": "Redemption Song",
+  "artist": "Bob Marley",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=v1epaVLbxlw",
+  "card": "out_gz/Bob-Marley-Redemption-Song.png"
+ },
+ {
+  "id": "T4Np29RyoLQ",
+  "title": "Three Little Birds",
+  "artist": "Bob Marley",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=T4Np29RyoLQ",
+  "card": "out_gz/Bob-Marley-Three-Little-Birds.png"
+ },
+ {
+  "id": "zy76BuTfwwE",
+  "title": "Jingle Bell Rock",
+  "artist": "Bobby Helms",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=zy76BuTfwwE",
+  "card": "out_gz/Bobby-Helms-Jingle-Bell-Rock.png"
+ },
+ {
+  "id": "GWjHB3ZkiVY",
+  "title": "Skinny Love",
+  "artist": "Bon Iver",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=GWjHB3ZkiVY",
+  "card": "out_gz/Bon-Iver-Skinny-Love.png"
+ },
+ {
+  "id": "M7C0fQxuXv0",
+  "title": "Wanted Dead or Alive",
+  "artist": "Bon Jovi",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=M7C0fQxuXv0",
+  "card": "out_gz/Bon-Jovi-Wanted-Dead-or-Alive.png"
+ },
+ {
+  "id": "buERHxePnZg",
+  "title": "You Give Love A Bad Name",
+  "artist": "Bon Jovi",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=buERHxePnZg",
+  "card": "out_gz/Bon-Jovi-You-Give-Love-A-Bad-Name.png"
+ },
+ {
+  "id": "lCNnHCsNils",
+  "title": "More Than A Feeling",
+  "artist": "Boston",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=lCNnHCsNils",
+  "card": "out_gz/Boston-More-Than-A-Feeling.png"
+ },
+ {
+  "id": "Y-pYj_1TQKY",
+  "title": "Game Of Thrones",
+  "artist": "Boyce Avenue Version",
+  "tag": "Riffs + Tabs",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=Y-pYj_1TQKY",
+  "card": "out_gz/Boyce-Avenue-Version-Game-Of-Thrones.png"
+ },
+ {
+  "id": "EtOixgT-aBI",
+  "title": "Maybe It's Time",
+  "artist": "Bradley Cooper",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=EtOixgT-aBI",
+  "card": "out_gz/Bradley-Cooper-Maybe-Its-Time.png"
+ },
+ {
+  "id": "otJ2EdCsRNA",
+  "title": "Rockin' Around The Christmas Tree",
+  "artist": "Brenda Lee",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=otJ2EdCsRNA",
+  "card": "out_gz/Brenda-Lee-Rockin-Around-The-Christmas-Tree.png"
+ },
+ {
+  "id": "JtvI96DArPI",
+  "title": "DiE4U",
+  "artist": "Bring Me The Horizon",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=JtvI96DArPI",
+  "card": "out_gz/Bring-Me-The-Horizon-DiE4U.png"
+ },
+ {
+  "id": "zY4WfKFoVQQ",
+  "title": "Medicine",
+  "artist": "Bring Me The Horizon",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=zY4WfKFoVQQ",
+  "card": "out_gz/Bring-Me-The-Horizon-Medicine.png"
+ },
+ {
+  "id": "DCFTYzwq564",
+  "title": "Risk It All",
+  "artist": "Bruno Mars",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=DCFTYzwq564",
+  "card": "out_gz/Bruno-Mars-Risk-It-All.png"
+ },
+ {
+  "id": "d-XxGbC1SKQ",
+  "title": "Talking To The Moon",
+  "artist": "Bruno Mars",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=d-XxGbC1SKQ",
+  "card": "out_gz/Bruno-Mars-Talking-To-The-Moon.png"
+ },
+ {
+  "id": "P6syTu1Pv0M",
+  "title": "That's What I Like",
+  "artist": "Bruno Mars",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=P6syTu1Pv0M",
+  "card": "out_gz/Bruno-Mars-Thats-What-I-Like.png"
+ },
+ {
+  "id": "_C9O4AqPp-4",
+  "title": "Die With A Smile",
+  "artist": "Bruno Mars & Lady Gaga",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=_C9O4AqPp-4",
+  "card": "out_gz/Bruno-Mars-Lady-Gaga-Die-With-A-Smile.png"
+ },
+ {
+  "id": "QAGWrCHshbo",
+  "title": "Fake Love",
+  "artist": "BTS",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=QAGWrCHshbo",
+  "card": "out_gz/BTS-Fake-Love.png"
+ },
+ {
+  "id": "4iTqHXa_JuI",
+  "title": "My Universe",
+  "artist": "BTS",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=4iTqHXa_JuI",
+  "card": "out_gz/BTS-My-Universe.png"
+ },
+ {
+  "id": "LirohMsL65s",
+  "title": "Glycerine",
+  "artist": "Bush",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=LirohMsL65s",
+  "card": "out_gz/Bush-Glycerine.png"
+ },
+ {
+  "id": "ebAKSXveXNw",
+  "title": "Cigarette Daydreams",
+  "artist": "Cage The Elephant",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=ebAKSXveXNw",
+  "card": "out_gz/Cage-The-Elephant-Cigarette-Daydreams.png"
+ },
+ {
+  "id": "NXU1dy4cMxo",
+  "title": "Dancing On My Own",
+  "artist": "Calum Scott",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=NXU1dy4cMxo",
+  "card": "out_gz/Calum-Scott-Dancing-On-My-Own.png"
+ },
+ {
   "id": "Coldplay-Viva-La-Vida.png",
   "title": "Viva La Vida",
   "artist": "Coldplay",
@@ -508,6 +838,16 @@
   "channel": "BernadetteTeachesMusic",
   "url": "https://www.youtube.com/watch?v=Coldplay-Vi",
   "card": "out/Coldplay-Viva-La-Vida.png"
+ },
+ {
+  "id": "lhR434nrXK4",
+  "title": "Viva La Vida",
+  "artist": "Coldplay",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=lhR434nrXK4",
+  "card": "out_gz/Coldplay-Viva-La-Vida.png"
  },
  {
   "id": "Coldplay-Yellow.png",
@@ -548,6 +888,66 @@
   "channel": "BernadetteTeachesMusic",
   "url": "https://www.youtube.com/watch?v=Coldplay-Ye",
   "card": "out/Coldplay-Yellow-Short-2024.png"
+ },
+ {
+  "id": "v3oYhgz0Oa0",
+  "title": "Yellow",
+  "artist": "Coldplay",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=v3oYhgz0Oa0",
+  "card": "out_gz/Coldplay-Yellow.png"
+ },
+ {
+  "id": "lif_1sv1-u4",
+  "title": "Something Just Like This",
+  "artist": "Coldplay & The Chainsmokers",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=lif_1sv1-u4",
+  "card": "out_gz/Coldplay-The-Chainsmokers-Something-Just-Like-This.png"
+ },
+ {
+  "id": "Cm6hFhSFmlQ",
+  "title": "The World I Know",
+  "artist": "Collective Soul",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=Cm6hFhSFmlQ",
+  "card": "out_gz/Collective-Soul-The-World-I-Know.png"
+ },
+ {
+  "id": "m5bN4DFlVwU",
+  "title": "Astronomy",
+  "artist": "Conan Gray",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=m5bN4DFlVwU",
+  "card": "out_gz/Conan-Gray-Astronomy.png"
+ },
+ {
+  "id": "8TSla0VNVr8",
+  "title": "Heather",
+  "artist": "Conan Gray",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=8TSla0VNVr8",
+  "card": "out_gz/Conan-Gray-Heather.png"
+ },
+ {
+  "id": "iF0PcNmg0BA",
+  "title": "Higher",
+  "artist": "Creed",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=iF0PcNmg0BA",
+  "card": "out_gz/Creed-Higher.png"
  },
  {
   "id": "CCR-Bad-Moon-Rising-Challenge.png",
@@ -618,6 +1018,256 @@
   "channel": "BernadetteTeachesMusic",
   "url": "https://www.youtube.com/watch?v=CCR-Proud-M",
   "card": "out/CCR-Proud-Mary.png"
+ },
+ {
+  "id": "OYTcux3056o",
+  "title": "American Pie",
+  "artist": "Don McLean",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=OYTcux3056o",
+  "card": "out_gz/Don-McLean-American-Pie.png"
+ },
+ {
+  "id": "yCreWjATJqY",
+  "title": "Vincent (Starry Starry Night)",
+  "artist": "Don McLean",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=yCreWjATJqY",
+  "card": "out_gz/Don-McLean-Vincent-Starry-Starry-Night.png"
+ },
+ {
+  "id": "w1WgEw3j3Ic",
+  "title": "Afterglow",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=w1WgEw3j3Ic",
+  "card": "out_gz/Ed-Sheeran-Afterglow.png"
+ },
+ {
+  "id": "lw0oVIpUbxk",
+  "title": "All Of The Stars",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=lw0oVIpUbxk",
+  "card": "out_gz/Ed-Sheeran-All-Of-The-Stars.png"
+ },
+ {
+  "id": "oWkYpapgABc",
+  "title": "Bad Habits",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=oWkYpapgABc",
+  "card": "out_gz/Ed-Sheeran-Bad-Habits.png"
+ },
+ {
+  "id": "tlQvOA52XSc",
+  "title": "Beautiful People",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=tlQvOA52XSc",
+  "card": "out_gz/Ed-Sheeran-Beautiful-People.png"
+ },
+ {
+  "id": "e-uOSjGyGrY",
+  "title": "Best Part Of Me",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Solo",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=e-uOSjGyGrY",
+  "card": "out_gz/Ed-Sheeran-Best-Part-Of-Me.png"
+ },
+ {
+  "id": "wa5dDum3BFo",
+  "title": "Bloodstream",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=wa5dDum3BFo",
+  "card": "out_gz/Ed-Sheeran-Bloodstream.png"
+ },
+ {
+  "id": "kzD_YraRlr4",
+  "title": "Boat",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=kzD_YraRlr4",
+  "card": "out_gz/Ed-Sheeran-Boat.png"
+ },
+ {
+  "id": "aBST752Efa4",
+  "title": "Drunk",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=aBST752Efa4",
+  "card": "out_gz/Ed-Sheeran-Drunk.png"
+ },
+ {
+  "id": "ymV7jMxuaUA",
+  "title": "First Times",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=ymV7jMxuaUA",
+  "card": "out_gz/Ed-Sheeran-First-Times.png"
+ },
+ {
+  "id": "bPatTlH_IxU",
+  "title": "Happier",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=bPatTlH_IxU",
+  "card": "out_gz/Ed-Sheeran-Happier.png"
+ },
+ {
+  "id": "Z5qMvrEuOpI",
+  "title": "Hearts Don't Break Around Here",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=Z5qMvrEuOpI",
+  "card": "out_gz/Ed-Sheeran-Hearts-Dont-Break-Around-Here.png"
+ },
+ {
+  "id": "FPU2cThXAFU",
+  "title": "How Would You Feel",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=FPU2cThXAFU",
+  "card": "out_gz/Ed-Sheeran-How-Would-You-Feel.png"
+ },
+ {
+  "id": "pMszV9GdnCg",
+  "title": "I Don't Care (Acoustic)",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=pMszV9GdnCg",
+  "card": "out_gz/Ed-Sheeran-I-Dont-Care-Acoustic.png"
+ },
+ {
+  "id": "jO78M8b9asg",
+  "title": "I See Fire",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=jO78M8b9asg",
+  "card": "out_gz/Ed-Sheeran-I-See-Fire.png"
+ },
+ {
+  "id": "0JDPugiwFRI",
+  "title": "I'm A Mess",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=0JDPugiwFRI",
+  "card": "out_gz/Ed-Sheeran-Im-A-Mess.png"
+ },
+ {
+  "id": "I7gOCyXhYrg",
+  "title": "Kiss Me",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=I7gOCyXhYrg",
+  "card": "out_gz/Ed-Sheeran-Kiss-Me.png"
+ },
+ {
+  "id": "fUTl3vAMyzM",
+  "title": "Lego House",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=fUTl3vAMyzM",
+  "card": "out_gz/Ed-Sheeran-Lego-House.png"
+ },
+ {
+  "id": "kXxoga-4JqY",
+  "title": "Life Goes On",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=kXxoga-4JqY",
+  "card": "out_gz/Ed-Sheeran-Life-Goes-On.png"
+ },
+ {
+  "id": "wnmx0ItiN-g",
+  "title": "Love In Slow Motion",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=wnmx0ItiN-g",
+  "card": "out_gz/Ed-Sheeran-Love-In-Slow-Motion.png"
+ },
+ {
+  "id": "AleTTEqmkOI",
+  "title": "One",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=AleTTEqmkOI",
+  "card": "out_gz/Ed-Sheeran-One.png"
+ },
+ {
+  "id": "4rGimHDLb68",
+  "title": "One Life",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=4rGimHDLb68",
+  "card": "out_gz/Ed-Sheeran-One-Life.png"
+ },
+ {
+  "id": "eBi5f7LiXsI",
+  "title": "Overpass Graffiti",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=eBi5f7LiXsI",
+  "card": "out_gz/Ed-Sheeran-Overpass-Graffiti.png"
+ },
+ {
+  "id": "W76V1agADTI",
+  "title": "Penguins",
+  "artist": "Ed Sheeran",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=W76V1agADTI",
+  "card": "out_gz/Ed-Sheeran-Penguins.png"
  },
  {
   "id": "Elvis-Love-Me-Tender.png",

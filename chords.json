@@ -133,6 +133,18 @@
   "Gm",
   "Bb"
  ],
+ "out_gz/BTS-Fake-Love.png": [
+  "Bb",
+  "C",
+  "Dm"
+ ],
+ "out_gz/BTS-My-Universe.png": [
+  "Fsus2",
+  "Am7",
+  "G",
+  "Em",
+  "Gadd11"
+ ],
  "out_gz/Bee-Gees-How-Deep-Is-Your-Love.png": [
   "D",
   "Bb7",
@@ -293,6 +305,216 @@
   "Am",
   "Em"
  ],
+ "out_gz/Billy-Joel-Piano-Man.png": [
+  "C",
+  "G/B",
+  "F/A",
+  "C/G",
+  "F",
+  "C/E",
+  "D7",
+  "G",
+  "Am",
+  "Am/G",
+  "D/F#",
+  "D5"
+ ],
+ "out_gz/Bing-Crosby-White-Christmas.png": [
+  "G",
+  "Am7",
+  "D7",
+  "C",
+  "G7",
+  "Em"
+ ],
+ "out_gz/Blink182-Adams-Song.png": [
+  "D",
+  "G",
+  "C",
+  "F",
+  "A"
+ ],
+ "out_gz/Blink182-Edging.png": [
+  "C5",
+  "F5",
+  "G5",
+  "A5",
+  "E5"
+ ],
+ "out_gz/Blink182-I-Miss-You.png": [
+  "G",
+  "G/F#",
+  "Em7",
+  "G/B",
+  "Dsus2",
+  "C"
+ ],
+ "out_gz/Blink182-Stay-Together-For-The-Kids.png": [
+  "G5",
+  "D/F#"
+ ],
+ "out_gz/Blink182-Whats-My-Age-Again.png": [
+  "F#5",
+  "C#5",
+  "D#5",
+  "B5"
+ ],
+ "out_gz/Bob-Dylan-Blowin-In-The-Wind.png": [
+  "G",
+  "C",
+  "C/B",
+  "D/A",
+  "D/F#",
+  "Cadd9"
+ ],
+ "out_gz/Bob-Dylan-Dont-Think-Twice-Its-All-Right.png": [
+  "C",
+  "G",
+  "Am(c/G)",
+  "F",
+  "D7/F#",
+  "C7",
+  "C/G"
+ ],
+ "out_gz/Bob-Dylan-Knockin-On-Heavens-Door.png": [
+  "G",
+  "D",
+  "Am",
+  "C"
+ ],
+ "out_gz/Bob-Dylan-The-Times-They-Are-A-Changin.png": [
+  "G"
+ ],
+ "out_gz/Bob-Marley-No-Woman-No-Cry.png": [
+  "C",
+  "G/B",
+  "Am",
+  "F",
+  "G"
+ ],
+ "out_gz/Bob-Marley-Redemption-Song.png": [
+  "G",
+  "Em",
+  "C",
+  "G/B",
+  "Am",
+  "D"
+ ],
+ "out_gz/Bob-Marley-Three-Little-Birds.png": [
+  "A",
+  "D",
+  "E"
+ ],
+ "out_gz/Bobby-Helms-Jingle-Bell-Rock.png": [
+  "D",
+  "D6",
+  "D#dim7",
+  "Em7",
+  "A7",
+  "G",
+  "G#dim7",
+  "E7",
+  "A",
+  "B7",
+  "Gm",
+  "D7"
+ ],
+ "out_gz/Bon-Iver-Skinny-Love.png": [
+  "Am",
+  "C",
+  "G",
+  "C/B",
+  "F"
+ ],
+ "out_gz/Bon-Jovi-Wanted-Dead-or-Alive.png": [
+  "D",
+  "Cadd9",
+  "G",
+  "F",
+  "Dsus2"
+ ],
+ "out_gz/Boston-More-Than-A-Feeling.png": [
+  "D",
+  "G",
+  "D/F#",
+  "A",
+  "Bm",
+  "Em",
+  "Em7"
+ ],
+ "out_gz/Boyce-Avenue-Version-Game-Of-Thrones.png": [
+  "Am",
+  "Em",
+  "G",
+  "Dm",
+  "F",
+  "C",
+  "Am/D"
+ ],
+ "out_gz/Bradley-Cooper-Maybe-Its-Time.png": [
+  "G",
+  "C",
+  "D/F#",
+  "Em7",
+  "D"
+ ],
+ "out_gz/Brenda-Lee-Rockin-Around-The-Christmas-Tree.png": [
+  "G",
+  "D7",
+  "C",
+  "Bm",
+  "Em",
+  "Em7",
+  "A7"
+ ],
+ "out_gz/Bring-Me-The-Horizon-DiE4U.png": [
+  "B5",
+  "G5",
+  "A5",
+  "E5"
+ ],
+ "out_gz/Bring-Me-The-Horizon-Medicine.png": [
+  "Bb",
+  "Dm",
+  "C",
+  "Gm",
+  "F/A"
+ ],
+ "out_gz/Bruno-Mars-Lady-Gaga-Die-With-A-Smile.png": [
+  "C#m7",
+  "F#7",
+  "Bm7",
+  "Bm7/E",
+  "F#m",
+  "A",
+  "E/G#",
+  "E5",
+  "C#7",
+  "B"
+ ],
+ "out_gz/Bruno-Mars-Talking-To-The-Moon.png": [
+  "C",
+  "E7",
+  "Am",
+  "G",
+  "F",
+  "Dm",
+  "G/B",
+  "D"
+ ],
+ "out_gz/Bruno-Mars-Thats-What-I-Like.png": [
+  "Bbm/Eb",
+  "Bbm/Ab",
+  "Fm7",
+  "Ab/Bb",
+  "C"
+ ],
+ "out_gz/Bush-Glycerine.png": [
+  "F5",
+  "C5",
+  "D5",
+  "Bb5"
+ ],
  "out/CCR-Bad-Moon-Rising-Challenge.png": [
   "D",
   "A",
@@ -328,7 +550,28 @@
   "F",
   "G"
  ],
- "out/Coldplay-Viva-La-Vida.png": [
+ "out_gz/Cage-The-Elephant-Cigarette-Daydreams.png": [
+  "D",
+  "Dmaj7",
+  "Em",
+  "G",
+  "A",
+  "Bm",
+  "F#m"
+ ],
+ "out_gz/Calum-Scott-Dancing-On-My-Own.png": [
+  "C",
+  "G",
+  "F",
+  "Am7"
+ ],
+ "out_gz/Coldplay-The-Chainsmokers-Something-Just-Like-This.png": [
+  "G",
+  "A",
+  "Bm7",
+  "D/F#"
+ ],
+ "out_gz/Coldplay-Viva-La-Vida.png": [
   "C",
   "D",
   "G",
@@ -349,13 +592,62 @@
   "E",
   "D"
  ],
- "out/Coldplay-Yellow.png": [
+ "out_gz/Coldplay-Yellow.png": [
   "A",
   "E",
   "D",
   "Asus4",
   "F#m7",
   "Em"
+ ],
+ "out_gz/Collective-Soul-The-World-I-Know.png": [
+  "Bm",
+  "F#m",
+  "G",
+  "A",
+  "Cadd9",
+  "G/B",
+  "D",
+  "A7",
+  "D/F#"
+ ],
+ "out_gz/Conan-Gray-Astronomy.png": [
+  "G6",
+  "F#m11",
+  "Em",
+  "D",
+  "C/G",
+  "Am"
+ ],
+ "out_gz/Conan-Gray-Heather.png": [
+  "C",
+  "Em",
+  "Am",
+  "F",
+  "Fm"
+ ],
+ "out_gz/Don-McLean-American-Pie.png": [
+  "G",
+  "D/F#",
+  "Em",
+  "Am",
+  "C",
+  "D",
+  "A7",
+  "G/B",
+  "D7"
+ ],
+ "out_gz/Don-McLean-Vincent-Starry-Starry-Night.png": [
+  "G",
+  "Am",
+  "C",
+  "D7",
+  "G/F#",
+  "Em",
+  "A7",
+  "Cm",
+  "F",
+  "E7"
  ],
  "out/Eagles-Hotel-California-Short.png": [
   "Am",
@@ -365,6 +657,169 @@
   "F",
   "C",
   "Dm"
+ ],
+ "out_gz/Ed-Sheeran-Afterglow.png": [
+  "G",
+  "Csus2",
+  "Dsus4",
+  "Em7"
+ ],
+ "out_gz/Ed-Sheeran-All-Of-The-Stars.png": [
+  "G",
+  "D",
+  "Em7(4)",
+  "Cadd9(4)",
+  "Em7(1)",
+  "Cadd9(1)",
+  "Em7"
+ ],
+ "out_gz/Ed-Sheeran-Bad-Habits.png": [
+  "Am",
+  "F",
+  "G",
+  "Dm",
+  "Cmaj7",
+  "Bm",
+  "Dmaj7",
+  "Gadd9",
+  "A",
+  "Em7"
+ ],
+ "out_gz/Ed-Sheeran-Beautiful-People.png": [
+  "Am",
+  "C",
+  "F",
+  "Em"
+ ],
+ "out_gz/Ed-Sheeran-Best-Part-Of-Me.png": [
+  "D",
+  "Asus4",
+  "Bm7",
+  "G",
+  "A"
+ ],
+ "out_gz/Ed-Sheeran-Boat.png": [
+  "Cadd9",
+  "G",
+  "D",
+  "Em7",
+  "Am7",
+  "Gadd11",
+  "C/E",
+  "Fsus2",
+  "C",
+  "C/D",
+  "Gadd11/B"
+ ],
+ "out_gz/Ed-Sheeran-Drunk.png": [
+  "Em",
+  "D",
+  "G",
+  "Cadd9",
+  "D/F#"
+ ],
+ "out_gz/Ed-Sheeran-First-Times.png": [
+  "G",
+  "Am7",
+  "Em",
+  "C",
+  "G/B",
+  "D"
+ ],
+ "out_gz/Ed-Sheeran-Happier.png": [
+  "Am7",
+  "F",
+  "C"
+ ],
+ "out_gz/Ed-Sheeran-Hearts-Dont-Break-Around-Here.png": [
+  "C",
+  "G",
+  "Am7",
+  "F"
+ ],
+ "out_gz/Ed-Sheeran-How-Would-You-Feel.png": [
+  "G",
+  "Bm",
+  "Cadd9",
+  "Am",
+  "D"
+ ],
+ "out_gz/Ed-Sheeran-I-Dont-Care-Acoustic.png": [
+  "G",
+  "Em7",
+  "Cadd9",
+  "D"
+ ],
+ "out_gz/Ed-Sheeran-I-See-Fire.png": [
+  "Em",
+  "G",
+  "D",
+  "C",
+  "Am7",
+  "G/B",
+  "Em7",
+  "Cadd9",
+  "Dsus4"
+ ],
+ "out_gz/Ed-Sheeran-Im-A-Mess.png": [
+  "A",
+  "E",
+  "B",
+  "C#m",
+  "F#m"
+ ],
+ "out_gz/Ed-Sheeran-Kiss-Me.png": [
+  "G",
+  "A",
+  "D5",
+  "Bm7",
+  "Bm7(1)",
+  "Gm"
+ ],
+ "out_gz/Ed-Sheeran-Life-Goes-On.png": [
+  "Em",
+  "Am",
+  "G",
+  "C",
+  "Fsus2",
+  "F",
+  "C/E"
+ ],
+ "out_gz/Ed-Sheeran-Love-In-Slow-Motion.png": [
+  "Dm",
+  "F",
+  "C",
+  "G",
+  "Am"
+ ],
+ "out_gz/Ed-Sheeran-One-Life.png": [
+  "G",
+  "D/F#",
+  "Em7",
+  "Cadd9",
+  "D"
+ ],
+ "out_gz/Ed-Sheeran-One.png": [
+  "D",
+  "A",
+  "Bm",
+  "G",
+  "A/C#"
+ ],
+ "out_gz/Ed-Sheeran-Overpass-Graffiti.png": [
+  "Am7",
+  "G",
+  "Fsus2",
+  "C",
+  "Dm",
+  "Am7/E"
+ ],
+ "out_gz/Ed-Sheeran-Penguins.png": [
+  "Dmaj7/F#",
+  "G5",
+  "D",
+  "Asus4",
+  "Bm"
  ],
  "out/Elvis-Love-Me-Tender.png": [
   "C",

@@ -1,0 +1,33 @@
+{
+ "id": "rDN6W1hefO4",
+ "title": "BLOWIN' IN THE WIND",
+ "subtitle": "Bob Dylan  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "sections": [
+  [
+   "CHORD PATTERN & STRUMMING  ·  INTRO",
+   [
+    "frames/b5_rDN6W1hefO4/c_intro.png"
+   ]
+  ],
+  [
+   "CHORD PATTERN & STRUMMING  ·  VERSE PT.1",
+   [
+    "frames/b5_rDN6W1hefO4/c_verse.png"
+   ]
+  ],
+  [
+   "CHORD PATTERN & STRUMMING  ·  CHORUS",
+   [
+    "frames/b5_rDN6W1hefO4/c_chorus.png"
+   ]
+  ],
+  [
+   "CHORD PATTERN & STRUMMING  ·  POST CHORUS",
+   [
+    "frames/b5_rDN6W1hefO4/c_post_chorus.png"
+   ]
+  ]
+ ],
+ "note": "Chords: Verse Pt.1 G C C/B D/A G / G C C/B G G · Chorus C C/B D/A D/F# / G Cadd9 G / C C/B D/A D/F# G · Post Chorus C C/B D/A D/F# / G Cadd9 G / C C/B D/A D/F# G G   Strumming: Verse D-D-DUD- · Chorus D-D-DUDD- · Post Chorus D-DU   Capo on 7th; no TAB panel",
+ "out": "out_gz/Bob-Dylan-Blowin-In-The-Wind.png"
+}

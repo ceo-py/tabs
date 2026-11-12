@@ -21,6 +21,7 @@ SOURCES = [
     'b2_build.py', 'b3_specs.py', 'w_build.py', 'vcards.py', 'compose.py',
     'build_rock_cards.py', 'build_rock_batch2.py', 'gz_manual.py',
     'b4_specs.py', 'b1_specs.py', 'b4_build.py',
+    'b5_build.py', 'b6_build.py', 'b7_build.py', 'b8_build.py',
 ]
 
 QUAL = r'(?:maj|min|m|sus|add|dim|aug)'
@@ -91,6 +92,9 @@ def parse_chords(note):
     if not note:
         return []
     text = re.split(r'\bStrum(?:ming)?\b', note, flags=re.I)[0]
+    # a parenthesis that describes the tuning or the capo is not a chord
+    text = re.sub(r'\((?:[^)]*\bstrings?\b[^)]*)\)', ' ', text, flags=re.I)
+    text = re.sub(r'\((?:[^)]*\btuning\b[^)]*)\)', ' ', text, flags=re.I)
     out = []
     for tok in text.split():
         t = tok.strip(',.;:')
@@ -102,6 +106,11 @@ def parse_chords(note):
         if not m or m.end() != len(t):
             continue
         name = m.group(0).rstrip('*')
+        # "A(2)" / "E2" -> the bracket is an inversion marker, the chord is A / E
+        # (only 1 and 2 are inversion marks; 5/6/7/9/11/13 are chord qualities)
+        m2 = re.match(r'^(.+?)(?:\((\d)\)|([12]))$', name)
+        if m2 and re.match(r'^[A-G][#b]?[m]?$', m2.group(1)):
+            name = m2.group(1)
         if name not in out:
             out.append(name)
     return out
@@ -134,7 +143,7 @@ def main():
             found.setdefault(png, note)
         if pairs:
             print('  %-26s %d notes' % (s, len(pairs)))
-    for folder in ('b4_specs',):
+    for folder in ('b4_specs', 'b5_spec', 'b6_spec', 'b7_spec', 'b8_spec'):
         pairs = harvest_json_dir(folder)
         for png, note in pairs:
             found.setdefault(png, note)

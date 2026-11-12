@@ -1,0 +1,34 @@
+{
+ "id": "GWjHB3ZkiVY",
+ "title": "SKINNY LOVE",
+ "subtitle": "Bon Iver  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "sections": [
+  [
+   "CHORD PATTERN & STRUMMING  ·  INTRO",
+   [
+    "frames/b5_GWjHB3ZkiVY/c_intro.png",
+    "frames/b5_GWjHB3ZkiVY/c_diagram_c.png"
+   ]
+  ],
+  [
+   "CHORD PATTERN & STRUMMING  ·  VERSE 1",
+   [
+    "frames/b5_GWjHB3ZkiVY/c_verse1.png"
+   ]
+  ],
+  [
+   "CHORD PATTERN & STRUMMING  ·  CHORUS",
+   [
+    "frames/b5_GWjHB3ZkiVY/c_chorus.png"
+   ]
+  ],
+  [
+   "CHORD PATTERN & STRUMMING  ·  CHORUS 2",
+   [
+    "frames/b5_GWjHB3ZkiVY/c_bridge.png"
+   ]
+  ]
+ ],
+ "note": "Chords: Intro Am  C  x3 / G  Am / C  ·  Verse 1 Am  C  x3 / G  Am / C  ·  Chorus C  C/B  F  x3 / C  C/B  F   Strumming: D-D--UDU   A C-chord diagram is also shown; no TAB panel",
+ "out": "out_gz/Bon-Iver-Skinny-Love.png"
+}

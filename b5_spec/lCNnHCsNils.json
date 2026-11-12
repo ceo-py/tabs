@@ -1,0 +1,14 @@
+{
+ "id": "lCNnHCsNils",
+ "title": "MORE THAN A FEELING",
+ "subtitle": "Boston  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "sections": [
+  ["TAB  ·  VERSE", ["frames/b5_lCNnHCsNils/c_verse_tab.png"]],
+  ["TAB  ·  PRECHORUS", ["frames/b5_lCNnHCsNils/c_prechorus_tab.png"]],
+  ["TAB  ·  CHORUS", ["frames/b5_lCNnHCsNils/c_chorus_tab.png"]],
+  ["TAB  ·  SOLO", ["frames/b5_lCNnHCsNils/c_solo_tab.png"]],
+  ["CHORD PATTERN & STRUMMING  ·  ACOUSTIC RHYTHM", ["frames/b5_lCNnHCsNils/c_acoustic.png"]]
+ ],
+ "note": "Chords (ACOUSTIC RHYTHM panel): D  G  D/F#  A  D  G  D/F#  A / D  G  Bm  A  D  Bm  Em  A / G  G  D/F#  Em7   Strumming: DUD U-UDU   The video also shows tab staves for Verse, Prechorus, Chorus and Solo",
+ "out": "out_gz/Boston-More-Than-A-Feeling.png"
+}

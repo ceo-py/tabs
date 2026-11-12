@@ -1,0 +1,13 @@
+{
+ "id": "rmZ1zZILauw",
+ "title": "ADAM'S SONG",
+ "subtitle": "Blink-182  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "sections": [
+  ["TAB  ·  INTRO", ["frames/b5_rmZ1zZILauw/c_intro_tab.png"]],
+  ["TAB  ·  VERSE", ["frames/b5_rmZ1zZILauw/c_verse_tab.png"]],
+  ["TAB  ·  CHORUS 1", ["frames/b5_rmZ1zZILauw/c_chorus1_tab.png"]],
+  ["TAB  ·  CHORUS 2  (GUITAR 2 & 3)", ["frames/b5_rmZ1zZILauw/c_chorus2_tab.png"]]
+ ],
+ "note": "Chords: on-screen chord-shape strip reads D G C F A d  ·  This video shows TAB only - no written chord progression or strumming panel; eighth-note rhythm beaming is printed under every tab staff  ·  Markings: let ring, P.M.",
+ "out": "out_gz/Blink182-Adams-Song.png"
+}
