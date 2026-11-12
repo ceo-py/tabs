@@ -1,6 +1,6 @@
 # TABS 90 — състояние на проекта
 
-Последна актуализация: **12 ноември 2026, 19:00** (commit `8825d10` е последният в GitHub; картите по-долу още не са комитнати)
+Последна актуализация: **12 ноември 2026, 19:12** (commit `b4d4f3a` е в GitHub и на живия сайт)
 
 ---
 
@@ -8,10 +8,11 @@
 
 | Слой | Състояние |
 |---|---|
-| Жив сайт | <https://tabs.ceo-py.eu/> — 72 карти, 2 канала, легенда на акордите |
+| Жив сайт | <https://tabs.ceo-py.eu/> — **137 карти**, 2 канала, 64 rock, легенда на акордите |
 | Локален preview | http://127.0.0.1:8765/ (от телефон: http://192.168.0.206:8765/) — отделян процес, не умира с тайм-аута |
 | Репо | `github.com/ceo-py/tabs`, branch `main`, авто-деплой на VPS-а на всеки 5 мин |
-| Карти в архива | `out/` (22 карти на Bernadette) + `out_gz/` (114 карти на GuitarZero) |
+| Карти в архива | `out/` (22 карти на Bernadette) + `out_gz/` (115 карти на GuitarZero) |
+| Легенда на акордите | 110 от 137 карти имат лента с грифни диаграми |
 
 ### Функционалност на сайта
 - Рендер на каталог от JSON манифест, търсене, чипове по канал/рок
@@ -22,49 +23,49 @@
 
 ---
 
-## 2. Втора вълна: следващите 100 песни (в момента тече)
+## 2. Втора вълна: следващите 100 песни
 
 Източник: `gz_tabs_all.json` (606 песни с табове от GuitarZero2HeroExpress).
-Партидите 1–4 = първите 50 (готови). **Партидите 5–8 = следващите 100** (тече).
+Партидите 1–4 = първите 50 (готови). **Партидите 5–8 = следващите 100.**
 
-| Партида | Песни | Съдържание | Карти готови |
-|---|---|---|---|
-| 5 | 25 | Billy Joel, Bing Crosby, Blink-182, Bob Dylan, Bob Marley, Bon Iver, Bon Jovi, Boston, Boyce Avenue, Bradley Cooper, Brenda Lee, Bring Me The Horizon, Bruno Mars | **25/25 ✅** |
-| 6 | 25 | Bruno Mars, BTS, Bush, Cage The Elephant, Calum Scott, Cat Stevens, Charlie Puth, Chris Cornell, Chris Isaak, Chris Stapleton, Christmas, Chuck Berry, Clean Bandit, Clinton Kane, Coldplay ×5 | 8/25 ⏳ |
-| 7 | 25 | Coldplay, Collective Soul, Conan Gray, Creed, CCR, Crowded House, Damien Rice, Dan, Daniel Caesar, Danny Vera, Darius Rucker, Dashboard Confessional, Dave Matthews, David Bowie, Dean Lewis, Death Cab, Dolly Parton | 6/25 ⏳ |
-| 8 | 25 | Ed Sheeran ×25 | **25/25 ✅** |
+| Партида | Песни | Съдържание | Карти готови | Класификация |
+|---|---|---|---|---|
+| 5 | 25 | Billy Joel, Bing Crosby, Blink-182, Bob Dylan, Bob Marley, Bon Iver, Bon Jovi, Boston, Boyce Avenue, Bradley Cooper, Brenda Lee, Bring Me The Horizon, Bruno Mars | **25/25 ✅** | 23 LETTERS, 1 DIAGRAM, 1 NONE ✅ |
+| 6 | 25 | Bruno Mars, BTS, Bush, Cage The Elephant, Calum Scott, Cat Stevens, Charlie Puth, Chris Cornell, Chris Isaak, Chris Stapleton, Christmas, Chuck Berry, Clean Bandit, Clinton Kane, Coldplay ×5 | ~10/25 ⏳ | — |
+| 7 | 25 | Coldplay, Collective Soul, Conan Gray, Creed, CCR, Crowded House, Damien Rice, Dan, Daniel Caesar, Danny Vera, Darius Rucker, Dashboard Confessional, Dave Matthews, David Bowie, Dean Lewis, Death Cab, Dolly Parton | ~7/25 ⏳ | — |
+| 8 | 25 | Ed Sheeran ×25 | **25/25 ✅** | 23 LETTERS, 2 NONE ✅ |
 
-**Общо готови: 64 от 100.**
+**Публикувани са 66 от 100.** Партиди 6 и 7 още се обработват.
 
-### Активни агенти (4 слота, лимитът е 4)
+### Активни агенти (лимит 4)
 | Агент | Задача | Статус |
 |---|---|---|
 | `bg_f5cff672` | карти, партида 6 | тече |
 | `bg_4f6c16e9` | карти, партида 7 | тече |
-| `bg_dddf9bb7` | класификация DIAGRAM/LETTERS, партида 8 | тече |
-| — | карти, партида 5 | приключи (25/25) |
-| — | класификация, партида 5 | приключи (23 LETTERS, 1 DIAGRAM, 1 NONE) |
+| — | карти, партида 5 | приключи 25/25 |
+| — | карти, партида 8 | приключи 25/25 |
+| — | класификация, партида 5 | приключи |
+| — | класификация, партида 8 | приключи |
 
-> Агентът за партида 5 докладва: 25/25 карти, 0 неуспешни видеа, всеки crop проверен визуално,
-> programmatичен audit за празни панели и за бележки над 2 реда (композиторът реже 3-тия).
-> Класификация: `Bon-Iver-Skinny-Love.png` = DIAGRAM (има C диаграма в горната 40%),
-> `Blink182-Adams-Song.png` = NONE (само TAB), останалите 23 = LETTERS.
+> Класификацията обхваща 122 карти: 97 LETTERS, 21 DIAGRAM, 4 NONE.
+> `Bon-Iver-Skinny-Love` е DIAGRAM (има C диаграма в горната 40% — crop-ът я пропуска).
+> `Blink182-Adams-Song`, `Ed-Sheeran-Bloodstream`, `Ed-Sheeran-Lego-House` са NONE (само TAB).
 
 ---
 
-## 3. Какво да се направи, когато приключат
+## 3. Какво да се направи, когато партиди 6 и 7 приключат
 
 ```powershell
 # 1. нови карти -> songs.json
 py -3.14 import_cards.py
 
-# 2. акордите за новите карти (note полетата от b5..b8 build скриптовете и spec папките)
+# 2. класификация DIAGRAM/LETTERS -> chords_diagram_p6.json / p7.json (по 25 карти всяка)
+#    -> merge_chord_diagrams.py вече чете всички chords_diagram_p*.json
+
+# 3. акордите за новите карти
 py -3.14 chord_extract.py
 
-# 3. класификация DIAGRAM/LETTERS -> chords_has_diagram.json
-py -3.14 merge_chord_diagrams.py
-
-# 4. речникът с формите (87) — добави новите акорди, ако има непокрити
+# 4. формите (111 в момента) — за нов акорд: py -3.14 chord_voicings.py <акорд>
 py -3.14 chord_shapes.py
 
 # 5. пълен билд + zip
