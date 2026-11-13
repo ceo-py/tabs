@@ -107,8 +107,10 @@ def _record_strings(node):
             if isinstance(kw.value, ast.Constant) and isinstance(kw.value.value, str):
                 vals.append(kw.value.value)
     elif isinstance(node, (ast.Tuple, ast.List)):
-        if all(isinstance(e, ast.Constant) and isinstance(e.value, str) for e in node.elts):
-            vals = [e.value for e in node.elts]
+        # a tuple like (panels_list, 'Chords: ...', 'out_gz/X.png') carries the
+        # note and the output path next to each other - keep the plain strings
+        return [e.value for e in node.elts
+                if isinstance(e, ast.Constant) and isinstance(e.value, str)]
     return vals
 
 
@@ -149,7 +151,17 @@ def parse_chords(note):
     """-> ordered unique chord names found in a note string"""
     if not note:
         return []
-    text = re.split(r'\bStrum(?:ming)?\b', note, flags=re.I)[0]
+    text = note
+    # the chord list of the lesson is what follows a "Chords:" / "Chord names
+    # above the tab:" label - everything before it is a description
+    labels = list(re.finditer(r'\bChords?\b[^.:]*:', text, flags=re.I))
+    if labels:
+        text = text[labels[0].end():]
+    # a strumming segment is a rhythm, not a chord list - but only when it is
+    # written as a label ("Strumming:"), not in a sentence ("no strumming panel")
+    text = re.split(r'\bStrumming\b\s*[:=]', text, flags=re.I)[0]
+    # the chord list ends with its sentence
+    text = re.split(r'[.;]\s', text)[0]
     # a parenthesis that describes the tuning or the capo is not a chord
     text = re.sub(r'\((?:[^)]*\bstrings?\b[^)]*)\)', ' ', text, flags=re.I)
     text = re.sub(r'\((?:[^)]*\btuning\b[^)]*)\)', ' ', text, flags=re.I)
@@ -157,7 +169,14 @@ def parse_chords(note):
     for tok in text.split():
         t = tok.strip(',.;:')
         if ':' in t:
-            t = t.split(':', 1)[1].strip()
+            left, right = t.split(':', 1)
+            left, right = left.strip(), right.strip()
+            # "B:maj7" -> Bmaj7,  "A:5" -> a fret number, not a chord
+            if right and re.match(r'^(?:maj|min|m|sus|add|dim|aug)', right, re.I) \
+                    and re.match(r'^[A-G][#b]?$', left):
+                t = left + right
+            else:
+                t = right
         if not t:
             continue
         for name in expand_token(t):
@@ -207,18 +226,28 @@ def main():
 
     # join with the catalogue: card basename -> card path
     catalog = json.load(open(os.path.join(ROOT, 'songs.json'), encoding='utf-8'))
-    by_base = {os.path.basename(e['card']): e['card'] for e in catalog}
+    by_base = {}
+    for e in catalog:
+        by_base.setdefault(os.path.basename(e['card']), []).append(e['card'])
+
+    # a card classified as NONE shows no chord names at all -> it has no chord
+    # list, even if the note line mentions a chord-looking word
+    cls_path = os.path.join(ROOT, 'chords_has_diagram.json')
+    classes = json.load(open(cls_path, encoding='utf-8')) if os.path.exists(cls_path) else {}
 
     out = OrderedDict()
     vocab = OrderedDict()
     for base, note in sorted(found.items()):
         chords = parse_chords(note)
-        path = by_base.get(base)
-        if not chords or not path:
-            continue
-        out[path] = chords
-        for c in chords:
-            vocab[c] = vocab.get(c, 0) + 1
+        # the same file name can exist in both channels -> both get the note
+        for path in by_base.get(base, []):
+            if not chords:
+                continue
+            if classes.get(path) == 'NONE':
+                continue
+            out[path] = chords
+            for c in chords:
+                vocab[c] = vocab.get(c, 0) + 1
 
     covered = set(out)
     missing = [e['card'] for e in catalog if e['card'] not in covered]

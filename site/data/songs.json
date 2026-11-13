@@ -1224,13 +1224,7 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2684,
-   "chords": [
-    "D",
-    "G",
-    "C",
-    "F",
-    "A"
-   ]
+   "chords": []
   },
   {
    "id": "Amc1SCYFwmU",
@@ -1549,7 +1543,12 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3273,
-   "chords": []
+   "chords": [
+    "C5",
+    "Bb",
+    "F",
+    "G"
+   ]
   },
   {
    "id": "lCNnHCsNils",
@@ -1702,7 +1701,21 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2690,
-   "chords": []
+   "chords": [
+    "Em7",
+    "A7",
+    "Dmaj7",
+    "B7",
+    "A/G",
+    "F#m7",
+    "C6",
+    "Gm6",
+    "Gm7",
+    "C",
+    "Am",
+    "Bmaj7",
+    "Emaj7"
+   ]
   },
   {
    "id": "d-XxGbC1SKQ",
@@ -2108,7 +2121,9 @@
    "w": 1600,
    "h": 3340,
    "chords": [
-    "B"
+    "Eb",
+    "Bb",
+    "F"
    ]
   },
   {
@@ -4015,7 +4030,15 @@
    "thumbH": 700,
    "w": 1600,
    "h": 704,
-   "chords": []
+   "chords": [
+    "E",
+    "A",
+    "D",
+    "G",
+    "Bb",
+    "C",
+    "Gb"
+   ]
   },
   {
    "id": "K5h5GgcQwLQ",
@@ -4380,11 +4403,7 @@
     "D",
     "A#m",
     "A#m7",
-    "Bb",
-    "Gb",
-    "Db",
-    "Ab",
-    "Eb"
+    "Bb"
    ]
   },
   {
@@ -4793,7 +4812,20 @@
    "thumbH": 700,
    "w": 1600,
    "h": 4784,
-   "chords": []
+   "chords": [
+    "Em",
+    "A",
+    "D",
+    "Bm",
+    "D#dim7",
+    "B7",
+    "F#m",
+    "B",
+    "E",
+    "C#m",
+    "Fdim7",
+    "C#7"
+   ]
   },
   {
    "id": "5KOMevMS300",
@@ -4809,7 +4841,11 @@
    "thumbH": 700,
    "w": 1600,
    "h": 901,
-   "chords": []
+   "chords": [
+    "Dm",
+    "Gm7",
+    "Am7"
+   ]
   },
   {
    "id": "u7e8evgmWPg",
@@ -4825,7 +4861,10 @@
    "thumbH": 700,
    "w": 1600,
    "h": 1486,
-   "chords": []
+   "chords": [
+    "Em",
+    "G"
+   ]
   },
   {
    "id": "IaNJWAcIxrc",
@@ -4841,7 +4880,12 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3806,
-   "chords": []
+   "chords": [
+    "Dsus2",
+    "E",
+    "F#m",
+    "A"
+   ]
   },
   {
    "id": "3zMB1g9mbaA",
@@ -4857,7 +4901,13 @@
    "thumbH": 700,
    "w": 1600,
    "h": 4996,
-   "chords": []
+   "chords": [
+    "Em",
+    "D",
+    "Cadd9",
+    "G",
+    "G/B"
+   ]
   },
   {
    "id": "H3CbPR2IOS0",
@@ -4895,10 +4945,7 @@
    "thumbH": 700,
    "w": 1400,
    "h": 1300,
-   "chords": [
-    "A",
-    "E"
-   ]
+   "chords": []
   },
   {
    "id": "hrHAtLoHtSI",
@@ -4996,7 +5043,12 @@
    "thumbH": 700,
    "w": 1600,
    "h": 4935,
-   "chords": []
+   "chords": [
+    "Fm",
+    "G#",
+    "D#",
+    "Bb"
+   ]
   },
   {
    "id": "-PBapVNukdw",
@@ -5012,7 +5064,12 @@
    "thumbH": 700,
    "w": 1600,
    "h": 4413,
-   "chords": []
+   "chords": [
+    "G",
+    "Cadd9",
+    "D",
+    "Em"
+   ]
   },
   {
    "id": "f_kJIo-o_jk",
@@ -5028,7 +5085,18 @@
    "thumbH": 700,
    "w": 1600,
    "h": 5533,
-   "chords": []
+   "chords": [
+    "Fm",
+    "C#",
+    "G#",
+    "D#",
+    "F5",
+    "C#5",
+    "G#5",
+    "D#5",
+    "C5",
+    "A#5"
+   ]
   },
   {
    "id": "-e6MppN_d-M",
@@ -5105,7 +5173,13 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3305,
-   "chords": []
+   "chords": [
+    "F#5",
+    "C#5",
+    "D#5",
+    "B5",
+    "G#5"
+   ]
   },
   {
    "id": "9s6pTJ5vHcA",
@@ -6217,7 +6291,12 @@
    "thumbH": 700,
    "w": 1400,
    "h": 2060,
-   "chords": []
+   "chords": [
+    "G",
+    "D",
+    "Em",
+    "C"
+   ]
   },
   {
    "id": "John-Denver-Take-Me-Home-Country-Roads.png",

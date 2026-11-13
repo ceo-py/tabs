@@ -13,7 +13,7 @@
 | Локален preview | http://127.0.0.1:8765/ — изключен (стартира се с `Start-Process`, виж т. 6) |
 | Репо | `github.com/ceo-py/tabs`, branch `main`, авто-деплой на VPS-а на всеки 5 мин |
 | Карти в архива | `out/` (22 карти на Bernadette) + `out_gz/` (GuitarZero) |
-| Легенда на акордите | 177 форми в речника (162 акорда в употреба); 0 неразрешени |
+| Легенда на акордите | 182 форми в речника (167 акорда в употреба); 0 неразрешени |
 
 ### Функционалност на сайта
 - Рендер на каталог от JSON манифест, търсене, чипове по канал/рок
@@ -119,12 +119,18 @@ py -3.14 chord_shapes.py                # -> chord_shapes.json (163 форми)
 
 ```powershell
 py -3.14 import_cards.py        # нови карти -> songs.json (обхваща партиди 1..16)
-py -3.14 chord_extract.py       # акорди за новите карти
-py -3.14 merge_chord_diagrams.py
-py -3.14 chord_shapes.py        # -> chord_shapes.json
+py -3.14 merge_chord_diagrams.py # p1..p15 (+p99 поправки) -> chords_has_diagram.json
+py -3.14 chord_extract.py       # акорди за новите карти ( AFTER merge: картите,
+                                 # класифицирани като NONE, се пропускат)
+py -3.14 chord_shapes.py        # -> chord_shapes.json (182 форми)
 py -3.14 site_build.py          # -> site/cards, site/thumbs, site/data/songs.json
 git -C <repo> add -A ; git -C <repo> commit -m "..." ; git -C <repo> push origin main
 ```
+`merge_chord_diagrams.py` сортира файловете по число (`p2` преди `p13`), а `p99` е
+файлът с ръчни поправки — той се прилага последен и презаписва останалите.
+
+**Съгласуваност (трябва да е 0 и 0):** карта, класифицирана като NONE, няма да има
+акордови данни; карта, класифицирана като LETTERS, трябва да има.
 VPS-ът се обновява сам (user crontab `*/5 * * * *`). Ръчен деплой:
 ```powershell
 . 'D:\MiniMax Code Repos\Guitar Lessons\remote.ps1'

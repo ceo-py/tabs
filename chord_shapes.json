@@ -1439,6 +1439,58 @@
   "base": "E",
   "bass": "G#"
  },
+ "C6": {
+  "frets": [
+   0,
+   3,
+   5,
+   0,
+   5,
+   0
+  ],
+  "base": "C6",
+  "bass": null,
+  "auto": true
+ },
+ "Gm7": {
+  "frets": [
+   1,
+   1,
+   0,
+   0,
+   3,
+   1
+  ],
+  "base": "Gm7",
+  "bass": null,
+  "auto": true
+ },
+ "Bmaj7": {
+  "frets": [
+   2,
+   0,
+   0,
+   2,
+   0,
+   2
+  ],
+  "base": "Bmaj7",
+  "bass": null,
+  "auto": true
+ },
+ "Emaj7": {
+  "frets": [
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  "base": "Emaj7",
+  "bass": null,
+  "auto": true
+ },
  "Esus4": {
   "frets": [
    0,
@@ -1449,6 +1501,19 @@
    0
   ],
   "base": "Esus4",
+  "bass": null,
+  "auto": true
+ },
+ "Eb": {
+  "frets": [
+   3,
+   1,
+   1,
+   0,
+   4,
+   3
+  ],
+  "base": "Eb",
   "bass": null,
   "auto": true
  },
@@ -1475,19 +1540,6 @@
    2
   ],
   "base": "F#6",
-  "bass": null,
-  "auto": true
- },
- "Emaj7": {
-  "frets": [
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  "base": "Emaj7",
   "bass": null,
   "auto": true
  },
@@ -1766,45 +1818,6 @@
   "bass": null,
   "auto": true
  },
- "Gb": {
-  "frets": [
-   2,
-   4,
-   4,
-   3,
-   2,
-   2
-  ],
-  "base": "Gb",
-  "bass": null,
-  "auto": true
- },
- "Db": {
-  "frets": [
-   1,
-   4,
-   3,
-   1,
-   2,
-   1
-  ],
-  "base": "Db",
-  "bass": null,
-  "auto": true
- },
- "Eb": {
-  "frets": [
-   3,
-   1,
-   1,
-   0,
-   4,
-   3
-  ],
-  "base": "Eb",
-  "bass": null,
-  "auto": true
- },
  "F#m/G": {
   "frets": [
    2,
@@ -1856,16 +1869,55 @@
   "bass": null,
   "auto": true
  },
- "Gm7": {
+ "Db5": {
+  "frets": [
+   4,
+   4,
+   -1,
+   1,
+   2,
+   4
+  ],
+  "base": "Db5",
+  "bass": null,
+  "auto": true
+ },
+ "Fdim7": {
+  "frets": [
+   1,
+   2,
+   0,
+   1,
+   0,
+   1
+  ],
+  "base": "Fdim7",
+  "bass": null,
+  "auto": true
+ },
+ "G#5": {
+  "frets": [
+   4,
+   -1,
+   1,
+   1,
+   4,
+   4
+  ],
+  "base": "G#5",
+  "bass": null,
+  "auto": true
+ },
+ "A#5": {
   "frets": [
    1,
    1,
-   0,
-   0,
    3,
+   3,
+   -1,
    1
   ],
-  "base": "Gm7",
+  "base": "A#5",
   "bass": null,
   "auto": true
  },
@@ -2153,6 +2205,19 @@
    2
   ],
   "base": "Ebmaj7",
+  "bass": null,
+  "auto": true
+ },
+ "Gb": {
+  "frets": [
+   2,
+   4,
+   4,
+   3,
+   2,
+   2
+  ],
+  "base": "Gb",
   "bass": null,
   "auto": true
  }

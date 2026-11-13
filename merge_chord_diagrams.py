@@ -15,15 +15,25 @@ Output:  chords_has_diagram.json   {card path: "DIAGRAM" | "LETTERS" | "NONE"}
 """
 import json
 import os
+import re
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, 'chords_has_diagram.json')
 
 
+def sort_key(path):
+    """chords_diagram_p1, p2, ... p15 -> 1, 2, ... 15 (a plain string sort would
+    put p13 before p2).  A high number (p99) is a correction file and is
+    applied last, so it wins over the batch files."""
+    name = os.path.basename(path)
+    m = re.search(r'p(\d+)', name)
+    return int(m.group(1)) if m else 0
+
+
 def main():
     merged = {}
     import glob
-    for p in sorted(glob.glob(os.path.join(ROOT, 'chords_diagram_p*.json'))):
+    for p in sorted(glob.glob(os.path.join(ROOT, 'chords_diagram_p*.json')), key=sort_key):
         with open(p, encoding='utf-8') as f:
             data = json.load(f)
         for k, v in data.items():

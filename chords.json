@@ -326,13 +326,6 @@
   "G7",
   "Em"
  ],
- "out_gz/Blink182-Adams-Song.png": [
-  "D",
-  "G",
-  "C",
-  "F",
-  "A"
- ],
  "out_gz/Blink182-Edging.png": [
   "C5",
   "F5",
@@ -432,6 +425,12 @@
   "F",
   "Dsus2"
  ],
+ "out_gz/Bon-Jovi-You-Give-Love-A-Bad-Name.png": [
+  "C5",
+  "Bb",
+  "F",
+  "G"
+ ],
  "out_gz/Boston-More-Than-A-Feeling.png": [
   "D",
   "G",
@@ -491,6 +490,21 @@
   "C#7",
   "B"
  ],
+ "out_gz/Bruno-Mars-Risk-It-All.png": [
+  "Em7",
+  "A7",
+  "Dmaj7",
+  "B7",
+  "A/G",
+  "F#m7",
+  "C6",
+  "Gm6",
+  "Gm7",
+  "C",
+  "Am",
+  "Bmaj7",
+  "Emaj7"
+ ],
  "out_gz/Bruno-Mars-Talking-To-The-Moon.png": [
   "C",
   "E7",
@@ -539,7 +553,9 @@
   "Am",
   "C",
   "G",
-  "F"
+  "F",
+  "D",
+  "Em"
  ],
  "out/CCR-Proud-Mary.png": [
   "D",
@@ -637,7 +653,9 @@
   "Dsus4"
  ],
  "out_gz/Chuck-Berry-Johnny-B-Goode.png": [
-  "B"
+  "Eb",
+  "Bb",
+  "F"
  ],
  "out_gz/Clean-Bandit-Zara-Larsson-Symphony.png": [
   "C",
@@ -700,6 +718,12 @@
   "Bm7",
   "D/F#"
  ],
+ "out/Coldplay-Viva-La-Vida.png": [
+  "C",
+  "D",
+  "G",
+  "Em"
+ ],
  "out_gz/Coldplay-Viva-La-Vida.png": [
   "C",
   "D",
@@ -720,6 +744,14 @@
   "A",
   "E",
   "D"
+ ],
+ "out/Coldplay-Yellow.png": [
+  "B",
+  "Badd11",
+  "F#6",
+  "Emaj7",
+  "G#m",
+  "F#m11"
  ],
  "out_gz/Coldplay-Yellow.png": [
   "B",
@@ -1384,11 +1416,7 @@
   "D",
   "A#m",
   "A#m7",
-  "Bb",
-  "Gb",
-  "Db",
-  "Ab",
-  "Eb"
+  "Bb"
  ],
  "out_gz/Fall-Out-Boy-Dance-Dance.png": [
   "B5",
@@ -1508,16 +1536,59 @@
   "Gm7",
   "G7"
  ],
+ "out_gz/Fuel-Shimmer.png": [
+  "C",
+  "D",
+  "Em",
+  "Am",
+  "C/B",
+  "Cadd9",
+  "Dsus4",
+  "D5",
+  "Db5"
+ ],
+ "out_gz/George-Harrison-My-Sweet-Lord.png": [
+  "Em",
+  "A",
+  "D",
+  "Bm",
+  "D#dim7",
+  "B7",
+  "F#m",
+  "B",
+  "E",
+  "C#m",
+  "Fdim7",
+  "C#7"
+ ],
+ "out_gz/George-Michael-Careless-Whisper.png": [
+  "Dm",
+  "Gm7",
+  "Am7"
+ ],
+ "out_gz/Gigi-Perez-Sailor-Song.png": [
+  "Em",
+  "G"
+ ],
+ "out_gz/Gin-Blossoms-Hey-Jealousy.png": [
+  "Dsus2",
+  "E",
+  "F#m",
+  "A"
+ ],
+ "out_gz/Goo-Goo-Dolls-Slide.png": [
+  "Em",
+  "D",
+  "Cadd9",
+  "G",
+  "G/B"
+ ],
  "out_gz/Goo-Goo-Dolls-Standard-Alternate-Tuning-Iris.png": [
   "D",
   "Em7",
   "G",
   "Bm7",
   "Asus4"
- ],
- "out_gz/Gotye-Feat-Kimbra-Somebody-That-I-Used-To-Know.png": [
-  "A",
-  "E"
  ],
  "out_gz/Gracie-Abrams-I-Love-You-Im-Sorry.png": [
   "G",
@@ -1540,6 +1611,30 @@
   "D",
   "A"
  ],
+ "out_gz/Green-Day-Boulevard-of-Broken-Dreams-ELECTRIC.png": [
+  "Fm",
+  "G#",
+  "D#",
+  "Bb"
+ ],
+ "out_gz/Green-Day-Good-Riddance-Time-Of-Your-Life.png": [
+  "G",
+  "Cadd9",
+  "D",
+  "Em"
+ ],
+ "out_gz/Green-Day-Holiday.png": [
+  "Fm",
+  "C#",
+  "G#",
+  "D#",
+  "F5",
+  "C#5",
+  "G#5",
+  "D#5",
+  "C5",
+  "A#5"
+ ],
  "out_gz/Green-Day-Ordinary-World.png": [
   "C",
   "G/B2",
@@ -1554,6 +1649,13 @@
   "G",
   "D/F#",
   "G5"
+ ],
+ "out_gz/Green-Day-When-I-Come-Around.png": [
+  "F#5",
+  "C#5",
+  "D#5",
+  "B5",
+  "G#5"
  ],
  "out_gz/Greta-Van-Fleet-Built-By-Nations.png": [
   "Em7",
@@ -1921,6 +2023,12 @@
   "C",
   "Dsus4"
  ],
+ "out_gz/John-Denver-Take-Me-Home-Country-Roads.png": [
+  "G",
+  "D",
+  "Em",
+  "C"
+ ],
  "out/John-Denver-Take-Me-Home-Country-Roads.png": [
   "G",
   "D",
@@ -2167,6 +2275,15 @@
   "Bb",
   "F/A",
   "Dm7"
+ ],
+ "out_gz/Electric-Queen-Crazy-Little-Thing-Called-Love-Solo.png": [
+  "E",
+  "A",
+  "D",
+  "G",
+  "Bb",
+  "C",
+  "Gb"
  ],
  "out/CCR-Bad-Moon-Rising-Easy-Chords.png": [
   "D",
