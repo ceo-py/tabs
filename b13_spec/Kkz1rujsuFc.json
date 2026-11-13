@@ -1,0 +1,11 @@
+{
+  "title": "TAKE ME HOME COUNTRY ROADS",
+  "subtitle": "John Denver  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/John-Denver-Take-Me-Home-Country-Roads.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  VERSE", "t": 18, "bbox": [1200, 115, 720, 420], "png": "frames/b13_Kkz1rujsuFc/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  CHORUS", "t": 42, "bbox": [1200, 115, 720, 420], "png": "frames/b13_Kkz1rujsuFc/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  BRIDGE", "t": 114, "bbox": [1200, 115, 720, 420], "png": "frames/b13_Kkz1rujsuFc/p2.png"}
+  ],
+  "note": "Chords: G Em D C (verse)  \u00b7  G D7 Em C (chorus)  \u00b7  Em D/F# G C D (bridge)   Strumming: D-D--UDU"
+}

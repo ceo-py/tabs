@@ -1,0 +1,11 @@
+{
+  "title": "US",
+  "subtitle": "James Bay  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/James-Bay-Us.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  VERSE", "t": 18, "bbox": [1130, 108, 790, 425], "png": "frames/b13_bWdXajwb7ec/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  CHORUS 2", "t": 90, "bbox": [1130, 108, 790, 425], "png": "frames/b13_bWdXajwb7ec/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  BRIDGE", "t": 120, "bbox": [1130, 108, 790, 425], "png": "frames/b13_bWdXajwb7ec/p2.png"}
+  ],
+  "note": "Chords: Am G Am G/B C F C/E Dm C (verse)  \u00b7  Am G/B C F C F C G Am (chorus)  \u00b7  F G Am C (bridge)   Strumming: D-D-D-D- (chorus / bridge)  \u00b7  D-D-D-D-D-D-D-D-D-D (verse)"
+}

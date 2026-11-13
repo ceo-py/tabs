@@ -1,0 +1,10 @@
+{
+  "title": "UNCONDITIONALLY",
+  "subtitle": "James Arthur ft. Adam Lazarra  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/James-Arthur-ft-Adam-Lazarra-Unconditionally.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  VERSE", "t": 114, "bbox": [1130, 108, 790, 460], "png": "frames/b13_R90ihOEt-q0/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  CHORUS", "t": 60, "bbox": [1130, 108, 790, 460], "png": "frames/b13_R90ihOEt-q0/p1.png"}
+  ],
+  "note": "Chords: C/G G11 (verse)  \u00b7  C/G C/G Em Em F Fm C/G G11 Am Gadd11 F Fm (chorus)   Strumming: D---D-DU-UD-DUDU"
+}

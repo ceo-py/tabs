@@ -1,0 +1,11 @@
+{
+  "title": "REWRITE THE STARS",
+  "subtitle": "James Arthur Anne Marie  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/James-Arthur-Anne-Marie-Rewrite-The-Stars.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  PRECHORUS", "t": 24, "bbox": [1130, 112, 790, 456], "png": "frames/b13_QIzLG3K_QQ8/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  CHORUS", "t": 54, "bbox": [1130, 112, 790, 456], "png": "frames/b13_QIzLG3K_QQ8/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  BRIDGE", "t": 150, "bbox": [1130, 112, 790, 456], "png": "frames/b13_QIzLG3K_QQ8/p2.png"}
+  ],
+  "note": "Chords: D Em7 Cadd9 Cadd9 (prechorus)  \u00b7  Em7 Cadd9 G D (chorus)  \u00b7  Em7 Bm C (bridge)   Strumming: DDDDDDDDDD (prechorus)  \u00b7  D-DU-UDU (chorus / bridge)"
+}

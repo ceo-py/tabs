@@ -1,0 +1,11 @@
+{
+  "title": "CARRY ME AWAY",
+  "subtitle": "John Mayer  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/John-Mayer-Carry-Me-Away.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  CHORUS 1", "t": 60, "bbox": [1170, 118, 750, 475], "png": "frames/b13_amM-0lT4g3w/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  BRIDGE", "t": 96, "bbox": [1170, 118, 750, 475], "png": "frames/b13_amM-0lT4g3w/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  CHORUS 2", "t": 120, "bbox": [1170, 118, 750, 475], "png": "frames/b13_amM-0lT4g3w/p2.png"}
+  ],
+  "note": "Chords: F C F Am G (chorus 1)  \u00b7  F C (bridge)  \u00b7  F C F Am G D/F# F C (chorus 2)   Strumming: D-DU-UDU"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "LUCKY",
+  "subtitle": "Jason Mraz Colbie Caillat  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/Jason-Mraz-Colbie-Caillat-Lucky.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  VERSE PT.1", "t": 12, "bbox": [1120, 134, 800, 435], "png": "frames/b13_wRRBoy-d9yU/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  CHORUS 1", "t": 42, "bbox": [1120, 134, 800, 435], "png": "frames/b13_wRRBoy-d9yU/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  BRIDGE", "t": 66, "bbox": [1120, 134, 800, 435], "png": "frames/b13_wRRBoy-d9yU/p2.png"}
+  ],
+  "note": "Chords: C Am Dm7 G E7 (verse)  \u00b7  Am Dm7 G C G/B (chorus)  \u00b7  Dm7 Am G Am G/B (bridge)   Strumming: D-D-D-D- (verse)  \u00b7  D-DU (chorus)  \u00b7  D-D-D-DU (bridge)"
+}

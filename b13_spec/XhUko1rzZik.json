@@ -1,0 +1,12 @@
+{
+  "title": "YOU'RE BEAUTIFUL",
+  "subtitle": "James Blunt  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/James-Blunt-Youre-Beautiful.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  INTRO / VERSE", "t": 33, "bbox": [1160, 135, 760, 490], "png": "frames/b13_XhUko1rzZik/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  CHORUS", "t": 60, "bbox": [1160, 135, 760, 490], "png": "frames/b13_XhUko1rzZik/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  BRIDGE", "t": 147, "bbox": [1160, 135, 760, 490], "png": "frames/b13_XhUko1rzZik/p2.png"},
+    {"label": "TAB  \u00b7  MAIN RIFF", "t": 12, "bbox": [952, 138, 968, 250], "png": "frames/b13_XhUko1rzZik/p3.png"}
+  ],
+  "note": "Chords: G D/F# Em7 Cadd9 (intro / verse)  \u00b7  Cadd9 D/F# G Em7 (chorus)  \u00b7  Cadd9 Em7 Am D/F# (bridge)   Strumming: D---D--UDUD--UDU"
+}

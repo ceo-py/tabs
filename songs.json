@@ -2290,6 +2290,26 @@
   "card": "out_gz/Green-Day-Ordinary-World.png"
  },
  {
+  "id": "sEseM-hHezI",
+  "title": "Still Breathing",
+  "artist": "Green Day",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=sEseM-hHezI",
+  "card": "out_gz/Green-Day-Still-Breathing.png"
+ },
+ {
+  "id": "5FzDOaCJ2ao",
+  "title": "Wake Me Up When September Ends -",
+  "artist": "Green Day",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=5FzDOaCJ2ao",
+  "card": "out_gz/Green-Day-Wake-Me-Up-When-September-Ends.png"
+ },
+ {
   "id": "N8eLEq6R8s0",
   "title": "When I Come Around",
   "artist": "Green Day",
@@ -2328,6 +2348,16 @@
   "channel": "BernadetteTeachesMusic",
   "url": "https://www.youtube.com/watch?v=Sweet-Child",
   "card": "out/Sweet-Child-O-Mine.png"
+ },
+ {
+  "id": "qkmwTHcuoig",
+  "title": "Adore You",
+  "artist": "Harry Styles",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=qkmwTHcuoig",
+  "card": "out_gz/Harry-Styles-Adore-You.png"
  },
  {
   "id": "oLeG9U-6UO8",
@@ -2640,6 +2670,16 @@
   "card": "out_gz/James-Arthur-Empty-Space.png"
  },
  {
+  "id": "C0CDeKH6_cU",
+  "title": "Fall",
+  "artist": "James Arthur",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=C0CDeKH6_cU",
+  "card": "out_gz/James-Arthur-Fall.png"
+ },
+ {
   "id": "wTVrkNjWJx0",
   "title": "Falling Like The Stars",
   "artist": "James Arthur",
@@ -2660,6 +2700,126 @@
   "card": "out_gz/James-Arthur-September.png"
  },
  {
+  "id": "QIzLG3K_QQ8",
+  "title": "Rewrite The Stars",
+  "artist": "James Arthur Anne Marie",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=QIzLG3K_QQ8",
+  "card": "out_gz/James-Arthur-Anne-Marie-Rewrite-The-Stars.png"
+ },
+ {
+  "id": "R90ihOEt-q0",
+  "title": "Unconditionally",
+  "artist": "James Arthur ft. Adam Lazarra",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=R90ihOEt-q0",
+  "card": "out_gz/James-Arthur-ft-Adam-Lazarra-Unconditionally.png"
+ },
+ {
+  "id": "bWdXajwb7ec",
+  "title": "Us",
+  "artist": "James Bay",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=bWdXajwb7ec",
+  "card": "out_gz/James-Bay-Us.png"
+ },
+ {
+  "id": "XhUko1rzZik",
+  "title": "You're Beautiful",
+  "artist": "James Blunt",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=XhUko1rzZik",
+  "card": "out_gz/James-Blunt-Youre-Beautiful.png"
+ },
+ {
+  "id": "UY9Asr1h5Lc",
+  "title": "Fire And Rain",
+  "artist": "James Taylor",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=UY9Asr1h5Lc",
+  "card": "out_gz/James-Taylor-Fire-And-Rain.png"
+ },
+ {
+  "id": "wRRBoy-d9yU",
+  "title": "Lucky",
+  "artist": "Jason Mraz Colbie Caillat",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=wRRBoy-d9yU",
+  "card": "out_gz/Jason-Mraz-Colbie-Caillat-Lucky.png"
+ },
+ {
+  "id": "E0v71Q819Jc",
+  "title": "Hallelujah",
+  "artist": "Jeff Buckley",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=E0v71Q819Jc",
+  "card": "out_gz/Jeff-Buckley-Hallelujah.png"
+ },
+ {
+  "id": "b_qV8daWEgo",
+  "title": "Beautiful Soul",
+  "artist": "Jesse McCartney",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=b_qV8daWEgo",
+  "card": "out_gz/Jesse-McCartney-Beautiful-Soul.png"
+ },
+ {
+  "id": "EwuhkDMwfKM",
+  "title": "Time In A Bottle",
+  "artist": "Jim Croce",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=EwuhkDMwfKM",
+  "card": "out_gz/Jim-Croce-Time-In-A-Bottle.png"
+ },
+ {
+  "id": "5NkwYz_JmLg",
+  "title": "Future Days",
+  "artist": "Joel The Last Of Us Part 2",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=5NkwYz_JmLg",
+  "card": "out_gz/Joel-The-Last-Of-Us-Part-2-Future-Days.png"
+ },
+ {
+  "id": "lyrKYiVJ1vc",
+  "title": "Leaving On A Jet Plane",
+  "artist": "John Denver",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=lyrKYiVJ1vc",
+  "card": "out_gz/John-Denver-Leaving-On-A-Jet-Plane.png"
+ },
+ {
+  "id": "Kkz1rujsuFc",
+  "title": "Take Me Home Country Roads",
+  "artist": "John Denver",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=Kkz1rujsuFc",
+  "card": "out_gz/John-Denver-Take-Me-Home-Country-Roads.png"
+ },
+ {
   "id": "John-Denver-Take-Me-Home-Country-Roads.png",
   "title": "Take Me Home, Country Roads",
   "artist": "John Denver",
@@ -2668,6 +2828,76 @@
   "channel": "BernadetteTeachesMusic",
   "url": "https://www.youtube.com/watch?v=John-Denver",
   "card": "out/John-Denver-Take-Me-Home-Country-Roads.png"
+ },
+ {
+  "id": "V5VcCgDqLTA",
+  "title": "3x5",
+  "artist": "John Mayer",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=V5VcCgDqLTA",
+  "card": "out_gz/John-Mayer-3x5.png"
+ },
+ {
+  "id": "amM-0lT4g3w",
+  "title": "Carry Me Away",
+  "artist": "John Mayer",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=amM-0lT4g3w",
+  "card": "out_gz/John-Mayer-Carry-Me-Away.png"
+ },
+ {
+  "id": "JkD0QZAXAb8",
+  "title": "Edge Of Desire",
+  "artist": "John Mayer",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=JkD0QZAXAb8",
+  "card": "out_gz/John-Mayer-Edge-Of-Desire.png"
+ },
+ {
+  "id": "0LRhCPfRcb4",
+  "title": "Edge Of Desire Acoustic",
+  "artist": "John Mayer",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=0LRhCPfRcb4",
+  "card": "out_gz/John-Mayer-Edge-Of-Desire-Acoustic.png"
+ },
+ {
+  "id": "qqAjeH9ktUo",
+  "title": "Free Fallin",
+  "artist": "John Mayer",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=qqAjeH9ktUo",
+  "card": "out_gz/John-Mayer-Free-Fallin.png"
+ },
+ {
+  "id": "ATehlZb43C0",
+  "title": "Gravity",
+  "artist": "John Mayer",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=ATehlZb43C0",
+  "card": "out_gz/John-Mayer-Gravity.png"
+ },
+ {
+  "id": "WrD_RnRWKyM",
+  "title": "Gravity Acoustic",
+  "artist": "John Mayer",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=WrD_RnRWKyM",
+  "card": "out_gz/John-Mayer-Gravity-Acoustic.png"
  },
  {
   "id": "wZPCiRHkN9I",

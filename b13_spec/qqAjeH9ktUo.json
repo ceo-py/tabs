@@ -1,0 +1,11 @@
+{
+  "title": "FREE FALLIN'",
+  "subtitle": "John Mayer  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/John-Mayer-Free-Fallin.png",
+  "panels": [
+    {"label": "TAB  \u00b7  INTRO", "t": 12, "bbox": [758, 0, 1072, 618], "png": "frames/b13_qqAjeH9ktUo/p0.png"},
+    {"label": "TAB  \u00b7  GENERAL PICKING PATTERN", "t": 36, "bbox": [702, 126, 1218, 230], "png": "frames/b13_qqAjeH9ktUo/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  GENERAL PROGRESSION", "t": 60, "bbox": [725, 176, 1195, 140], "png": "frames/b13_qqAjeH9ktUo/p2.png"}
+  ],
+  "note": "Chords: D/F# G A (general progression)   Strumming: D---UDUD---UDUD-DU / D-D-DUDD--UDUD-DU"
+}

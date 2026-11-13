@@ -1,0 +1,11 @@
+{
+  "title": "BEAUTIFUL SOUL",
+  "subtitle": "Jesse McCartney  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/Jesse-McCartney-Beautiful-Soul.png",
+  "panels": [
+    {"label": "TAB  \u00b7  CHORUS RIFF", "t": 12, "bbox": [570, 126, 1350, 435], "png": "frames/b13_b_qV8daWEgo/p0.png"},
+    {"label": "TAB  \u00b7  VERSE", "t": 48, "bbox": [594, 126, 1326, 220], "png": "frames/b13_b_qV8daWEgo/p1.png"},
+    {"label": "TAB  \u00b7  BRIDGE", "t": 156, "bbox": [575, 126, 1345, 414], "png": "frames/b13_b_qV8daWEgo/p2.png"}
+  ],
+  "note": "Chords: A E/G# F#m7 D (chorus riff)  \u00b7  A E/G# A/C# D E/G# (verse)  \u00b7  F#m A/C# D (bridge)"
+}

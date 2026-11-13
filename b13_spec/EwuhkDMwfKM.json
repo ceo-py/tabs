@@ -1,0 +1,11 @@
+{
+  "title": "TIME IN A BOTTLE",
+  "subtitle": "Jim Croce  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/Jim-Croce-Time-In-A-Bottle.png",
+  "panels": [
+    {"label": "TAB  \u00b7  VERSE 1", "t": 24, "bbox": [240, 560, 1680, 516], "png": "frames/b13_EwuhkDMwfKM/p0.png"},
+    {"label": "TAB  \u00b7  CHORUS 1", "t": 222, "bbox": [240, 560, 1680, 516], "png": "frames/b13_EwuhkDMwfKM/p1.png"},
+    {"label": "TAB  \u00b7  BREAK", "t": 84, "bbox": [240, 560, 1680, 516], "png": "frames/b13_EwuhkDMwfKM/p2.png"}
+  ],
+  "note": "Chords: Bb6(11) Dm Dm/C Bb6(11) Gm (verse)  \u00b7  A C#/m/G# F#m A/E Asus2/F Asus2/E Bm7/D (chorus)  \u00b7  Dm Dm/C# Dm/C G7/B Bb6(11) (break)"
+}

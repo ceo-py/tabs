@@ -82,6 +82,11 @@ def build(path_out, title, subtitle, sections, link, min_width=1400,
         if d.textlength(title, font=f) <= avail:
             break
         title_size -= 2
+    while sub_size > 20:
+        f = font(F_REG, sub_size)
+        if d.textlength(subtitle, font=f) <= avail:
+            break
+        sub_size -= 2
     d.text((pad, 42), title, font=font(F_BOLD, title_size), fill=CYAN)
     d.text((pad + 3, 42 + title_size + 20), subtitle, font=font(F_REG, sub_size), fill=DIM)
     d.line([(pad, head_h - 40), (W - pad, head_h - 40)], fill=RULE, width=2)

@@ -1,0 +1,11 @@
+{
+  "title": "FALL",
+  "subtitle": "James Arthur  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/James-Arthur-Fall.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  VERSE", "t": 18, "bbox": [1130, 108, 790, 460], "png": "frames/b13_C0CDeKH6_cU/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  CHORUS", "t": 54, "bbox": [1130, 108, 790, 460], "png": "frames/b13_C0CDeKH6_cU/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  BREAK", "t": 174, "bbox": [1130, 108, 790, 460], "png": "frames/b13_C0CDeKH6_cU/p2.png"}
+  ],
+  "note": "Chords: E Asus2 E / F# Asus2 E (verse)  \u00b7  Asus2 Bsus4 E G#m Bsus4 Asus2 Am (chorus)  \u00b7  E (break)   Strumming: D-DUDU"
+}

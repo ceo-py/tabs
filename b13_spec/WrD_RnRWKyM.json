@@ -1,0 +1,11 @@
+{
+  "title": "GRAVITY ACOUSTIC",
+  "subtitle": "John Mayer  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/John-Mayer-Gravity-Acoustic.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  VERSE", "t": 42, "bbox": [256, 560, 1664, 516], "png": "frames/b13_WrD_RnRWKyM/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  CHORUS", "t": 54, "bbox": [256, 560, 1664, 516], "png": "frames/b13_WrD_RnRWKyM/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  INTRO", "t": 12, "bbox": [256, 560, 1664, 516], "png": "frames/b13_WrD_RnRWKyM/p2.png"}
+  ],
+  "note": "Chords: G C (verse / intro)  \u00b7  Am7 D7 Gm/Bb EbM7 D7 (chorus)   Strumming: D-DUDUD-DUDU"
+}

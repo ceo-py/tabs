@@ -1516,8 +1516,8 @@
   "Asus4"
  ],
  "out_gz/Gotye-Feat-Kimbra-Somebody-That-I-Used-To-Know.png": [
-  "Em7",
-  "B7"
+  "A",
+  "E"
  ],
  "out_gz/Gracie-Abrams-I-Love-You-Im-Sorry.png": [
   "G",
@@ -1531,7 +1531,8 @@
   "C/E",
   "D5",
   "C5",
-  "Bb5"
+  "Bb5",
+  "A5"
  ],
  "out_gz/Green-Day-Boulevard-of-Broken-Dreams-ACOUSTIC.png": [
   "Em",
@@ -1546,6 +1547,49 @@
   "G",
   "F4",
   "Am3"
+ ],
+ "out_gz/Green-Day-Wake-Me-Up-When-September-Ends.png": [
+  "C",
+  "Cm",
+  "G",
+  "D/F#",
+  "G5"
+ ],
+ "out_gz/Greta-Van-Fleet-Built-By-Nations.png": [
+  "Em7",
+  "D",
+  "G",
+  "C"
+ ],
+ "out_gz/Grover-Washington-Jr-Just-The-Two-Of-Us.png": [
+  "B7",
+  "Em",
+  "Dm7",
+  "G7",
+  "Em7",
+  "Ebm7",
+  "A7"
+ ],
+ "out_gz/Harry-Styles-Adore-You.png": [
+  "Am7",
+  "C",
+  "F",
+  "G"
+ ],
+ "out_gz/Harry-Styles-As-It-Was.png": [
+  "Dsus2",
+  "Bm7",
+  "E",
+  "A"
+ ],
+ "out_gz/Harry-Styles-Cherry.png": [
+  "Am7",
+  "Fmaj7",
+  "C",
+  "G",
+  "F",
+  "C/E",
+  "Dm"
  ],
  "out_gz/Harry-Styles-Falling.png": [
   "E",
@@ -1754,11 +1798,27 @@
   "D",
   "G"
  ],
+ "out_gz/James-Arthur-Anne-Marie-Rewrite-The-Stars.png": [
+  "D",
+  "Em7",
+  "Cadd9",
+  "G",
+  "Bm",
+  "C"
+ ],
  "out_gz/James-Arthur-Empty-Space.png": [
   "C",
   "C/B",
   "F",
   "G"
+ ],
+ "out_gz/James-Arthur-Fall.png": [
+  "E",
+  "Asus2",
+  "F#",
+  "Bsus4",
+  "G#m",
+  "Am"
  ],
  "out_gz/James-Arthur-Falling-Like-The-Stars.png": [
   "C",
@@ -1771,11 +1831,154 @@
   "D",
   "Em7"
  ],
+ "out_gz/James-Arthur-ft-Adam-Lazarra-Unconditionally.png": [
+  "C/G",
+  "G11",
+  "Em",
+  "F",
+  "Fm",
+  "Am",
+  "Gadd11"
+ ],
+ "out_gz/James-Bay-Us.png": [
+  "Am",
+  "G",
+  "G/B",
+  "C",
+  "F",
+  "C/E",
+  "Dm"
+ ],
+ "out_gz/James-Blunt-Youre-Beautiful.png": [
+  "G",
+  "D/F#",
+  "Em7",
+  "Cadd9",
+  "Am"
+ ],
+ "out_gz/James-Taylor-Fire-And-Rain.png": [
+  "A",
+  "G/E",
+  "D",
+  "E",
+  "Gmaj7",
+  "Bm7",
+  "Bm7/E",
+  "G",
+  "D/F#",
+  "Em7",
+  "Asus2"
+ ],
+ "out_gz/Jason-Mraz-Colbie-Caillat-Lucky.png": [
+  "C",
+  "Am",
+  "Dm7",
+  "G",
+  "E7",
+  "G/B"
+ ],
+ "out_gz/Jeff-Buckley-Hallelujah.png": [
+  "G",
+  "Em7",
+  "C",
+  "D",
+  "G/B",
+  "Em",
+  "D/A"
+ ],
+ "out_gz/Jesse-McCartney-Beautiful-Soul.png": [
+  "A",
+  "E/G#",
+  "F#m7",
+  "D",
+  "A/C#",
+  "F#m"
+ ],
+ "out_gz/Jim-Croce-Time-In-A-Bottle.png": [
+  "Bb6",
+  "Dm",
+  "Dm/C",
+  "Gm",
+  "A",
+  "F#m",
+  "A/E",
+  "Asus2/F",
+  "Asus2/E",
+  "Bm7/D",
+  "Dm/C#",
+  "G7/B"
+ ],
+ "out_gz/Joel-The-Last-Of-Us-Part-2-Future-Days.png": [
+  "C",
+  "F",
+  "G/B",
+  "Am7"
+ ],
+ "out_gz/John-Denver-Leaving-On-A-Jet-Plane.png": [
+  "G",
+  "Cadd9",
+  "D",
+  "C",
+  "Dsus4"
+ ],
  "out/John-Denver-Take-Me-Home-Country-Roads.png": [
   "G",
   "D",
   "Em",
   "C"
+ ],
+ "out_gz/John-Mayer-3x5.png": [
+  "Em7",
+  "D7/F#",
+  "G7",
+  "Cadd9",
+  "B11",
+  "G",
+  "Dm9",
+  "Am7",
+  "Am11",
+  "Em",
+  "D/F#"
+ ],
+ "out_gz/John-Mayer-Carry-Me-Away.png": [
+  "F",
+  "C",
+  "Am",
+  "G",
+  "D/F#"
+ ],
+ "out_gz/John-Mayer-Edge-Of-Desire-Acoustic.png": [
+  "A",
+  "Bm11",
+  "E",
+  "Dsus2",
+  "F#m",
+  "D"
+ ],
+ "out_gz/John-Mayer-Edge-Of-Desire.png": [
+  "A",
+  "D",
+  "Bm",
+  "E"
+ ],
+ "out_gz/John-Mayer-Free-Fallin.png": [
+  "D/F#",
+  "G",
+  "A"
+ ],
+ "out_gz/John-Mayer-Gravity-Acoustic.png": [
+  "G",
+  "C",
+  "Am7",
+  "D7",
+  "Gm/Bb"
+ ],
+ "out_gz/John-Mayer-Gravity.png": [
+  "G",
+  "C",
+  "Am7",
+  "D7",
+  "Ebmaj7"
  ],
  "out_gz/John-Mayer-I-Guess-I-Just-Feel-Like.png": [
   "A",
