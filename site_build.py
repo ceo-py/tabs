@@ -143,8 +143,26 @@ def main():
             missing += 1
             continue
         name = slug(e['card'])
+        if name in used:
+            # two channels can ship a card with the same file name
+            # (e.g. Coldplay-Yellow) -> keep both, disambiguate the second
+            base = name
+            alt = slug(e.get('id', ''))
+            name = '%s-%s' % (base, alt) if alt and alt != base else '%s-2' % base
+            n = 2
+            while name in used:
+                name = '%s-%s%d' % (base, alt or 'alt', n)
+                n += 1
+            print('  name collision: %s -> %s' % (base, name))
         used.add(name)
-        tsz, fsz, card_v, thumb_v = build_assets(src, name)
+        try:
+            tsz, fsz, card_v, thumb_v = build_assets(src, name)
+        except Exception as exc:
+            # a card file that is unreadable (e.g. still being written) must not
+            # break the whole build — skip it and try again on the next run
+            print('  UNREADABLE card file: %s (%s)' % (e['card'], exc))
+            missing += 1
+            continue
         songs.append({
             'id': e.get('id', name),
             'title': e.get('title', ''),

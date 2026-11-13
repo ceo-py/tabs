@@ -73,7 +73,7 @@ def discover():
 
     # --- GuitarZero2HeroExpress ---
     rows = []
-    for bi in range(1, 9):
+    for bi in range(1, 17):
         p = os.path.join(ROOT, 'gz_batches', 'batch%d.json' % bi)
         if not os.path.exists(p):
             continue

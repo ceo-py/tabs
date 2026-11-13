@@ -1,0 +1,20 @@
+[
+ {
+  "id": "Kn_u3X5KRPk",
+  "artist": "Coldplay",
+  "song": "Sky Full Of Stars",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Coldplay-Sky-Full-Of-Stars.png",
+  "url": "https://www.youtube.com/watch?v=Kn_u3X5KRPk"
+ },
+ {
+  "id": "KBciUO7Iv7Y",
+  "artist": "Coldplay",
+  "song": "Sparks",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Coldplay-Sparks.png",
+  "url": "https://www.youtube.com/watch?v=KBciUO7Iv7Y"
+ }
+]
