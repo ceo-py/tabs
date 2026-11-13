@@ -1,0 +1,15 @@
+{
+  "title": "MY HERO",
+  "subtitle": "Foo Fighters  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Foo-Fighters-My-Hero.png",
+  "panels": [
+   {"label": "TAB  ·  INTRO", "t": 8, "bbox": [240, 556, 1680, 524], "png": "frames/b10_D6ZqXo6jlqU/p_intro.png"},
+   {"label": "TAB  ·  VERSE", "t": 30, "bbox": [240, 556, 1680, 360], "png": "frames/b10_D6ZqXo6jlqU/p_verse.png"},
+   {"label": "TAB  ·  CHORUS", "t": 55, "bbox": [240, 556, 1680, 524], "png": "frames/b10_D6ZqXo6jlqU/p_chorus.png"},
+   {"label": "TAB  ·  VERSE 2", "t": 90, "bbox": [240, 556, 1680, 360], "png": "frames/b10_D6ZqXo6jlqU/p_verse2.png"},
+   {"label": "TAB  ·  CHORUS 2", "t": 120, "bbox": [240, 556, 1680, 524], "png": "frames/b10_D6ZqXo6jlqU/p_chorus2.png"},
+   {"label": "TAB  ·  BRIDGE", "t": 150, "bbox": [240, 556, 1680, 360], "png": "frames/b10_D6ZqXo6jlqU/p_bridge.png"},
+   {"label": "TAB  ·  CHORUS 3", "t": 190, "bbox": [240, 556, 1680, 524], "png": "frames/b10_D6ZqXo6jlqU/p_chorus3.png"}
+  ],
+  "note": "Chords: Verse / Bridge E C#7sus2 C#m7  |  Chorus A then E  ·  Tab notation with strum arrows — the video shows no separate strumming-pattern panel"
+}

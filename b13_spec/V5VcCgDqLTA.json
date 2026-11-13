@@ -1,0 +1,11 @@
+{
+  "title": "3X5",
+  "subtitle": "John Mayer  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/John-Mayer-3x5.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  VERSE", "t": 36, "bbox": [204, 560, 1716, 516], "png": "frames/b13_V5VcCgDqLTA/p0.png"},
+    {"label": "TAB  \u00b7  CHORUS 1", "t": 144, "bbox": [204, 560, 1716, 516], "png": "frames/b13_V5VcCgDqLTA/p1.png"},
+    {"label": "TAB  \u00b7  BRIDGE", "t": 174, "bbox": [204, 560, 1716, 516], "png": "frames/b13_V5VcCgDqLTA/p2.png"}
+  ],
+  "note": "Chords: Em7 D7/F# G7 Cadd9 B11 (verse)  \u00b7  G Dm9 Am7 Am11 (chorus)  \u00b7  Em D/F# G (bridge)   Strumming: DUDUDUDUDUDUDUDU"
+}

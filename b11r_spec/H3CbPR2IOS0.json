@@ -1,0 +1,12 @@
+{
+  "title": "IRIS",
+  "subtitle": "Goo Goo Dolls  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Goo-Goo-Dolls-Standard-Alternate-Tuning-Iris.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 20, "bbox": [1150, 116, 650, 394], "png": "frames/b11r_H3CbPR2IOS0/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 56, "bbox": [1150, 116, 650, 394], "png": "frames/b11r_H3CbPR2IOS0/p1.png"},
+    {"label": "TAB  ·  BREAK", "t": 80, "bbox": [1070, 110, 850, 405], "png": "frames/b11r_H3CbPR2IOS0/p2.png"},
+    {"label": "TAB  ·  STABBY SECTION", "t": 440, "bbox": [1070, 110, 850, 250], "png": "frames/b11r_H3CbPR2IOS0/p3.png"}
+  ],
+  "note": "Chords: D Em7 G G / Bm7 Asus4 G G (verse)  ·  Bm7 Asus4 G G (chorus)   Strumming: D-DUDU"
+}

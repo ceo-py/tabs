@@ -1,0 +1,12 @@
+{
+  "title": "IN YOUR ATMOSPHERE",
+  "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/John-Mayer-In-Your-Atmosphere.png",
+  "panels": [
+   {"label": "TAB  ·  INTRO", "t": 6, "bbox": [232, 560, 1688, 520], "png": "frames/b14_dHAPjMFC33s/p6.png"},
+   {"label": "TAB  ·  VERSE", "t": 30, "bbox": [232, 560, 1688, 520], "png": "frames/b14_dHAPjMFC33s/p30.png"},
+   {"label": "TAB  ·  CHORUS", "t": 90, "bbox": [232, 560, 1688, 520], "png": "frames/b14_dHAPjMFC33s/p90.png"},
+   {"label": "TAB  ·  BRIDGE", "t": 138, "bbox": [232, 560, 1688, 520], "png": "frames/b14_dHAPjMFC33s/p138.png"}
+  ],
+  "note": "Chords: Chorus F#m11 C#m7 Badd11 · G#m C#m7 Badd11 · F/A Badd9 Badd11  |  Strumming: Verse D---U-UD-DU · Chorus D--UDUD--UDUD-DU · Bridge D--UDUDUDU"
+}

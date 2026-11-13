@@ -1,0 +1,12 @@
+{
+  "title": "JUST THE TWO OF US",
+  "subtitle": "Grover Washington Jr  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Grover-Washington-Jr-Just-The-Two-Of-Us.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  ·  MAIN PROGRESSION", "t": 42, "bbox": [248, 560, 1672, 516], "png": "frames/b11r_E65OP4e2bwU/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 102, "bbox": [248, 560, 1672, 516], "png": "frames/b11r_E65OP4e2bwU/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 126, "bbox": [248, 560, 1672, 516], "png": "frames/b11r_E65OP4e2bwU/p2.png"},
+    {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE", "t": 210, "bbox": [248, 560, 1672, 516], "png": "frames/b11r_E65OP4e2bwU/p3.png"}
+  ],
+  "note": "Chords: CM7 B7 Em Dm7 G7 (verse)  ·  CM7 B7 Em7 Ebm7 Dm7 G7 (chorus)  ·  Bridge: CM7 B7 BbM7 A7 AbM7 G7   Strumming: D-DU | D-DU | D-DU | D-DU"
+}

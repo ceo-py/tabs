@@ -1,0 +1,13 @@
+{
+  "title": "GAME OF THRONES",
+  "subtitle": "Fingerstyle  ·  Guitar Cover  ·  Tabs  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Fingerstyle-Game-Of-Thrones.png",
+  "panels": [
+   {"label": "TAB  ·  INTRO", "t": 10, "bbox": [620, 132, 1300, 503], "png": "frames/b10_BuUx1e2SZdU/p_intro.png"},
+   {"label": "TAB  ·  VERSE", "t": 30, "bbox": [620, 132, 1300, 503], "png": "frames/b10_BuUx1e2SZdU/p_verse.png"},
+   {"label": "TAB  ·  VERSE VARIATION", "t": 50, "bbox": [620, 132, 1300, 503], "png": "frames/b10_BuUx1e2SZdU/p_versevar.png"},
+   {"label": "TAB  ·  CHORUS", "t": 70, "bbox": [620, 132, 1300, 503], "png": "frames/b10_BuUx1e2SZdU/p_chorus.png"},
+   {"label": "TAB  ·  CHORUS VARIATION", "t": 90, "bbox": [620, 132, 1300, 503], "png": "frames/b10_BuUx1e2SZdU/p_chorusvar.png"}
+  ],
+  "note": "Chords: Verse Am Em G A5  |  Chorus F C Dm Am  ·  F Am/D Em7 A5  ·  On-screen note: all notes relative to capo on 3rd"
+}

@@ -1,0 +1,39 @@
+{
+ "title": "DRIVE",
+ "subtitle": "Incubus  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Incubus-Drive-Alt.png",
+ "panels": [
+  {
+   "label": "TAB · VERSE/CHORUS",
+   "t": 20.0,
+   "bbox": [
+    372,
+    8,
+    780,
+    548
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · VERSE/CHORUS",
+   "t": 20.0,
+   "bbox": [
+    1150,
+    0,
+    680,
+    250
+   ]
+  },
+  {
+   "label": "TAB · SOLO",
+   "t": 160.0,
+   "bbox": [
+    456,
+    140,
+    1464,
+    436
+   ]
+  }
+ ],
+ "note": "Chords: Em · Em9 · Cmaj7 (Cmai7) · Em/A   Rhythm marks under the tab: D D U D U",
+ "video": "dl/v_5eR_mrxBRrY.mp4"
+}

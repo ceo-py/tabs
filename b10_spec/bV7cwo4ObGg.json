@@ -1,0 +1,74 @@
+{
+ "title": "DANCE DANCE",
+ "subtitle": "Fall Out Boy  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Fall-Out-Boy-Dance-Dance.png",
+ "panels": [
+  {
+   "label": "TAB  ·  PRECHORUS 1",
+   "t": 34,
+   "bbox": [
+    248,
+    556,
+    1672,
+    524
+   ],
+   "png": "frames/b10_bV7cwo4ObGg/p_prechorus1.png"
+  },
+  {
+   "label": "TAB  ·  CHORUS 1",
+   "t": 48,
+   "bbox": [
+    248,
+    556,
+    1672,
+    350
+   ],
+   "png": "frames/b10_bV7cwo4ObGg/p_chorus1.png"
+  },
+  {
+   "label": "TAB  ·  POST CHORUS",
+   "t": 60,
+   "bbox": [
+    248,
+    556,
+    1672,
+    390
+   ],
+   "png": "frames/b10_bV7cwo4ObGg/p_postchorus.png"
+  },
+  {
+   "label": "TAB  ·  BRIDGE",
+   "t": 120,
+   "bbox": [
+    248,
+    556,
+    1672,
+    500
+   ],
+   "png": "frames/b10_bV7cwo4ObGg/p_bridge.png"
+  },
+  {
+   "label": "TAB  ·  CHORUS 3",
+   "t": 145,
+   "bbox": [
+    248,
+    556,
+    1672,
+    330
+   ],
+   "png": "frames/b10_bV7cwo4ObGg/p_chorus3.png"
+  },
+  {
+   "label": "TAB  ·  OUTRO",
+   "t": 165,
+   "bbox": [
+    248,
+    556,
+    1672,
+    510
+   ],
+   "png": "frames/b10_bV7cwo4ObGg/p_outro.png"
+  }
+ ],
+ "note": "Chords: Chorus B5 D5 G5 F#5 B!5  (4x in Chorus 1, 6x in Chorus 3)  ·  Prechorus, Post Chorus, Bridge and Outro are tab only — no chord names shown"
+}

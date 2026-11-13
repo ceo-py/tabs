@@ -1,0 +1,10 @@
+{
+  "title": "ORDINARY WORLD",
+  "subtitle": "Green Day  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Green-Day-Ordinary-World.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 60, "bbox": [1080, 0, 840, 670], "png": "frames/b11r_-e6MppN_d-M/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1", "t": 40, "bbox": [1080, 0, 840, 670], "png": "frames/b11r_-e6MppN_d-M/p1.png"}
+  ],
+  "note": "Chords: C2 G/B2 Am2 G2 / F4 C2 G2 (verse)  ·  Am3 G1 F4 (chorus)   Strumming: D-DU"
+}

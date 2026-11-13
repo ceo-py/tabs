@@ -1,0 +1,15 @@
+{
+  "title": "THE PRETENDER",
+  "subtitle": "Foo Fighters  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Foo-Fighters-The-Pretender.png",
+  "panels": [
+   {"label": "TAB  ·  INTRO", "t": 15, "bbox": [224, 556, 1696, 524], "png": "frames/b10_WCmKv1vdO7Q/p_intro.png"},
+   {"label": "TAB  ·  VERSE 1", "t": 60, "bbox": [224, 556, 1696, 524], "png": "frames/b10_WCmKv1vdO7Q/p_verse1.png"},
+   {"label": "TAB  ·  CHORUS 1", "t": 95, "bbox": [224, 556, 1696, 524], "png": "frames/b10_WCmKv1vdO7Q/p_chorus1.png"},
+   {"label": "TAB  ·  CHORUS 2", "t": 145, "bbox": [224, 556, 1696, 524], "png": "frames/b10_WCmKv1vdO7Q/p_chorus2.png"},
+   {"label": "TAB  ·  BRIDGE", "t": 175, "bbox": [224, 556, 1696, 524], "png": "frames/b10_WCmKv1vdO7Q/p_bridge.png"},
+   {"label": "TAB  ·  CHORUS 3", "t": 215, "bbox": [224, 556, 1696, 524], "png": "frames/b10_WCmKv1vdO7Q/p_chorus3.png"},
+   {"label": "TAB  ·  OUTRO", "t": 262, "bbox": [224, 556, 1696, 524], "png": "frames/b10_WCmKv1vdO7Q/p_outro.png"}
+  ],
+  "note": "Tab notation only — the video shows no chord names and no strumming pattern."
+}

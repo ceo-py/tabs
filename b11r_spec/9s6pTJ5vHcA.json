@@ -1,0 +1,12 @@
+{
+  "title": "BUILT BY NATIONS",
+  "subtitle": "Greta Van Fleet  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Greta-Van-Fleet-Built-By-Nations.png",
+  "panels": [
+    {"label": "TAB  ·  VERSE 1", "t": 36, "bbox": [232, 560, 1688, 516], "png": "frames/b11r_9s6pTJ5vHcA/p0.png"},
+    {"label": "TAB  ·  CHORUS 1", "t": 60, "bbox": [232, 560, 1688, 516], "png": "frames/b11r_9s6pTJ5vHcA/p1.png"},
+    {"label": "TAB  ·  SOLO", "t": 168, "bbox": [232, 560, 1688, 516], "png": "frames/b11r_9s6pTJ5vHcA/p2.png"},
+    {"label": "TAB  ·  FINAL CHORUS", "t": 186, "bbox": [232, 560, 1688, 516], "png": "frames/b11r_9s6pTJ5vHcA/p3.png"}
+  ],
+  "note": "Chords: Em7 D G D / Em7 D C C (verse)  ·  Em7 D C (chorus)   No strumming pattern is shown in this video"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "IN THE BLOOD",
+  "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/John-Mayer-In-The-Blood.png",
+  "panels": [
+   {"label": "TAB  ·  OUTRO", "t": 150, "bbox": [0, 560, 1920, 520], "png": "frames/b14_JHU85vinYzQ/tab150.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  INTRO", "t": 6, "bbox": [1000, 55, 920, 480], "png": "frames/b14_JHU85vinYzQ/ov6.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 18, "bbox": [1000, 55, 920, 480], "png": "frames/b14_JHU85vinYzQ/ov18.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 70, "bbox": [1000, 55, 920, 480], "png": "frames/b14_JHU85vinYzQ/ov70.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  OUTRO", "t": 200, "bbox": [1000, 55, 920, 560], "png": "frames/b14_JHU85vinYzQ/ov200.png"}
+  ],
+  "note": "Chords: Intro G G/F# Em7 Cadd9 G/B G · Verse G Em7 Cadd9 G · Chorus Em7 G Cadd9 G · Outro Em7 G Cadd9 G · Em7 G D · G (x8)  |  Strumming: D-D-D-DU"
+}

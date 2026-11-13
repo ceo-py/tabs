@@ -1,0 +1,29 @@
+{
+ "title": "COLLIDE",
+ "subtitle": "Howie Day  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Howie-Day-Collide.png",
+ "panels": [
+  {
+   "label": "CHORD PATTERN & STRUMMING · MAIN PROGRESSION",
+   "t": 1.5,
+   "bbox": [
+    260,
+    558,
+    1660,
+    518
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · BRIDGE",
+   "t": 146.5,
+   "bbox": [
+    260,
+    558,
+    1660,
+    518
+   ]
+  }
+ ],
+ "note": "Chords: Main progression G · D/F# · Em7 · Cadd9   ·   Bridge Em · C · D   Strumming: D-D-D-DUDUD-D-DU (main) · D-D-U-D-D-U-D--- (bridge)",
+ "video": "dl/v_fdyqIq-iYko.mp4"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "BEST OF YOU",
+  "subtitle": "Foo Fighters  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Foo-Fighters-Best-Of-You.png",
+  "panels": [
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 1", "t": 10, "bbox": [224, 556, 1696, 524], "png": "frames/b10_c_BH-5ppsVE/p_verse1.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1", "t": 35, "bbox": [224, 556, 1696, 524], "png": "frames/b10_c_BH-5ppsVE/p_chorus1.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 2", "t": 70, "bbox": [224, 556, 1696, 524], "png": "frames/b10_c_BH-5ppsVE/p_verse2.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 2", "t": 110, "bbox": [224, 556, 1696, 524], "png": "frames/b10_c_BH-5ppsVE/p_chorus2.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  SOLO", "t": 140, "bbox": [224, 556, 1696, 524], "png": "frames/b10_c_BH-5ppsVE/p_solo.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 3", "t": 175, "bbox": [224, 556, 1696, 524], "png": "frames/b10_c_BH-5ppsVE/p_chorus3.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  OUTRO", "t": 258, "bbox": [224, 556, 1696, 524], "png": "frames/b10_c_BH-5ppsVE/p_outro.png"}
+  ],
+  "note": "Chords: Verse C#m7 · Asus2 · Bsus4 (x2)  |  Chorus C#m7 Bsus4 Asus2 (· F#m11)  |  Solo C#m7 Asus2 Bsus4  |  Outro: tab riff  ·  Strumming: D-D-D-D-D-D-D-D (accent highlighted), D-DUD-D-DUD-D-DU (solo), D--UD-D-DUDUDUDU (outro, mute highlighted strums)"
+}

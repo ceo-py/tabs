@@ -1,0 +1,13 @@
+{
+  "title": "WONDERFUL TONIGHT",
+  "subtitle": "Eric Clapton  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Eric-Clapton-Wonderful-Tonight-Alt.png",
+  "panels": [
+   {"label": "TAB  ·  VERSE", "t": 30, "bbox": [256, 556, 1664, 524], "png": "frames/b10_r4Io7tHjLmQ/p_verse.png"},
+   {"label": "TAB  ·  CHORUS", "t": 50, "bbox": [256, 556, 1664, 524], "png": "frames/b10_r4Io7tHjLmQ/p_chorus.png"},
+   {"label": "TAB  ·  BREAK 1", "t": 63, "bbox": [256, 556, 1664, 524], "png": "frames/b10_r4Io7tHjLmQ/p_break1.png"},
+   {"label": "TAB  ·  BRIDGE", "t": 120, "bbox": [256, 556, 1664, 524], "png": "frames/b10_r4Io7tHjLmQ/p_bridge.png"},
+   {"label": "TAB  ·  OUTRO", "t": 200, "bbox": [256, 556, 1664, 524], "png": "frames/b10_r4Io7tHjLmQ/p_outro.png"}
+  ],
+  "note": "Chords: Verse G D/F# C D  |  Chorus C D G D/F# Em · C D  |  Bridge C D G D/F# Em · C D C D  |  Outro G D/F# C D  ·  Strumming: up/down marks and 1-2-3-4 beats printed over the tab, no separate pattern panel"
+}

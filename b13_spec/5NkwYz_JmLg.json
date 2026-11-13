@@ -1,0 +1,11 @@
+{
+  "title": "FUTURE DAYS",
+  "subtitle": "Joel The Last Of Us Part 2  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/Joel-The-Last-Of-Us-Part-2-Future-Days.png",
+  "panels": [
+    {"label": "TAB  \u00b7  VERSE", "t": 28, "bbox": [244, 560, 1676, 340], "png": "frames/b13_5NkwYz_JmLg/p0.png"},
+    {"label": "TAB  \u00b7  CHORUS", "t": 54, "bbox": [244, 560, 1676, 516], "png": "frames/b13_5NkwYz_JmLg/p1.png"},
+    {"label": "TAB  \u00b7  INTRO", "t": 4, "bbox": [244, 560, 1676, 340], "png": "frames/b13_5NkwYz_JmLg/p2.png"}
+  ],
+  "note": "Chords: C F C (verse)  \u00b7  C G/B F C G/B Am7 F C (chorus)"
+}

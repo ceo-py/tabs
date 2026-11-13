@@ -1,0 +1,49 @@
+{
+ "title": "ALMOST (SWEET MUSIC)",
+ "subtitle": "Hozier  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Hozier-Almost-Sweet-Music.png",
+ "panels": [
+  {
+   "label": "TAB · INTRO/CHORUS",
+   "t": 1.5,
+   "bbox": [
+    252,
+    560,
+    1668,
+    516
+   ]
+  },
+  {
+   "label": "TAB · VERSE",
+   "t": 24.5,
+   "bbox": [
+    252,
+    560,
+    1668,
+    516
+   ]
+  },
+  {
+   "label": "CHORD PATTERN · PRECHORUS",
+   "t": 46.5,
+   "bbox": [
+    252,
+    560,
+    1668,
+    516
+   ]
+  },
+  {
+   "label": "TAB · BRIDGE",
+   "t": 131.5,
+   "bbox": [
+    252,
+    560,
+    1668,
+    516
+   ]
+  }
+ ],
+ "note": "Chords: Intro/Chorus Em Bm C G · G Am Bm G  ·  Verse G C G Em D C  ·  Prechorus Em B C G · Em Dsus2 C/G  ·  Bridge G F#m Em C/G Am7 D",
+ "video": "dl/v_qQ3bq1U14vs.mp4"
+}

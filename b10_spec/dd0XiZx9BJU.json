@@ -1,0 +1,13 @@
+{
+  "title": "TEARS IN HEAVEN",
+  "subtitle": "Eric Clapton  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Eric-Clapton-Tears-In-Heaven.png",
+  "panels": [
+   {"label": "TAB  ·  VERSE", "t": 25, "bbox": [248, 556, 1672, 220], "png": "frames/b10_dd0XiZx9BJU/p_verse.png"},
+   {"label": "TAB  ·  CHORUS", "t": 50, "bbox": [248, 556, 1672, 524], "png": "frames/b10_dd0XiZx9BJU/p_chorus.png"},
+   {"label": "TAB  ·  BRIDGE", "t": 140, "bbox": [248, 556, 1672, 524], "png": "frames/b10_dd0XiZx9BJU/p_bridge.png"},
+   {"label": "TAB  ·  SOLO", "t": 165, "bbox": [248, 556, 1672, 524], "png": "frames/b10_dd0XiZx9BJU/p_solo.png"},
+   {"label": "TAB  ·  OUTRO", "t": 265, "bbox": [248, 556, 1672, 220], "png": "frames/b10_dd0XiZx9BJU/p_outro.png"}
+  ],
+  "note": "Tab notation only — the video shows no chord names and no strumming pattern."
+}

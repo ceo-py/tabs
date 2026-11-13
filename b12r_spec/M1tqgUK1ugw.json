@@ -1,0 +1,39 @@
+{
+ "title": "IT'S GOTTA BE YOU",
+ "subtitle": "Isaiah  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Isaiah-Its-Gotta-Be-You.png",
+ "panels": [
+  {
+   "label": "TAB · MAIN RIFF",
+   "t": 20.0,
+   "bbox": [
+    692,
+    156,
+    1228,
+    268
+   ]
+  },
+  {
+   "label": "TAB · MAIN RIFF 2",
+   "t": 80.0,
+   "bbox": [
+    692,
+    156,
+    1228,
+    268
+   ]
+  },
+  {
+   "label": "TAB · BRIDGE",
+   "t": 128.0,
+   "bbox": [
+    1280,
+    156,
+    640,
+    456
+   ]
+  }
+ ],
+ "note": "Chords: Em7 · Cadd9 · G · D/F# (main riff) · Em7 · D (bridge)   Sections on screen: MAIN RIFF · BRIDGE",
+ "video": "dl/v_M1tqgUK1ugw.mp4"
+}

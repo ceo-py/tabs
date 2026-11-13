@@ -1,0 +1,59 @@
+{
+ "title": "WASTELAND, BABY!",
+ "subtitle": "Hozier  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Hozier-Wasteland-Baby.png",
+ "panels": [
+  {
+   "label": "TAB · INTRO",
+   "t": 1.5,
+   "bbox": [
+    248,
+    558,
+    1672,
+    518
+   ]
+  },
+  {
+   "label": "TAB · VERSE 1",
+   "t": 30.5,
+   "bbox": [
+    248,
+    558,
+    1672,
+    518
+   ]
+  },
+  {
+   "label": "TAB · CHORUS 1",
+   "t": 102.5,
+   "bbox": [
+    248,
+    558,
+    1672,
+    518
+   ]
+  },
+  {
+   "label": "TAB · VERSE 3",
+   "t": 150.5,
+   "bbox": [
+    248,
+    558,
+    1672,
+    518
+   ]
+  },
+  {
+   "label": "TAB · CHORUS 2",
+   "t": 186.5,
+   "bbox": [
+    248,
+    558,
+    1672,
+    518
+   ]
+  }
+ ],
+ "note": "TAB only on screen (H = hammer-on, P = pull-off) - no chord names or strumming pattern shown",
+ "video": "dl/v_nOAnB5e5BeI.mp4"
+}

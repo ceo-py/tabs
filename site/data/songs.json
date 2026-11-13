@@ -354,10 +354,10 @@
    "chords": [
     "Em",
     "D",
-    "G(A)",
+    "G",
+    "A",
     "Bm",
-    "A(D/F#)",
-    "Em(D/F#)"
+    "D/F#"
    ]
   },
   {
@@ -922,13 +922,13 @@
    "w": 1600,
    "h": 2128,
    "chords": [
-    "Fmaj7(b5)",
+    "Fmaj7",
+    "B5",
     "Cmaj7",
     "C",
     "F",
     "Dm",
-    "Em",
-    "Fmaj7"
+    "Em"
    ]
   },
   {
@@ -1070,7 +1070,6 @@
     "C",
     "Em/B",
     "G5",
-    "G5(5)",
     "Em/G"
    ]
   },
@@ -1358,11 +1357,11 @@
    "chords": [
     "C",
     "G",
-    "Am(c/G)",
+    "Am",
+    "C/G",
     "F",
     "D7/F#",
-    "C7",
-    "C/G"
+    "C7"
    ]
   },
   {
@@ -1970,7 +1969,15 @@
    "thumbH": 700,
    "w": 1400,
    "h": 2630,
-   "chords": []
+   "chords": [
+    "Dm",
+    "Em",
+    "Am",
+    "F",
+    "Esus4",
+    "E",
+    "G"
+   ]
   },
   {
    "id": "lVHQ7HkzIFE",
@@ -1986,7 +1993,17 @@
    "thumbH": 700,
    "w": 1600,
    "h": 4700,
-   "chords": []
+   "chords": [
+    "C",
+    "G/B",
+    "Am",
+    "G",
+    "E",
+    "Bb",
+    "F",
+    "Am7",
+    "Em"
+   ]
   },
   {
    "id": "DUlGas6qq-I",
@@ -2002,7 +2019,11 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3259,
-   "chords": []
+   "chords": [
+    "Bm",
+    "A",
+    "E"
+   ]
   },
   {
    "id": "QZI2c80Uyg4",
@@ -2018,7 +2039,10 @@
    "thumbH": 700,
    "w": 1600,
    "h": 1593,
-   "chords": []
+   "chords": [
+    "A",
+    "Bm"
+   ]
   },
   {
    "id": "B2T1EQ7ClBY",
@@ -2034,7 +2058,17 @@
    "thumbH": 700,
    "w": 1400,
    "h": 5254,
-   "chords": []
+   "chords": [
+    "G",
+    "C",
+    "D",
+    "F#m",
+    "Bm",
+    "F#",
+    "Em",
+    "Am",
+    "Dsus4"
+   ]
   },
   {
    "id": "FZ5ATOu7sM0",
@@ -2050,7 +2084,14 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3195,
-   "chords": []
+   "chords": [
+    "G",
+    "D",
+    "Cadd9",
+    "G/B",
+    "Am7",
+    "Em"
+   ]
   },
   {
    "id": "OvzhSEoRwBc",
@@ -2066,7 +2107,9 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3340,
-   "chords": []
+   "chords": [
+    "B"
+   ]
   },
   {
    "id": "YdFnphBMOCs",
@@ -2082,7 +2125,13 @@
    "thumbH": 700,
    "w": 1600,
    "h": 1955,
-   "chords": []
+   "chords": [
+    "C",
+    "F",
+    "Am",
+    "Em",
+    "G"
+   ]
   },
   {
    "id": "9T1IUExo0XQ",
@@ -2098,7 +2147,13 @@
    "thumbH": 700,
    "w": 1600,
    "h": 4984,
-   "chords": []
+   "chords": [
+    "Em",
+    "G",
+    "C",
+    "D",
+    "Dadd11"
+   ]
   },
   {
    "id": "8YJEdsGzQHc",
@@ -2114,7 +2169,12 @@
    "thumbH": 700,
    "w": 1600,
    "h": 4691,
-   "chords": []
+   "chords": [
+    "Am",
+    "C",
+    "Dm",
+    "G"
+   ]
   },
   {
    "id": "gRfGvMhhR6U",
@@ -2130,7 +2190,17 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3233,
-   "chords": []
+   "chords": [
+    "G",
+    "D",
+    "Am",
+    "Am7",
+    "C",
+    "Am/E",
+    "C/G",
+    "F",
+    "C/B"
+   ]
   },
   {
    "id": "dGqegPKsGys",
@@ -2146,7 +2216,60 @@
    "thumbH": 700,
    "w": 1400,
    "h": 4578,
-   "chords": []
+   "chords": [
+    "C",
+    "G",
+    "D",
+    "D/F#",
+    "Bm",
+    "Em"
+   ]
+  },
+  {
+   "id": "Kn_u3X5KRPk",
+   "title": "Sky Full Of Stars",
+   "artist": "Coldplay",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=Kn_u3X5KRPk",
+   "card": "cards/Coldplay-Sky-Full-Of-Stars.webp?v=c749bd6c",
+   "thumb": "thumbs/Coldplay-Sky-Full-Of-Stars.webp?v=b56aa877",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 2688,
+   "chords": [
+    "Am",
+    "F",
+    "C",
+    "Em",
+    "G"
+   ]
+  },
+  {
+   "id": "KBciUO7Iv7Y",
+   "title": "Sparks",
+   "artist": "Coldplay",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=KBciUO7Iv7Y",
+   "card": "cards/Coldplay-Sparks.webp?v=1f67008f",
+   "thumb": "thumbs/Coldplay-Sparks.webp?v=75f059a5",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2943,
+   "chords": [
+    "Em",
+    "C#m7",
+    "B5",
+    "Cmaj7",
+    "D6",
+    "Am",
+    "G6"
+   ]
   },
   {
    "id": "Coldplay-Viva-La-Vida.png",
@@ -2264,12 +2387,12 @@
    "w": 1400,
    "h": 3530,
    "chords": [
-    "A",
-    "E",
-    "D",
-    "Asus4",
-    "F#m7",
-    "Em"
+    "B",
+    "Badd11",
+    "F#6",
+    "Emaj7",
+    "G#m",
+    "F#m11"
    ]
   },
   {
@@ -2580,7 +2703,18 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2656,
-   "chords": []
+   "chords": [
+    "C",
+    "Am",
+    "Em7",
+    "G",
+    "C7",
+    "F",
+    "G/B",
+    "Bb",
+    "D",
+    "A7"
+   ]
   },
   {
    "id": "jXMfvxe8v0A",
@@ -2596,7 +2730,15 @@
    "thumbH": 700,
    "w": 1600,
    "h": 4602,
-   "chords": []
+   "chords": [
+    "Am",
+    "C",
+    "Bm",
+    "E",
+    "F",
+    "C7",
+    "G"
+   ]
   },
   {
    "id": "mVShYWQuP4M",
@@ -2612,7 +2754,18 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2832,
-   "chords": []
+   "chords": [
+    "G",
+    "Cadd9",
+    "D/F#",
+    "Am7",
+    "C",
+    "Dadd11",
+    "E5",
+    "Em",
+    "Cmaj7",
+    "D5"
+   ]
   },
   {
    "id": "4_MLrGCrkx4",
@@ -2628,7 +2781,12 @@
    "thumbH": 700,
    "w": 1448,
    "h": 2038,
-   "chords": []
+   "chords": [
+    "G",
+    "Em7",
+    "Cadd9",
+    "G/B"
+   ]
   },
   {
    "id": "OoHr0D1Ar6E",
@@ -2644,7 +2802,12 @@
    "thumbH": 700,
    "w": 1448,
    "h": 1360,
-   "chords": []
+   "chords": [
+    "Cadd9",
+    "G",
+    "D",
+    "Em7"
+   ]
   },
   {
    "id": "2vl3cpkzFik",
@@ -2660,7 +2823,12 @@
    "thumbH": 700,
    "w": 1600,
    "h": 1120,
-   "chords": []
+   "chords": [
+    "Am7",
+    "Dmaj7",
+    "Gmaj7",
+    "Bbmaj7"
+   ]
   },
   {
    "id": "Gl1tK7lBB0U",
@@ -2676,7 +2844,13 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2670,
-   "chords": []
+   "chords": [
+    "G",
+    "Am",
+    "Em",
+    "D/F#",
+    "C"
+   ]
   },
   {
    "id": "iE-0g-pB0K0",
@@ -2692,7 +2866,15 @@
    "thumbH": 700,
    "w": 1448,
    "h": 2278,
-   "chords": []
+   "chords": [
+    "G",
+    "D",
+    "Em",
+    "C",
+    "A",
+    "E",
+    "F#m11"
+   ]
   },
   {
    "id": "SaLhI8mRb1w",
@@ -2708,7 +2890,19 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2165,
-   "chords": []
+   "chords": [
+    "C#m",
+    "Asus2",
+    "E",
+    "Bsus4",
+    "A",
+    "B5",
+    "B",
+    "D5/A",
+    "D/A",
+    "Amaj7",
+    "G#m7"
+   ]
   },
   {
    "id": "pRwxV2T-MdI",
@@ -2724,7 +2918,15 @@
    "thumbH": 700,
    "w": 1546,
    "h": 2398,
-   "chords": []
+   "chords": [
+    "C#m7",
+    "Asus2",
+    "Bsus4",
+    "E5",
+    "E/G#",
+    "E",
+    "D6/F#"
+   ]
   },
   {
    "id": "3D-ac7RMYwc",
@@ -2740,7 +2942,23 @@
    "thumbH": 700,
    "w": 1448,
    "h": 3094,
-   "chords": []
+   "chords": [
+    "Bb/A",
+    "Fmaj7",
+    "F",
+    "Dm",
+    "Am",
+    "Am7/G",
+    "C",
+    "C7",
+    "Bb",
+    "Bbm",
+    "D/F#",
+    "Gm",
+    "Ab",
+    "A",
+    "G"
+   ]
   },
   {
    "id": "7EnfVOD4qt8",
@@ -2756,7 +2974,13 @@
    "thumbH": 700,
    "w": 1448,
    "h": 2781,
-   "chords": []
+   "chords": [
+    "Em",
+    "C",
+    "G",
+    "D/F#",
+    "Bm"
+   ]
   },
   {
    "id": "uurEtjnv9VA",
@@ -2772,7 +2996,12 @@
    "thumbH": 700,
    "w": 1448,
    "h": 1442,
-   "chords": []
+   "chords": [
+    "Bm",
+    "F#m",
+    "G",
+    "A"
+   ]
   },
   {
    "id": "MjXTr2JPN1E",
@@ -2788,7 +3017,18 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3275,
-   "chords": []
+   "chords": [
+    "C",
+    "C/G",
+    "Am",
+    "Am/E",
+    "F",
+    "G",
+    "E",
+    "Am/G",
+    "Fm",
+    "C/B"
+   ]
   },
   {
    "id": "CjNK4wDebfM",
@@ -2804,7 +3044,11 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3853,
-   "chords": []
+   "chords": [
+    "Am",
+    "C",
+    "G"
+   ]
   },
   {
    "id": "OYTcux3056o",
@@ -2897,11 +3141,8 @@
    "chords": [
     "G",
     "D",
-    "Em7(4)",
-    "Cadd9(4)",
-    "Em7(1)",
-    "Cadd9(1)",
-    "Em7"
+    "Em7",
+    "Cadd9"
    ]
   },
   {
@@ -3214,7 +3455,6 @@
     "A",
     "D5",
     "Bm7",
-    "Bm7(1)",
     "Gm"
    ]
   },
@@ -3383,7 +3623,13 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2510,
-   "chords": []
+   "chords": [
+    "Am",
+    "F",
+    "C",
+    "G",
+    "Dm"
+   ]
   },
   {
    "id": "T54vaMX_96I",
@@ -3399,7 +3645,13 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3240,
-   "chords": []
+   "chords": [
+    "C",
+    "G",
+    "Am",
+    "F",
+    "Dm"
+   ]
   },
   {
    "id": "jUo76Aawb3c",
@@ -3415,7 +3667,12 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2101,
-   "chords": []
+   "chords": [
+    "Bm",
+    "G",
+    "D",
+    "A"
+   ]
   },
   {
    "id": "FaVcDiEYJII",
@@ -3431,7 +3688,14 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3834,
-   "chords": []
+   "chords": [
+    "C",
+    "Am7",
+    "F5",
+    "Dm",
+    "Fsus2",
+    "G"
+   ]
   },
   {
    "id": "opSIkd18Xp0",
@@ -3447,7 +3711,14 @@
    "thumbH": 700,
    "w": 1400,
    "h": 2276,
-   "chords": []
+   "chords": [
+    "C",
+    "Em",
+    "F",
+    "Am",
+    "G",
+    "Dm"
+   ]
   },
   {
    "id": "UPSM8Iusmww",
@@ -3463,7 +3734,14 @@
    "thumbH": 700,
    "w": 1400,
    "h": 3584,
-   "chords": []
+   "chords": [
+    "E",
+    "F#m",
+    "A",
+    "C#m",
+    "B",
+    "F"
+   ]
   },
   {
    "id": "xhaKw4i8IuE",
@@ -3479,7 +3757,18 @@
    "thumbH": 700,
    "w": 1400,
    "h": 3786,
-   "chords": []
+   "chords": [
+    "D",
+    "G",
+    "A",
+    "Bm",
+    "Em",
+    "D/F#",
+    "Gadd9",
+    "D5",
+    "Aadd11",
+    "Bm7"
+   ]
   },
   {
    "id": "U-5IqJzj6kA",
@@ -3495,7 +3784,13 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3250,
-   "chords": []
+   "chords": [
+    "B",
+    "F#",
+    "G#m",
+    "Em",
+    "D"
+   ]
   },
   {
    "id": "G2Z914mnAX0",
@@ -3511,7 +3806,15 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2096,
-   "chords": []
+   "chords": [
+    "G",
+    "Em7",
+    "Cadd9",
+    "Dsus4",
+    "E5",
+    "D6",
+    "C#7"
+   ]
   },
   {
    "id": "ecEK1HiE9nU",
@@ -3527,7 +3830,12 @@
    "thumbH": 700,
    "w": 1400,
    "h": 2594,
-   "chords": []
+   "chords": [
+    "F#m",
+    "D",
+    "A",
+    "E"
+   ]
   },
   {
    "id": "qSt28IW6CDI",
@@ -3543,7 +3851,14 @@
    "thumbH": 700,
    "w": 1400,
    "h": 1806,
-   "chords": []
+   "chords": [
+    "C",
+    "G/B",
+    "Am",
+    "G",
+    "F",
+    "C/E"
+   ]
   },
   {
    "id": "YPCE-1B_7kg",
@@ -3559,7 +3874,17 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2671,
-   "chords": []
+   "chords": [
+    "C",
+    "C/B",
+    "Am",
+    "G",
+    "F",
+    "Fsus2",
+    "E/G#",
+    "G#",
+    "A#"
+   ]
   },
   {
    "id": "WYtm_9xQB9k",
@@ -3591,7 +3916,14 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2220,
-   "chords": []
+   "chords": [
+    "E",
+    "F#",
+    "G#m",
+    "C",
+    "D",
+    "Em"
+   ]
   },
   {
    "id": "Kr-hwv1dopY",
@@ -3607,7 +3939,12 @@
    "thumbH": 700,
    "w": 1600,
    "h": 1583,
-   "chords": []
+   "chords": [
+    "C",
+    "Am",
+    "F",
+    "G"
+   ]
   },
   {
    "id": "8BZuUS4_5A0",
@@ -3623,7 +3960,13 @@
    "thumbH": 700,
    "w": 1524,
    "h": 2600,
-   "chords": []
+   "chords": [
+    "C",
+    "Csus4",
+    "Am",
+    "F",
+    "G"
+   ]
   },
   {
    "id": "ofyhAK_EDbM",
@@ -3639,7 +3982,12 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3838,
-   "chords": []
+   "chords": [
+    "Am",
+    "C",
+    "G",
+    "F"
+   ]
   },
   {
    "id": "TWGzsIH618k",
@@ -3655,7 +4003,17 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3257,
-   "chords": []
+   "chords": [
+    "Badd11",
+    "E",
+    "Gb/Bb",
+    "E/G#",
+    "F#11",
+    "G",
+    "C",
+    "D/F#",
+    "C/E"
+   ]
   },
   {
    "id": "raLENTkO6M0",
@@ -3687,7 +4045,16 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3257,
-   "chords": []
+   "chords": [
+    "Dm",
+    "C",
+    "F",
+    "G",
+    "Am",
+    "Em",
+    "D",
+    "A"
+   ]
   },
   {
    "id": "WhWskPay8_4",
@@ -3703,7 +4070,15 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3245,
-   "chords": []
+   "chords": [
+    "Am",
+    "D",
+    "G",
+    "C",
+    "D/F#",
+    "C/B",
+    "Em"
+   ]
   },
   {
    "id": "c_GEyynDRWg",
@@ -3719,7 +4094,26 @@
    "thumbH": 700,
    "w": 1400,
    "h": 2664,
-   "chords": []
+   "chords": [
+    "C",
+    "F/C",
+    "F/A",
+    "G",
+    "F",
+    "Em7",
+    "Am7",
+    "D/F#",
+    "Dm",
+    "Em",
+    "Am",
+    "G/B",
+    "C/E",
+    "Ab",
+    "Bb",
+    "Gm",
+    "Cm",
+    "G/D"
+   ]
   },
   {
    "id": "gQkv84E8PAs",
@@ -3735,7 +4129,20 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3279,
-   "chords": []
+   "chords": [
+    "D",
+    "G",
+    "A",
+    "F#m",
+    "Bm",
+    "Bm/A",
+    "Bm/G#",
+    "F#",
+    "Em7",
+    "A/C#",
+    "G6",
+    "Em"
+   ]
   },
   {
    "id": "pf7-GAa7LKo",
@@ -3751,7 +4158,16 @@
    "thumbH": 700,
    "w": 1600,
    "h": 4979,
-   "chords": []
+   "chords": [
+    "C",
+    "G",
+    "Em",
+    "Am",
+    "F",
+    "B7",
+    "A7",
+    "Dm"
+   ]
   },
   {
    "id": "Elvis-Love-Me-Tender.png",
@@ -3783,7 +4199,12 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3257,
-   "chords": []
+   "chords": [
+    "G",
+    "Em7",
+    "Cadd9",
+    "Dsus4"
+   ]
   },
   {
    "id": "5r94nAECblw",
@@ -3799,7 +4220,17 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2444,
-   "chords": []
+   "chords": [
+    "E",
+    "F#m7",
+    "G#7",
+    "Cm7",
+    "Bm7",
+    "A",
+    "G",
+    "Gadd9",
+    "Em"
+   ]
   },
   {
    "id": "9n4MFJMbZOU",
@@ -3815,7 +4246,18 @@
    "thumbH": 700,
    "w": 1600,
    "h": 1729,
-   "chords": []
+   "chords": [
+    "C#m7",
+    "G#7",
+    "C",
+    "D",
+    "E",
+    "F#m",
+    "B",
+    "A",
+    "Dm",
+    "Bb"
+   ]
   },
   {
    "id": "pCWozuPieSU",
@@ -3831,7 +4273,15 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2578,
-   "chords": []
+   "chords": [
+    "C",
+    "E",
+    "A7",
+    "Dm",
+    "F",
+    "D7",
+    "G7"
+   ]
   },
   {
    "id": "dd0XiZx9BJU",
@@ -3863,7 +4313,13 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3262,
-   "chords": []
+   "chords": [
+    "G",
+    "D/F#",
+    "C",
+    "D",
+    "Em"
+   ]
   },
   {
    "id": "r4Io7tHjLmQ",
@@ -3879,7 +4335,13 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3277,
-   "chords": []
+   "chords": [
+    "G",
+    "D/F#",
+    "C",
+    "D",
+    "Em"
+   ]
   },
   {
    "id": "vWF5ZCckMEw",
@@ -3895,7 +4357,18 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3844,
-   "chords": []
+   "chords": [
+    "Csus4",
+    "C",
+    "Csus2",
+    "F",
+    "Gadd9",
+    "Em",
+    "Em7",
+    "Am",
+    "G",
+    "G/B"
+   ]
   },
   {
    "id": "tUpyT8caLz0",
@@ -3911,7 +4384,22 @@
    "thumbH": 700,
    "w": 1400,
    "h": 5078,
-   "chords": []
+   "chords": [
+    "G",
+    "D/F#",
+    "Em",
+    "Bm7",
+    "C",
+    "Am7",
+    "D",
+    "A#m",
+    "A#m7",
+    "Bb",
+    "Gb",
+    "Db",
+    "Ab",
+    "Eb"
+   ]
   },
   {
    "id": "bV7cwo4ObGg",
@@ -3927,7 +4415,12 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3344,
-   "chords": []
+   "chords": [
+    "B5",
+    "D5",
+    "G5",
+    "F#5"
+   ]
   },
   {
    "id": "5FaNyJ_Xqi8",
@@ -3943,7 +4436,20 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3778,
-   "chords": []
+   "chords": [
+    "D",
+    "Bm",
+    "Em",
+    "G6",
+    "D/F#",
+    "E",
+    "A",
+    "F#m/G",
+    "F#m",
+    "G",
+    "Em7",
+    "Gm"
+   ]
   },
   {
    "id": "BuUx1e2SZdU",
@@ -3959,7 +4465,17 @@
    "thumbH": 700,
    "w": 1460,
    "h": 3594,
-   "chords": []
+   "chords": [
+    "Am",
+    "Em",
+    "G",
+    "A5",
+    "F",
+    "C",
+    "Dm",
+    "Am/D",
+    "Em7"
+   ]
   },
   {
    "id": "vI1LIY4RmoU",
@@ -3991,7 +4507,17 @@
    "thumbH": 700,
    "w": 1600,
    "h": 4151,
-   "chords": []
+   "chords": [
+    "Em",
+    "D/F#",
+    "G",
+    "C",
+    "Dadd11",
+    "D",
+    "Am",
+    "Cadd9",
+    "A"
+   ]
   },
   {
    "id": "639DIA537yE",
@@ -4007,7 +4533,11 @@
    "thumbH": 700,
    "w": 1600,
    "h": 1524,
-   "chords": []
+   "chords": [
+    "F",
+    "G",
+    "Am"
+   ]
   },
   {
    "id": "GXpxBDs-n4A",
@@ -4023,7 +4553,15 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3905,
-   "chords": []
+   "chords": [
+    "C",
+    "G/B",
+    "Am7",
+    "G",
+    "D7/F#",
+    "Em",
+    "D/F#"
+   ]
   },
   {
    "id": "XIkuAB1Gc6s",
@@ -4039,7 +4577,13 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3751,
-   "chords": []
+   "chords": [
+    "D",
+    "A13",
+    "A7",
+    "Bm7",
+    "A"
+   ]
   },
   {
    "id": "59K0jl-uAAg",
@@ -4055,7 +4599,14 @@
    "thumbH": 700,
    "w": 1600,
    "h": 4398,
-   "chords": []
+   "chords": [
+    "D5",
+    "G5",
+    "Bb6",
+    "Bb5",
+    "C5",
+    "Dsus2"
+   ]
   },
   {
    "id": "c_BH-5ppsVE",
@@ -4071,7 +4622,11 @@
    "thumbH": 700,
    "w": 1600,
    "h": 4368,
-   "chords": []
+   "chords": [
+    "C#m7",
+    "Asus2",
+    "Bsus4"
+   ]
   },
   {
    "id": "W_BsOjEkC1g",
@@ -4087,7 +4642,15 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3861,
-   "chords": []
+   "chords": [
+    "Dmaj7",
+    "Bsus2",
+    "Gsus2",
+    "A5",
+    "B5",
+    "G5",
+    "D5"
+   ]
   },
   {
    "id": "2D7mqcVYqYA",
@@ -4103,7 +4666,14 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3816,
-   "chords": []
+   "chords": [
+    "Bsus4",
+    "F#m11",
+    "E",
+    "G",
+    "A",
+    "D"
+   ]
   },
   {
    "id": "D6ZqXo6jlqU",
@@ -4119,7 +4689,11 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3951,
-   "chords": []
+   "chords": [
+    "E",
+    "C#m7",
+    "A"
+   ]
   },
   {
    "id": "WCmKv1vdO7Q",
@@ -4151,7 +4725,13 @@
    "thumbH": 700,
    "w": 1600,
    "h": 4426,
-   "chords": []
+   "chords": [
+    "D",
+    "Am",
+    "C",
+    "Em",
+    "G/B"
+   ]
   },
   {
    "id": "KAzHva04Hdk",
@@ -4167,7 +4747,19 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3262,
-   "chords": []
+   "chords": [
+    "Am",
+    "Dm7",
+    "G",
+    "C",
+    "F",
+    "Dm",
+    "E",
+    "A7",
+    "Bb7",
+    "Gm7",
+    "G7"
+   ]
   },
   {
    "id": "azRhmCZfSPw",
@@ -4282,6 +4874,91 @@
    "chords": []
   },
   {
+   "id": "H3CbPR2IOS0",
+   "title": "Iris",
+   "artist": "Goo Goo Dolls Standard & Alternate Tuning",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=H3CbPR2IOS0",
+   "card": "cards/Goo-Goo-Dolls-Standard-Alternate-Tuning-Iris.webp?v=11971584",
+   "thumb": "thumbs/Goo-Goo-Dolls-Standard-Alternate-Tuning-Iris.webp?v=084aae49",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 2384,
+   "chords": [
+    "D",
+    "Em7",
+    "G",
+    "Bm7",
+    "Asus4"
+   ]
+  },
+  {
+   "id": "v5EYZJ948eU",
+   "title": "Somebody That I Used To Know",
+   "artist": "Gotye Feat Kimbra",
+   "tag": "Tab + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=v5EYZJ948eU",
+   "card": "cards/Gotye-Feat-Kimbra-Somebody-That-I-Used-To-Know.webp?v=ab55de82",
+   "thumb": "thumbs/Gotye-Feat-Kimbra-Somebody-That-I-Used-To-Know.webp?v=90d1a98f",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 1300,
+   "chords": [
+    "Em7",
+    "B7"
+   ]
+  },
+  {
+   "id": "hrHAtLoHtSI",
+   "title": "I Love You I'm Sorry",
+   "artist": "Gracie Abrams",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=hrHAtLoHtSI",
+   "card": "cards/Gracie-Abrams-I-Love-You-Im-Sorry.webp?v=f6449d93",
+   "thumb": "thumbs/Gracie-Abrams-I-Love-You-Im-Sorry.webp?v=e667efc0",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 1475,
+   "chords": [
+    "G",
+    "D/A",
+    "Am7",
+    "C",
+    "Csus2"
+   ]
+  },
+  {
+   "id": "4h6wiKaXnC8",
+   "title": "21 Guns",
+   "artist": "Green Day",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=4h6wiKaXnC8",
+   "card": "cards/Green-Day-21-Guns.webp?v=e68b0cbe",
+   "thumb": "thumbs/Green-Day-21-Guns.webp?v=e49c8130",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1536,
+   "h": 2632,
+   "chords": [
+    "F5",
+    "C/E",
+    "D5",
+    "C5",
+    "Bb5"
+   ]
+  },
+  {
    "id": "8mU5W5RxwyA",
    "title": "American Idiot",
    "artist": "Green Day",
@@ -4296,6 +4973,27 @@
    "w": 1600,
    "h": 5222,
    "chords": []
+  },
+  {
+   "id": "uZ_D5CZL_r4",
+   "title": "Boulevard of Broken Dreams ACOUSTIC",
+   "artist": "Green Day",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=uZ_D5CZL_r4",
+   "card": "cards/Green-Day-Boulevard-of-Broken-Dreams-ACOUSTIC.webp?v=5b487fbb",
+   "thumb": "thumbs/Green-Day-Boulevard-of-Broken-Dreams-ACOUSTIC.webp?v=5d75bd87",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 2394,
+   "chords": [
+    "Em",
+    "G",
+    "D",
+    "A"
+   ]
   },
   {
    "id": "hWdyDWUAM-U",
@@ -4346,6 +5044,29 @@
    "chords": []
   },
   {
+   "id": "-e6MppN_d-M",
+   "title": "Ordinary World",
+   "artist": "Green Day",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=-e6MppN_d-M",
+   "card": "cards/Green-Day-Ordinary-World.webp?v=43569d56",
+   "thumb": "thumbs/Green-Day-Ordinary-World.webp?v=0e1f8d1b",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 1998,
+   "chords": [
+    "C",
+    "G/B2",
+    "Am",
+    "G",
+    "F4",
+    "Am3"
+   ]
+  },
+  {
    "id": "N8eLEq6R8s0",
    "title": "When I Come Around",
    "artist": "Green Day",
@@ -4359,6 +5080,38 @@
    "thumbH": 700,
    "w": 1600,
    "h": 3305,
+   "chords": []
+  },
+  {
+   "id": "9s6pTJ5vHcA",
+   "title": "Built By Nations",
+   "artist": "Greta Van Fleet",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=9s6pTJ5vHcA",
+   "card": "cards/Greta-Van-Fleet-Built-By-Nations.webp?v=87f0bd43",
+   "thumb": "thumbs/Greta-Van-Fleet-Built-By-Nations.webp?v=8cade748",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2602,
+   "chords": []
+  },
+  {
+   "id": "E65OP4e2bwU",
+   "title": "Just The Two Of Us",
+   "artist": "Grover Washington Jr",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=E65OP4e2bwU",
+   "card": "cards/Grover-Washington-Jr-Just-The-Two-Of-Us.webp?v=b5e2d46f",
+   "thumb": "thumbs/Grover-Washington-Jr-Just-The-Two-Of-Us.webp?v=11025ca8",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2625,
    "chords": []
   },
   {
@@ -4378,6 +5131,62 @@
    "chords": []
   },
   {
+   "id": "oLeG9U-6UO8",
+   "title": "As It Was",
+   "artist": "Harry Styles",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=oLeG9U-6UO8",
+   "card": "cards/Harry-Styles-As-It-Was.webp?v=9a836504",
+   "thumb": "thumbs/Harry-Styles-As-It-Was.webp?v=a510ce65",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2050,
+   "chords": []
+  },
+  {
+   "id": "BbLwa_WB_4c",
+   "title": "Cherry",
+   "artist": "Harry Styles",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=BbLwa_WB_4c",
+   "card": "cards/Harry-Styles-Cherry.webp?v=3f1b237a",
+   "thumb": "thumbs/Harry-Styles-Cherry.webp?v=8d2e92c7",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2636,
+   "chords": []
+  },
+  {
+   "id": "jF1A14q3qrw",
+   "title": "Falling",
+   "artist": "Harry Styles",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=jF1A14q3qrw",
+   "card": "cards/Harry-Styles-Falling.webp?v=0ed12501",
+   "thumb": "thumbs/Harry-Styles-Falling.webp?v=60aed383",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2059,
+   "chords": [
+    "E",
+    "C#m",
+    "B",
+    "G#m",
+    "A",
+    "Bsus4",
+    "Asus2"
+   ]
+  },
+  {
    "id": "x89tCoQ6_84",
    "title": "Matilda",
    "artist": "Harry Styles",
@@ -4391,7 +5200,17 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2671,
-   "chords": []
+   "chords": [
+    "D",
+    "D5/A",
+    "G",
+    "Asus4",
+    "Bm7",
+    "F#m",
+    "Em7",
+    "F#7",
+    "E7"
+   ]
   },
   {
    "id": "O-ZEAs_wdVU",
@@ -4407,7 +5226,12 @@
    "thumbH": 700,
    "w": 1400,
    "h": 3774,
-   "chords": []
+   "chords": [
+    "F",
+    "Dm",
+    "C",
+    "Bb"
+   ]
   },
   {
    "id": "XogQz-QBLII",
@@ -4423,7 +5247,17 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2070,
-   "chords": []
+   "chords": [
+    "G",
+    "C",
+    "G/B",
+    "Em",
+    "D",
+    "Am7",
+    "D7",
+    "Gmaj7",
+    "Esus2"
+   ]
   },
   {
    "id": "7mvyFPAxVMI",
@@ -4439,7 +5273,15 @@
    "thumbH": 700,
    "w": 1400,
    "h": 3026,
-   "chords": []
+   "chords": [
+    "E",
+    "F#m",
+    "G#m",
+    "A",
+    "C#m",
+    "B",
+    "Bm"
+   ]
   },
   {
    "id": "OPW_g_pdHgw",
@@ -4455,7 +5297,553 @@
    "thumbH": 700,
    "w": 1600,
    "h": 2671,
+   "chords": [
+    "Asus4",
+    "Bm7",
+    "G",
+    "D",
+    "Cadd9",
+    "Em",
+    "D/F#"
+   ]
+  },
+  {
+   "id": "gTvUtzR1mM0",
+   "title": "The Reason",
+   "artist": "Hoobastank",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=gTvUtzR1mM0",
+   "card": "cards/Hoobastank-The-Reason.webp?v=90838c09",
+   "thumb": "thumbs/Hoobastank-The-Reason.webp?v=b9fe2470",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2864,
+   "chords": [
+    "E",
+    "C#m",
+    "Asus2",
+    "B11",
+    "D"
+   ]
+  },
+  {
+   "id": "fdyqIq-iYko",
+   "title": "Collide",
+   "artist": "Howie Day",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=fdyqIq-iYko",
+   "card": "cards/Howie-Day-Collide.webp?v=925596ff",
+   "thumb": "thumbs/Howie-Day-Collide.webp?v=eb26937f",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 1489,
+   "chords": [
+    "G",
+    "D/F#",
+    "Em7",
+    "Cadd9",
+    "Em",
+    "C",
+    "D"
+   ]
+  },
+  {
+   "id": "qQ3bq1U14vs",
+   "title": "Almost (Sweet Music)",
+   "artist": "Hozier",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=qQ3bq1U14vs",
+   "card": "cards/Hozier-Almost-Sweet-Music.webp?v=935d2f3f",
+   "thumb": "thumbs/Hozier-Almost-Sweet-Music.webp?v=a64519f5",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2631,
+   "chords": [
+    "Em",
+    "Bm",
+    "C",
+    "G",
+    "Am",
+    "D",
+    "B",
+    "Dsus2",
+    "C/G",
+    "F#m",
+    "Am7"
+   ]
+  },
+  {
+   "id": "ph8vhLJRTZ8",
+   "title": "Cherry Wine",
+   "artist": "Hozier",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=ph8vhLJRTZ8",
+   "card": "cards/Hozier-Cherry-Wine.webp?v=2b7589ca",
+   "thumb": "thumbs/Hozier-Cherry-Wine.webp?v=1ac9ba58",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 3227,
    "chords": []
+  },
+  {
+   "id": "FhbFCfcXXAM",
+   "title": "Shrike",
+   "artist": "Hozier",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=FhbFCfcXXAM",
+   "card": "cards/Hozier-Shrike.webp?v=00abb995",
+   "thumb": "thumbs/Hozier-Shrike.webp?v=c8e23664",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 3236,
+   "chords": []
+  },
+  {
+   "id": "UZ0HAXDO30Y",
+   "title": "Too Sweet",
+   "artist": "Hozier",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=UZ0HAXDO30Y",
+   "card": "cards/Hozier-Too-Sweet.webp?v=89fa8ee5",
+   "thumb": "thumbs/Hozier-Too-Sweet.webp?v=de48d628",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 3229,
+   "chords": [
+    "Em",
+    "D/F#",
+    "G",
+    "Am",
+    "C/B",
+    "C",
+    "D",
+    "B7"
+   ]
+  },
+  {
+   "id": "nOAnB5e5BeI",
+   "title": "Wasteland, Baby!",
+   "artist": "Hozier",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=nOAnB5e5BeI",
+   "card": "cards/Hozier-Wasteland-Baby.webp?v=39824bd1",
+   "thumb": "thumbs/Hozier-Wasteland-Baby.webp?v=3d75af95",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 3208,
+   "chords": []
+  },
+  {
+   "id": "fUE0OwEu_p8",
+   "title": "Would That I",
+   "artist": "Hozier",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=fUE0OwEu_p8",
+   "card": "cards/Hozier-Would-That-I.webp?v=d9500c37",
+   "thumb": "thumbs/Hozier-Would-That-I.webp?v=b788199b",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 3201,
+   "chords": [
+    "G",
+    "C",
+    "Em",
+    "D",
+    "Em7",
+    "Cmaj7",
+    "Am"
+   ]
+  },
+  {
+   "id": "Xl8nsafAcuI",
+   "title": "Believer",
+   "artist": "Imagine Dragons",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=Xl8nsafAcuI",
+   "card": "cards/Imagine-Dragons-Believer.webp?v=f3bc7517",
+   "thumb": "thumbs/Imagine-Dragons-Believer.webp?v=8c9d78db",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1460,
+   "h": 1516,
+   "chords": [
+    "Am",
+    "F",
+    "E"
+   ]
+  },
+  {
+   "id": "RtUae3agAjc",
+   "title": "Thunder",
+   "artist": "Imagine Dragons",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=RtUae3agAjc",
+   "card": "cards/Imagine-Dragons-Thunder.webp?v=8cdf9e80",
+   "thumb": "thumbs/Imagine-Dragons-Thunder.webp?v=5098f169",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 2754,
+   "chords": [
+    "C",
+    "F",
+    "Am",
+    "Em",
+    "G",
+    "Dm"
+   ]
+  },
+  {
+   "id": "Wc82tdXftws",
+   "title": "Every Rose Has Its Thorn",
+   "artist": "Including Solo - Poison",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=Wc82tdXftws",
+   "card": "cards/Including-Solo-Poison-Every-Rose-Has-Its-Thorn.webp?v=10b9ff28",
+   "thumb": "thumbs/Including-Solo-Poison-Every-Rose-Has-Its-Thorn.webp?v=b5eae565",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 2854,
+   "chords": [
+    "G",
+    "Cadd9",
+    "D"
+   ]
+  },
+  {
+   "id": "cSkqez_cCQA",
+   "title": "Outta My Head",
+   "artist": "Including Solo Khalid John Mayer",
+   "tag": "Tabs + Solo + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=cSkqez_cCQA",
+   "card": "cards/Including-Solo-Khalid-John-Mayer-Outta-My-Head.webp?v=6c7c1529",
+   "thumb": "thumbs/Including-Solo-Khalid-John-Mayer-Outta-My-Head.webp?v=031d9e4c",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 2822,
+   "chords": [
+    "F",
+    "G",
+    "Am"
+   ]
+  },
+  {
+   "id": "oYwi9osyiOM",
+   "title": "Drive",
+   "artist": "Incubus",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=oYwi9osyiOM",
+   "card": "cards/Incubus-Drive.webp?v=6a325c73",
+   "thumb": "thumbs/Incubus-Drive.webp?v=68b656ec",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 3236,
+   "chords": [
+    "Em",
+    "Em9",
+    "Cmaj7",
+    "A7"
+   ]
+  },
+  {
+   "id": "5eR_mrxBRrY",
+   "title": "Drive",
+   "artist": "Incubus",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=5eR_mrxBRrY",
+   "card": "cards/Incubus-Drive-Alt.webp?v=586a95e5",
+   "thumb": "thumbs/Incubus-Drive-Alt.webp?v=649ff0a0",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2003,
+   "chords": [
+    "Em",
+    "Em9",
+    "Cmaj7",
+    "Em/A",
+    "D"
+   ]
+  },
+  {
+   "id": "YhJYJqVPqSU",
+   "title": "Never Tear Us Apart",
+   "artist": "INXS",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=YhJYJqVPqSU",
+   "card": "cards/INXS-Never-Tear-Us-Apart.webp?v=0bd69e4d",
+   "thumb": "thumbs/INXS-Never-Tear-Us-Apart.webp?v=b5ec4a1f",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 2626,
+   "chords": [
+    "Am",
+    "F",
+    "Dm",
+    "C",
+    "G"
+   ]
+  },
+  {
+   "id": "CMLlCGIg1js",
+   "title": "Flightless Bird American Mouth",
+   "artist": "Iron & Wine",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=CMLlCGIg1js",
+   "card": "cards/Iron-Wine-Flightless-Bird-American-Mouth.webp?v=a00b25a0",
+   "thumb": "thumbs/Iron-Wine-Flightless-Bird-American-Mouth.webp?v=ddaa4072",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 1546,
+   "chords": [
+    "Am",
+    "G"
+   ]
+  },
+  {
+   "id": "M1tqgUK1ugw",
+   "title": "It's Gotta Be You",
+   "artist": "Isaiah",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=M1tqgUK1ugw",
+   "card": "cards/Isaiah-Its-Gotta-Be-You.webp?v=87da7a94",
+   "thumb": "thumbs/Isaiah-Its-Gotta-Be-You.webp?v=3a8ede6f",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 1792,
+   "chords": [
+    "Em7",
+    "Cadd9",
+    "G",
+    "D/F#",
+    "D"
+   ]
+  },
+  {
+   "id": "V4qnpyO_UFE",
+   "title": "Somewhere Over The Rainbow",
+   "artist": "Israel IZ Kamakawiwoʻole",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=V4qnpyO_UFE",
+   "card": "cards/Israel-IZ-Kamakawiwoole-Somewhere-Over-The-Rainbow.webp?v=2c2786a4",
+   "thumb": "thumbs/Israel-IZ-Kamakawiwoole-Somewhere-Over-The-Rainbow.webp?v=acf69ad7",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2636,
+   "chords": [
+    "C",
+    "G",
+    "Am",
+    "F",
+    "Em"
+   ]
+  },
+  {
+   "id": "mMnePxJAnTY",
+   "title": "Banana Pancakes",
+   "artist": "Jack Johnson",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=mMnePxJAnTY",
+   "card": "cards/Jack-Johnson-Banana-Pancakes.webp?v=5d3b2ea0",
+   "thumb": "thumbs/Jack-Johnson-Banana-Pancakes.webp?v=12293792",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2646,
+   "chords": [
+    "G",
+    "D7",
+    "Am7",
+    "C7",
+    "D",
+    "Bm7",
+    "Em",
+    "Em/D#",
+    "C"
+   ]
+  },
+  {
+   "id": "ZZBB_mOoR94",
+   "title": "Better Together",
+   "artist": "Jack Johnson",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=ZZBB_mOoR94",
+   "card": "cards/Jack-Johnson-Better-Together.webp?v=86f5a781",
+   "thumb": "thumbs/Jack-Johnson-Better-Together.webp?v=ce04ee89",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 3720,
+   "chords": [
+    "F",
+    "F/E",
+    "Dm",
+    "C",
+    "Gm",
+    "B"
+   ]
+  },
+  {
+   "id": "377-WC5EIA4",
+   "title": "Flake",
+   "artist": "Jack Johnson",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=377-WC5EIA4",
+   "card": "cards/Jack-Johnson-Flake.webp?v=23eb0be8",
+   "thumb": "thumbs/Jack-Johnson-Flake.webp?v=0e82c8c7",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2066,
+   "chords": [
+    "Dm",
+    "F",
+    "Bb",
+    "C",
+    "A"
+   ]
+  },
+  {
+   "id": "YTGq53Q1Wcs",
+   "title": "Taylor",
+   "artist": "Jack Johnson",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=YTGq53Q1Wcs",
+   "card": "cards/Jack-Johnson-Taylor.webp?v=3371ccc1",
+   "thumb": "thumbs/Jack-Johnson-Taylor.webp?v=de50f405",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 1905,
+   "chords": [
+    "C",
+    "C/B",
+    "Am",
+    "F",
+    "D",
+    "G"
+   ]
+  },
+  {
+   "id": "u_GW-xBXMVs",
+   "title": "Empty Space",
+   "artist": "James Arthur",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=u_GW-xBXMVs",
+   "card": "cards/James-Arthur-Empty-Space.webp?v=3eccae9e",
+   "thumb": "thumbs/James-Arthur-Empty-Space.webp?v=f09e082b",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 1658,
+   "chords": [
+    "C",
+    "C/B",
+    "F",
+    "G"
+   ]
+  },
+  {
+   "id": "wTVrkNjWJx0",
+   "title": "Falling Like The Stars",
+   "artist": "James Arthur",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=wTVrkNjWJx0",
+   "card": "cards/James-Arthur-Falling-Like-The-Stars.webp?v=4e205513",
+   "thumb": "thumbs/James-Arthur-Falling-Like-The-Stars.webp?v=f237f1c5",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2002,
+   "chords": [
+    "C",
+    "Am7",
+    "Fsus2"
+   ]
+  },
+  {
+   "id": "zeCMTUXLojo",
+   "title": "September",
+   "artist": "James Arthur",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=zeCMTUXLojo",
+   "card": "cards/James-Arthur-September.webp?v=6a841b9c",
+   "thumb": "thumbs/James-Arthur-September.webp?v=d204cccd",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 1914,
+   "chords": [
+    "Cadd9",
+    "Gadd9",
+    "D",
+    "Em7"
+   ]
   },
   {
    "id": "John-Denver-Take-Me-Home-Country-Roads.png",
@@ -4474,6 +5862,52 @@
    "chords": []
   },
   {
+   "id": "wZPCiRHkN9I",
+   "title": "I Guess I Just Feel Like  -",
+   "artist": "John Mayer",
+   "tag": "Tabs + Solo",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=wZPCiRHkN9I",
+   "card": "cards/John-Mayer-I-Guess-I-Just-Feel-Like.webp?v=dd4cb4f3",
+   "thumb": "thumbs/John-Mayer-I-Guess-I-Just-Feel-Like.webp?v=ffc126db",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1576,
+   "h": 3472,
+   "chords": [
+    "A",
+    "D/A",
+    "F#m",
+    "D",
+    "G",
+    "E"
+   ]
+  },
+  {
+   "id": "JHU85vinYzQ",
+   "title": "In The Blood",
+   "artist": "John Mayer",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=JHU85vinYzQ",
+   "card": "cards/John-Mayer-In-The-Blood.webp?v=ca047870",
+   "thumb": "thumbs/John-Mayer-In-The-Blood.webp?v=a126b777",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2772,
+   "chords": [
+    "G",
+    "G/F#",
+    "Em7",
+    "Cadd9",
+    "G/B",
+    "D"
+   ]
+  },
+  {
    "id": "Johnny-Cash-I-Walk-The-Line.png",
    "title": "I Walk the Line",
    "artist": "Johnny Cash",
@@ -4487,6 +5921,120 @@
    "thumbH": 700,
    "w": 1400,
    "h": 2054,
+   "chords": []
+  },
+  {
+   "id": "lvDA4pEHNeY",
+   "title": "Glimpse Of Us",
+   "artist": "Joji",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=lvDA4pEHNeY",
+   "card": "cards/Joji-Glimpse-Of-Us.webp?v=32d123d1",
+   "thumb": "thumbs/Joji-Glimpse-Of-Us.webp?v=78dee648",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 3270,
+   "chords": [
+    "Em",
+    "Am",
+    "D7",
+    "G",
+    "D/F#",
+    "D",
+    "E7"
+   ]
+  },
+  {
+   "id": "ftwFZxxH7nk",
+   "title": "Cool",
+   "artist": "Jonas Brothers",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=ftwFZxxH7nk",
+   "card": "cards/Jonas-Brothers-Cool.webp?v=12c25992",
+   "thumb": "thumbs/Jonas-Brothers-Cool.webp?v=f7d887ff",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 1408,
+   "chords": [
+    "G",
+    "F",
+    "Cmaj7"
+   ]
+  },
+  {
+   "id": "Hvf0sdfsHcs",
+   "title": "Can't Take My Eyes Off You",
+   "artist": "Joseph Vincent",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=Hvf0sdfsHcs",
+   "card": "cards/Joseph-Vincent-Cant-Take-My-Eyes-Off-You.webp?v=e05abaa7",
+   "thumb": "thumbs/Joseph-Vincent-Cant-Take-My-Eyes-Off-You.webp?v=1a973b59",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 2694,
+   "chords": [
+    "C",
+    "Cmaj7",
+    "C7",
+    "F",
+    "Fm7",
+    "Dm7",
+    "G7",
+    "G",
+    "Em7",
+    "Am7",
+    "Bb7",
+    "A7",
+    "F#m7",
+    "Bm7",
+    "D",
+    "B7"
+   ]
+  },
+  {
+   "id": "FYjcPj2WNTY",
+   "title": "Feliz Navidad",
+   "artist": "José Feliciano",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=FYjcPj2WNTY",
+   "card": "cards/Jose-Feliciano-Feliz-Navidad.webp?v=27802f34",
+   "thumb": "thumbs/Jose-Feliciano-Feliz-Navidad.webp?v=9423b10f",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 1853,
+   "chords": [
+    "G",
+    "A7",
+    "D",
+    "Bm"
+   ]
+  },
+  {
+   "id": "h2uZHrRmwus",
+   "title": "Heartbeats",
+   "artist": "José González",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=h2uZHrRmwus",
+   "card": "cards/Jos-Gonzlez-Heartbeats.webp?v=fb58044c",
+   "thumb": "thumbs/Jos-Gonzlez-Heartbeats.webp?v=c8c1f087",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2659,
    "chords": []
   },
   {

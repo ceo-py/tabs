@@ -1,0 +1,15 @@
+{
+  "title": "A CONCERT SIX MONTHS FROM NOW",
+  "subtitle": "Finneas  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Finneas-A-Concert-Six-Months-From-Now.png",
+  "panels": [
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 30, "bbox": [248, 556, 1672, 524], "png": "frames/b10_RDedh0VzZ4I/p_verse.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 75, "bbox": [248, 556, 1672, 524], "png": "frames/b10_RDedh0VzZ4I/p_chorus.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 2", "t": 115, "bbox": [248, 556, 1672, 524], "png": "frames/b10_RDedh0VzZ4I/p_verse2.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 2", "t": 135, "bbox": [248, 556, 1672, 524], "png": "frames/b10_RDedh0VzZ4I/p_chorus2.png"},
+   {"label": "TAB  ·  BRIDGE", "t": 160, "bbox": [248, 556, 1672, 524], "png": "frames/b10_RDedh0VzZ4I/p_bridge.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 3", "t": 185, "bbox": [248, 556, 1672, 524], "png": "frames/b10_RDedh0VzZ4I/p_verse3.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  OUTRO", "t": 200, "bbox": [248, 556, 1672, 210], "png": "frames/b10_RDedh0VzZ4I/p_outro.png"}
+  ],
+  "note": "Chords: Verse Em D/F# G · C C C Dadd11  |  Chorus Em D C CM7/B Am  |  Bridge G Cadd9 A7sus4 A C Em D (tab)  |  Outro Em D C Am  ·  Strumming: D--UDU (verse), D-DUDUD-DUDU (chorus), D-DUDU-DUD- (chorus 2)"
+}

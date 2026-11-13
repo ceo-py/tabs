@@ -1,0 +1,52 @@
+{
+ "title": "NOBODY KNOWS YOU WHEN YOU'RE DOWN AND OUT",
+ "subtitle": "Eric Clapton  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Eric-Clapton-Nobody-Knows-You-When-Youre-Down-And-Out.png",
+ "panels": [
+  {
+   "label": "TAB  ·  VERSE | CHORUS",
+   "t": 40,
+   "bbox": [
+    200,
+    558,
+    1720,
+    522
+   ],
+   "png": "frames/b10_pCWozuPieSU/p_verse.png"
+  },
+  {
+   "label": "TAB  ·  SOLO",
+   "t": 110,
+   "bbox": [
+    200,
+    558,
+    1720,
+    522
+   ],
+   "png": "frames/b10_pCWozuPieSU/p_solo.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  MAIN PROGRESSION",
+   "t": 250,
+   "bbox": [
+    200,
+    558,
+    1720,
+    522
+   ],
+   "png": "frames/b10_pCWozuPieSU/p_main.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  FINAL VERSE",
+   "t": 417,
+   "bbox": [
+    200,
+    558,
+    1720,
+    522
+   ],
+   "png": "frames/b10_pCWozuPieSU/p_outro.png"
+  }
+ ],
+ "note": "Chords: C E  |  A7  |  Dm A7  |  Dm  ·  F F#°  |  C A7  |  D7  |  G7   ·   Strumming: D U D U D U D U  (1+ 2+ 3+ 4+)"
+}

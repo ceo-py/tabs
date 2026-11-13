@@ -1,0 +1,15 @@
+{
+  "title": "TIMES LIKE THESE",
+  "subtitle": "Foo Fighters  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Foo-Fighters-Times-Like-These.png",
+  "panels": [
+   {"label": "CHORD PATTERN & STRUMMING  ·  INTRO", "t": 6, "bbox": [248, 556, 1672, 524], "png": "frames/b10_MnNjdQSqIIA/p_intro.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 30, "bbox": [248, 556, 1672, 524], "png": "frames/b10_MnNjdQSqIIA/p_verse.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 55, "bbox": [248, 556, 1672, 524], "png": "frames/b10_MnNjdQSqIIA/p_chorus.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 2", "t": 95, "bbox": [248, 556, 1672, 524], "png": "frames/b10_MnNjdQSqIIA/p_verse2.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 2", "t": 120, "bbox": [248, 556, 1672, 524], "png": "frames/b10_MnNjdQSqIIA/p_chorus2.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE  ·  LEAD RIFF", "t": 145, "bbox": [248, 556, 1672, 524], "png": "frames/b10_MnNjdQSqIIA/p_bridge.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  FINAL CHORUS", "t": 200, "bbox": [248, 556, 1672, 524], "png": "frames/b10_MnNjdQSqIIA/p_finalchorus.png"}
+  ],
+  "note": "Chords: Intro D (x3)  |  Verse D Am C Em  |  Chorus C Em D (x3)  |  Bridge D C G/B + lead riff tab  ·  Strumming: DUDUD-DU-UD-DUD- (intro), D-DU-UDU-UDU-UDU (verse), D-DU-UDU (chorus) — lift index finger on the highlighted strums"
+}

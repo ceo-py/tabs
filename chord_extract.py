@@ -22,7 +22,31 @@ SOURCES = [
     'build_rock_cards.py', 'build_rock_batch2.py', 'gz_manual.py',
     'b4_specs.py', 'b1_specs.py', 'b4_build.py',
     'b5_build.py', 'b6_build.py', 'b7_build.py', 'b8_build.py',
+    'b6_rest_build.py', 'b7_rest_build.py',
+    'b9_build.py', 'b10_build.py', 'b11_build.py', 'b12_build.py',
 ]
+
+
+def discover_sources():
+    """every batch build script of the repo, not just the ones listed above"""
+    found = set(SOURCES)
+    for pat in ('b*_build.py', 'b*_compose.py', '*_cards.py'):
+        for fn in os.listdir(ROOT):
+            if fn.endswith('.py') and fn.startswith(pat.replace('*', '')):
+                found.add(fn)
+    return sorted(found)
+
+
+def discover_spec_dirs():
+    """every folder with JSON card specs (b5_spec, b10_spec, b12r_spec, ...)"""
+    dirs = []
+    for name in os.listdir(ROOT):
+        p = os.path.join(ROOT, name)
+        if os.path.isdir(p) and 'spec' in name.lower():
+            if any(f.endswith('.json') for f in os.listdir(p)):
+                dirs.append(name)
+    return sorted(dirs)
+
 
 QUAL = r'(?:maj|min|m|sus|add|dim|aug)'
 CHORD_TOKEN = re.compile(
@@ -32,6 +56,40 @@ CHORD_TOKEN = re.compile(
     r'(?:\((?P<paren>[^)]*)\))?'
     r'(?P<slash>/[A-G][#b]?(?:' + QUAL + r')?\d*)?'
     r'\*?$')
+
+# a chord name that can stand on its own inside brackets, e.g. "D/F#", "A", "Fsus2"
+BRACKET_CHORD = re.compile(
+    r'^([A-G][#b]?)(?:maj|min|m|sus|add|dim|aug)?\d*'
+    r'(?:/[A-G][#b]?(?:maj|min|m|sus|add|dim|aug)?\d*)?$', re.I)
+
+
+def expand_token(tok):
+    """-> the real chord names one note token stands for.
+
+    The note lines of the cards are written by hand, so the same chord can
+    show up in several notations:
+      "Am7/E"      -> one chord, bass note E
+      "A(D/F#)"    -> two chords of the lesson: A and D/F#
+      "Bm7(1)"     -> one chord, the bracket is a position hint
+      "Fmaj7(b5)"  -> one chord, the bracket is a quality note
+    """
+    m = CHORD_TOKEN.match(tok)
+    if not m or m.end() != len(tok):
+        return []
+    base = m.group('root') + (m.group('qual') or '') + (m.group('num') or '')
+    slash = m.group('slash') or ''
+    paren = m.group('paren')
+    if paren is None:
+        return [base + slash]
+    p = paren.strip()
+    bm = BRACKET_CHORD.match(p)
+    if bm:
+        # a second chord of the lesson in brackets
+        second = p[0].upper() + p[1:]
+        return [base + slash, second]
+    # a position hint ("1".."6") or a quality note ("b5") -> plain chord
+    return [base + slash]
+
 
 
 def _record_strings(node):
@@ -102,17 +160,14 @@ def parse_chords(note):
             t = t.split(':', 1)[1].strip()
         if not t:
             continue
-        m = CHORD_TOKEN.match(t)
-        if not m or m.end() != len(t):
-            continue
-        name = m.group(0).rstrip('*')
-        # "A(2)" / "E2" -> the bracket is an inversion marker, the chord is A / E
-        # (only 1 and 2 are inversion marks; 5/6/7/9/11/13 are chord qualities)
-        m2 = re.match(r'^(.+?)(?:\((\d)\)|([12]))$', name)
-        if m2 and re.match(r'^[A-G][#b]?[m]?$', m2.group(1)):
-            name = m2.group(1)
-        if name not in out:
-            out.append(name)
+        for name in expand_token(t):
+            # "A(2)" / "E2" -> the bracket is an inversion marker, the chord is A / E
+            # (only 1 and 2 are inversion marks; 5/6/7/9/11/13 are chord qualities)
+            m2 = re.match(r'^(.+?)(?:\((\d)\)|([12]))$', name)
+            if m2 and re.match(r'^[A-G][#b]?[m]?$', m2.group(1)):
+                name = m2.group(1)
+            if name not in out:
+                out.append(name)
     return out
 
 
@@ -137,13 +192,13 @@ def harvest_json_dir(folder):
 
 def main():
     found = OrderedDict()
-    for s in SOURCES:
+    for s in discover_sources():
         pairs = harvest(s)
         for png, note in pairs:
             found.setdefault(png, note)
         if pairs:
             print('  %-26s %d notes' % (s, len(pairs)))
-    for folder in ('b4_specs', 'b5_spec', 'b6_spec', 'b7_spec', 'b8_spec'):
+    for folder in discover_spec_dirs():
         pairs = harvest_json_dir(folder)
         for png, note in pairs:
             found.setdefault(png, note)

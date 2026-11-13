@@ -1,0 +1,11 @@
+{
+ "title": "FELIZ NAVIDAD",
+ "subtitle": "José Feliciano  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Jose-Feliciano-Feliz-Navidad.png",
+ "panels": [
+  {"label": "TAB  ·  INTRO", "t": 10, "bbox": [262, 558, 1658, 520], "png": "frames/b15_FYjcPj2WNTY/p_intro.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 30, "bbox": [262, 558, 1658, 520], "png": "frames/b15_FYjcPj2WNTY/p_verse.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 55, "bbox": [262, 558, 1658, 520], "png": "frames/b15_FYjcPj2WNTY/p_chorus.png"}
+ ],
+ "note": "Verse: G A7 D D (x2)  |  Chorus: G A7 D Bm · G A7 D D  |  Intro tab: D G A7 D  |  Strumming: D - DUDUDU (1 + 2 + 3 + 4 +)"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "BETTER TOGETHER",
+ "subtitle": "Jack Johnson  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Jack-Johnson-Better-Together.png",
+ "panels": [
+  {
+   "label": "TAB · INTRO",
+   "t": 1.5,
+   "bbox": [
+    216,
+    558,
+    1704,
+    518
+   ]
+  },
+  {
+   "label": "TAB · VERSE",
+   "t": 11.5,
+   "bbox": [
+    216,
+    558,
+    1704,
+    518
+   ]
+  },
+  {
+   "label": "TAB · PRECHORUS",
+   "t": 37.5,
+   "bbox": [
+    216,
+    558,
+    1704,
+    518
+   ]
+  },
+  {
+   "label": "TAB · CHORUS",
+   "t": 45.5,
+   "bbox": [
+    216,
+    558,
+    1704,
+    518
+   ]
+  },
+  {
+   "label": "TAB · BRIDGE",
+   "t": 150.5,
+   "bbox": [
+    216,
+    558,
+    1704,
+    518
+   ]
+  },
+  {
+   "label": "TAB · OUTRO",
+   "t": 185.5,
+   "bbox": [
+    216,
+    558,
+    1704,
+    518
+   ]
+  }
+ ],
+ "note": "Chords: Verse F · F/E · Dm · C · B♭ · B♭/A · Gm · C   ·   Prechorus F F/E Dm C B♭ B♭/A Gm C B   ·   Chorus B♭ · C · B (3x)   ·   Bridge Gm · C · B♭ · C",
+ "video": "dl/v_ZZBB_mOoR94.mp4"
+}

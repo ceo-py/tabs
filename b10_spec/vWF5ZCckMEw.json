@@ -1,0 +1,14 @@
+{
+  "title": "TIME AFTER TIME",
+  "subtitle": "Eva Cassidy  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Eva-Cassidy-Time-After-Time.png",
+  "panels": [
+   {"label": "TAB  ·  VERSE", "t": 25, "bbox": [248, 556, 1672, 210], "png": "frames/b10_vWF5ZCckMEw/p_verse.png"},
+   {"label": "TAB  ·  PRECHORUS 1", "t": 45, "bbox": [248, 556, 1672, 524], "png": "frames/b10_vWF5ZCckMEw/p_prechorus1.png"},
+   {"label": "TAB  ·  CHORUS", "t": 110, "bbox": [248, 556, 1672, 524], "png": "frames/b10_vWF5ZCckMEw/p_chorus.png"},
+   {"label": "TAB  ·  BREAK", "t": 140, "bbox": [248, 556, 1672, 370], "png": "frames/b10_vWF5ZCckMEw/p_break.png"},
+   {"label": "TAB  ·  FINAL CHORUS", "t": 200, "bbox": [248, 556, 1672, 500], "png": "frames/b10_vWF5ZCckMEw/p_finalchorus.png"},
+   {"label": "TAB  ·  OUTRO", "t": 240, "bbox": [248, 556, 1672, 190], "png": "frames/b10_vWF5ZCckMEw/p_outro.png"}
+  ],
+  "note": "Chords: Verse Csus4 C Csus2  ·  Prechorus F Gadd9 Em F Gadd9 Em Em7  ·  Chorus Gadd9 Am G F G C x3 · F G C H  ·  Break Csus4 C Csus2 G/B Am G F  ·  Outro F G C"
+}

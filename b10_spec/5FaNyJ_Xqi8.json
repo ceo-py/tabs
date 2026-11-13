@@ -1,0 +1,14 @@
+{
+  "title": "LOVE OF MY LIFE",
+  "subtitle": "Fingerpicking - Queen  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Fingerpicking-Queen-Love-Of-My-Life.png",
+  "panels": [
+   {"label": "TAB  ·  INTRODUCTION", "t": 10, "bbox": [216, 556, 1704, 524], "png": "frames/b10_5FaNyJ_Xqi8/p_intro.png"},
+   {"label": "TAB  ·  VERSE 1", "t": 50, "bbox": [216, 556, 1704, 524], "png": "frames/b10_5FaNyJ_Xqi8/p_verse1.png"},
+   {"label": "TAB  ·  BREAK", "t": 75, "bbox": [216, 556, 1704, 340], "png": "frames/b10_5FaNyJ_Xqi8/p_break.png"},
+   {"label": "TAB  ·  BRIDGE", "t": 130, "bbox": [216, 556, 1704, 524], "png": "frames/b10_5FaNyJ_Xqi8/p_bridge.png"},
+   {"label": "TAB  ·  INSTRUMENTAL SECTION PART 2", "t": 185, "bbox": [216, 556, 1704, 524], "png": "frames/b10_5FaNyJ_Xqi8/p_inst2.png"},
+   {"label": "TAB  ·  OUTRO / LAST VERSE", "t": 220, "bbox": [216, 556, 1704, 524], "png": "frames/b10_5FaNyJ_Xqi8/p_outro.png"}
+  ],
+  "note": "Chords: Intro D Bm Em · D Bm G6 D/F# E  |  Verse 1 A F#m/G D Bm F#m G D  |  Break G6 D/F#  |  Bridge Bm F#m D#° Em A  |  Outro Bm F#m G D · Em A D · Em7 Gm D"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "LAST TRAIN HOME",
+  "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/John-Mayer-Last-Train-Home.png",
+  "panels": [
+   {"label": "TAB  ·  VERSE", "t": 10, "bbox": [238, 558, 1682, 522], "png": "frames/b14_P-Eb6C-8vso/p10.png"},
+   {"label": "TAB  ·  CHORUS 1", "t": 50, "bbox": [238, 558, 1682, 522], "png": "frames/b14_P-Eb6C-8vso/p50.png"},
+   {"label": "TAB  ·  CHORUS 2", "t": 98, "bbox": [238, 558, 1682, 522], "png": "frames/b14_P-Eb6C-8vso/p98.png"},
+   {"label": "TAB  ·  SOLO", "t": 140, "bbox": [238, 558, 1682, 522], "png": "frames/b14_P-Eb6C-8vso/p140.png"}
+  ],
+  "note": "Chords: Verse A/C# E/B A/C# E/B B E/B A E/G# · Chorus A C#m/G# E/G# A B/F# F#m B  |  The video shows no strumming pattern"
+}

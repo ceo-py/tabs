@@ -1,0 +1,12 @@
+{
+ "title": "CAN'T TAKE MY EYES OFF YOU",
+ "subtitle": "Joseph Vincent  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Joseph-Vincent-Cant-Take-My-Eyes-Off-You.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 1", "t": 40, "bbox": [1160, 112, 690, 430], "png": "frames/b15_Hvf0sdfsHcs/p_verse1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1", "t": 62, "bbox": [1160, 112, 690, 430], "png": "frames/b15_Hvf0sdfsHcs/p_chorus1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 2", "t": 105, "bbox": [1160, 112, 690, 430], "png": "frames/b15_Hvf0sdfsHcs/p_verse2.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 2", "t": 130, "bbox": [1160, 112, 690, 430], "png": "frames/b15_Hvf0sdfsHcs/p_chorus2.png"}
+ ],
+ "note": "Verse 1: C Cmaj7 C7 F Fm7 C Dm7 G7 C | Chorus 1: Dm7 G Em7 Am7 Dm7 G C C Dm7 G Em7 Am7 Dm7 Bb7 A7 Chorus 2: Em7 A7 F#m7 Bm7 Em7 A7 D D Em7 A7 F#m7 Bm7 C7 B7 G | Strumming: D---X-DU-UD-D-DU | Capo 1st fret"
+}

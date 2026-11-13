@@ -1,0 +1,11 @@
+{
+  "title": "EDGE OF DESIRE ACOUSTIC",
+  "subtitle": "John Mayer  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/John-Mayer-Edge-Of-Desire-Acoustic.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  VERSE", "t": 18, "bbox": [244, 560, 1676, 516], "png": "frames/b13_0LRhCPfRcb4/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  CHORUS", "t": 84, "bbox": [244, 560, 1676, 516], "png": "frames/b13_0LRhCPfRcb4/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  BRIDGE", "t": 216, "bbox": [244, 560, 1676, 516], "png": "frames/b13_0LRhCPfRcb4/p2.png"}
+  ],
+  "note": "Chords: A DM7sus2 Bm11 E A (verse)  \u00b7  Dsus2 A (chorus)  \u00b7  A F#m D A / A F#m D E / F#m D A A (bridge)   Strumming: D-DUDU, played 4 times for each chord"
+}

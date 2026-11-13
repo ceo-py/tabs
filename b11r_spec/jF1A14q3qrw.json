@@ -1,0 +1,11 @@
+{
+  "title": "FALLING",
+  "subtitle": "Harry Styles  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Harry-Styles-Falling.png",
+  "panels": [
+    {"label": "TAB  ·  MAIN RIFF", "t": 48, "bbox": [256, 560, 1664, 516], "png": "frames/b11r_jF1A14q3qrw/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  ·  MAIN PROGRESSION", "t": 120, "bbox": [256, 560, 1664, 516], "png": "frames/b11r_jF1A14q3qrw/p1.png"},
+    {"label": "TAB  ·  LEAD", "t": 168, "bbox": [256, 560, 1664, 516], "png": "frames/b11r_jF1A14q3qrw/p2.png"}
+  ],
+  "note": "Chords: E C#m B G#m A (main riff)  ·  E C#m Bsus4 G#m Asus2 (progression)   Strumming: D-D-D-DU"
+}

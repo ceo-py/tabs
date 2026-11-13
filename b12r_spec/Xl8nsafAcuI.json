@@ -1,0 +1,39 @@
+{
+ "title": "BELIEVER",
+ "subtitle": "Imagine Dragons  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Imagine-Dragons-Believer.png",
+ "panels": [
+  {
+   "label": "TAB · VERSE RIFF",
+   "t": 20.0,
+   "bbox": [
+    620,
+    156,
+    1300,
+    240
+   ]
+  },
+  {
+   "label": "TAB · VERSE VAR",
+   "t": 42.0,
+   "bbox": [
+    620,
+    156,
+    1300,
+    240
+   ]
+  },
+  {
+   "label": "TAB · BRIDGE X2",
+   "t": 145.0,
+   "bbox": [
+    620,
+    348,
+    1300,
+    236
+   ]
+  }
+ ],
+ "note": "Chords: Am · F · E (above the tab staff)   Sections on screen: VERSE RIFF · VERSE VAR · BRIDGE X2",
+ "video": "dl/v_Xl8nsafAcuI.mp4"
+}

@@ -980,6 +980,26 @@
   "card": "out_gz/Coldplay-In-My-Place.png"
  },
  {
+  "id": "Kn_u3X5KRPk",
+  "title": "Sky Full Of Stars",
+  "artist": "Coldplay",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=Kn_u3X5KRPk",
+  "card": "out_gz/Coldplay-Sky-Full-Of-Stars.png"
+ },
+ {
+  "id": "KBciUO7Iv7Y",
+  "title": "Sparks",
+  "artist": "Coldplay",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=KBciUO7Iv7Y",
+  "card": "out_gz/Coldplay-Sparks.png"
+ },
+ {
   "id": "Coldplay-Viva-La-Vida.png",
   "title": "Viva La Vida",
   "artist": "Coldplay",
@@ -2170,6 +2190,46 @@
   "card": "out_gz/Goo-Goo-Dolls-Slide.png"
  },
  {
+  "id": "H3CbPR2IOS0",
+  "title": "Iris",
+  "artist": "Goo Goo Dolls Standard & Alternate Tuning",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=H3CbPR2IOS0",
+  "card": "out_gz/Goo-Goo-Dolls-Standard-Alternate-Tuning-Iris.png"
+ },
+ {
+  "id": "v5EYZJ948eU",
+  "title": "Somebody That I Used To Know",
+  "artist": "Gotye Feat Kimbra",
+  "tag": "Tab + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=v5EYZJ948eU",
+  "card": "out_gz/Gotye-Feat-Kimbra-Somebody-That-I-Used-To-Know.png"
+ },
+ {
+  "id": "hrHAtLoHtSI",
+  "title": "I Love You I'm Sorry",
+  "artist": "Gracie Abrams",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=hrHAtLoHtSI",
+  "card": "out_gz/Gracie-Abrams-I-Love-You-Im-Sorry.png"
+ },
+ {
+  "id": "4h6wiKaXnC8",
+  "title": "21 Guns",
+  "artist": "Green Day",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=4h6wiKaXnC8",
+  "card": "out_gz/Green-Day-21-Guns.png"
+ },
+ {
   "id": "8mU5W5RxwyA",
   "title": "American Idiot",
   "artist": "Green Day",
@@ -2178,6 +2238,16 @@
   "channel": "GuitarZero2HeroExpress",
   "url": "https://www.youtube.com/watch?v=8mU5W5RxwyA",
   "card": "out_gz/Green-Day-American-Idiot.png"
+ },
+ {
+  "id": "uZ_D5CZL_r4",
+  "title": "Boulevard of Broken Dreams ACOUSTIC",
+  "artist": "Green Day",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=uZ_D5CZL_r4",
+  "card": "out_gz/Green-Day-Boulevard-of-Broken-Dreams-ACOUSTIC.png"
  },
  {
   "id": "hWdyDWUAM-U",
@@ -2210,6 +2280,16 @@
   "card": "out_gz/Green-Day-Holiday.png"
  },
  {
+  "id": "-e6MppN_d-M",
+  "title": "Ordinary World",
+  "artist": "Green Day",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=-e6MppN_d-M",
+  "card": "out_gz/Green-Day-Ordinary-World.png"
+ },
+ {
   "id": "N8eLEq6R8s0",
   "title": "When I Come Around",
   "artist": "Green Day",
@@ -2220,6 +2300,26 @@
   "card": "out_gz/Green-Day-When-I-Come-Around.png"
  },
  {
+  "id": "9s6pTJ5vHcA",
+  "title": "Built By Nations",
+  "artist": "Greta Van Fleet",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=9s6pTJ5vHcA",
+  "card": "out_gz/Greta-Van-Fleet-Built-By-Nations.png"
+ },
+ {
+  "id": "E65OP4e2bwU",
+  "title": "Just The Two Of Us",
+  "artist": "Grover Washington Jr",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=E65OP4e2bwU",
+  "card": "out_gz/Grover-Washington-Jr-Just-The-Two-Of-Us.png"
+ },
+ {
   "id": "Sweet-Child-O-Mine.png",
   "title": "Sweet Child O' Mine",
   "artist": "Guns N' Roses",
@@ -2228,6 +2328,36 @@
   "channel": "BernadetteTeachesMusic",
   "url": "https://www.youtube.com/watch?v=Sweet-Child",
   "card": "out/Sweet-Child-O-Mine.png"
+ },
+ {
+  "id": "oLeG9U-6UO8",
+  "title": "As It Was",
+  "artist": "Harry Styles",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=oLeG9U-6UO8",
+  "card": "out_gz/Harry-Styles-As-It-Was.png"
+ },
+ {
+  "id": "BbLwa_WB_4c",
+  "title": "Cherry",
+  "artist": "Harry Styles",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=BbLwa_WB_4c",
+  "card": "out_gz/Harry-Styles-Cherry.png"
+ },
+ {
+  "id": "jF1A14q3qrw",
+  "title": "Falling",
+  "artist": "Harry Styles",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=jF1A14q3qrw",
+  "card": "out_gz/Harry-Styles-Falling.png"
  },
  {
   "id": "x89tCoQ6_84",
@@ -2280,6 +2410,256 @@
   "card": "out_gz/Hinder-Lips-Of-An-Angel.png"
  },
  {
+  "id": "gTvUtzR1mM0",
+  "title": "The Reason",
+  "artist": "Hoobastank",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=gTvUtzR1mM0",
+  "card": "out_gz/Hoobastank-The-Reason.png"
+ },
+ {
+  "id": "fdyqIq-iYko",
+  "title": "Collide",
+  "artist": "Howie Day",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=fdyqIq-iYko",
+  "card": "out_gz/Howie-Day-Collide.png"
+ },
+ {
+  "id": "qQ3bq1U14vs",
+  "title": "Almost (Sweet Music)",
+  "artist": "Hozier",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=qQ3bq1U14vs",
+  "card": "out_gz/Hozier-Almost-Sweet-Music.png"
+ },
+ {
+  "id": "ph8vhLJRTZ8",
+  "title": "Cherry Wine",
+  "artist": "Hozier",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=ph8vhLJRTZ8",
+  "card": "out_gz/Hozier-Cherry-Wine.png"
+ },
+ {
+  "id": "FhbFCfcXXAM",
+  "title": "Shrike",
+  "artist": "Hozier",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=FhbFCfcXXAM",
+  "card": "out_gz/Hozier-Shrike.png"
+ },
+ {
+  "id": "UZ0HAXDO30Y",
+  "title": "Too Sweet",
+  "artist": "Hozier",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=UZ0HAXDO30Y",
+  "card": "out_gz/Hozier-Too-Sweet.png"
+ },
+ {
+  "id": "nOAnB5e5BeI",
+  "title": "Wasteland, Baby!",
+  "artist": "Hozier",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=nOAnB5e5BeI",
+  "card": "out_gz/Hozier-Wasteland-Baby.png"
+ },
+ {
+  "id": "fUE0OwEu_p8",
+  "title": "Would That I",
+  "artist": "Hozier",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=fUE0OwEu_p8",
+  "card": "out_gz/Hozier-Would-That-I.png"
+ },
+ {
+  "id": "Xl8nsafAcuI",
+  "title": "Believer",
+  "artist": "Imagine Dragons",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=Xl8nsafAcuI",
+  "card": "out_gz/Imagine-Dragons-Believer.png"
+ },
+ {
+  "id": "RtUae3agAjc",
+  "title": "Thunder",
+  "artist": "Imagine Dragons",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=RtUae3agAjc",
+  "card": "out_gz/Imagine-Dragons-Thunder.png"
+ },
+ {
+  "id": "Wc82tdXftws",
+  "title": "Every Rose Has Its Thorn",
+  "artist": "Including Solo - Poison",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=Wc82tdXftws",
+  "card": "out_gz/Including-Solo-Poison-Every-Rose-Has-Its-Thorn.png"
+ },
+ {
+  "id": "cSkqez_cCQA",
+  "title": "Outta My Head",
+  "artist": "Including Solo Khalid John Mayer",
+  "tag": "Tabs + Solo + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=cSkqez_cCQA",
+  "card": "out_gz/Including-Solo-Khalid-John-Mayer-Outta-My-Head.png"
+ },
+ {
+  "id": "oYwi9osyiOM",
+  "title": "Drive",
+  "artist": "Incubus",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=oYwi9osyiOM",
+  "card": "out_gz/Incubus-Drive.png"
+ },
+ {
+  "id": "5eR_mrxBRrY",
+  "title": "Drive",
+  "artist": "Incubus",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=5eR_mrxBRrY",
+  "card": "out_gz/Incubus-Drive-Alt.png"
+ },
+ {
+  "id": "YhJYJqVPqSU",
+  "title": "Never Tear Us Apart",
+  "artist": "INXS",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=YhJYJqVPqSU",
+  "card": "out_gz/INXS-Never-Tear-Us-Apart.png"
+ },
+ {
+  "id": "CMLlCGIg1js",
+  "title": "Flightless Bird American Mouth",
+  "artist": "Iron & Wine",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=CMLlCGIg1js",
+  "card": "out_gz/Iron-Wine-Flightless-Bird-American-Mouth.png"
+ },
+ {
+  "id": "M1tqgUK1ugw",
+  "title": "It's Gotta Be You",
+  "artist": "Isaiah",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=M1tqgUK1ugw",
+  "card": "out_gz/Isaiah-Its-Gotta-Be-You.png"
+ },
+ {
+  "id": "V4qnpyO_UFE",
+  "title": "Somewhere Over The Rainbow",
+  "artist": "Israel IZ Kamakawiwoʻole",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=V4qnpyO_UFE",
+  "card": "out_gz/Israel-IZ-Kamakawiwoole-Somewhere-Over-The-Rainbow.png"
+ },
+ {
+  "id": "mMnePxJAnTY",
+  "title": "Banana Pancakes",
+  "artist": "Jack Johnson",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=mMnePxJAnTY",
+  "card": "out_gz/Jack-Johnson-Banana-Pancakes.png"
+ },
+ {
+  "id": "ZZBB_mOoR94",
+  "title": "Better Together",
+  "artist": "Jack Johnson",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=ZZBB_mOoR94",
+  "card": "out_gz/Jack-Johnson-Better-Together.png"
+ },
+ {
+  "id": "377-WC5EIA4",
+  "title": "Flake",
+  "artist": "Jack Johnson",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=377-WC5EIA4",
+  "card": "out_gz/Jack-Johnson-Flake.png"
+ },
+ {
+  "id": "YTGq53Q1Wcs",
+  "title": "Taylor",
+  "artist": "Jack Johnson",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=YTGq53Q1Wcs",
+  "card": "out_gz/Jack-Johnson-Taylor.png"
+ },
+ {
+  "id": "u_GW-xBXMVs",
+  "title": "Empty Space",
+  "artist": "James Arthur",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=u_GW-xBXMVs",
+  "card": "out_gz/James-Arthur-Empty-Space.png"
+ },
+ {
+  "id": "wTVrkNjWJx0",
+  "title": "Falling Like The Stars",
+  "artist": "James Arthur",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=wTVrkNjWJx0",
+  "card": "out_gz/James-Arthur-Falling-Like-The-Stars.png"
+ },
+ {
+  "id": "zeCMTUXLojo",
+  "title": "September",
+  "artist": "James Arthur",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=zeCMTUXLojo",
+  "card": "out_gz/James-Arthur-September.png"
+ },
+ {
   "id": "John-Denver-Take-Me-Home-Country-Roads.png",
   "title": "Take Me Home, Country Roads",
   "artist": "John Denver",
@@ -2290,6 +2670,26 @@
   "card": "out/John-Denver-Take-Me-Home-Country-Roads.png"
  },
  {
+  "id": "wZPCiRHkN9I",
+  "title": "I Guess I Just Feel Like  -",
+  "artist": "John Mayer",
+  "tag": "Tabs + Solo",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=wZPCiRHkN9I",
+  "card": "out_gz/John-Mayer-I-Guess-I-Just-Feel-Like.png"
+ },
+ {
+  "id": "JHU85vinYzQ",
+  "title": "In The Blood",
+  "artist": "John Mayer",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=JHU85vinYzQ",
+  "card": "out_gz/John-Mayer-In-The-Blood.png"
+ },
+ {
   "id": "Johnny-Cash-I-Walk-The-Line.png",
   "title": "I Walk the Line",
   "artist": "Johnny Cash",
@@ -2298,6 +2698,56 @@
   "channel": "BernadetteTeachesMusic",
   "url": "https://www.youtube.com/watch?v=Johnny-Cash",
   "card": "out/Johnny-Cash-I-Walk-The-Line.png"
+ },
+ {
+  "id": "lvDA4pEHNeY",
+  "title": "Glimpse Of Us",
+  "artist": "Joji",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=lvDA4pEHNeY",
+  "card": "out_gz/Joji-Glimpse-Of-Us.png"
+ },
+ {
+  "id": "ftwFZxxH7nk",
+  "title": "Cool",
+  "artist": "Jonas Brothers",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=ftwFZxxH7nk",
+  "card": "out_gz/Jonas-Brothers-Cool.png"
+ },
+ {
+  "id": "Hvf0sdfsHcs",
+  "title": "Can't Take My Eyes Off You",
+  "artist": "Joseph Vincent",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=Hvf0sdfsHcs",
+  "card": "out_gz/Joseph-Vincent-Cant-Take-My-Eyes-Off-You.png"
+ },
+ {
+  "id": "FYjcPj2WNTY",
+  "title": "Feliz Navidad",
+  "artist": "José Feliciano",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=FYjcPj2WNTY",
+  "card": "out_gz/Jose-Feliciano-Feliz-Navidad.png"
+ },
+ {
+  "id": "h2uZHrRmwus",
+  "title": "Heartbeats",
+  "artist": "José González",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=h2uZHrRmwus",
+  "card": "out_gz/Jos-Gonzlez-Heartbeats.png"
  },
  {
   "id": "Pearl-Jam-Last-Kiss.png",

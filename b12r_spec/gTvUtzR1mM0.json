@@ -1,0 +1,59 @@
+{
+ "title": "THE REASON",
+ "subtitle": "Hoobastank  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Hoobastank-The-Reason.png",
+ "panels": [
+  {
+   "label": "TAB · INTRO",
+   "t": 1.5,
+   "bbox": [
+    248,
+    558,
+    1672,
+    518
+   ]
+  },
+  {
+   "label": "TAB · VERSE",
+   "t": 15.5,
+   "bbox": [
+    248,
+    558,
+    1672,
+    518
+   ]
+  },
+  {
+   "label": "CHORD PATTERN · VERSE",
+   "t": 15.5,
+   "bbox": [
+    1404,
+    68,
+    496,
+    124
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · CHORUS",
+   "t": 49.5,
+   "bbox": [
+    248,
+    558,
+    1672,
+    518
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · BRIDGE",
+   "t": 130.5,
+   "bbox": [
+    248,
+    558,
+    1672,
+    518
+   ]
+  }
+ ],
+ "note": "Chords: Verse E C#m E C#m Asus2 B11  ·  Chorus E C#m Asus2 B11  ·  Bridge D E D E   Strumming: D-DUDUD-DUDUD-DU",
+ "video": "dl/v_gTvUtzR1mM0.mp4"
+}

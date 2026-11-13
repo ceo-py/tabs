@@ -1,0 +1,52 @@
+{
+ "title": "CHANGE THE WORLD",
+ "subtitle": "Eric Clapton  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Eric-Clapton-Change-The-World.png",
+ "panels": [
+  {
+   "label": "TAB  ·  VERSE",
+   "t": 30,
+   "bbox": [
+    216,
+    558,
+    1704,
+    522
+   ],
+   "png": "frames/b10_5r94nAECblw/p_verse.png"
+  },
+  {
+   "label": "TAB  ·  CHORUS 1",
+   "t": 70,
+   "bbox": [
+    216,
+    558,
+    1704,
+    522
+   ],
+   "png": "frames/b10_5r94nAECblw/p_chorus.png"
+  },
+  {
+   "label": "TAB  ·  SOLO",
+   "t": 170,
+   "bbox": [
+    216,
+    558,
+    1704,
+    522
+   ],
+   "png": "frames/b10_5r94nAECblw/p_solo.png"
+  },
+  {
+   "label": "TAB  ·  OUTRO",
+   "t": 220,
+   "bbox": [
+    216,
+    558,
+    1704,
+    340
+   ],
+   "png": "frames/b10_5r94nAECblw/p_outro.png"
+  }
+ ],
+ "note": "Chords: Verse E  |  Chorus F#m7 G#7 Cm7 D#° G#7 Cm7 Bm7 A E  |  Outro E F#m7 G Gadd9 F#m7 Em  ·  Solo: tab only, no chord names shown"
+}

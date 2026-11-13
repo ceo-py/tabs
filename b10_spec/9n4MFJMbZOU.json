@@ -1,0 +1,41 @@
+{
+ "title": "LAYLA (UNPLUGGED)",
+ "subtitle": "Eric Clapton  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Eric-Clapton-Layla-Unplugged.png",
+ "panels": [
+  {
+   "label": "TAB  ·  INTRO SOLO",
+   "t": 22,
+   "bbox": [
+    0,
+    558,
+    1920,
+    522
+   ],
+   "png": "frames/b10_9n4MFJMbZOU/p_intro.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  VERSE",
+   "t": 48,
+   "bbox": [
+    1120,
+    0,
+    800,
+    545
+   ],
+   "png": "frames/b10_9n4MFJMbZOU/p_verse.png"
+  },
+  {
+   "label": "TAB  ·  CHORUS",
+   "t": 60,
+   "bbox": [
+    790,
+    113,
+    1130,
+    382
+   ],
+   "png": "frames/b10_9n4MFJMbZOU/p_chorus.png"
+  }
+ ],
+ "note": "Chords: Verse C#m7 G#7 C#m7 C D E  |  F#m B E A x2   |   Chorus Dm Bb C Dm  ·  Strumming: DUDUDUDU (verse), D U D D U D (chorus)"
+}

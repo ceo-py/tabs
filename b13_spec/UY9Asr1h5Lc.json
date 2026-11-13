@@ -1,0 +1,11 @@
+{
+  "title": "FIRE AND RAIN",
+  "subtitle": "James Taylor  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/James-Taylor-Fire-And-Rain.png",
+  "panels": [
+    {"label": "TAB  \u00b7  VERSE", "t": 18, "bbox": [248, 560, 1672, 340], "png": "frames/b13_UY9Asr1h5Lc/p0.png"},
+    {"label": "TAB  \u00b7  CHORUS", "t": 42, "bbox": [248, 560, 1672, 516], "png": "frames/b13_UY9Asr1h5Lc/p1.png"},
+    {"label": "TAB  \u00b7  OUTRO", "t": 186, "bbox": [248, 560, 1672, 300], "png": "frames/b13_UY9Asr1h5Lc/p2.png"}
+  ],
+  "note": "Chords: A G/E D A E Gmaj7 (verse)  \u00b7  D Bm7 Bm7/E A G D/F# Em7sus4 Em7 (chorus)  \u00b7  Asus2 (outro)"
+}

@@ -165,6 +165,41 @@ def parse(name):
     return n, None, SHAPES.get(n)
 
 
+def auto_shape(name):
+    """find a playable voicing for a chord the hand-made dictionary lacks.
+
+    The search lives in chord_voicings.py — it only keeps voicings that use
+    tones of the chord and put the requested bass note on the lowest string.
+    """
+    try:
+        from chord_voicings import voicings
+    except Exception:
+        return None
+    try:
+        res = voicings(name)
+    except Exception:
+        return None
+    if not res:
+        return None
+    base, bass = name, None
+    if '/' in name:
+        base, bass = name.split('/', 1)
+    return {'frets': res[0][1], 'base': base, 'bass': bass, 'auto': True}
+
+
+def used_chords():
+    """every chord name the lessons use (chords.json)"""
+    path = os.path.join(ROOT, 'chords.json')
+    names = []
+    if not os.path.exists(path):
+        return names
+    for cs in json.load(open(path, encoding='utf-8')).values():
+        for c in cs:
+            if c not in names:
+                names.append(c)
+    return names
+
+
 def main():
     out = {}
     for name, frets in SHAPES.items():
@@ -176,9 +211,25 @@ def main():
             'base': base,
             'bass': bass,
         }
+
+    # chords the lessons use that are not in the dictionary yet
+    auto = 0
+    for name in used_chords():
+        if name in out:
+            continue
+        if '/' in name:
+            base, bass = name.split('/', 1)
+            if base in SHAPES:
+                out[name] = {'frets': SHAPES[base], 'base': base, 'bass': bass}
+                continue
+        sh = auto_shape(name)
+        if sh:
+            out[name] = sh
+            auto += 1
+
     with open(os.path.join(ROOT, 'chord_shapes.json'), 'w', encoding='utf-8') as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
-    print('%d shapes -> chord_shapes.json' % len(out))
+    print('%d shapes -> chord_shapes.json  (%d generated)' % (len(out), auto))
 
 
 if __name__ == '__main__':

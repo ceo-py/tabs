@@ -1,0 +1,59 @@
+{
+ "title": "WOULD THAT I",
+ "subtitle": "Hozier  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Hozier-Would-That-I.png",
+ "panels": [
+  {
+   "label": "TAB · VERSE",
+   "t": 37.5,
+   "bbox": [
+    244,
+    558,
+    1676,
+    518
+   ]
+  },
+  {
+   "label": "TAB · LONG BREAK",
+   "t": 52.5,
+   "bbox": [
+    244,
+    558,
+    1676,
+    518
+   ]
+  },
+  {
+   "label": "TAB · CHORUS",
+   "t": 59.5,
+   "bbox": [
+    244,
+    558,
+    1676,
+    518
+   ]
+  },
+  {
+   "label": "TAB · BRIDGE",
+   "t": 185.5,
+   "bbox": [
+    244,
+    558,
+    1676,
+    518
+   ]
+  },
+  {
+   "label": "TAB · FINAL CHORUS",
+   "t": 211.5,
+   "bbox": [
+    244,
+    558,
+    1676,
+    518
+   ]
+  }
+ ],
+ "note": "Chords: Verse G · C   ·   Chorus G Em C D   ·   Bridge Em7 Cmaj7 Am   (strumming shown as rhythm marks under the tab)",
+ "video": "dl/v_fUE0OwEu_p8.mp4"
+}

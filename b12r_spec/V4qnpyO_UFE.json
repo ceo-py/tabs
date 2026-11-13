@@ -1,0 +1,49 @@
+{
+ "title": "SOMEWHERE OVER THE RAINBOW",
+ "subtitle": "Israel IZ Kamakawiwoʻole  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Israel-IZ-Kamakawiwoole-Somewhere-Over-The-Rainbow.png",
+ "panels": [
+  {
+   "label": "CHORD PATTERN & STRUMMING · INTRO",
+   "t": 1.5,
+   "bbox": [
+    256,
+    560,
+    1664,
+    516
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · BRIDGE",
+   "t": 90.5,
+   "bbox": [
+    256,
+    560,
+    1664,
+    516
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · VERSE",
+   "t": 113.5,
+   "bbox": [
+    256,
+    560,
+    1664,
+    516
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · BRIDGE 2",
+   "t": 138.5,
+   "bbox": [
+    256,
+    560,
+    1664,
+    516
+   ]
+  }
+ ],
+ "note": "Chords: Intro C · G · Am · F (x2) · F F   ·   Bridge C · Em · Am · F (x2)   ·   Verse C Em F C F C G Am F   Strumming: D-DUX-DU (played twice for each chord)",
+ "video": "dl/v_V4qnpyO_UFE.mp4"
+}

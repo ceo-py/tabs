@@ -1,0 +1,49 @@
+{
+ "title": "NEVER TEAR US APART",
+ "subtitle": "INXS  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/INXS-Never-Tear-Us-Apart.png",
+ "panels": [
+  {
+   "label": "TAB · POST CHORUS RIFF",
+   "t": 60.0,
+   "bbox": [
+    1220,
+    112,
+    700,
+    220
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · VERSE",
+   "t": 80.0,
+   "bbox": [
+    1180,
+    80,
+    740,
+    520
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · CHORUS",
+   "t": 100.0,
+   "bbox": [
+    1180,
+    80,
+    740,
+    520
+   ]
+  },
+  {
+   "label": "TAB · SOLO",
+   "t": 130.0,
+   "bbox": [
+    736,
+    112,
+    1184,
+    392
+   ]
+  }
+ ],
+ "note": "Chords: Verse Am Am F F / Dm Dm F F · Chorus C F (x4) G G G   Strumming: D-D-D-D-D-D- (accent on highlighted strum)",
+ "video": "dl/v_YhJYJqVPqSU.mp4"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "STILL BREATHING",
+  "subtitle": "Green Day  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Green-Day-Still-Breathing.png",
+  "panels": [
+    {"label": "TAB  ·  VERSE", "t": 10, "bbox": [1040, 15, 880, 455], "png": "frames/b11r_sEseM-hHezI/p0.png"},
+    {"label": "TAB  ·  PRECHORUS", "t": 30, "bbox": [1040, 15, 880, 455], "png": "frames/b11r_sEseM-hHezI/p1.png"},
+    {"label": "TAB  ·  CHORUS", "t": 66, "bbox": [900, 85, 1020, 780], "png": "frames/b11r_sEseM-hHezI/p2.png"},
+    {"label": "TAB  ·  BRIDGE", "t": 70, "bbox": [900, 85, 1020, 780], "png": "frames/b11r_sEseM-hHezI/p3.png"}
+  ],
+  "note": "Tab only - this video shows no chord names and no strumming pattern"
+}

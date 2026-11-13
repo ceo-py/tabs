@@ -1,0 +1,49 @@
+{
+ "title": "EVERY ROSE HAS ITS THORN",
+ "subtitle": "Including Solo - Poison  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Including-Solo-Poison-Every-Rose-Has-Its-Thorn.png",
+ "panels": [
+  {
+   "label": "CHORD PATTERN & STRUMMING · INTRO/BREAK",
+   "t": 10.5,
+   "bbox": [
+    1140,
+    85,
+    780,
+    470
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · VERSE",
+   "t": 40.5,
+   "bbox": [
+    1140,
+    85,
+    780,
+    470
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · CHORUS",
+   "t": 60.5,
+   "bbox": [
+    1140,
+    85,
+    780,
+    470
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · BREAK/SOFT VERSE",
+   "t": 200.5,
+   "bbox": [
+    1140,
+    85,
+    780,
+    470
+   ]
+  }
+ ],
+ "note": "Chords: Intro G G Cadd9 Cadd9 (x2)   ·   Verse G G Cadd9 Cadd9 G Cadd9 G Cadd9 D D Cadd9 Cadd9   ·   Chorus G G Cadd9 Cadd9 G D G G Cadd9 G G Cadd9 G   ·   Break G Cadd9 (x4)   Strumming: D-D-D-DU · D-----------UDU (break)",
+ "video": "dl/v_Wc82tdXftws.mp4"
+}

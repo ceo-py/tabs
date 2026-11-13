@@ -1,0 +1,10 @@
+{
+  "title": "DREAMS",
+  "subtitle": "Fleetwood Mac  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Fleetwood-Mac-Dreams.png",
+  "panels": [
+   {"label": "CHORD PATTERN & STRUMMING  ·  MAIN PROGRESSION", "t": 20, "bbox": [256, 556, 1664, 524], "png": "frames/b10_639DIA537yE/p_main.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  BREAK", "t": 115, "bbox": [256, 556, 1664, 524], "png": "frames/b10_639DIA537yE/p_break.png"}
+  ],
+  "note": "Chords: Main progression F · G  |  Break F G G F  ·  Am G G F  ·  Strumming: D U D U D U D U — the highlighted letter marks the chord change. The video shows no TAB sheet."
+}

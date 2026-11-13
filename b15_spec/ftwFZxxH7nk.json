@@ -1,0 +1,10 @@
+{
+ "title": "COOL",
+ "subtitle": "Jonas Brothers  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Jonas-Brothers-Cool.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  MAIN PROGRESSION", "t": 20, "bbox": [1160, 110, 740, 400], "png": "frames/b15_ftwFZxxH7nk/p_prog.png"},
+  {"label": "TAB  ·  SOLO", "t": 113, "bbox": [262, 538, 1658, 542], "png": "frames/b15_ftwFZxxH7nk/p_solo.png"}
+ ],
+ "note": "Main progression: G  F  Cmaj7  G  |  Strumming: D---D--UX-D-D---  |  Video shows a full SOLO tab sheet (no verse/chorus tab panels)"
+}

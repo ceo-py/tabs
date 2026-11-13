@@ -1,0 +1,11 @@
+{
+  "title": "SEPTEMBER",
+  "subtitle": "James Arthur  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/James-Arthur-September.png",
+  "panels": [
+    {"label": "TAB  \u00b7  MAIN RIFF", "t": 112, "bbox": [256, 560, 1664, 516], "png": "frames/b13_zeCMTUXLojo/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  MAIN PROGRESSION", "t": 188, "bbox": [256, 560, 1664, 516], "png": "frames/b13_zeCMTUXLojo/p1.png"},
+    {"label": "TAB  \u00b7  SOLO", "t": 168, "bbox": [256, 560, 1664, 350], "png": "frames/b13_zeCMTUXLojo/p2.png"}
+  ],
+  "note": "Chords: Cadd9 Gadd9 D Em7   Strumming: D-D-D-D-D-D-D-D-D-D-D-D-D-D-D"
+}

@@ -1,0 +1,12 @@
+{
+ "title": "HEARTBEATS",
+ "subtitle": "José González  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Jos-Gonzlez-Heartbeats.png",
+ "panels": [
+  {"label": "TAB  ·  VERSE", "t": 31, "bbox": [262, 558, 1658, 520], "png": "frames/b15_h2uZHrRmwus/p_verse.png"},
+  {"label": "TAB  ·  PRECHORUS 1", "t": 44, "bbox": [262, 558, 1658, 520], "png": "frames/b15_h2uZHrRmwus/p_prechorus1.png"},
+  {"label": "TAB  ·  CHORUS", "t": 56, "bbox": [262, 558, 1658, 520], "png": "frames/b15_h2uZHrRmwus/p_chorus.png"},
+  {"label": "TAB  ·  BRIDGE", "t": 130, "bbox": [262, 558, 1658, 520], "png": "frames/b15_h2uZHrRmwus/p_bridge.png"}
+ ],
+ "note": "Video shows TAB only - no chord names or strumming pattern are displayed on screen. Verse & Prechorus use fingerstyle picking with hammer-ons (h)."
+}

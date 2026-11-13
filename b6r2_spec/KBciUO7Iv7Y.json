@@ -1,0 +1,12 @@
+{
+  "title": "SPARKS",
+  "subtitle": "Coldplay  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Coldplay-Sparks.png",
+  "panels": [
+   {"label": "TAB  ·  INTRO", "t": 5, "bbox": [236, 558, 1500, 520], "png": "frames/b14_KBciUO7Iv7Y/c_intro.png"},
+   {"label": "TAB  ·  VERSE", "t": 40, "bbox": [236, 558, 1500, 520], "png": "frames/b14_KBciUO7Iv7Y/c_verse.png"},
+   {"label": "TAB  ·  CHORUS", "t": 85, "bbox": [236, 558, 1500, 520], "png": "frames/b14_KBciUO7Iv7Y/c_chorus.png"},
+   {"label": "TAB  ·  OUTRO", "t": 190, "bbox": [236, 558, 1500, 520], "png": "frames/b14_KBciUO7Iv7Y/c_outro.png"}
+  ],
+  "note": "Chords: Intro/Chorus Em Eb+(b9#9) Em FM9(#11) C#m7(b5) Cmaj7 · Verse D6(9,11) Em Am(add9) G6 · Outro D6(9,11) Em (x4)  |  Strumming: D-DUDU"
+}

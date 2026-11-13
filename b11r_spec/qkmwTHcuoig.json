@@ -1,0 +1,12 @@
+{
+  "title": "ADORE YOU",
+  "subtitle": "Harry Styles  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Harry-Styles-Adore-You.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  ·  MAIN PROGRESSION", "t": 60, "bbox": [235, 605, 1685, 475], "png": "frames/b11r_qkmwTHcuoig/p0.png"},
+    {"label": "TAB  ·  POST CHORUS 1", "t": 80, "bbox": [235, 605, 1685, 475], "png": "frames/b11r_qkmwTHcuoig/p1.png"},
+    {"label": "TAB  ·  SOLO", "t": 150, "bbox": [235, 605, 1685, 475], "png": "frames/b11r_qkmwTHcuoig/p2.png"},
+    {"label": "TAB  ·  POST CHORUS 3", "t": 200, "bbox": [235, 605, 1685, 475], "png": "frames/b11r_qkmwTHcuoig/p3.png"}
+  ],
+  "note": "Chords: Am7 Am7 C C / F F F G   Strumming: D-D-D-DU"
+}

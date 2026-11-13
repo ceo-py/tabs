@@ -1,0 +1,11 @@
+{
+  "title": "FALLING LIKE THE STARS",
+  "subtitle": "James Arthur  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/James-Arthur-Falling-Like-The-Stars.png",
+  "panels": [
+    {"label": "TAB  \u00b7  MAIN FINGERPICKED RIFF", "t": 56, "bbox": [252, 568, 1668, 496], "png": "frames/b13_wTVrkNjWJx0/p0.png"},
+    {"label": "CHORD PATTERN  \u00b7  MAIN PROGRESSION STRUMMED", "t": 148, "bbox": [252, 568, 1668, 496], "png": "frames/b13_wTVrkNjWJx0/p1.png"},
+    {"label": "TAB  \u00b7  INTRO", "t": 2, "bbox": [252, 568, 1668, 496], "png": "frames/b13_wTVrkNjWJx0/p2.png"}
+  ],
+  "note": "Chords: C Am7 Fsus2 C"
+}

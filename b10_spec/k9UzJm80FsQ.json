@@ -1,0 +1,13 @@
+{
+  "title": "WONDERFUL TONIGHT",
+  "subtitle": "Eric Clapton  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Eric-Clapton-Wonderful-Tonight.png",
+  "panels": [
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 30, "bbox": [248, 556, 1672, 524], "png": "frames/b10_k9UzJm80FsQ/p_verse.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 50, "bbox": [248, 556, 1672, 524], "png": "frames/b10_k9UzJm80FsQ/p_chorus.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE", "t": 120, "bbox": [248, 556, 1672, 524], "png": "frames/b10_k9UzJm80FsQ/p_bridge.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  POST BRIDGE", "t": 140, "bbox": [248, 556, 1672, 524], "png": "frames/b10_k9UzJm80FsQ/p_postbridge.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  OUTRO", "t": 200, "bbox": [248, 556, 1672, 524], "png": "frames/b10_k9UzJm80FsQ/p_outro.png"}
+  ],
+  "note": "Chords: Verse G D/F# C D  |  Chorus C D G D/F# Em · C D  |  Bridge C D G D/F# Em · C D C D  |  Outro G D/F# Em D C D  ·  Strumming: D-DUDUDU (verse), D-DUD-DU (chorus), D-DUDUDDU (bridge & post bridge), D-DDUDUDU (outro)"
+}

@@ -1,0 +1,49 @@
+{
+ "title": "BANANA PANCAKES",
+ "subtitle": "Jack Johnson  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Jack-Johnson-Banana-Pancakes.png",
+ "panels": [
+  {
+   "label": "TAB · INTRO",
+   "t": 5.0,
+   "bbox": [
+    248,
+    558,
+    1672,
+    522
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · VERSE",
+   "t": 40.0,
+   "bbox": [
+    248,
+    558,
+    1672,
+    522
+   ]
+  },
+  {
+   "label": "TAB · CHORUS 2",
+   "t": 80.0,
+   "bbox": [
+    248,
+    558,
+    1672,
+    522
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · BRIDGE",
+   "t": 120.0,
+   "bbox": [
+    248,
+    558,
+    1672,
+    522
+   ]
+  }
+ ],
+ "note": "Chords: Verse G · D7 | Am7 · C7   ·   Bridge Am7 · D · Bm7 · Em · Em/D# · C · G · D7   Strumming: DUDU (verse) · DUXUDUXU (bridge)",
+ "video": "dl/v_mMnePxJAnTY.mp4"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "CHERRY",
+  "subtitle": "Harry Styles  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Harry-Styles-Cherry.png",
+  "panels": [
+    {"label": "TAB  ·  MAIN RIFF", "t": 60, "bbox": [256, 560, 1664, 516], "png": "frames/b11r_BbLwa_WB_4c/p0.png"},
+    {"label": "TAB  ·  SOFT SECTION", "t": 132, "bbox": [256, 560, 1664, 516], "png": "frames/b11r_BbLwa_WB_4c/p1.png"},
+    {"label": "TAB  ·  BRIDGE", "t": 144, "bbox": [256, 560, 1664, 516], "png": "frames/b11r_BbLwa_WB_4c/p2.png"},
+    {"label": "CHORD PATTERN & STRUMMING  ·  MAIN PROGRESSION", "t": 168, "bbox": [256, 560, 1664, 516], "png": "frames/b11r_BbLwa_WB_4c/p3.png"}
+  ],
+  "note": "Chords: Am7 Fmaj7 (riff)  ·  C Am7 Fmaj7 (soft)  ·  G F C/E Dm (bridge)  ·  C Am7 FM7 (progression)   Strumming: D-D--UDU"
+}

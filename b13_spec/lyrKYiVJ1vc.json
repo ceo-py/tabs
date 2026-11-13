@@ -1,0 +1,11 @@
+{
+  "title": "LEAVING ON A JET PLANE",
+  "subtitle": "John Denver  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/John-Denver-Leaving-On-A-Jet-Plane.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  VERSE", "t": 24, "bbox": [248, 560, 1672, 516], "png": "frames/b13_lyrKYiVJ1vc/p0.png"},
+    {"label": "TAB  \u00b7  CHORUS 1", "t": 294, "bbox": [248, 560, 1672, 516], "png": "frames/b13_lyrKYiVJ1vc/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  FINAL CHORUS", "t": 204, "bbox": [248, 560, 1672, 516], "png": "frames/b13_lyrKYiVJ1vc/p2.png"}
+  ],
+  "note": "Chords: G Cadd9 G Cadd9 D D (verse)  \u00b7  G C D G C (chorus)  \u00b7  D Dsus4 D Dsus4 G (final chorus)   Strumming: DUDU - UDU"
+}

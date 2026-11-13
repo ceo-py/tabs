@@ -1,0 +1,49 @@
+{
+ "title": "OUTTA MY HEAD",
+ "subtitle": "Including Solo Khalid John Mayer  ·  Guitar Cover  ·  Tabs + Solo + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Including-Solo-Khalid-John-Mayer-Outta-My-Head.png",
+ "panels": [
+  {
+   "label": "CHORD PATTERN & STRUMMING · VERSE",
+   "t": 10.5,
+   "bbox": [
+    1140,
+    85,
+    780,
+    470
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · CHORUS",
+   "t": 50.5,
+   "bbox": [
+    1140,
+    85,
+    780,
+    470
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · VERSE 2",
+   "t": 60.5,
+   "bbox": [
+    1140,
+    85,
+    780,
+    470
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · CHORUS 2",
+   "t": 170.5,
+   "bbox": [
+    1140,
+    85,
+    780,
+    470
+   ]
+  }
+ ],
+ "note": "Chords: Verse F · G   ·   Chorus F · Am G   Strumming: D-D-D-DU (verse) · D--UX-D-D---D--- (chorus)",
+ "video": "dl/v_cSkqez_cCQA.mp4"
+}

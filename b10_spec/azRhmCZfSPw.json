@@ -1,0 +1,15 @@
+{
+  "title": "TAKE ME OUT",
+  "subtitle": "Franz Ferdinand  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Franz-Ferdinand-Take-Me-Out.png",
+  "panels": [
+   {"label": "TAB  ·  INTRO", "t": 30, "bbox": [248, 556, 1672, 524], "png": "frames/b10_azRhmCZfSPw/p_intro.png"},
+   {"label": "TAB  ·  BREAK", "t": 60, "bbox": [248, 556, 1672, 390], "png": "frames/b10_azRhmCZfSPw/p_break.png"},
+   {"label": "TAB  ·  MAIN RIFF", "t": 75, "bbox": [248, 556, 1672, 490], "png": "frames/b10_azRhmCZfSPw/p_mainriff.png"},
+   {"label": "TAB  ·  VERSE", "t": 90, "bbox": [248, 556, 1672, 524], "png": "frames/b10_azRhmCZfSPw/p_verse.png"},
+   {"label": "TAB  ·  PRECHORUS", "t": 132, "bbox": [248, 556, 1672, 270], "png": "frames/b10_azRhmCZfSPw/p_prechorus.png"},
+   {"label": "TAB  ·  CHORUS", "t": 142, "bbox": [248, 556, 1672, 410], "png": "frames/b10_azRhmCZfSPw/p_chorus.png"},
+   {"label": "TAB  ·  OUTRO", "t": 225, "bbox": [248, 556, 1672, 260], "png": "frames/b10_azRhmCZfSPw/p_outro.png"}
+  ],
+  "note": "Tab notation only — the video shows no chord names and no strumming pattern."
+}

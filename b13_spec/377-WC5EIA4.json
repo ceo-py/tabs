@@ -1,0 +1,11 @@
+{
+  "title": "FLAKE",
+  "subtitle": "Jack Johnson  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/Jack-Johnson-Flake.png",
+  "panels": [
+    {"label": "TAB  \u00b7  VERSE", "t": 38, "bbox": [262, 560, 1658, 516], "png": "frames/b13_377-WC5EIA4/p0.png"},
+    {"label": "TAB  \u00b7  CHORUS 1", "t": 76, "bbox": [262, 560, 1658, 516], "png": "frames/b13_377-WC5EIA4/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  OUTRO PT.2", "t": 246, "bbox": [262, 560, 1658, 516], "png": "frames/b13_377-WC5EIA4/p2.png"}
+  ],
+  "note": "Chords: Dm F Bb F (verse)  \u00b7  F C Dm A / Bb C F C (chorus)  \u00b7  F Bb F C / F Bb C Bb F (outro)   Strumming: D-DUDUDU-U-UDUDU"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "SKY FULL OF STARS",
+  "subtitle": "Coldplay  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Coldplay-Sky-Full-Of-Stars.png",
+  "panels": [
+   {"label": "TAB  ·  RIFF 1", "t": 170, "bbox": [962, 110, 956, 425], "png": "frames/b14_Kn_u3X5KRPk/c_riff1.png"},
+   {"label": "TAB  ·  RIFF 2", "t": 196, "bbox": [962, 110, 956, 425], "png": "frames/b14_Kn_u3X5KRPk/c_riff2.png"},
+   {"label": "TAB  ·  RIFF 3", "t": 246, "bbox": [962, 110, 956, 425], "png": "frames/b14_Kn_u3X5KRPk/c_riff3.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE/CHORUS", "t": 176, "bbox": [0, 85, 955, 150], "png": "frames/b14_Kn_u3X5KRPk/c_chord_vc.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  OUTRO", "t": 215, "bbox": [0, 85, 955, 150], "png": "frames/b14_Kn_u3X5KRPk/c_chord_outro.png"}
+  ],
+  "note": "Chords: Verse/Chorus Am F C Em  ·  Outro F G Am Am C   |   Strumming: D-DU-UDU (change chords on the highlighted strum)"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "BOULEVARD OF BROKEN DREAMS ACOUSTIC",
+  "subtitle": "Green Day  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Green-Day-Boulevard-of-Broken-Dreams-ACOUSTIC.png",
+  "panels": [
+    {"label": "TAB  ·  INTRO", "t": 6, "bbox": [840, 140, 1080, 410], "png": "frames/b11r_uZ_D5CZL_r4/p0.png"},
+    {"label": "TAB  ·  VERSE", "t": 30, "bbox": [810, 118, 1110, 225], "png": "frames/b11r_uZ_D5CZL_r4/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 30, "bbox": [1150, 355, 660, 238], "png": "frames/b11r_uZ_D5CZL_r4/p2.png"},
+    {"label": "TAB  ·  SOLO", "t": 186, "bbox": [800, 10, 1120, 580], "png": "frames/b11r_uZ_D5CZL_r4/p3.png"}
+  ],
+  "note": "Chords: Em G D A (verse)   Strumming: D-D-D-D-DU"
+}

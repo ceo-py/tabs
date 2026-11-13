@@ -1,0 +1,11 @@
+{
+  "title": "AS IT WAS",
+  "subtitle": "Harry Styles  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Harry-Styles-As-It-Was.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  ·  MAIN CHORD PROGRESSION", "t": 60, "bbox": [248, 560, 1672, 516], "png": "frames/b11r_oLeG9U-6UO8/p0.png"},
+    {"label": "TAB  ·  MAIN RIFF", "t": 186, "bbox": [248, 560, 1672, 516], "png": "frames/b11r_oLeG9U-6UO8/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  ·  MAIN CHORD PROGRESSION", "t": 120, "bbox": [248, 560, 1672, 516], "png": "frames/b11r_oLeG9U-6UO8/p2.png"}
+  ],
+  "note": "Chords: Dsus2 Bm7 E A   Strumming: D-D-DUDU-UD-DUDU"
+}

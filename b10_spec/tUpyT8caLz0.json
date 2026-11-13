@@ -1,0 +1,16 @@
+{
+  "title": "MORE THAN WORDS",
+  "subtitle": "Extreme  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Extreme-More-Than-Words.png",
+  "panels": [
+   {"label": "TAB  ·  INTRO", "t": 10, "bbox": [975, 0, 945, 330], "png": "frames/b10_tUpyT8caLz0/p_intro.png"},
+   {"label": "TAB  ·  VERSE 1 PT.1", "t": 30, "bbox": [975, 0, 945, 330], "png": "frames/b10_tUpyT8caLz0/p_verse1.png"},
+   {"label": "TAB  ·  VERSE 1 PT.2", "t": 55, "bbox": [975, 0, 945, 555], "png": "frames/b10_tUpyT8caLz0/p_verse1pt2.png"},
+   {"label": "TAB  ·  CHORUS", "t": 95, "bbox": [975, 0, 945, 555], "png": "frames/b10_tUpyT8caLz0/p_chorus.png"},
+   {"label": "TAB  ·  BREAK", "t": 130, "bbox": [975, 0, 945, 330], "png": "frames/b10_tUpyT8caLz0/p_break.png"},
+   {"label": "TAB  ·  VERSE 2 PT.1", "t": 150, "bbox": [975, 0, 945, 330], "png": "frames/b10_tUpyT8caLz0/p_verse2.png"},
+   {"label": "TAB  ·  VERSE 2 PT.2", "t": 175, "bbox": [975, 0, 945, 555], "png": "frames/b10_tUpyT8caLz0/p_verse2pt2.png"},
+   {"label": "TAB  ·  CHORUS (2nd)", "t": 215, "bbox": [975, 0, 945, 555], "png": "frames/b10_tUpyT8caLz0/p_chorus2.png"}
+  ],
+  "note": "Chords: Verse G D/F# Em Bm7 C Am7  |  Chorus G D/F# Em Bm7 C Am7 D G A#m A#m7 Bb  ·  On-screen note: song is in flat tuning (all strings half step down); tab is written for eb Bb Gb Db Ab Eb strings"
+}

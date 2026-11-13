@@ -1,0 +1,14 @@
+{
+  "title": "NEVER GOING BACK AGAIN",
+  "subtitle": "Fleetwood Mac  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Fleetwood-Mac-Never-Going-Back-Again.png",
+  "panels": [
+   {"label": "TAB  ·  INTRO", "t": 8, "bbox": [216, 556, 1704, 524], "png": "frames/b10_XIkuAB1Gc6s/p_intro.png"},
+   {"label": "TAB  ·  VERSE", "t": 30, "bbox": [216, 556, 1704, 524], "png": "frames/b10_XIkuAB1Gc6s/p_verse.png"},
+   {"label": "TAB  ·  CHORUS", "t": 50, "bbox": [216, 556, 1704, 524], "png": "frames/b10_XIkuAB1Gc6s/p_chorus.png"},
+   {"label": "TAB  ·  VERSE 2", "t": 75, "bbox": [216, 556, 1704, 524], "png": "frames/b10_XIkuAB1Gc6s/p_verse2.png"},
+   {"label": "TAB  ·  CHORUS 2", "t": 105, "bbox": [216, 556, 1704, 524], "png": "frames/b10_XIkuAB1Gc6s/p_chorus2.png"},
+   {"label": "TAB  ·  OUTRO", "t": 165, "bbox": [216, 556, 1704, 524], "png": "frames/b10_XIkuAB1Gc6s/p_outro.png"}
+  ],
+  "note": "Chords: Intro / Verse D (Capo fret 4) · D · A13 · D  |  Chorus D A7 D Bm7 Fim7 Bm7 A  |  Outro D · D · A13 · D"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "HARRY POTTER THEME",
+  "subtitle": "Fingerstyle  ·  Guitar Cover  ·  Tabs  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Fingerstyle-Harry-Potter-Theme.png",
+  "panels": [
+   {"label": "TAB  ·  VERSE", "t": 15, "bbox": [935, 0, 985, 705], "png": "frames/b10_vI1LIY4RmoU/p_verse.png"},
+   {"label": "TAB  ·  VERSE VARIATION", "t": 50, "bbox": [935, 0, 985, 705], "png": "frames/b10_vI1LIY4RmoU/p_versevar.png"},
+   {"label": "TAB  ·  CHORUS", "t": 70, "bbox": [935, 0, 985, 705], "png": "frames/b10_vI1LIY4RmoU/p_chorus.png"}
+  ],
+  "note": "Tab notation only (strings printed as d A F C G D) — the video shows no chord names and no strumming pattern."
+}

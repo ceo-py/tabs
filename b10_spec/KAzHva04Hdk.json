@@ -1,0 +1,13 @@
+{
+  "title": "FLY ME TO THE MOON",
+  "subtitle": "Frank Sinatra  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Frank-Sinatra-Fly-Me-To-The-Moon.png",
+  "panels": [
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 1", "t": 20, "bbox": [248, 556, 1672, 524], "png": "frames/b10_KAzHva04Hdk/p_verse1.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 2", "t": 50, "bbox": [248, 556, 1672, 524], "png": "frames/b10_KAzHva04Hdk/p_verse2.png"},
+   {"label": "TAB  ·  LEAD", "t": 80, "bbox": [248, 556, 1672, 524], "png": "frames/b10_KAzHva04Hdk/p_lead.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 4", "t": 120, "bbox": [248, 556, 1672, 524], "png": "frames/b10_KAzHva04Hdk/p_verse4.png"},
+   {"label": "TAB  ·  LEAD (2nd HALF)", "t": 215, "bbox": [248, 556, 1672, 524], "png": "frames/b10_KAzHva04Hdk/p_lead2.png"}
+  ],
+  "note": "Chords: Am Dm7 G C  ·  F Dm E Am A7  ·  Dm7 G C A7  ·  Dm7 G C E  |  Verse 4 adds Dm7 Dm7 Bb7 Bb7 · Gm7 G7 Riff  ·  Strumming: D-D-DUDU (verse 1 & 4), D-DU (verse 2)"
+}

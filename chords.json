@@ -14,10 +14,10 @@
  "out_gz/Alex-Warren-Ordinary.png": [
   "Em",
   "D",
-  "G(A)",
+  "G",
+  "A",
   "Bm",
-  "A(D/F#)",
-  "Em(D/F#)"
+  "D/F#"
  ],
  "out_gz/Ali-Gatie-Its-You.png": [
   "Bm",
@@ -219,13 +219,13 @@
   "F"
  ],
  "out_gz/Billie-Eilish-I-Love-You.png": [
-  "Fmaj7(b5)",
+  "Fmaj7",
+  "B5",
   "Cmaj7",
   "C",
   "F",
   "Dm",
-  "Em",
-  "Fmaj7"
+  "Em"
  ],
  "out_gz/Billie-Eilish-Lovely.png": [
   "C",
@@ -284,7 +284,6 @@
   "C",
   "Em/B",
   "G5",
-  "G5(5)",
   "Em/G"
  ],
  "out_gz/Billie-Eilish-Wildflower.png": [
@@ -370,11 +369,11 @@
  "out_gz/Bob-Dylan-Dont-Think-Twice-Its-All-Right.png": [
   "C",
   "G",
-  "Am(c/G)",
+  "Am",
+  "C/G",
   "F",
   "D7/F#",
-  "C7",
-  "C/G"
+  "C7"
  ],
  "out_gz/Bob-Dylan-Knockin-On-Heavens-Door.png": [
   "G",
@@ -589,6 +588,112 @@
   "Em",
   "F"
  ],
+ "out_gz/Charlie-Puth-How-Long.png": [
+  "Dm",
+  "Em",
+  "Am",
+  "F",
+  "Esus4",
+  "E",
+  "G"
+ ],
+ "out_gz/Chris-Cornell-Nothing-Compares-2-U.png": [
+  "C",
+  "G/B",
+  "Am",
+  "G",
+  "E",
+  "Bb",
+  "F",
+  "Am7",
+  "Em"
+ ],
+ "out_gz/Chris-Isaak-Wicked-Game.png": [
+  "Bm",
+  "A",
+  "E"
+ ],
+ "out_gz/Chris-Stapleton-Tennessee-Whiskey.png": [
+  "A",
+  "Bm"
+ ],
+ "out_gz/Christmas-Carol-The-First-Noel.png": [
+  "G",
+  "D",
+  "Cadd9",
+  "G/B",
+  "Am7",
+  "Em"
+ ],
+ "out_gz/Christmas-O-Holy-Night.png": [
+  "G",
+  "C",
+  "D",
+  "F#m",
+  "Bm",
+  "F#",
+  "Em",
+  "Am",
+  "Dsus4"
+ ],
+ "out_gz/Chuck-Berry-Johnny-B-Goode.png": [
+  "B"
+ ],
+ "out_gz/Clean-Bandit-Zara-Larsson-Symphony.png": [
+  "C",
+  "F",
+  "Am",
+  "Em",
+  "G"
+ ],
+ "out_gz/Clinton-Kane-Chicken-Tendies.png": [
+  "Em",
+  "G",
+  "C",
+  "D",
+  "Dadd11"
+ ],
+ "out_gz/Coldplay-Dont-Panic.png": [
+  "Am",
+  "C",
+  "Dm",
+  "G"
+ ],
+ "out_gz/Coldplay-Green-Eyes.png": [
+  "G",
+  "D",
+  "Am",
+  "Am7",
+  "C",
+  "Am/E",
+  "C/G",
+  "F",
+  "C/B"
+ ],
+ "out_gz/Coldplay-In-My-Place.png": [
+  "C",
+  "G",
+  "D",
+  "D/F#",
+  "Bm",
+  "Em"
+ ],
+ "out_gz/Coldplay-Sky-Full-Of-Stars.png": [
+  "Am",
+  "F",
+  "C",
+  "Em",
+  "G"
+ ],
+ "out_gz/Coldplay-Sparks.png": [
+  "Em",
+  "C#m7",
+  "B5",
+  "Cmaj7",
+  "D6",
+  "Am",
+  "G6"
+ ],
  "out_gz/Coldplay-The-Chainsmokers-Something-Just-Like-This.png": [
   "G",
   "A",
@@ -617,12 +722,12 @@
   "D"
  ],
  "out_gz/Coldplay-Yellow.png": [
-  "A",
-  "E",
-  "D",
-  "Asus4",
-  "F#m7",
-  "Em"
+  "B",
+  "Badd11",
+  "F#6",
+  "Emaj7",
+  "G#m",
+  "F#m11"
  ],
  "out_gz/Collective-Soul-The-World-I-Know.png": [
   "Bm",
@@ -675,6 +780,142 @@
   "C/B",
   "Am7/G"
  ],
+ "out_gz/Crowded-House-Better-Be-Home-Soon.png": [
+  "C",
+  "Am",
+  "Em7",
+  "G",
+  "C7",
+  "F",
+  "G/B",
+  "Bb",
+  "D",
+  "A7"
+ ],
+ "out_gz/Crowded-House-Fall-At-Your-Feet-Acoustic.png": [
+  "Am",
+  "C",
+  "Bm",
+  "E",
+  "F",
+  "C7",
+  "G"
+ ],
+ "out_gz/Damien-Rice-Cannonball.png": [
+  "G",
+  "Cadd9",
+  "D/F#",
+  "Am7",
+  "C",
+  "Dadd11",
+  "E5",
+  "Em",
+  "Cmaj7",
+  "D5"
+ ],
+ "out_gz/Dan-10000-Hours.png": [
+  "G",
+  "Em7",
+  "Cadd9",
+  "G/B"
+ ],
+ "out_gz/Dan-Tequila.png": [
+  "Cadd9",
+  "G",
+  "D",
+  "Em7"
+ ],
+ "out_gz/Daniel-Caesar-Feat-HER-Best-Part.png": [
+  "Am7",
+  "Dmaj7",
+  "Gmaj7",
+  "Bbmaj7"
+ ],
+ "out_gz/Danny-Vera-Roller-Coaster.png": [
+  "G",
+  "Am",
+  "Em",
+  "D/F#",
+  "C"
+ ],
+ "out_gz/Darius-Rucker-Wagon-Wheel.png": [
+  "G",
+  "D",
+  "Em",
+  "C",
+  "A",
+  "E",
+  "F#m11"
+ ],
+ "out_gz/Dashboard-Confessional-Hands-Down.png": [
+  "C#m",
+  "Asus2",
+  "E",
+  "Bsus4",
+  "A",
+  "B5",
+  "B",
+  "D5/A",
+  "D/A",
+  "Amaj7",
+  "G#m7"
+ ],
+ "out_gz/Dave-Matthews-Band-Crash-Into-Me.png": [
+  "C#m7",
+  "Asus2",
+  "Bsus4",
+  "E5",
+  "E/G#",
+  "E",
+  "D6/F#"
+ ],
+ "out_gz/David-Bowie-Starman.png": [
+  "Bb/A",
+  "Fmaj7",
+  "F",
+  "Dm",
+  "Am",
+  "Am7/G",
+  "C",
+  "C7",
+  "Bb",
+  "Bbm",
+  "D/F#",
+  "Gm",
+  "Ab",
+  "A",
+  "G"
+ ],
+ "out_gz/Dean-Lewis-Be-Alright.png": [
+  "Em",
+  "C",
+  "G",
+  "D/F#",
+  "Bm"
+ ],
+ "out_gz/Dean-Lewis-Stay-Awake.png": [
+  "Bm",
+  "F#m",
+  "G",
+  "A"
+ ],
+ "out_gz/Death-Cab-For-Cutie-I-Will-Follow-You-Into-The-Dark.png": [
+  "C",
+  "C/G",
+  "Am",
+  "Am/E",
+  "F",
+  "G",
+  "E",
+  "Am/G",
+  "Fm",
+  "C/B"
+ ],
+ "out_gz/Dolly-Parton-Jolene.png": [
+  "Am",
+  "C",
+  "G"
+ ],
  "out_gz/Don-McLean-American-Pie.png": [
   "G",
   "D/F#",
@@ -716,11 +957,8 @@
  "out_gz/Ed-Sheeran-All-Of-The-Stars.png": [
   "G",
   "D",
-  "Em7(4)",
-  "Cadd9(4)",
-  "Em7(1)",
-  "Cadd9(1)",
-  "Em7"
+  "Em7",
+  "Cadd9"
  ],
  "out_gz/Ed-Sheeran-Bad-Habits.png": [
   "Am",
@@ -760,12 +998,31 @@
   "C/D",
   "Gadd11/B"
  ],
+ "out_gz/Ed-Sheeran-Chance-The-Rapper-PnB-Rock-Cross-Me.png": [
+  "E",
+  "F#",
+  "G#m",
+  "C",
+  "D",
+  "Em"
+ ],
  "out_gz/Ed-Sheeran-Drunk.png": [
   "Em",
   "D",
   "G",
   "Cadd9",
   "D/F#"
+ ],
+ "out_gz/Ed-Sheeran-Elton-John-Merry-Christmas.png": [
+  "C",
+  "C/B",
+  "Am",
+  "G",
+  "F",
+  "Fsus2",
+  "E/G#",
+  "G#",
+  "A#"
  ],
  "out_gz/Ed-Sheeran-First-Times.png": [
   "G",
@@ -817,12 +1074,17 @@
   "C#m",
   "F#m"
  ],
+ "out_gz/Ed-Sheeran-Justin-Bieber-I-Dont-Care.png": [
+  "C",
+  "Am",
+  "F",
+  "G"
+ ],
  "out_gz/Ed-Sheeran-Kiss-Me.png": [
   "G",
   "A",
   "D5",
   "Bm7",
-  "Bm7(1)",
   "Gm"
  ],
  "out_gz/Ed-Sheeran-Life-Goes-On.png": [
@@ -870,10 +1132,482 @@
   "Asus4",
   "Bm"
  ],
+ "out_gz/Ed-Sheeran-Salt-Water.png": [
+  "Am",
+  "F",
+  "C",
+  "G",
+  "Dm"
+ ],
+ "out_gz/Ed-Sheeran-Sandman.png": [
+  "C",
+  "G",
+  "Am",
+  "F",
+  "Dm"
+ ],
+ "out_gz/Ed-Sheeran-Shivers.png": [
+  "Bm",
+  "G",
+  "D",
+  "A"
+ ],
+ "out_gz/Ed-Sheeran-Slowly.png": [
+  "C",
+  "Am7",
+  "F5",
+  "Dm",
+  "Fsus2",
+  "G"
+ ],
+ "out_gz/Ed-Sheeran-Supermarket-Flowers.png": [
+  "C",
+  "Em",
+  "F",
+  "Am",
+  "G",
+  "Dm"
+ ],
+ "out_gz/Ed-Sheeran-Taylor-Swift-Everything-Has-Changed.png": [
+  "C",
+  "Csus4",
+  "Am",
+  "F",
+  "G"
+ ],
+ "out_gz/Ed-Sheeran-Tenerife-Sea.png": [
+  "E",
+  "F#m",
+  "A",
+  "C#m",
+  "B",
+  "F"
+ ],
+ "out_gz/Ed-Sheeran-The-Hills-Of-Aberfeldy.png": [
+  "D",
+  "G",
+  "A",
+  "Bm",
+  "Em",
+  "D/F#",
+  "Gadd9",
+  "D5",
+  "Aadd11",
+  "Bm7"
+ ],
+ "out_gz/Ed-Sheeran-Tides.png": [
+  "B",
+  "F#",
+  "G#m",
+  "Em",
+  "D"
+ ],
+ "out_gz/Ed-Sheeran-Visiting-Hours.png": [
+  "G",
+  "Em7",
+  "Cadd9",
+  "Dsus4",
+  "E5",
+  "D6",
+  "C#7"
+ ],
+ "out_gz/Ed-Sheeran-Way-To-Break-My-Heart.png": [
+  "F#m",
+  "D",
+  "A",
+  "E"
+ ],
+ "out_gz/Ed-Sheeran-What-Do-I-Know.png": [
+  "C",
+  "G/B",
+  "Am",
+  "G",
+  "F",
+  "C/E"
+ ],
+ "out_gz/Eddie-Vedder-Society.png": [
+  "Am",
+  "C",
+  "G",
+  "F"
+ ],
+ "out_gz/Edwin-McCain-Ill-Be.png": [
+  "Badd11",
+  "E",
+  "Gb/Bb",
+  "E/G#",
+  "F#11",
+  "G",
+  "C",
+  "D/F#",
+  "C/E"
+ ],
+ "out_gz/Ella-Langley-Choosin-Texas.png": [
+  "Dm",
+  "C",
+  "F",
+  "G",
+  "Am",
+  "Em",
+  "D",
+  "A"
+ ],
+ "out_gz/Ellie-The-Last-Of-Us-Part-II-Take-On-Me.png": [
+  "Am",
+  "D",
+  "G",
+  "C",
+  "D/F#",
+  "C/B",
+  "Em"
+ ],
+ "out_gz/Elton-John-Tiny-Dancer.png": [
+  "C",
+  "F/C",
+  "F/A",
+  "G",
+  "F",
+  "Em7",
+  "Am7",
+  "D/F#",
+  "Dm",
+  "Em",
+  "Am",
+  "G/B",
+  "C/E",
+  "Ab",
+  "Bb",
+  "Gm",
+  "Cm",
+  "G/D"
+ ],
+ "out_gz/Elton-John-Your-Song.png": [
+  "D",
+  "G",
+  "A",
+  "F#m",
+  "Bm",
+  "Bm/A",
+  "Bm/G#",
+  "F#",
+  "Em7",
+  "A/C#",
+  "G6",
+  "Em"
+ ],
  "out/Elvis-Love-Me-Tender.png": [
   "C",
   "D7",
   "G7"
+ ],
+ "out_gz/Elvis-Presley-Cant-Help-Falling-In-Love.png": [
+  "C",
+  "G",
+  "Em",
+  "Am",
+  "F",
+  "B7",
+  "A7",
+  "Dm"
+ ],
+ "out_gz/Enrique-Iglesias-Hero.png": [
+  "G",
+  "Em7",
+  "Cadd9",
+  "Dsus4"
+ ],
+ "out_gz/Eric-Clapton-Change-The-World.png": [
+  "E",
+  "F#m7",
+  "G#7",
+  "Cm7",
+  "Bm7",
+  "A",
+  "G",
+  "Gadd9",
+  "Em"
+ ],
+ "out_gz/Eric-Clapton-Layla-Unplugged.png": [
+  "C#m7",
+  "G#7",
+  "C",
+  "D",
+  "E",
+  "F#m",
+  "B",
+  "A",
+  "Dm",
+  "Bb"
+ ],
+ "out_gz/Eric-Clapton-Nobody-Knows-You-When-Youre-Down-And-Out.png": [
+  "C",
+  "E",
+  "A7",
+  "Dm",
+  "F",
+  "D7",
+  "G7"
+ ],
+ "out_gz/Eric-Clapton-Wonderful-Tonight-Alt.png": [
+  "G",
+  "D/F#",
+  "C",
+  "D",
+  "Em"
+ ],
+ "out_gz/Eric-Clapton-Wonderful-Tonight.png": [
+  "G",
+  "D/F#",
+  "C",
+  "D",
+  "Em"
+ ],
+ "out_gz/Eva-Cassidy-Time-After-Time.png": [
+  "Csus4",
+  "C",
+  "Csus2",
+  "F",
+  "Gadd9",
+  "Em",
+  "Em7",
+  "Am",
+  "G",
+  "G/B"
+ ],
+ "out_gz/Extreme-More-Than-Words.png": [
+  "G",
+  "D/F#",
+  "Em",
+  "Bm7",
+  "C",
+  "Am7",
+  "D",
+  "A#m",
+  "A#m7",
+  "Bb",
+  "Gb",
+  "Db",
+  "Ab",
+  "Eb"
+ ],
+ "out_gz/Fall-Out-Boy-Dance-Dance.png": [
+  "B5",
+  "D5",
+  "G5",
+  "F#5"
+ ],
+ "out_gz/Fingerpicking-Queen-Love-Of-My-Life.png": [
+  "D",
+  "Bm",
+  "Em",
+  "G6",
+  "D/F#",
+  "E",
+  "A",
+  "F#m/G",
+  "F#m",
+  "G",
+  "Em7",
+  "Gm"
+ ],
+ "out_gz/Fingerstyle-Game-Of-Thrones.png": [
+  "Am",
+  "Em",
+  "G",
+  "A5",
+  "F",
+  "C",
+  "Dm",
+  "Am/D",
+  "Em7"
+ ],
+ "out_gz/Finneas-A-Concert-Six-Months-From-Now.png": [
+  "Em",
+  "D/F#",
+  "G",
+  "C",
+  "Dadd11",
+  "D",
+  "Am",
+  "Cadd9",
+  "A"
+ ],
+ "out_gz/Fleetwood-Mac-Dreams.png": [
+  "F",
+  "G",
+  "Am"
+ ],
+ "out_gz/Fleetwood-Mac-Landslide.png": [
+  "C",
+  "G/B",
+  "Am7",
+  "G",
+  "D7/F#",
+  "Em",
+  "D/F#"
+ ],
+ "out_gz/Fleetwood-Mac-Never-Going-Back-Again.png": [
+  "D",
+  "A13",
+  "A7",
+  "Bm7",
+  "A"
+ ],
+ "out_gz/Fleetwood-Mac-The-Chain.png": [
+  "D5",
+  "G5",
+  "Bb6",
+  "Bb5",
+  "C5",
+  "Dsus2"
+ ],
+ "out_gz/Foo-Fighters-Best-Of-You.png": [
+  "C#m7",
+  "Asus2",
+  "Bsus4"
+ ],
+ "out_gz/Foo-Fighters-Everlong.png": [
+  "Dmaj7",
+  "Bsus2",
+  "Gsus2",
+  "A5",
+  "B5",
+  "G5",
+  "D5"
+ ],
+ "out_gz/Foo-Fighters-Learn-To-Fly.png": [
+  "Bsus4",
+  "F#m11",
+  "E",
+  "G",
+  "A",
+  "D"
+ ],
+ "out_gz/Foo-Fighters-My-Hero.png": [
+  "E",
+  "C#m7",
+  "A"
+ ],
+ "out_gz/Foo-Fighters-Times-Like-These.png": [
+  "D",
+  "Am",
+  "C",
+  "Em",
+  "G/B"
+ ],
+ "out_gz/Frank-Sinatra-Fly-Me-To-The-Moon.png": [
+  "Am",
+  "Dm7",
+  "G",
+  "C",
+  "F",
+  "Dm",
+  "E",
+  "A7",
+  "Bb7",
+  "Gm7",
+  "G7"
+ ],
+ "out_gz/Goo-Goo-Dolls-Standard-Alternate-Tuning-Iris.png": [
+  "D",
+  "Em7",
+  "G",
+  "Bm7",
+  "Asus4"
+ ],
+ "out_gz/Gotye-Feat-Kimbra-Somebody-That-I-Used-To-Know.png": [
+  "Em7",
+  "B7"
+ ],
+ "out_gz/Gracie-Abrams-I-Love-You-Im-Sorry.png": [
+  "G",
+  "D/A",
+  "Am7",
+  "C",
+  "Csus2"
+ ],
+ "out_gz/Green-Day-21-Guns.png": [
+  "F5",
+  "C/E",
+  "D5",
+  "C5",
+  "Bb5"
+ ],
+ "out_gz/Green-Day-Boulevard-of-Broken-Dreams-ACOUSTIC.png": [
+  "Em",
+  "G",
+  "D",
+  "A"
+ ],
+ "out_gz/Green-Day-Ordinary-World.png": [
+  "C",
+  "G/B2",
+  "Am",
+  "G",
+  "F4",
+  "Am3"
+ ],
+ "out_gz/Harry-Styles-Falling.png": [
+  "E",
+  "C#m",
+  "B",
+  "G#m",
+  "A",
+  "Bsus4",
+  "Asus2"
+ ],
+ "out_gz/Harry-Styles-Matilda.png": [
+  "D",
+  "D5/A",
+  "G",
+  "Asus4",
+  "Bm7",
+  "F#m",
+  "Em7",
+  "F#7",
+  "E7"
+ ],
+ "out_gz/Harry-Styles-Sign-Of-The-Times.png": [
+  "F",
+  "Dm",
+  "C",
+  "Bb"
+ ],
+ "out_gz/Harry-Styles-Sweet-Creature.png": [
+  "G",
+  "C",
+  "G/B",
+  "Em",
+  "D",
+  "Am7",
+  "D7",
+  "Gmaj7",
+  "Esus2"
+ ],
+ "out_gz/Harry-Styles-Two-Ghosts.png": [
+  "E",
+  "F#m",
+  "G#m",
+  "A",
+  "C#m",
+  "B",
+  "Bm"
+ ],
+ "out_gz/Hinder-Lips-Of-An-Angel.png": [
+  "Asus4",
+  "Bm7",
+  "G",
+  "D",
+  "Cadd9",
+  "Em",
+  "D/F#"
+ ],
+ "out_gz/Hoobastank-The-Reason.png": [
+  "E",
+  "C#m",
+  "Asus2",
+  "B11",
+  "D"
  ],
  "out/Hotel-California.png": [
   "Am",
@@ -884,16 +1618,223 @@
   "C",
   "Dm"
  ],
+ "out_gz/Howie-Day-Collide.png": [
+  "G",
+  "D/F#",
+  "Em7",
+  "Cadd9",
+  "Em",
+  "C",
+  "D"
+ ],
+ "out_gz/Hozier-Almost-Sweet-Music.png": [
+  "Em",
+  "Bm",
+  "C",
+  "G",
+  "Am",
+  "D",
+  "B",
+  "Dsus2",
+  "C/G",
+  "F#m",
+  "Am7"
+ ],
+ "out_gz/Hozier-Too-Sweet.png": [
+  "Em",
+  "D/F#",
+  "G",
+  "Am",
+  "C/B",
+  "C",
+  "D",
+  "B7"
+ ],
+ "out_gz/Hozier-Would-That-I.png": [
+  "G",
+  "C",
+  "Em",
+  "D",
+  "Em7",
+  "Cmaj7",
+  "Am"
+ ],
+ "out_gz/INXS-Never-Tear-Us-Apart.png": [
+  "Am",
+  "F",
+  "Dm",
+  "C",
+  "G"
+ ],
+ "out_gz/Imagine-Dragons-Believer.png": [
+  "Am",
+  "F",
+  "E"
+ ],
+ "out_gz/Imagine-Dragons-Thunder.png": [
+  "C",
+  "F",
+  "Am",
+  "Em",
+  "G",
+  "Dm"
+ ],
+ "out_gz/Including-Solo-Khalid-John-Mayer-Outta-My-Head.png": [
+  "F",
+  "G",
+  "Am"
+ ],
+ "out_gz/Including-Solo-Poison-Every-Rose-Has-Its-Thorn.png": [
+  "G",
+  "Cadd9",
+  "D"
+ ],
+ "out_gz/Incubus-Drive-Alt.png": [
+  "Em",
+  "Em9",
+  "Cmaj7",
+  "Em/A",
+  "D"
+ ],
+ "out_gz/Incubus-Drive.png": [
+  "Em",
+  "Em9",
+  "Cmaj7",
+  "A7"
+ ],
+ "out_gz/Iron-Wine-Flightless-Bird-American-Mouth.png": [
+  "Am",
+  "G"
+ ],
+ "out_gz/Isaiah-Its-Gotta-Be-You.png": [
+  "Em7",
+  "Cadd9",
+  "G",
+  "D/F#",
+  "D"
+ ],
+ "out_gz/Israel-IZ-Kamakawiwoole-Somewhere-Over-The-Rainbow.png": [
+  "C",
+  "G",
+  "Am",
+  "F",
+  "Em"
+ ],
+ "out_gz/Jack-Johnson-Banana-Pancakes.png": [
+  "G",
+  "D7",
+  "Am7",
+  "C7",
+  "D",
+  "Bm7",
+  "Em",
+  "Em/D#",
+  "C"
+ ],
+ "out_gz/Jack-Johnson-Better-Together.png": [
+  "F",
+  "F/E",
+  "Dm",
+  "C",
+  "Gm",
+  "B"
+ ],
+ "out_gz/Jack-Johnson-Flake.png": [
+  "Dm",
+  "F",
+  "Bb",
+  "C",
+  "A"
+ ],
+ "out_gz/Jack-Johnson-Taylor.png": [
+  "C",
+  "C/B",
+  "Am",
+  "F",
+  "D",
+  "G"
+ ],
+ "out_gz/James-Arthur-Empty-Space.png": [
+  "C",
+  "C/B",
+  "F",
+  "G"
+ ],
+ "out_gz/James-Arthur-Falling-Like-The-Stars.png": [
+  "C",
+  "Am7",
+  "Fsus2"
+ ],
+ "out_gz/James-Arthur-September.png": [
+  "Cadd9",
+  "Gadd9",
+  "D",
+  "Em7"
+ ],
  "out/John-Denver-Take-Me-Home-Country-Roads.png": [
   "G",
   "D",
   "Em",
   "C"
  ],
+ "out_gz/John-Mayer-I-Guess-I-Just-Feel-Like.png": [
+  "A",
+  "D/A",
+  "F#m",
+  "D",
+  "G",
+  "E"
+ ],
+ "out_gz/John-Mayer-In-The-Blood.png": [
+  "G",
+  "G/F#",
+  "Em7",
+  "Cadd9",
+  "G/B",
+  "D"
+ ],
  "out/Johnny-Cash-I-Walk-The-Line.png": [
   "E",
   "A",
   "D"
+ ],
+ "out_gz/Joji-Glimpse-Of-Us.png": [
+  "Em",
+  "Am",
+  "D7",
+  "G",
+  "D/F#",
+  "D",
+  "E7"
+ ],
+ "out_gz/Jonas-Brothers-Cool.png": [
+  "G",
+  "F",
+  "Cmaj7"
+ ],
+ "out_gz/Jose-Feliciano-Feliz-Navidad.png": [
+  "G",
+  "A7",
+  "D",
+  "Bm"
+ ],
+ "out_gz/Joseph-Vincent-Cant-Take-My-Eyes-Off-You.png": [
+  "C",
+  "Cmaj7",
+  "C7",
+  "F",
+  "Fm7",
+  "Dm7",
+  "G7",
+  "G",
+  "Em7",
+  "Am7",
+  "Bb7",
+  "A7",
+  "F#m7",
+  "Bm7",
+  "D",
+  "B7"
  ],
  "out/Queen-Crazy-Little-Thing-Called-Love.png": [
   "D",

@@ -1,0 +1,15 @@
+{
+  "title": "LANDSLIDE",
+  "subtitle": "Fleetwood Mac  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Fleetwood-Mac-Landslide.png",
+  "panels": [
+   {"label": "TAB  ·  VERSE", "t": 15, "bbox": [248, 556, 1672, 360], "png": "frames/b10_GXpxBDs-n4A/p_verse.png"},
+   {"label": "TAB  ·  VERSE VAR. 1", "t": 38, "bbox": [248, 556, 1672, 400], "png": "frames/b10_GXpxBDs-n4A/p_versevar.png"},
+   {"label": "TAB  ·  PRECHORUS", "t": 80, "bbox": [248, 556, 1672, 420], "png": "frames/b10_GXpxBDs-n4A/p_prechorus.png"},
+   {"label": "TAB  ·  CHORUS 1", "t": 105, "bbox": [248, 556, 1672, 460], "png": "frames/b10_GXpxBDs-n4A/p_chorus1.png"},
+   {"label": "TAB  ·  FINGERSTYLE SOLO", "t": 125, "bbox": [248, 556, 1672, 490], "png": "frames/b10_GXpxBDs-n4A/p_fingerstyle.png"},
+   {"label": "TAB  ·  CHORUS 2", "t": 145, "bbox": [248, 556, 1672, 450], "png": "frames/b10_GXpxBDs-n4A/p_chorus2.png"},
+   {"label": "TAB  ·  ELECTRIC GUITAR SOLO", "t": 235, "bbox": [248, 556, 1672, 524], "png": "frames/b10_GXpxBDs-n4A/p_electricsolo.png"}
+  ],
+  "note": "Chords: Verse C G/B Am7 G/B  |  Chorus G D7/F# Em C G/B Am7 D/F#  |  Fingerstyle solo C G/B Am7 D/F#  ·  Electric guitar solo: tab only, no chord names shown"
+}

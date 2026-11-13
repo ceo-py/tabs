@@ -1,0 +1,12 @@
+{
+  "title": "WAKE ME UP WHEN SEPTEMBER ENDS",
+  "subtitle": "Green Day  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Green-Day-Wake-Me-Up-When-September-Ends.png",
+  "panels": [
+    {"label": "TAB  ·  VERSE 1", "t": 24, "bbox": [956, 140, 964, 490], "png": "frames/b11r_5FzDOaCJ2ao/p0.png"},
+    {"label": "TAB  ·  VERSE 3", "t": 100, "bbox": [956, 140, 964, 490], "png": "frames/b11r_5FzDOaCJ2ao/p1.png"},
+    {"label": "TAB  ·  SOLO", "t": 190, "bbox": [868, 140, 1052, 280], "png": "frames/b11r_5FzDOaCJ2ao/p2.png"},
+    {"label": "TAB  ·  OUTRO", "t": 256, "bbox": [956, 140, 964, 500], "png": "frames/b11r_5FzDOaCJ2ao/p3.png"}
+  ],
+  "note": "Chords: C Cm G G / C Cm G G D/F# (verse)  ·  C Cm G5 (verse 3)   No strumming pattern is shown in this video"
+}

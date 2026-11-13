@@ -1,0 +1,49 @@
+{
+ "title": "THUNDER",
+ "subtitle": "Imagine Dragons  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Imagine-Dragons-Thunder.png",
+ "panels": [
+  {
+   "label": "CHORD PATTERN & STRUMMING · VERSE",
+   "t": 20.0,
+   "bbox": [
+    1130,
+    0,
+    790,
+    520
+   ]
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING · CHORUS",
+   "t": 160.0,
+   "bbox": [
+    1130,
+    0,
+    790,
+    520
+   ]
+  },
+  {
+   "label": "TAB · SOLO",
+   "t": 100.0,
+   "bbox": [
+    816,
+    308,
+    1104,
+    368
+   ]
+  },
+  {
+   "label": "TAB · OUTRO LEAD",
+   "t": 160.0,
+   "bbox": [
+    1256,
+    264,
+    664,
+    372
+   ]
+  }
+ ],
+ "note": "Chords: Verse C · C · F · F · Chorus C · C · Am · F · Bridge Em Em G Dm Dm | Em G Dm G   Strumming: D--UDUD--UDUD-DU (verse)",
+ "video": "dl/v_RtUae3agAjc.mp4"
+}

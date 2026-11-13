@@ -1,0 +1,13 @@
+{
+ "title": "GLIMPSE OF US",
+ "subtitle": "Joji  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Joji-Glimpse-Of-Us.png",
+ "panels": [
+  {"label": "TAB  ·  VERSE 1", "t": 30, "bbox": [262, 558, 1658, 520], "png": "frames/b15_lvDA4pEHNeY/p_verse1.png"},
+  {"label": "TAB  ·  CHORUS", "t": 75, "bbox": [262, 558, 1658, 520], "png": "frames/b15_lvDA4pEHNeY/p_chorus.png"},
+  {"label": "TAB  ·  BRIDGE", "t": 175, "bbox": [262, 558, 1658, 520], "png": "frames/b15_lvDA4pEHNeY/p_bridge.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 270, "bbox": [262, 558, 1658, 520], "png": "frames/b15_lvDA4pEHNeY/p_strum_verse.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 310, "bbox": [262, 558, 1658, 520], "png": "frames/b15_lvDA4pEHNeY/p_strum_chorus.png"}
+ ],
+ "note": "Chords: Verse Em Am Am D7 Am D7 G  |  Chorus Am D7 G D/F# Em (x3) Am D  |  Bridge Am D7 G Em Am D7 G E7  ·  Strumming: D-D-D-D-D-D (6 down strums, accent on 1)  ·  Capo on 1st fret"
+}

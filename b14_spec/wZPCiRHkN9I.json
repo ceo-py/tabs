@@ -1,0 +1,13 @@
+{
+  "title": "I GUESS I JUST FEEL LIKE",
+  "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Solo  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/John-Mayer-I-Guess-I-Just-Feel-Like.png",
+  "panels": [
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 1 & 2", "t": 30, "bbox": [1000, 55, 920, 480], "png": "frames/b14_wZPCiRHkN9I/p_30.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 3", "t": 180, "bbox": [1000, 55, 920, 480], "png": "frames/b14_wZPCiRHkN9I/p_180.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  OUTRO", "t": 204, "bbox": [1000, 55, 920, 480], "png": "frames/b14_wZPCiRHkN9I/p_204.png"},
+   {"label": "TAB  ·  SOLO SECTION", "t": 120, "bbox": [503, 602, 1417, 478], "png": "frames/b14_wZPCiRHkN9I/p_120.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  SOLO", "t": 120, "bbox": [0, 642, 503, 438], "png": "frames/b14_wZPCiRHkN9I/p_120b.png"}
+  ],
+  "note": "Chords: Verse A D/A (x4) F#m D (x2) A D/A (x2) · Solo G G F#m F#m G G F#m E A D/A (x2) · Outro A G D  |  Strumming: D-DU-UD--U-UDUDU"
+}

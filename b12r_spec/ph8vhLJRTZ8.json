@@ -1,0 +1,59 @@
+{
+ "title": "CHERRY WINE",
+ "subtitle": "Hozier  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Hozier-Cherry-Wine.png",
+ "panels": [
+  {
+   "label": "TAB · INTRO",
+   "t": 1.5,
+   "bbox": [
+    248,
+    560,
+    1672,
+    516
+   ]
+  },
+  {
+   "label": "TAB · VERSE",
+   "t": 28.5,
+   "bbox": [
+    248,
+    560,
+    1672,
+    516
+   ]
+  },
+  {
+   "label": "TAB · PRECHORUS",
+   "t": 51.5,
+   "bbox": [
+    248,
+    560,
+    1672,
+    516
+   ]
+  },
+  {
+   "label": "TAB · CHORUS",
+   "t": 61.5,
+   "bbox": [
+    248,
+    560,
+    1672,
+    516
+   ]
+  },
+  {
+   "label": "TAB · BRIDGE",
+   "t": 140.5,
+   "bbox": [
+    248,
+    560,
+    1672,
+    516
+   ]
+  }
+ ],
+ "note": "Sections on screen: INTRO · VERSE · PRECHORUS · CHORUS · BRIDGE · SOFT VERSE · OUTRO — the video shows TAB only, no chord names or strumming pattern",
+ "video": "dl/v_ph8vhLJRTZ8.mp4"
+}

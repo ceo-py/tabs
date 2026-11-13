@@ -1,0 +1,14 @@
+{
+  "title": "LEARN TO FLY",
+  "subtitle": "Foo Fighters  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Foo-Fighters-Learn-To-Fly.png",
+  "panels": [
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 25, "bbox": [248, 556, 1672, 524], "png": "frames/b10_2D7mqcVYqYA/p_verse.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1", "t": 65, "bbox": [248, 556, 1672, 524], "png": "frames/b10_2D7mqcVYqYA/p_chorus1.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 2", "t": 100, "bbox": [248, 556, 1672, 524], "png": "frames/b10_2D7mqcVYqYA/p_verse2.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 2", "t": 150, "bbox": [248, 556, 1672, 524], "png": "frames/b10_2D7mqcVYqYA/p_chorus2.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE", "t": 180, "bbox": [248, 556, 1672, 524], "png": "frames/b10_2D7mqcVYqYA/p_bridge.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 3", "t": 210, "bbox": [248, 556, 1672, 524], "png": "frames/b10_2D7mqcVYqYA/p_chorus3.png"}
+  ],
+  "note": "Chords: Verse Bsus4 F#m11 E  |  Chorus Bsus4 F#m11 E · G A (x3)  |  Bridge Bsus4 G D E G A  ·  Strumming: D - DU - UDU  (1 + 2 + 3 + 4 +)"
+}

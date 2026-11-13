@@ -1,0 +1,12 @@
+{
+  "title": "21 GUNS",
+  "subtitle": "Green Day  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Green-Day-21-Guns.png",
+  "panels": [
+    {"label": "TAB  ·  INTRO/BREAK", "t": 4, "bbox": [1120, 130, 800, 160], "png": "frames/b11r_4h6wiKaXnC8/p0.png"},
+    {"label": "TAB  ·  CHORUS 1", "t": 72, "bbox": [544, 108, 1376, 500], "png": "frames/b11r_4h6wiKaXnC8/p1.png"},
+    {"label": "TAB  ·  BRIDGE", "t": 180, "bbox": [544, 108, 1376, 460], "png": "frames/b11r_4h6wiKaXnC8/p2.png"},
+    {"label": "TAB  ·  SOLO LEAD", "t": 204, "bbox": [544, 108, 1376, 570], "png": "frames/b11r_4h6wiKaXnC8/p3.png"}
+  ],
+  "note": "Chords: F5 C/E D5 C5 Bb5 F5 C5   Strumming: D D D D DU"
+}

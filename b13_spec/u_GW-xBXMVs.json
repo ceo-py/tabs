@@ -1,0 +1,10 @@
+{
+  "title": "EMPTY SPACE",
+  "subtitle": "James Arthur  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/James-Arthur-Empty-Space.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  MAIN PROGRESSION", "t": 40, "bbox": [1150, 108, 770, 500], "png": "frames/b13_u_GW-xBXMVs/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  \u00b7  PRECHORUS", "t": 120, "bbox": [1150, 108, 770, 500], "png": "frames/b13_u_GW-xBXMVs/p1.png"}
+  ],
+  "note": "Chords: C C C/B C/B F* G (main progression)  \u00b7  F* G (prechorus)   Strumming: D-D-D-DU-UD-D-DU"
+}

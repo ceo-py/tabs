@@ -1,0 +1,11 @@
+{
+  "title": "HALLELUJAH",
+  "subtitle": "Jeff Buckley  \u00b7  Guitar Cover  \u00b7  Tabs + Chords  \u00b7  GuitarZero2HeroExpress",
+  "out": "out_gz/Jeff-Buckley-Hallelujah.png",
+  "panels": [
+    {"label": "TAB  \u00b7  VERSE 1", "t": 78, "bbox": [196, 560, 1724, 516], "png": "frames/b13_E0v71Q819Jc/p0.png"},
+    {"label": "TAB  \u00b7  CHORUS 1", "t": 126, "bbox": [196, 560, 1724, 516], "png": "frames/b13_E0v71Q819Jc/p1.png"},
+    {"label": "TAB  \u00b7  BRIDGE", "t": 330, "bbox": [196, 560, 1724, 516], "png": "frames/b13_E0v71Q819Jc/p2.png"}
+  ],
+  "note": "Chords: G Em7 C D G/B D (verse)  \u00b7  C Em G/B D/A (chorus)  \u00b7  C G/B D/A G Em7 (bridge)"
+}
