@@ -228,7 +228,7 @@ main{padding:var(--pad) var(--pad) 0}
 body.lb-open > *:not(.lb){visibility:hidden}
 .lb__bar{
   display:flex; gap:.7rem; align-items:center; justify-content:space-between;
-  padding:.6rem calc(var(--pad) + 3.2rem) .6rem var(--pad);
+  padding:.6rem calc(var(--pad) + 8.6rem) .6rem var(--pad);
   border-bottom:2px solid var(--pink);
   background:rgba(7,7,10,.9);
 }
@@ -246,21 +246,12 @@ body.lb-open > *:not(.lb){visibility:hidden}
 }
 .btn:hover{border-color:var(--cyan); color:var(--cyan)}
 
-/* the link under the card: opens the video on youtube.com (for the cases
-   when the embed stays blank: region blocked, embedding disabled, ...) */
-.lb__ytbar{margin:.9rem auto 0; max-width:min(100%,1100px)}
-.lb__ytbar[hidden]{display:none}
-.lb__ytbar a{
-  font-family:var(--display); font-size:.72rem; letter-spacing:.12em; text-decoration:none;
-  color:var(--white); background:transparent; border:2px solid var(--pink); border-radius:var(--radius);
-  padding:.5rem 1rem; display:inline-block;
-}
-.lb__ytbar a:hover{background:var(--pink); color:#000}
+/* the link next to the close button: opens the video on youtube.com (for the
+   cases when the embed stays blank: region blocked, embedding disabled, ...) */
+.btn--yt{border-color:var(--pink); color:var(--pink)}
+.btn--yt:hover{background:var(--pink); color:#000}
 /* the embed refused to play — the link lights up */
-.lb__ytbar a.is-alert{
-  background:var(--pink); color:#000;
-  animation:ytPulse 1.1s ease-in-out infinite;
-}
+.btn.btn--yt.is-alert{background:var(--pink); color:#000; animation:ytPulse 1.1s ease-in-out infinite}
 @keyframes ytPulse{
   0%,100%{box-shadow:0 0 0 rgba(255,61,138,0)}
   50%{box-shadow:0 0 18px rgba(255,61,138,.85)}
@@ -326,7 +317,7 @@ body.lb-open > *:not(.lb){visibility:hidden}
   /* the card header becomes a small floating close button — no height taken */
   .lb__bar{
     position:absolute; top:0; left:0; right:0; z-index:5;
-    padding:.45rem calc(var(--pad) + 3.2rem) .45rem var(--pad);
+    padding:.45rem calc(var(--pad) + 8.6rem) .45rem var(--pad);
     border:0; background:transparent; pointer-events:none;
   }
   .lb__meta{display:none}
@@ -334,6 +325,10 @@ body.lb-open > *:not(.lb){visibility:hidden}
   .lb__bar .btn{
     width:36px; height:36px; padding:0; font-size:.95rem;
     background:rgba(7,7,10,.8);
+  }
+  /* the youtube link keeps its text — it is not a square icon */
+  .lb__bar .btn--yt{
+    width:auto; height:36px; padding:0 .65rem; font-size:.58rem; letter-spacing:.06em;
   }
   /* the tab sheet takes the whole width of the screen */
   .lb__body{padding:.5rem}
