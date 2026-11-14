@@ -1,0 +1,11 @@
+{
+ "title": "RING OF FIRE",
+ "subtitle": "Johnny Cash  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Johnny-Cash-Ring-Of-Fire.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  INTRO", "t": 6, "bbox": [248, 560, 1672, 516], "png": "frames/b14b_i15jztab2UY/p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 1", "t": 20, "bbox": [248, 560, 1672, 516], "png": "frames/b14b_i15jztab2UY/p1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 40, "bbox": [248, 560, 1672, 516], "png": "frames/b14b_i15jztab2UY/p2.png"}
+ ],
+ "note": "Chords: G C D7 (intro / verse)  ·  D7 C G (chorus)   Strumming: D - D U | D - D U"
+}

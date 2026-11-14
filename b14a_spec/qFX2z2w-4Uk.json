@@ -1,0 +1,12 @@
+{
+  "title": "LOVE ON THE WEEKEND",
+  "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/John-Mayer-Love-On-The-Weekend.png",
+  "panels": [
+   {"label": "CHORD PROGRESSION & STRUMMING  ·  CHORUS", "t": 40, "bbox": [1060, 145, 800, 420], "png": "frames/b14a_qFX2z2w-4Uk/p_chorus.png"},
+   {"label": "TAB  ·  MAIN RIFF", "t": 64, "bbox": [1036, 172, 884, 268], "png": "frames/b14a_qFX2z2w-4Uk/p_mainriff.png"},
+   {"label": "TAB  ·  RIFF 2", "t": 112, "bbox": [1036, 172, 884, 266], "png": "frames/b14a_qFX2z2w-4Uk/p_riff2.png"},
+   {"label": "CHORD PROGRESSION & STRUMMING  ·  GENERAL", "t": 140, "bbox": [1060, 145, 800, 420], "png": "frames/b14a_qFX2z2w-4Uk/p_general.png"}
+  ],
+  "note": "Chords: Chorus progression D C · General progression G C   |   Strumming: D-D-DUDDU (1+2+3+4+, twice for each chord)"
+}

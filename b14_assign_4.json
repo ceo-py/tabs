@@ -1,0 +1,47 @@
+[
+ {
+  "id": "foJaTOL83Ns",
+  "artist": "John Mayer",
+  "song": "Why Georgia",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/John-Mayer-Why-Georgia.png",
+  "url": "https://www.youtube.com/watch?v=foJaTOL83Ns"
+ },
+ {
+  "id": "wkhrvUycpM4",
+  "artist": "John Mayer",
+  "song": "Why You No Love Me",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/John-Mayer-Why-You-No-Love-Me.png",
+  "url": "https://www.youtube.com/watch?v=wkhrvUycpM4"
+ },
+ {
+  "id": "CWGIchtyN7Q",
+  "artist": "John Mayer",
+  "song": "Wild Blue",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/John-Mayer-Wild-Blue.png",
+  "url": "https://www.youtube.com/watch?v=CWGIchtyN7Q"
+ },
+ {
+  "id": "EepVKxwOl5Y",
+  "artist": "John Mayer",
+  "song": "XO",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/John-Mayer-XO.png",
+  "url": "https://www.youtube.com/watch?v=EepVKxwOl5Y"
+ },
+ {
+  "id": "uLVzhZm__Hk",
+  "artist": "John Mayer",
+  "song": "Your Body Is A Wonderland",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/John-Mayer-Your-Body-Is-A-Wonderland.png",
+  "url": "https://www.youtube.com/watch?v=uLVzhZm__Hk"
+ }
+]

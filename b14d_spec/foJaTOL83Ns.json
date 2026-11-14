@@ -1,0 +1,12 @@
+{
+ "title": "WHY GEORGIA",
+ "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/John-Mayer-Why-Georgia.png",
+ "panels": [
+  {"label": "TAB  ·  VERSE 1", "t": 30, "bbox": [248, 560, 1672, 516], "png": "frames/b14d_panels/foJaTOL83Ns_p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS 1", "t": 60, "bbox": [248, 560, 1672, 516], "png": "frames/b14d_panels/foJaTOL83Ns_p1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1", "t": 82, "bbox": [248, 560, 1672, 516], "png": "frames/b14d_panels/foJaTOL83Ns_p2.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE", "t": 180, "bbox": [248, 560, 1672, 516], "png": "frames/b14d_panels/foJaTOL83Ns_p3.png"}
+ ],
+ "note": "Chords: G Dadd11 Cmaj9 (verse) · Em7 D/F# G Cadd9 Asus4 (prechorus) · D Asus4 G Em7 F Fsus2 C (chorus) · Fsus2 Bbsus2 Csus2 G Cadd9 (bridge)   Strumming: D--UDUD--UDUD-DU (prechorus & chorus) · bridge D-D-D-DU on beats 3-4"
+}

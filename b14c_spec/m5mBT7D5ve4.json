@@ -1,0 +1,14 @@
+{
+ "title": "SHOT IN THE DARK",
+ "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/John-Mayer-Shot-In-The-Dark.png",
+ "panels": [
+  {"label": "TAB  ·  VERSE", "t": 28, "bbox": [250, 560, 1670, 310],
+   "png": "frames/b13_m5mBT7D5ve4/p0.png"},
+  {"label": "TAB  ·  CHORUS", "t": 44, "bbox": [250, 560, 1670, 380],
+   "png": "frames/b13_m5mBT7D5ve4/p1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE", "t": 325, "bbox": [250, 560, 1670, 516],
+   "png": "frames/b13_m5mBT7D5ve4/p2.png"}
+ ],
+ "note": "Chords: D Em7 D | Em7 Bm A G (verse)  ·  G6 A6 Bm7 | G6sus2 A D (chorus)  ·  D D G G | Bm Bm A A (bridge)   Strumming: D-DU-UDU"
+}

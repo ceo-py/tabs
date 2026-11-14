@@ -1,0 +1,13 @@
+{
+  "title": "IN SPITE OF OURSELVES",
+  "subtitle": "John Prine  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/John-Prine-In-Spite-Of-Ourselves.png",
+  "panels": [
+   {"label": "TAB  ·  INTRO", "t": 12, "bbox": [262, 560, 1658, 516], "png": "frames/b14a_pZH51faHrpw/p_intro.png"},
+   {"label": "TAB  ·  VERSE", "t": 40, "bbox": [262, 560, 1658, 516], "png": "frames/b14a_pZH51faHrpw/p_verse.png"},
+   {"label": "TAB  ·  CHORUS", "t": 78, "bbox": [262, 560, 1658, 516], "png": "frames/b14a_pZH51faHrpw/p_chorus.png"},
+   {"label": "TAB  ·  BRIDGE", "t": 102, "bbox": [262, 560, 1658, 516], "png": "frames/b14a_pZH51faHrpw/p_bridge.png"},
+   {"label": "TAB  ·  OUTRO", "t": 204, "bbox": [262, 560, 1658, 290], "png": "frames/b14a_pZH51faHrpw/p_outro.png"}
+  ],
+  "note": "Chords: Verse G G G · C C · Chorus F F C C · G G C C · Bridge F F C C · C G C C · Outro G G · C F · C C/G   |   The video shows no written strumming pattern"
+}

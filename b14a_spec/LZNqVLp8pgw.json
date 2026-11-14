@@ -1,0 +1,12 @@
+{
+  "title": "FOLSOM PRISON BLUES",
+  "subtitle": "Johnny Cash  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Johnny-Cash-Folsom-Prison-Blues.png",
+  "panels": [
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 1", "t": 30, "bbox": [248, 560, 1672, 510], "png": "frames/b14a_LZNqVLp8pgw/p_verse1.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 2", "t": 210, "bbox": [248, 560, 1672, 510], "png": "frames/b14a_LZNqVLp8pgw/p_verse2.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 3", "t": 102, "bbox": [248, 560, 1672, 510], "png": "frames/b14a_LZNqVLp8pgw/p_verse3.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  SOLO", "t": 66, "bbox": [248, 560, 1672, 510], "png": "frames/b14a_LZNqVLp8pgw/p_solo.png"}
+  ],
+  "note": "Chords: E E E E · A A E E · B7 B7 E (same pattern in verses 1-4 and solo)   |   Strumming: Verse 1 D-DU-UDU · Verse 2 D-DU (alternate base note on every beat) · The video shows no chorus section"
+}

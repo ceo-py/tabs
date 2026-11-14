@@ -1,0 +1,56 @@
+[
+ {
+  "id": "dHAPjMFC33s",
+  "artist": "John Mayer",
+  "song": "In Your Atmosphere",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/John-Mayer-In-Your-Atmosphere.png",
+  "url": "https://www.youtube.com/watch?v=dHAPjMFC33s"
+ },
+ {
+  "id": "P-Eb6C-8vso",
+  "artist": "John Mayer",
+  "song": "Last Train Home",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/John-Mayer-Last-Train-Home.png",
+  "url": "https://www.youtube.com/watch?v=P-Eb6C-8vso"
+ },
+ {
+  "id": "a-QsXGhAFPE",
+  "artist": "John Mayer",
+  "song": "Last Train Home Guitar Live Version",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/John-Mayer-Last-Train-Home-Guitar-Live-Version.png",
+  "url": "https://www.youtube.com/watch?v=a-QsXGhAFPE"
+ },
+ {
+  "id": "LZNqVLp8pgw",
+  "artist": "Johnny Cash",
+  "song": "Folsom Prison Blues",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Johnny-Cash-Folsom-Prison-Blues.png",
+  "url": "https://www.youtube.com/watch?v=LZNqVLp8pgw"
+ },
+ {
+  "id": "pZH51faHrpw",
+  "artist": "John Prine",
+  "song": "In Spite Of Ourselves",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/John-Prine-In-Spite-Of-Ourselves.png",
+  "url": "https://www.youtube.com/watch?v=pZH51faHrpw"
+ },
+ {
+  "id": "qFX2z2w-4Uk",
+  "artist": "John Mayer",
+  "song": "Love On The Weekend",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/John-Mayer-Love-On-The-Weekend.png",
+  "url": "https://www.youtube.com/watch?v=qFX2z2w-4Uk"
+ }
+]

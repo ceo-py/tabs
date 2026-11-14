@@ -1,0 +1,12 @@
+{
+ "title": "XO",
+ "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/John-Mayer-XO.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 30, "bbox": [244, 560, 1676, 516], "png": "frames/b14d_panels/EepVKxwOl5Y_p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 68, "bbox": [244, 560, 1676, 516], "png": "frames/b14d_panels/EepVKxwOl5Y_p1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE", "t": 158, "bbox": [244, 560, 1676, 516], "png": "frames/b14d_panels/EepVKxwOl5Y_p2.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BREAK", "t": 176, "bbox": [244, 560, 1676, 516], "png": "frames/b14d_panels/EepVKxwOl5Y_p3.png"}
+ ],
+ "note": "Chords: C CM7 CM13 x2 · FM7 FM7b5 x2 (verse) · C C Am Am · FM7 Gadd11 G C C (chorus & bridge) · C CM7 CM13 (break)   Strumming: DUDUDUDUDUDUDUDUDU - change chords on the highlighted strum"
+}

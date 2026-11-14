@@ -1,0 +1,14 @@
+{
+ "title": "SHOULDN'T MATTER BUT IT DOES",
+ "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/John-Mayer-Shouldnt-Matter-But-It-Does.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 84, "bbox": [250, 560, 1670, 500],
+   "png": "frames/b13_S6gpM2cPqOY/p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 264, "bbox": [250, 560, 1670, 500],
+   "png": "frames/b13_S6gpM2cPqOY/p1.png"},
+  {"label": "TAB  ·  LEAD", "t": 204, "bbox": [250, 560, 1670, 516],
+   "png": "frames/b13_S6gpM2cPqOY/p2.png"}
+ ],
+ "note": "Chords: E G#m(b6) G#m Aadd9 (verse)  ·  G Am F (chorus)  ·  A E/G# B (bridge)   Strumming: D--UDUD--UD-D-DU (verse/chorus/bridge)  ·  D--UD-DUD--UD-DU (final chorus)"
+}

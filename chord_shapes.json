@@ -2208,6 +2208,273 @@
   "bass": null,
   "auto": true
  },
+ "Badd9": {
+  "frets": [
+   2,
+   2,
+   4,
+   4,
+   0,
+   2
+  ],
+  "base": "Badd9",
+  "bass": null,
+  "auto": true
+ },
+ "E/B": {
+  "frets": [
+   0,
+   2,
+   2,
+   1,
+   0,
+   0
+  ],
+  "base": "E",
+  "bass": "B"
+ },
+ "C#m/G#": {
+  "frets": [
+   -1,
+   4,
+   6,
+   6,
+   5,
+   4
+  ],
+  "base": "C#m",
+  "bass": "G#"
+ },
+ "B/F#": {
+  "frets": [
+   -1,
+   2,
+   4,
+   4,
+   4,
+   2
+  ],
+  "base": "B",
+  "bass": "F#"
+ },
+ "Ebsus2": {
+  "frets": [
+   1,
+   1,
+   1,
+   3,
+   4,
+   1
+  ],
+  "base": "Ebsus2",
+  "bass": null,
+  "auto": true
+ },
+ "Absus2": {
+  "frets": [
+   4,
+   1,
+   1,
+   1,
+   4,
+   4
+  ],
+  "base": "Absus2",
+  "bass": null,
+  "auto": true
+ },
+ "Csus2/Bb": {
+  "frets": [
+   -1,
+   3,
+   0,
+   0,
+   1,
+   3
+  ],
+  "base": "Csus2",
+  "bass": "Bb"
+ },
+ "C#m11": {
+  "frets": [
+   0,
+   4,
+   2,
+   1,
+   2,
+   0
+  ],
+  "base": "C#m11",
+  "bass": null,
+  "auto": true
+ },
+ "Em11": {
+  "frets": [
+   0,
+   0,
+   2,
+   0,
+   0,
+   0
+  ],
+  "base": "Em11",
+  "bass": null,
+  "auto": true
+ },
+ "Emaj9": {
+  "frets": [
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  "base": "Emaj9",
+  "bass": null,
+  "auto": true
+ },
+ "Aadd9": {
+  "frets": [
+   0,
+   0,
+   2,
+   2,
+   0,
+   0
+  ],
+  "base": "Aadd9",
+  "bass": null,
+  "auto": true
+ },
+ "G9": {
+  "frets": [
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  "base": "G9",
+  "bass": null,
+  "auto": true
+ },
+ "A6": {
+  "frets": [
+   0,
+   0,
+   2,
+   2,
+   2,
+   0
+  ],
+  "base": "A6",
+  "bass": null,
+  "auto": true
+ },
+ "B6": {
+  "frets": [
+   2,
+   2,
+   4,
+   4,
+   0,
+   2
+  ],
+  "base": "B6",
+  "bass": null,
+  "auto": true
+ },
+ "E9": {
+  "frets": [
+   0,
+   2,
+   2,
+   1,
+   0,
+   0
+  ],
+  "base": "E9",
+  "bass": null,
+  "auto": true
+ },
+ "C#dim": {
+  "frets": [
+   0,
+   4,
+   5,
+   0,
+   5,
+   0
+  ],
+  "base": "C#dim",
+  "bass": null,
+  "auto": true
+ },
+ "A#dim7": {
+  "frets": [
+   0,
+   1,
+   2,
+   0,
+   2,
+   0
+  ],
+  "base": "A#dim7",
+  "bass": null,
+  "auto": true
+ },
+ "Cmaj9": {
+  "frets": [
+   3,
+   3,
+   0,
+   0,
+   3,
+   3
+  ],
+  "base": "Cmaj9",
+  "bass": null,
+  "auto": true
+ },
+ "Dm6": {
+  "frets": [
+   1,
+   0,
+   0,
+   2,
+   3,
+   1
+  ],
+  "base": "Dm6",
+  "bass": null,
+  "auto": true
+ },
+ "Asus2/C#": {
+  "frets": [
+   -1,
+   0,
+   2,
+   2,
+   0,
+   0
+  ],
+  "base": "Asus2",
+  "bass": "C#"
+ },
+ "Dm/F": {
+  "frets": [
+   -1,
+   -1,
+   0,
+   2,
+   3,
+   1
+  ],
+  "base": "Dm",
+  "bass": "F"
+ },
  "Gb": {
   "frets": [
    2,

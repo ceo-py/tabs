@@ -1,0 +1,56 @@
+[
+ {
+  "id": "j2VE58of1jU",
+  "artist": "John Mayer",
+  "song": "Neon",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/John-Mayer-Neon.png",
+  "url": "https://www.youtube.com/watch?v=j2VE58of1jU"
+ },
+ {
+  "id": "-CBc06v4-ac",
+  "artist": "John Mayer",
+  "song": "New Light",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/John-Mayer-New-Light.png",
+  "url": "https://www.youtube.com/watch?v=-CBc06v4-ac"
+ },
+ {
+  "id": "dBsTJIlttWI",
+  "artist": "John Mayer",
+  "song": "No Such Thing",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/John-Mayer-No-Such-Thing.png",
+  "url": "https://www.youtube.com/watch?v=dBsTJIlttWI"
+ },
+ {
+  "id": "ENY2uLGRAiQ",
+  "artist": "John Mayer",
+  "song": "Queen Of California",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/John-Mayer-Queen-Of-California.png",
+  "url": "https://www.youtube.com/watch?v=ENY2uLGRAiQ"
+ },
+ {
+  "id": "i15jztab2UY",
+  "artist": "Johnny Cash",
+  "song": "Ring Of Fire",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Johnny-Cash-Ring-Of-Fire.png",
+  "url": "https://www.youtube.com/watch?v=i15jztab2UY"
+ },
+ {
+  "id": "aOvFfNySrlE",
+  "artist": "John Mayer",
+  "song": "Say",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/John-Mayer-Say.png",
+  "url": "https://www.youtube.com/watch?v=aOvFfNySrlE"
+ }
+]

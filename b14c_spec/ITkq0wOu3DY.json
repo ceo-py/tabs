@@ -1,0 +1,14 @@
+{
+ "title": "SLOW DANCING IN A BURNING ROOM ACOUSTIC",
+ "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/John-Mayer-Slow-Dancing-In-A-Burning-Room-Acoustic.png",
+ "panels": [
+  {"label": "TAB  ·  VERSE", "t": 24, "bbox": [250, 560, 1670, 505],
+   "png": "frames/b13_ITkq0wOu3DY/p0.png"},
+  {"label": "TAB  ·  CHORUS", "t": 120, "bbox": [250, 560, 1670, 505],
+   "png": "frames/b13_ITkq0wOu3DY/p1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  INTRO", "t": 252, "bbox": [258, 560, 1662, 516],
+   "png": "frames/b13_ITkq0wOu3DY/p2.png"}
+ ],
+ "note": "Chords: G#m A E (intro/break)  ·  C#m7 C#m A E (verse)  ·  Badd11 C#m F#m11 A E (chorus)   Strumming: D---D-DU-UDUDUDU"
+}

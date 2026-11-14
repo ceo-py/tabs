@@ -1,0 +1,16 @@
+{
+ "title": "STOP THIS TRAIN",
+ "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/John-Mayer-Stop-This-Train.png",
+ "panels": [
+  {"label": "TAB  ·  INTRO", "t": 12, "bbox": [252, 560, 1668, 516],
+   "png": "frames/b13_AAdFeO0WmZA/p0.png"},
+  {"label": "TAB  ·  VERSE", "t": 168, "bbox": [252, 560, 1668, 516],
+   "png": "frames/b13_AAdFeO0WmZA/p1.png"},
+  {"label": "TAB  ·  CHORUS", "t": 204, "bbox": [252, 560, 1668, 516],
+   "png": "frames/b13_AAdFeO0WmZA/p2.png"},
+  {"label": "TAB  ·  BRIDGE", "t": 230, "bbox": [252, 560, 1668, 516],
+   "png": "frames/b13_AAdFeO0WmZA/p3.png"}
+ ],
+ "note": "Chords: Gmaj7 G6 Gmaj7 G6 (verse)  ·  E9 A7sus4 A7 Am7 A7sus2 (chorus)  ·  G A7 G/B C#dim Dadd11 Amadd9 Em7 (bridge)   Strumming: not shown in the video - TAB notation only"
+}

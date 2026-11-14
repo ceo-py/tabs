@@ -1,0 +1,11 @@
+{
+ "title": "NO SUCH THING",
+ "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/John-Mayer-No-Such-Thing.png",
+ "panels": [
+  {"label": "TAB  ·  VERSE", "t": 30, "bbox": [224, 560, 1696, 516], "png": "frames/b14b_dBsTJIlttWI/p0.png"},
+  {"label": "TAB  ·  CHORUS", "t": 80, "bbox": [224, 560, 1696, 516], "png": "frames/b14b_dBsTJIlttWI/p1.png"},
+  {"label": "TAB  ·  BRIDGE", "t": 165, "bbox": [224, 560, 1696, 516], "png": "frames/b14b_dBsTJIlttWI/p2.png"}
+ ],
+ "note": "Chords: C#m11, Em7, Em11, Em9, Emaj9, Amaj7 (verse)  ·  Am11, D7sus4, Emaj9 (chorus)  ·  Aadd9, Fmaj7(b5), G9 (bridge)"
+}

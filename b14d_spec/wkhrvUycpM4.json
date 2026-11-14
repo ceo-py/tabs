@@ -1,0 +1,12 @@
+{
+ "title": "WHY YOU NO LOVE ME",
+ "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/John-Mayer-Why-You-No-Love-Me.png",
+ "panels": [
+  {"label": "TAB  ·  VERSE 1", "t": 40, "bbox": [248, 560, 1672, 516], "png": "frames/b14d_panels/wkhrvUycpM4_p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1", "t": 80, "bbox": [248, 560, 1672, 516], "png": "frames/b14d_panels/wkhrvUycpM4_p1.png"},
+  {"label": "TAB  ·  SOLO", "t": 186, "bbox": [248, 560, 1672, 516], "png": "frames/b14d_panels/wkhrvUycpM4_p2.png"},
+  {"label": "TAB  ·  CHORUS 3", "t": 210, "bbox": [248, 560, 1672, 516], "png": "frames/b14d_panels/wkhrvUycpM4_p3.png"}
+ ],
+ "note": "Chords: Cmaj7add13 E Dm6 Asus2/C# (verse) · D Dm A F#m Bm Esus4 E A F#7 (chorus, x2) · Dm A/C# F#7 Bm (solo & chorus 3)   Strumming: D U D U - U D U (chorus, counted 1 + 2 + 3 + 4 +)"
+}

@@ -1,0 +1,14 @@
+{
+ "title": "WHO SAYS",
+ "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/John-Mayer-Who-Says.png",
+ "panels": [
+  {"label": "TAB  ·  VERSE", "t": 6, "bbox": [252, 560, 1668, 516],
+   "png": "frames/b13_hrYfiwLZ5eQ/p0.png"},
+  {"label": "TAB  ·  CHORUS", "t": 36, "bbox": [252, 560, 1668, 516],
+   "png": "frames/b13_hrYfiwLZ5eQ/p1.png"},
+  {"label": "TAB  ·  OUTRO", "t": 162, "bbox": [252, 560, 1668, 480],
+   "png": "frames/b13_hrYfiwLZ5eQ/p2.png"}
+ ],
+ "note": "Chords: Dsus2 G D/F# Em7 A A#dim7 Bm7 E7 (verse)  ·  G D/F# A A#dim7 Bm7 (chorus)   Strumming: not shown in the video - TAB notation only"
+}

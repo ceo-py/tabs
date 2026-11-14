@@ -1,0 +1,13 @@
+{
+  "title": "LAST TRAIN HOME (GUITAR LIVE VERSION)",
+  "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/John-Mayer-Last-Train-Home-Guitar-Live-Version.png",
+  "panels": [
+   {"label": "CHORD PATTERN & STRUMMING  ·  INTRO", "t": 6, "bbox": [248, 558, 1672, 522], "png": "frames/b14a_a-QsXGhAFPE/p_intro.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 20, "bbox": [248, 558, 1672, 522], "png": "frames/b14a_a-QsXGhAFPE/p_verse.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 40, "bbox": [248, 558, 1672, 522], "png": "frames/b14a_a-QsXGhAFPE/p_chorus.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  BREAK", "t": 62, "bbox": [248, 558, 1672, 522], "png": "frames/b14a_a-QsXGhAFPE/p_break.png"},
+   {"label": "CHORD PATTERN & STRUMMING  ·  OUTRO", "t": 150, "bbox": [248, 558, 1672, 522], "png": "frames/b14a_a-QsXGhAFPE/p_outro.png"}
+  ],
+  "note": "Chords: Verse A E A E B E A (E) A · Chorus A G#m E A · G#m F#m A B · Outro E/G# F#m E   |   Strumming: Verse D-DUD-DUD-DUD-DU · Chorus D--UDUD--UDUD-DU"
+}

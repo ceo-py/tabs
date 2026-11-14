@@ -1,0 +1,16 @@
+{
+ "title": "TIL THE RIGHT ONE COMES",
+ "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/John-Mayer-Til-The-Right-One-Comes.png",
+ "panels": [
+  {"label": "TAB  ·  VERSE", "t": 24, "bbox": [250, 560, 1670, 285],
+   "png": "frames/b13_aHmVOmwaioI/p0.png"},
+  {"label": "TAB  ·  CHORUS", "t": 54, "bbox": [250, 560, 1670, 500],
+   "png": "frames/b13_aHmVOmwaioI/p1.png"},
+  {"label": "TAB  ·  SOLO", "t": 108, "bbox": [250, 560, 1670, 500],
+   "png": "frames/b13_aHmVOmwaioI/p2.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  SOLO RHYTHM", "t": 336, "bbox": [250, 560, 1670, 505],
+   "png": "frames/b13_aHmVOmwaioI/p3.png"}
+ ],
+ "note": "Chords: Eb Ab Eb Bb (verse)  ·  Cm Bb Ab Eb (chorus)  ·  Bm A G D (solo rhythm)   Strumming: DUDUDUDU"
+}

@@ -1,0 +1,11 @@
+{
+ "title": "YOUR BODY IS A WONDERLAND",
+ "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/John-Mayer-Your-Body-Is-A-Wonderland.png",
+ "panels": [
+  {"label": "TAB  ·  VERSE/CHORUS", "t": 20, "bbox": [636, 150, 1284, 280], "png": "frames/b14d_panels/uLVzhZm__Hk_p0.png"},
+  {"label": "TAB  ·  PRECHORUS", "t": 60, "bbox": [700, 3, 1220, 697], "png": "frames/b14d_panels/uLVzhZm__Hk_p1.png"},
+  {"label": "TAB  ·  BRIDGE", "t": 155, "bbox": [399, 150, 1521, 280], "png": "frames/b14d_panels/uLVzhZm__Hk_p2.png"}
+ ],
+ "note": "Tab: fret numbers only - this video names no chords on the notation sheet (fretboard diagram only). Sections: VERSE/CHORUS · PRECHORUS x2 · BRIDGE x4   Strumming: the red x marks the strum, counted 1 + 2 + 3 + 4 +"
+}

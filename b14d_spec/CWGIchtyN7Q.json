@@ -1,0 +1,12 @@
+{
+ "title": "WILD BLUE",
+ "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/John-Mayer-Wild-Blue.png",
+ "panels": [
+  {"label": "TAB  ·  INTRO", "t": 8, "bbox": [224, 560, 1696, 516], "png": "frames/b14d_panels/CWGIchtyN7Q_p0.png"},
+  {"label": "TAB  ·  VERSE", "t": 24, "bbox": [224, 560, 1696, 516], "png": "frames/b14d_panels/CWGIchtyN7Q_p1.png"},
+  {"label": "TAB  ·  CHORUS 1", "t": 42, "bbox": [224, 560, 1696, 516], "png": "frames/b14d_panels/CWGIchtyN7Q_p2.png"},
+  {"label": "TAB  ·  OUTRO SOLO", "t": 180, "bbox": [224, 560, 1696, 516], "png": "frames/b14d_panels/CWGIchtyN7Q_p3.png"}
+ ],
+ "note": "Chords: Am G C G F Fmaj7 F Dm/F (intro) · Am C F Dm (verse, P.M.) · G C F (chorus) · Am C F Dm (outro solo)   Strumming: written as rhythm stems in the tab - this video shows no separate strumming-pattern box"
+}

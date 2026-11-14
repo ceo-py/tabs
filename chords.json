@@ -2104,10 +2104,204 @@
   "G/B",
   "D"
  ],
+ "out_gz/John-Mayer-In-Your-Atmosphere.png": [
+  "F#m11",
+  "C#m7",
+  "Badd11",
+  "G#m",
+  "F/A",
+  "Badd9"
+ ],
+ "out_gz/John-Mayer-Last-Train-Home-Guitar-Live-Version.png": [
+  "A",
+  "E",
+  "B",
+  "G#m",
+  "C#m",
+  "F#m",
+  "E/G#"
+ ],
+ "out_gz/John-Mayer-Last-Train-Home.png": [
+  "A/C#",
+  "E/B",
+  "B",
+  "A",
+  "E/G#",
+  "C#m/G#",
+  "B/F#",
+  "F#m"
+ ],
+ "out_gz/John-Mayer-Love-On-The-Weekend.png": [
+  "D",
+  "C",
+  "G"
+ ],
+ "out_gz/John-Mayer-Neon.png": [
+  "Csus4",
+  "Ebsus2",
+  "Absus2",
+  "Csus2/Bb",
+  "Cm7",
+  "Bbsus2"
+ ],
+ "out_gz/John-Mayer-New-Light.png": [
+  "Am",
+  "D",
+  "G",
+  "C",
+  "C/B",
+  "B7"
+ ],
+ "out_gz/John-Mayer-No-Such-Thing.png": [
+  "C#m11",
+  "Em7",
+  "Em11",
+  "Em9",
+  "Emaj9",
+  "Amaj7",
+  "Am11",
+  "Aadd9",
+  "Fmaj7",
+  "B5",
+  "G9"
+ ],
+ "out_gz/John-Mayer-Queen-Of-California.png": [
+  "C",
+  "Am7"
+ ],
+ "out_gz/John-Mayer-Say.png": [
+  "C",
+  "F",
+  "Am",
+  "G",
+  "Dm"
+ ],
+ "out_gz/John-Mayer-Shot-In-The-Dark.png": [
+  "D",
+  "Em7",
+  "Bm",
+  "A",
+  "G",
+  "G6",
+  "A6",
+  "Bm7"
+ ],
+ "out_gz/John-Mayer-Shouldnt-Matter-But-It-Does.png": [
+  "E",
+  "G#m",
+  "B6",
+  "Aadd9",
+  "G",
+  "Am",
+  "F",
+  "A",
+  "E/G#",
+  "B"
+ ],
+ "out_gz/John-Mayer-Slow-Dancing-In-A-Burning-Room-Acoustic.png": [
+  "G#m",
+  "A",
+  "E",
+  "C#m7",
+  "C#m",
+  "Badd11",
+  "F#m11"
+ ],
+ "out_gz/John-Mayer-Stop-This-Train.png": [
+  "Gmaj7",
+  "G6",
+  "E9",
+  "A7",
+  "Am7",
+  "G",
+  "G/B",
+  "C#dim",
+  "Dadd11",
+  "Em7"
+ ],
+ "out_gz/John-Mayer-Til-The-Right-One-Comes.png": [
+  "Eb",
+  "Ab",
+  "Bb",
+  "Cm",
+  "Bm",
+  "A",
+  "G",
+  "D"
+ ],
+ "out_gz/John-Mayer-Who-Says.png": [
+  "Dsus2",
+  "G",
+  "D/F#",
+  "Em7",
+  "A",
+  "A#dim7",
+  "Bm7",
+  "E7"
+ ],
+ "out_gz/John-Mayer-Why-Georgia.png": [
+  "G",
+  "Dadd11",
+  "Cmaj9",
+  "Em7",
+  "D/F#",
+  "Cadd9",
+  "Asus4",
+  "D",
+  "F",
+  "Fsus2",
+  "C",
+  "Bbsus2",
+  "Csus2"
+ ],
+ "out_gz/John-Mayer-Why-You-No-Love-Me.png": [
+  "E",
+  "Dm6",
+  "Asus2/C#",
+  "D",
+  "Dm",
+  "A",
+  "F#m",
+  "Bm",
+  "Esus4",
+  "F#7",
+  "A/C#"
+ ],
+ "out_gz/John-Mayer-Wild-Blue.png": [
+  "Am",
+  "G",
+  "C",
+  "F",
+  "Fmaj7",
+  "Dm/F",
+  "Dm"
+ ],
+ "out_gz/John-Mayer-XO.png": [
+  "C",
+  "Am",
+  "Gadd11",
+  "G"
+ ],
+ "out_gz/John-Prine-In-Spite-Of-Ourselves.png": [
+  "G",
+  "C",
+  "F",
+  "C/G"
+ ],
+ "out_gz/Johnny-Cash-Folsom-Prison-Blues.png": [
+  "E",
+  "A",
+  "B7"
+ ],
  "out/Johnny-Cash-I-Walk-The-Line.png": [
   "E",
   "A",
   "D"
+ ],
+ "out_gz/Johnny-Cash-Ring-Of-Fire.png": [
+  "G",
+  "C",
+  "D7"
  ],
  "out_gz/Joji-Glimpse-Of-Us.png": [
   "Em",

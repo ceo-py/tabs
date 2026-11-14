@@ -1,0 +1,11 @@
+{
+ "title": "NEW LIGHT",
+ "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/John-Mayer-New-Light.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 28, "bbox": [1160, 110, 740, 430], "png": "frames/b14b_-CBc06v4-ac/p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 50, "bbox": [1160, 110, 740, 430], "png": "frames/b14b_-CBc06v4-ac/p1.png"},
+  {"label": "TAB  ·  BRIDGE", "t": 134, "bbox": [635, 115, 1265, 365], "png": "frames/b14b_-CBc06v4-ac/p2.png"}
+ ],
+ "note": "Chords: Am D G C C/B, then Am D G B7 (verse)  ·  Am D G C C/B (chorus)   Strumming: DUDUDUDUDU, accent strums on 2 and 4 beat"
+}

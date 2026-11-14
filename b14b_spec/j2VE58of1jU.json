@@ -1,0 +1,11 @@
+{
+ "title": "NEON",
+ "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/John-Mayer-Neon.png",
+ "panels": [
+  {"label": "TAB  ·  VERSE 1", "t": 84, "bbox": [196, 560, 1724, 280], "png": "frames/b14b_j2VE58of1jU/p0.png"},
+  {"label": "TAB  ·  CHORUS 1", "t": 168, "bbox": [196, 560, 1724, 509], "png": "frames/b14b_j2VE58of1jU/p1.png"},
+  {"label": "TAB  ·  BRIDGE", "t": 280, "bbox": [196, 560, 1724, 516], "png": "frames/b14b_j2VE58of1jU/p2.png"}
+ ],
+ "note": "Chords: Csus4, Ebsus2, Fm7add11, Absus2, Csus2/Bb (verse)  ·  Fm7add11, Gm7add11, Cm7, Bbsus2 (chorus)"
+}

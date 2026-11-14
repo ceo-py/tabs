@@ -1,0 +1,12 @@
+{
+ "title": "SAY",
+ "subtitle": "John Mayer  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/John-Mayer-Say.png",
+ "panels": [
+  {"label": "TAB  ·  MAIN RIFF", "t": 30, "bbox": [232, 560, 1688, 414], "png": "frames/b14b_aOvFfNySrlE/p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE / CHORUS", "t": 80, "bbox": [232, 560, 1688, 474], "png": "frames/b14b_aOvFfNySrlE/p1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE", "t": 125, "bbox": [232, 560, 1688, 443], "png": "frames/b14b_aOvFfNySrlE/p2.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  FINAL CHORUS", "t": 180, "bbox": [232, 560, 1688, 443], "png": "frames/b14b_aOvFfNySrlE/p3.png"}
+ ],
+ "note": "Chords: C F Am G (verse / chorus)  ·  Dm F G (bridge)  ·  Am C F (final chorus)   Strumming: D-UDUD-UDUD-DU, change chords on the highlighted strum"
+}
