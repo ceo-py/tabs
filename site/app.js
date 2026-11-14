@@ -137,6 +137,21 @@ function openLB(s) {
     $('#lbPlayerWrap').style.display = 'none';
   }
 
+  /* Fallback: the embed can stay blank (region blocked, embedding disabled,
+     "Error 153"...). The link under the card opens the video on youtube.com. */
+  const watch = id ? 'https://www.youtube.com/watch?v=' + id : '';
+  const yt = $('#lbYT');
+  if (yt) {
+    if (watch) {
+      yt.href = watch;
+      yt.hidden = false;
+      yt.classList.remove('is-alert');
+    } else {
+      yt.removeAttribute('href');
+      yt.hidden = true;
+    }
+  }
+
   const img = $('#lbImg');
   img.src = s.card;
   img.alt = 'Tabs: ' + s.title + ' — ' + s.artist;
@@ -169,6 +184,8 @@ function closeLB(back) {
   lb.hidden = true;
   document.body.classList.remove('lb-open');
   $('#lbPlayer').removeAttribute('src');   // stop playback
+  const yt = $('#lbYT');
+  if (yt) yt.classList.remove('is-alert');
   document.body.style.overflow = '';
   current = null;
   /* closing takes you back to the card you opened */
@@ -215,8 +232,19 @@ document.addEventListener('keydown', e => {
   }
 });
 
-/* ---------- controls ---------------------------------------------- */
-on('#q', 'input', e => {
+/* When YouTube refuses the embed it posts an onError event to the parent
+   window (region blocked, embedding disabled, "Error 153"...). The player
+   then stays black — so the link under the card lights up. */
+window.addEventListener('message', e => {
+  if (e.origin !== 'https://www.youtube-nocookie.com' && e.origin !== 'https://www.youtube.com') return;
+  let d = e.data;
+  if (typeof d === 'string') { try { d = JSON.parse(d); } catch { return; } }
+  if (!d || d.event !== 'onError' || lb.hidden) return;
+  const yt = $('#lbYT');
+  if (yt) yt.classList.add('is-alert');
+});
+
+/* ---------- controls ---------------------------------------------- */on('#q', 'input', e => {
   state.q = e.target.value.trim();
   apply();
 });
