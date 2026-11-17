@@ -2341,6 +2341,83 @@
   "D",
   "B7"
  ],
+ "out_gz/Linkin-Park-Crawling.png": [
+  "Am",
+  "F",
+  "C",
+  "G",
+  "A"
+ ],
+ "out_gz/Linkin-Park-In-The-End.png": [
+  "Em",
+  "Dadd11",
+  "Cmaj7",
+  "D/A",
+  "C/G",
+  "G",
+  "D",
+  "C"
+ ],
+ "out_gz/Linkin-Park-Numb.png": [
+  "Em",
+  "C",
+  "G",
+  "D"
+ ],
+ "out_gz/Linkin-Park-Shadow-Of-The-Day.png": [
+  "Em",
+  "D/F#",
+  "C",
+  "G",
+  "Am",
+  "D"
+ ],
+ "out_gz/Linkin-Park-What-Ive-Done-Acoustic.png": [
+  "Em",
+  "G",
+  "D",
+  "Asus2",
+  "C",
+  "Dadd11",
+  "G/B"
+ ],
+ "out_gz/Nirvana-About-A-Girl.png": [
+  "Em",
+  "G",
+  "C#5",
+  "C#5/G#",
+  "F#11",
+  "E",
+  "A",
+  "C",
+  "C5"
+ ],
+ "out_gz/Nirvana-Come-As-You-Are.png": [
+  "F#sus4",
+  "A",
+  "B5",
+  "D5"
+ ],
+ "out_gz/Nirvana-Polly.png": [
+  "Em",
+  "G",
+  "D",
+  "C",
+  "Bb"
+ ],
+ "out_gz/Nirvana-Smells-Like-Teen-Spirit.png": [
+  "F5",
+  "A#5",
+  "G#5",
+  "C#5"
+ ],
+ "out_gz/Nirvana-The-Man-Who-Sold-The-World-MTV-Unplugged.png": [
+  "A",
+  "Dm",
+  "F",
+  "C",
+  "C#"
+ ],
  "out/Queen-Crazy-Little-Thing-Called-Love.png": [
   "D",
   "Dsus4",
@@ -2353,6 +2430,73 @@
   "Em",
   "Dm",
   "G"
+ ],
+ "out_gz/Red-Hot-Chili-Peppers-Black-Summer.png": [
+  "Em",
+  "G",
+  "D",
+  "A",
+  "Am",
+  "C",
+  "E"
+ ],
+ "out_gz/Red-Hot-Chili-Peppers-Californication.png": [
+  "Am",
+  "F5",
+  "Fmaj7",
+  "C",
+  "G",
+  "Dm"
+ ],
+ "out_gz/Red-Hot-Chili-Peppers-Cant-Stop.png": [
+  "G",
+  "D",
+  "Bm",
+  "Cmaj7",
+  "Em",
+  "C"
+ ],
+ "out_gz/Red-Hot-Chili-Peppers-Otherside.png": [
+  "Am",
+  "F",
+  "C",
+  "G"
+ ],
+ "out_gz/Red-Hot-Chili-Peppers-Snow-Hey-Oh.png": [
+  "Gm",
+  "E",
+  "B",
+  "F#"
+ ],
+ "out_gz/Red-Hot-Chili-Peppers-Soul-To-Squeeze.png": [
+  "F",
+  "C",
+  "Bbmaj7",
+  "Dm",
+  "Bb",
+  "Am"
+ ],
+ "out_gz/Red-Hot-Chili-Peppers-The-Zephyr-Song.png": [
+  "Am",
+  "G",
+  "Em",
+  "F",
+  "D",
+  "Gadd9",
+  "A6"
+ ],
+ "out_gz/Red-Hot-Chili-Peppers-Under-The-Bridge.png": [
+  "D",
+  "F#",
+  "E",
+  "B",
+  "C#m",
+  "G#m",
+  "A",
+  "F#m",
+  "Am",
+  "G6",
+  "Fmaj7"
  ],
  "out/Sweet-Child-O-Mine.png": [
   "D",

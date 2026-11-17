@@ -7,13 +7,13 @@
 | | |
 |---|---|
 | Уроци в канала (`gz_tabs_all.json`) | 606 |
-| Публикувани (GuitarZero2HeroExpress) | 305 |
-| **Остават** | **301** |
-| От тях в готов партиден файл | 45 (batch15: 20, batch16: 25) |
-| От тях без партиден файл | 256 |
+| Публикувани (GuitarZero2HeroExpress) | 326 |
+| **Остават** | **280** |
+| От тях в готов партиден файл | 39 (batch15: 20, batch16: 19) |
+| От тях без партиден файл | 241 |
 | BernadetteTeachesMusic | 22 карти — всички публикувани |
 
-Следващите 25 за работа са готови като `gz_batches/batch15.json` (още 20) и `gz_batches/batch16.json` (25).
+Следващите 25 за работа са готови като `gz_batches/batch15.json` (още 20) и `gz_batches/batch16.json` (19).
 
 ## Списък по изпълнител
 
@@ -52,274 +52,253 @@
 | 31 | Lifehouse | You & Me | Tabs + Chords | `ryqmcUCqvnY` | batch16 |
 | 32 | Lil Nas X Billy Ray Cyrus 🤠 | Old Town Road | Tabs + Chords | `Cwc-VAlrZcA` | batch16 |
 | 33 | Limp Bizkit | Behind Blue Eyes | Tabs + Chords | `ak9qh_jxqLE` | batch16 |
-| 34 | Linkin Park | Crawling | Tabs + Chords | `RlPlrXH1QGs` | batch16 |
-| 35 | Linkin Park | In The End | Tabs + Chords | `pcwHrNnhv1Y` | batch16 |
-| 36 | Linkin Park | Numb | Tabs + Chords | `3iA5i3r6swE` | batch16 |
-| 37 | Linkin Park | Shadow Of The Day | Tabs + Chords | `DPbf7WU4BqA` | batch16 |
-| 38 | Linkin Park | What I've Done Acoustic | Tabs + Chords | `MJgpVoCL8Q4` | batch16 |
-| 39 | Linkin Park | What I've Done Electric | Tabs + Chords | `AL3XVfbuZPs` | batch16 |
-| 40 | Live In LA Intro John Mayer | Slow Dancing In A Burning Room Electric | Tabs + Chords | `vbkZxu_z-3Q` | batch16 |
-| 41 | Lizzy McAlpine | Ceilings | Tabs + Chords | `NIWF1vw2cPI` | batch16 |
-| 42 | Logic & Alessia Cara | 1-800-273-8255 | Tabs + Chords | `gfVwGSMxtcU` | batch16 |
-| 43 | Lord Huron | The Night We Met | Tabs + Chords | `9YjBCrY_-1s` | batch16 |
-| 44 | Louis Armstrong | What A Wonderful World | Tabs + Chords | `QXLL5cPV5h0` | batch16 |
-| 45 | Luis Fonsi Feat Justin Bieber | Despacito | Tabs + Chords | `cCI83Syjul4` | batch16 |
-| 46 | Lynyrd Skynyrd | Simple Man | STANDARD TUNING Tabs + Chords | `3it4F3kpsC8` | — |
-| 47 | Machine Gun Kelly | Bloody Valentine Acoustic | Tabs + Chords | `N0LnXMAVGhA` | — |
-| 48 | Marcus Mumford Major Lazer | Lay Your Head On Me | Tabs + Chords | `q63PX69vSTU` | — |
-| 49 | Mariah Carey | All I Want For Christmas Is You | Tabs + Chords | `bkDlng69K20` | — |
-| 50 | Maroon 5 | Girls Like You | Tabs + Chords | `D8vTXhCEBuc` | — |
-| 51 | Maroon 5 | Memories | Tabs + Chords | `Z2A_h7WcvwM` | — |
-| 52 | Maroon 5 | She Will Be Loved | Tabs + Chords | `Gf1WNjnXWbI` | — |
-| 53 | Maroon 5 | Sunday Morning | Tabs + Chords | `FJ12ykC7Zu8` | — |
-| 54 | Marren Morris | The Bones | Tabs + Chords | `0xoceYE1H7c` | — |
-| 55 | Marshmello | One Thing Right | Tabs + Chords | `EYh0ACLlaOY` | — |
-| 56 | Marshmello & Bastille | Happier | Tabs + Chords | `n1m3tnfG2wQ` | — |
-| 57 | Marshmello YUNGBLUD | Tongue Tied | Tabs + Chords | `zmahoLrtne0` | — |
-| 58 | Martin Garrix Dua Lipa | Scared To Be Lonely | Tabs + Chords | `FVMkxTKDsus` | — |
-| 59 | Matchbox Twenty | 3AM | Tabs + Chords | `qWLKGrpXHUE` | — |
-| 60 | MAX | Lights Down Low | Tabs + Chords | `5Z5A7LW5mrU` | — |
-| 61 | Måneskin | If I Can Dream | Tabs + Chords | `9tmiU4EXocc` | — |
-| 62 | Måneskin | The Loneliest | Tabs + Chords | `xjvfkvjD4Uw` | — |
-| 63 | Meghan Trainor | Like I'm Gonna Lose You | Chords + Tabs | `qkMlEMUKoVs` | — |
-| 64 | Men At Work | Down Under | Tabs + Chords | `mfM_25edU4c` | — |
-| 65 | Metallica | Enter Sandman | Kirk & James' Parts + Wah + TAB | `Jfcvloq3bzs` | — |
-| 66 | Metallica | Nothing Else Matters | Tabs + Chords | `xSYfmlm_IDY` | — |
-| 67 | Metallica | The Unforgiven | Tabs + Chords | `NHCbcG1zKOY` | — |
-| 68 | Mike Posner | I Took A Pill In Ibiza | Tabs + Chords | `yDAqlSJY6ac` | — |
-| 69 | Miley Cyrus | Angels Like You | Tabs + Chords | `ouh6cEdYXJs` | — |
-| 70 | Mod Sun | Internet Killed The Rockstar | Tabs + Chords | `SNcP4pVP2XI` | — |
-| 71 | My Chemical Romance | Helena | Tabs + Chords | `45-5-wWWh38` | — |
-| 72 | My Chemical Romance | I Don't Love You Acoustic | Tabs + Chords | `lQdDo98fDTs` | — |
-| 73 | My Chemical Romance | I Don't Love You Electric | Tabs + Chords | `UCmwU8zCnNo` | — |
-| 74 | My Chemical Romance | I'm Not Okay I Promise | Tabs + Chords | `9bNCHQppJX0` | — |
-| 75 | My Chemical Romance | Teenagers | Tabs + Chords | `d7fnEm0Eve4` | — |
-| 76 | My Chemical Romance | The Ghost of You | Tabs + Chords | `gxryAZ96pBo` | — |
-| 77 | My Chemical Romance | The Ghost Of You Acoustic | Tabs + Chords | `wTOiQ0Hac8o` | — |
-| 78 | My Chemical Romance | Welcome To The Black Parade | Tabs + Chords | `RSPTME6iA9M` | — |
-| 79 | My Chemical Romance | Welcome To The Black Parade Acoustic | Tabs + Chords | `MdNLG5F5FRA` | — |
-| 80 | Måneskin | Coraline | Tabs + Chords | `DZqQ3Or3EgU` | — |
-| 81 | Måneskin | Zitti E Buoni | Tabs + Chords | `9_secFzAgIM` | — |
-| 82 | Natalie Imbruglia | Torn | Tabs + Chords | `7HUXmpaTaXk` | — |
-| 83 | Neil Diamond | Sweet Caroline | Tabs + Chords | `YUXPTc4kQ7U` | — |
-| 84 | Neil Young | Harvest Moon | Tabs + Chords | `I8ukLoY0AoA` | — |
-| 85 | Neil Young | Heart Of Gold | Tabs + Chords | `MYuNhEVMxJI` | — |
-| 86 | Neil Young | Old Man | Tabs + Chords | `8tkssH0ICCQ` | — |
-| 87 | Niall Horan | Black & White | Tabs + Chords | `xGzsxp3DZtE` | — |
-| 88 | Niall Horan | Slow Hands | Tabs + Chords | `7AOmoxrNxLo` | — |
-| 89 | Niall Horan | This Town | Tabs + Chords | `ffSGXt8LxdU` | — |
-| 90 | Niall Horan | Too Much To Ask | Tabs + Chords | `14XawsvcziU` | — |
-| 91 | Nickelback | Far Away | Tabs + Chords | `wHE4_-3Eu2A` | — |
-| 92 | Nickelback | How You Remind Me | Tabs + Chords | `kMinHgWgLDI` | — |
-| 93 | Nickelback | Someday | Tabs + Chords | `w0mLrz7Ukrg` | — |
-| 94 | Nirvana | About A Girl | Tabs + Chords | `6MoufnQTB6U` | — |
-| 95 | Nirvana | Come As You Are | Tabs + Chords | `RhumXNv5uuE` | — |
-| 96 | Nirvana | Heart Shaped Box | Tabs + Chords | `HzUjCrEVoGA` | — |
-| 97 | Nirvana | Lithium | Tabs + Chords | `NF7xSm-WC4c` | — |
-| 98 | Nirvana | Polly | Tabs + Chords | `WBbJMRHygO8` | — |
-| 99 | Nirvana | Smells Like Teen Spirit | Tabs + Chords | `3X_bVfjToV4` | — |
-| 100 | Nirvana | The Man Who Sold The World MTV Unplugged | Tabs + Chords | `CGKmmAPBwHw` | — |
-| 101 | No Doubt | Don't Speak | Tabs + Chords | `t5FjHBnD_ts` | — |
-| 102 | Noah Cyrus | July | Tabs + Chords | `mZxuHRNoIzM` | — |
-| 103 | Noah Cyrus | Young & Sad | Tabs + Chords | `x8ixU4_1fG0` | — |
-| 104 | Noah Cyrus PJ Harding | Dear August | Tabs + Chords | `Ui3Lq5AGkIA` | — |
-| 105 | Noah Kahan | Stick Season | Tabs + Chords | `HPvZMkoR_m4` | — |
-| 106 | Noah Kahan | The Great Divide | Tabs + Chords | `wqsVp2EpQ4c` | — |
-| 107 | Noah Kahan | Willing And Able | Tabs + Chords | `I7JWa-6c_ko` | — |
-| 108 | Oasis | Don't Look Back In Anger | Tabs + Solo | `mbnmB_hTfiM` | — |
-| 109 | Oasis | Wonderwall | Tabs + Chords | `LRXRm0eMZZY` | — |
-| 110 | Of Monsters & Men | Dirty Paws | Tabs + Chords | `SHU5JErEDY4` | — |
-| 111 | Old Dominion | One Man Band | Tabs + Chords | `JG9u6wyzArw` | — |
-| 112 | Olivia Rodrigo | Drivers License | Tabs + Chords | `ulb7ywUwD6Q` | — |
-| 113 | Olivia Rodrigo | Enough For You | Tabs + Chords | `oUvTU_0ZeSw` | — |
-| 114 | Olivia Rodrigo | Favorite Crime | Tabs + Chords | `714HWUK2TX8` | — |
-| 115 | Olivia Rodrigo | The Cure | Tabs + Chords | `gEd5ukuCD1Y` | — |
-| 116 | Olivia Rodrigo | Vampire | Tabs + Chords | `5PEFu2TsWeE` | — |
-| 117 | One Direction | Little Things | Tabs + Chords | `U7-d7HhrZgk` | — |
-| 118 | One Direction | Night Changes | Tabs + Chords | `QCCRaF3JCNU` | — |
-| 119 | One Direction | Story Of My Life | Tabs + Chords | `8DGftAc2MQk` | — |
-| 120 | OneRepublic | Apologize | Tabs + Chords | `nO4PAa-PfC8` | — |
-| 121 | OneRepublic | Counting Stars | Tab + Chords | `p-rJs_eTVNM` | — |
-| 122 | OneRepublic | Let's Hurt Tonight | Tabs + Chords | `dyDHAV7OHSU` | — |
-| 123 | P!nk | Cover Me In Sunshine | Tabs + Chords | `05yavdcz6Ow` | — |
-| 124 | Panic! At The Disco | Northern Downpour | Tabs + Chords | `PgphG_Uxql8` | — |
-| 125 | Papa Roach | Last Resort | Tabs + Chords | `JZpautPWT9k` | — |
-| 126 | Paramore | Decode | Tabs + Chords | `88Nc8TaW6u0` | — |
-| 127 | Paramore | The Only Exception | Tabs + Chords | `Wr2Hk3a1mPo` | — |
-| 128 | Passenger | Let Her Go | Tabs + Chords | `TBfcrUsK9hc` | — |
-| 129 | Paul Anka | Put Your Head On My Shoulder | Tabs + Chords | `RgoAI_wfd8c` | — |
-| 130 | Pearl Jam | Just Breathe | Tabs + Chords | `IlFzDcn7mRI` | — |
-| 131 | Pearl Jam | Last Kiss | Tabs + Chords | `qjah-C4phyM` | — |
-| 132 | Phil Collins | Another Day In Paradise | Tabs + Chords | `PTRyHY7apgY` | — |
-| 133 | Pink | Walk Me Home  - | Tabs + Chords | `GJYvrWbeRDQ` | — |
-| 134 | Pink Floyd | Wish You Were Here | Tabs + Chords | `o2NaGFteNvY` | — |
-| 135 | Pixies | Where Is My Mind? | Tabs + Chords | `d89qBdMTlSs` | — |
-| 136 | Plain White T's | Hey There Delilah | Tabs + Chords | `rb5zeViCJCs` | — |
-| 137 | Post Malone | Circles | Tabs + Chords | `s7e_YziMo_4` | — |
-| 138 | Post Malone | Don't Understand | Tabs + Chords | `tD6Xc5jQ0Cw` | — |
-| 139 | Post Malone | Lemon Tree | Tabs + Chords | `7hlv_7cWrqM` | — |
-| 140 | Post Malone | Only Wanna Be With You | Tabs + Chords | `UjYZpuSAL3c` | — |
-| 141 | Post Malone | Overdrive | Tabs + Chords | `aN9xy0yVZps` | — |
-| 142 | Post Malone | Stay | Tabs + Chords | `WvPAmQODWE8` | — |
-| 143 | Powderfinger | My Happiness | Tabs + Chords | `-0ztytTFIcc` | — |
-| 144 | Queen | Bohemian Rhapsody | Tabs + Chords | `VHZXP8MCrQg` | — |
-| 145 | Queen | Bohemian Rhapsody Solo | Tabs | `_tTyvZRTJNs` | — |
-| 146 | Queen | Crazy Little Thing Called Love | Tabs + Chords | `9gGc45WjnpY` | — |
-| 147 | R.E.M. | Losing My Religion | Tabs + Chords | `8GaApT2sCtg` | — |
-| 148 | Radiohead | Fake Plastic Trees | Tabs + Chords | `UDwjKCZJKYs` | — |
-| 149 | Radiohead | No Surprises | Tabs + Chords | `FJq0qfTcGok` | — |
-| 150 | Rage Against The Machine | Killing In The Name | Tabs + Chords | `_9K3nBCkwbs` | — |
-| 151 | Randy Newman | You've Got A Friend In Me | Tabs + Chords | `xHbvC4Xz9Sc` | — |
-| 152 | Red Hot Chili Peppers | Black Summer | Tabs + Chords | `G8wYxJrXAIk` | — |
-| 153 | Red Hot Chili Peppers | Californication | Tabs + Chords | `F-3PaWyV4b4` | — |
-| 154 | Red Hot Chili Peppers | Can't Stop | Tabs + Chords | `HEO5LeCEKQ4` | — |
-| 155 | Red Hot Chili Peppers | Otherside | Tabs + Chords | `3XqUjgvomJc` | — |
-| 156 | Red Hot Chili Peppers | Snow (Hey Oh) | Tabs + Chords | `ZpKFbvID-pU` | — |
-| 157 | Red Hot Chili Peppers | Soul To Squeeze | Tabs + Chords | `m6f7MnSWN0g` | — |
-| 158 | Red Hot Chili Peppers | The Zephyr Song | Tabs + Chords | `cbZboCL1nsQ` | — |
-| 159 | Red Hot Chili Peppers | Under The Bridge | Tabs + Chords | `FEbB4Puug-o` | — |
-| 160 | REM | Everybody Hurts | Tabs + Chords | `UPzmTGOI6zQ` | — |
-| 161 | Ronan Keating | When You Say Nothing At All | Tabs + Chords | `h_vWOnJzwoY` | — |
-| 162 | Sam Smith | Stay With Me | Tabs + Chords | `TdRNB_niKNc` | — |
-| 163 | Sam Smith | Too Good At Goodbyes | Tabs + Chords | `6fkcpFks6tA` | — |
-| 164 | Santana | Black Magic Woman | Tabs + Chords | `5KkYBfk-JuA` | — |
-| 165 | Seafret | Atlantis | Tabs + Chords | `RCfT2Yt5ey0` | — |
-| 166 | Seal | Kiss From A Rose | Tabs + Chords | `8x3Ou0XmVVI` | — |
-| 167 | Seether & Amy Lee | Broken | Tabs + Chords | `GssKsmS2pkg` | — |
-| 168 | Shaboozey | Good News | Tabs + Chords | `qcuATgodlcw` | — |
-| 169 | Shania Twain | You're Still The One | Tabs + Chords | `0P8y_Dgrjic` | — |
-| 170 | Shawn Mendes | Because I Had You | Tabs + Chords | `EZ-KQc_S6aE` | — |
-| 171 | Shawn Mendes | Can't Imagine | Tabs + Chords | `hWYvDaHBq48` | — |
-| 172 | Shawn Mendes | Don't Be A Fool | Tabs + Chords | `SNhQmSZB6FI` | — |
-| 173 | Shawn Mendes | FallIn' All In You | Tabs + Chords | `0GQ6Hv6hoz8` | — |
-| 174 | Shawn Mendes | If I Can't Have You | Tabs + Chords | `a0wOlXkJb-k` | — |
-| 175 | Shawn Mendes | In My Blood | Tabs + Chords | `hXxqeT74FiA` | — |
-| 176 | Shawn Mendes | Patience | Tabs + Chords | `1YmXXiE_vY0` | — |
-| 177 | Shawn Mendes | Song For No One | Tabs + Chords | `8y_uVPtI3CE` | — |
-| 178 | Shawn Mendes | When You're Gone | Tabs + Chords | `Y4JjZ9K0jpo` | — |
-| 179 | Shawn Mendes | Where Were You In The Morning | Tabs + Chords | `nMDb6996yAE` | — |
-| 180 | Shawn Mendes | Wonder | Tabs + Chords | `eP1eO9k9PW0` | — |
-| 181 | Silverstein | My Heroine | Tabs + Chords | `py_9jc8589M` | — |
-| 182 | Simon | The Sound of Silence | Tabs + Chords | `dAne8DS-kxA` | — |
-| 183 | Simon & Garfunkel | The Boxer | Tabs + Chords | `T7LDnIabBR0` | — |
-| 184 | Sixpence None The Richer | Kiss Me | Tabs + Chords | `fsXxRPslOx0` | — |
-| 185 | Slipknot | Snuff | Tabs + Chords | `H0gzEaI14Qs` | — |
-| 186 | Snow Patrol | Chasing Cars | Tabs + Chords | `Ua5bx0Jo-Bc` | — |
-| 187 | Soundgarden Chris Cornell | Black Hole Sun | Tabs + Chords | `55F-PKBrDpQ` | — |
-| 188 | Stephanie Poetri | I Love You 3000 | Tabs + Chords | `S-g6Igbj67I` | — |
-| 189 | Stephen Sanchez | Until I Found You | Tabs + Chords | `1Cm4bM6B1C8` | — |
-| 190 | Sting | Fields Of Gold | Tabs + Chords | `XC1skW1G3yQ` | — |
-| 191 | Sting | Shape Of My Heart | Tabs + Chords | `kYa6ZW5ke1U` | — |
-| 192 | Stone Sour | Bother | Tabs + Chords | `rYbw1IWKN1o` | — |
-| 193 | Stone Sour | Through Glass | Tabs + Chords | `Pwvc6OtZPHk` | — |
-| 194 | Stone Temple Pilots | Interstate Love Song | Tabs + Chords | `tBNEyDJUQEU` | — |
-| 195 | Stone Temple Pilots | Plush | Tabs + Chords | `LFGIPTXVa9Y` | — |
-| 196 | Sum 41 | Fat Lip | Tabs + Chords | `RfHOMwv3NdU` | — |
-| 197 | Sum 41 | Pieces | Tabs + Chords | `1pPaDnm57RE` | — |
-| 198 | Sum 41 | With Me | Tabs + Chords | `pKsgOCHk9zk` | — |
-| 199 | Surf Mesa Madison Beer | Carried Away | Tabs + Chords | `i8VG06hKXBU` | — |
-| 200 | Tate Mcrae | You Broke Me First | Tabs + Chords | `2vTiNZDAdgY` | — |
-| 201 | Taylor Swift | All Too Well | Tabs + Chords | `wQPgs6jIOEA` | — |
-| 202 | Taylor Swift | Cardigan | Tabs + Chords | `pZVEkGhriNA` | — |
-| 203 | Taylor Swift | Cowboy Like Me | Tabs + Chords | `LuQMdBsyN08` | — |
-| 204 | Taylor Swift | Enchanted | Tabs + Chords | `qDR5Eudphe0` | — |
-| 205 | Taylor Swift | Gorgeous | Tabs + Chords | `1il0vA7BFyA` | — |
-| 206 | Taylor Swift | Lover | Tabs + Chords | `niTQXsCct0Y` | — |
-| 207 | Taylor Swift | Red | Tabs + Chords | `8_ZuV-pXKTM` | — |
-| 208 | Taylor Swift | Safe & Sound | Tabs + Chords | `fFef8inzC5w` | — |
-| 209 | Taylor Swift | Soon You'll Get Better | Tabs + Chords | `daNNWnazLm8` | — |
-| 210 | Taylor Swift Bon Iver | Exile | Tabs + Chords | `sTrtJFohC0U` | — |
-| 211 | Tears For Fears | Everybody Wants To Rule The World | Tabs + Chords | `bB6RMiyPiuQ` | — |
-| 212 | The 1975 | Be My Mistake | Tabs + Chords | `ZciviSZ56YE` | — |
-| 213 | The 1975 | Jesus Christ 2005 God Bless America | Tabs + Chords | `XxO6siPeWVU` | — |
-| 214 | The 1975 | Robbers | Tabs + Chords | `EkNHMVvNBjE` | — |
-| 215 | The Animals | House Of The Rising Sun | Tabs + Chords | `Wr0xJKhsFXE` | — |
-| 216 | The Arctic Monkeys | Do I Wanna Know | Tabs + Chords | `Bvte8dWIw7E` | — |
-| 217 | The Band | The Weight | Tabs + Chords | `UumDADjp__Q` | — |
-| 218 | The Beach Boys | God Only Knows | Tabs + Chords | `8s4GwBYfeDk` | — |
-| 219 | The Beatles | Across The Universe | Tabs + Chords | `k8hRLQhSoe4` | — |
-| 220 | The Beatles | All My Loving | Tabs + Chords | `0JE1ibMxpNA` | — |
-| 221 | The Beatles | And I Love Her | Tabs + Chords | `KbS5abXSOJ4` | — |
-| 222 | The Beatles | Blackbird | Tabs + Chords | `T9jMYfDFyP8` | — |
-| 223 | The Beatles | Come Together | Tabs + Chords | `aJBX4pGLGp8` | — |
-| 224 | The Beatles | Here Comes The Sun | Tabs + Chords | `Y3RXr4IcVTo` | — |
-| 225 | The Beatles | Hey Jude | Tabs + Chords | `QpVZr9qOAj4` | — |
-| 226 | The Beatles | I Will | Tabs + Chords | `W3H41zcwmQA` | — |
-| 227 | The Beatles | I'll Follow The Sun | Tabs + Chords | `kpGq6TQFgGQ` | — |
-| 228 | The Beatles | In My Life | Tabs + Chords | `OSH_W41HkM8` | — |
-| 229 | The Beatles | Let It Be | Tabs + Chords | `E1qyF7KqTao` | — |
-| 230 | The Beatles | Michelle | Tabs + Chords | `WEIaYmp8-So` | — |
-| 231 | The Beatles | Norwegian Wood | Tabs + Chords | `FESvPW_phoY` | — |
-| 232 | The Beatles | Now And Then | Tabs + Chords | `GUD6qxFOj7M` | — |
-| 233 | The Beatles | Something | Tabs + Solo | `ll4e_RT9rI8` | — |
-| 234 | The Beatles | The Long And Winding Road | Tabs + Chords | `vEflu4lInCM` | — |
-| 235 | The Beatles | Twist And Shout | Tabs + Chords | `Xpwa0Apcm_c` | — |
-| 236 | The Beatles | While My Guitar Gently Weeps (Anthology 3) | Tabs + Chords | `rdEoAeXFzlE` | — |
-| 237 | The Beatles | You've Got To Hide Your Love Away | Tabs + Chords | `FeBvQcvfB2U` | — |
-| 238 | The Beatles Standard Tuning | Yesterday | Tabs + Chords | `kVSgWK8PrMo` | — |
-| 239 | The Chainsmokers Kelsea Ballerini | This Feeling | Tabs + Chords | `ED7Yy5malhA` | — |
-| 240 | The Cranberries | Linger | Tabs + Chords | `fXbr2C-X0qQ` | — |
-| 241 | The Fray | How To Save A Life | Tabs + Chords | `j_KsHxCjSt0` | — |
-| 242 | The Goo Goo Dolls | Name | Tabs + Chords | `f8nSCcy1Oi0` | — |
-| 243 | The Kid LAROI | Love Again | Tabs + Chords | `wOZSUNiM3Zg` | — |
-| 244 | The Kid LAROI | Without You | Tabs + Chords | `ayhT2swtB0w` | — |
-| 245 | The Killers | Mr. Brightside | Tabs + Chords | `NYEGe3NGma8` | — |
-| 246 | The Last Of Us Part II | Through The Valley | Tabs + Chords | `bIUHmI0XDQs` | — |
-| 247 | The Last Of Us Part II | Wayfaring Stranger | Tabs + Chords | `jrF3UxzFfmc` | — |
-| 248 | The Lumineers | A.M. Radio | Tabs + Chords | `i1XPlIYzrmw` | — |
-| 249 | The Lumineers | Ho Hey | Tabs + Chords | `k72kybxQSx8` | — |
-| 250 | The Mamas & The Papas | California Dreamin’ | Tabs + Chords | `HHank-x-Ll0` | — |
-| 251 | The Offspring | Gone Away | Tabs + Chords | `Eaphw1pgJcI` | — |
-| 252 | The Paper Kites | Arms | Tabs + Chords | `mdSRm7EahZc` | — |
-| 253 | The Police | Every Breath You Take | Tabs + Chords | `JvRLYuiyURk` | — |
-| 254 | The Police | Every Breath You Take Acoustic | Tabs + Chords | `_YrDIC5tZcA` | — |
-| 255 | The Red Jumpsuit Apparatus | Face Down | Tabs + Chords | `l-ir-14IgTI` | — |
-| 256 | The Rolling Stones | (I Can't Get No) Satisfaction | Tabs + Chords | `w92cqb5uuwo` | — |
-| 257 | The Rolling Stones | Angie | Tabs + Chords | `7oqpJKjW7nE` | — |
-| 258 | The Rolling Stones | Paint It Black | Tabs + Chords | `ykAwaVetckg` | — |
-| 259 | The Smashing Pumpkins | 1979 | Tabs + Chords | `3-7BlYrqLoA` | — |
-| 260 | The Smashing Pumpkins | Disarm | Tabs + Chords | `UjScq2EYzbI` | — |
-| 261 | The Smashing Pumpkins | Tonight Tonight | Tabs + Chords | `QNNEfzG1UlU` | — |
-| 262 | The Temptations | My Girl | Tabs + Chords | `T029oJDbFwg` | — |
-| 263 | The Verve | Bitter Sweet Symphony | Tabs + Chords | `6L55fqx40eU` | — |
-| 264 | The Weeknd | Save Your Tears | Tabs + Chords | `NF-gjc8-fz0` | — |
-| 265 | The Weeknd | Save Your Tears Fingerstyle | Tabs + Chords | `kGCzLjO6jAI` | — |
-| 266 | Three Days Grace | I Hate Everything About You | Tabs + Chords | `ob3wf8KqQks` | — |
-| 267 | Tom Odell | Another Love | Tabs + Chords | `zWQjVv3Ya6I` | — |
-| 268 | Tom Petty | Free Fallin' | Tabs + Chords | `RUKNhiR_QTc` | — |
-| 269 | Tom Petty | I Won't Back Down | Tabs + Chords | `OztrUJA_sHA` | — |
-| 270 | Tom Petty | Learning To Fly | Tabs + Chords | `FQTavXwqPZU` | — |
-| 271 | Tom Petty | Wildflowers | Tabs + Chords | `0FagVBP263I` | — |
-| 272 | Toto | Africa | Tabs + Chords | `wU_4JJ7EQlE` | — |
-| 273 | Tracy Chapman | Fast Car | Tabs + Chords | `TZHzhSixBeo` | — |
-| 274 | Train | Hey Soul Sister | Tabs + Chords | `aTxLrUBNGuM` | — |
-| 275 | Trevor Daniel | Past Life | Tabs + Chords | `Su_GkEPPvmc` | — |
-| 276 | U2 | I Still Haven’t Found What I’m Looking For | Tabs + Chords | `MmmhEd7j8K8` | — |
-| 277 | U2 | One | Tabs + Chords | `jmNmAnr_Vr4` | — |
-| 278 | U2 | With Or Without You | Tabs + Chords | `YXHCL2Y-e0U` | — |
-| 279 | Van Morrison | Brown Eyed Girl | Tabs + Chords | `DCAnxbf686A` | — |
-| 280 | Van Morrison | Brown Eyed Girl | Tabs + Chords | `Fy-vqv3AloE` | — |
-| 281 | Weezer | Island In The Sun | Tabs + Chords | `M0A8SlXADss` | — |
-| 282 | Wheatus | Teenage Dirtbag | Tabs + Chords | `gvVXbxDzco0` | — |
-| 283 | Yungblud | Zombie (Acoustic) | Tabs + Chords | `QVFkg6O30i0` | — |
-| 284 | Zach Bryan | 28 | Tabs + Chords | `7V5EQAsvqZQ` | — |
-| 285 | Zach Bryan | Better Days | Tabs + Chords | `Cht1_I5zHac` | — |
-| 286 | Zach Bryan | Burn Burn Burn | Tabs + Chords | `IhSzYFfOsEs` | — |
-| 287 | Zach Bryan | Oklahoma Smokeshow | Tabs + Chords | `FADGMoQl6n0` | — |
-| 288 | Zach Bryan | Pink Skies | Tabs + Chords | `JKEyxxejXMc` | — |
-| 289 | Zach Bryan | Something In The Orange | Tabs + Chords | `DTYP8ldrGZA` | — |
-| 290 | Zach Bryan Feat. Kacey Musgraves | I Remember Everything | Tabs + Chords | `gPXUZB0KUbg` | — |
-| 291 | Zayn Feat Sia | Dusk Till Dawn | Tabs + Chords | `qT8s6mvDzxw` | — |
-| 292 | — | Amazing Grace | Tabs + Chords | `CPdZrYRy4_U` | — |
-| 293 | — | Jingle Bells | Tabs + Chords | `8DUtH_RVFh4` | — |
-| 294 | — | Rudolph The Red Nosed Reindeer | Tabs + Chords | `ILf-Pcd5rsY` | — |
-| 295 | — | The Last Of Us Theme | Tabs + Chords | `TF001G6I_S4` | — |
-| 296 | — | Toss A Coin To Your Witcher | Tabs + Chords | `pz-kI2iZNu8` | — |
-| 297 | 🌻 Post Malone Swae Lee | Sunflower | Tabs + Chords | `AikrCVRguec` | — |
-| 298 | 🎄War Is Over John Lennon | Happy Xmas | Tabs + Chords | `ibGXTK2fT80` | — |
-| 299 | 💃Shawn Mendes Camila Cabello | Señorita | Tabs + Chords | `M1yqtVP-L2M` | — |
-| 300 | 🧞 Aladdin Mena Massoud Naomi Scott | A Whole New World | Tabs + Chords | `8Op8dQdAF8w` | — |
-| 301 | 🧞 Aladdin Zayn & Zhavia Ward | A Whole New World | Tabs + Chords | `GrGxagCmCpE` | — |
+| 34 | Live In LA Intro John Mayer | Slow Dancing In A Burning Room Electric | Tabs + Chords | `vbkZxu_z-3Q` | batch16 |
+| 35 | Lizzy McAlpine | Ceilings | Tabs + Chords | `NIWF1vw2cPI` | batch16 |
+| 36 | Logic & Alessia Cara | 1-800-273-8255 | Tabs + Chords | `gfVwGSMxtcU` | batch16 |
+| 37 | Lord Huron | The Night We Met | Tabs + Chords | `9YjBCrY_-1s` | batch16 |
+| 38 | Louis Armstrong | What A Wonderful World | Tabs + Chords | `QXLL5cPV5h0` | batch16 |
+| 39 | Luis Fonsi Feat Justin Bieber | Despacito | Tabs + Chords | `cCI83Syjul4` | batch16 |
+| 40 | Lynyrd Skynyrd | Simple Man | STANDARD TUNING Tabs + Chords | `3it4F3kpsC8` | — |
+| 41 | Machine Gun Kelly | Bloody Valentine Acoustic | Tabs + Chords | `N0LnXMAVGhA` | — |
+| 42 | Marcus Mumford Major Lazer | Lay Your Head On Me | Tabs + Chords | `q63PX69vSTU` | — |
+| 43 | Mariah Carey | All I Want For Christmas Is You | Tabs + Chords | `bkDlng69K20` | — |
+| 44 | Maroon 5 | Girls Like You | Tabs + Chords | `D8vTXhCEBuc` | — |
+| 45 | Maroon 5 | Memories | Tabs + Chords | `Z2A_h7WcvwM` | — |
+| 46 | Maroon 5 | She Will Be Loved | Tabs + Chords | `Gf1WNjnXWbI` | — |
+| 47 | Maroon 5 | Sunday Morning | Tabs + Chords | `FJ12ykC7Zu8` | — |
+| 48 | Marren Morris | The Bones | Tabs + Chords | `0xoceYE1H7c` | — |
+| 49 | Marshmello | One Thing Right | Tabs + Chords | `EYh0ACLlaOY` | — |
+| 50 | Marshmello & Bastille | Happier | Tabs + Chords | `n1m3tnfG2wQ` | — |
+| 51 | Marshmello YUNGBLUD | Tongue Tied | Tabs + Chords | `zmahoLrtne0` | — |
+| 52 | Martin Garrix Dua Lipa | Scared To Be Lonely | Tabs + Chords | `FVMkxTKDsus` | — |
+| 53 | Matchbox Twenty | 3AM | Tabs + Chords | `qWLKGrpXHUE` | — |
+| 54 | MAX | Lights Down Low | Tabs + Chords | `5Z5A7LW5mrU` | — |
+| 55 | Måneskin | If I Can Dream | Tabs + Chords | `9tmiU4EXocc` | — |
+| 56 | Måneskin | The Loneliest | Tabs + Chords | `xjvfkvjD4Uw` | — |
+| 57 | Meghan Trainor | Like I'm Gonna Lose You | Chords + Tabs | `qkMlEMUKoVs` | — |
+| 58 | Men At Work | Down Under | Tabs + Chords | `mfM_25edU4c` | — |
+| 59 | Metallica | Enter Sandman | Kirk & James' Parts + Wah + TAB | `Jfcvloq3bzs` | — |
+| 60 | Metallica | Nothing Else Matters | Tabs + Chords | `xSYfmlm_IDY` | — |
+| 61 | Metallica | The Unforgiven | Tabs + Chords | `NHCbcG1zKOY` | — |
+| 62 | Mike Posner | I Took A Pill In Ibiza | Tabs + Chords | `yDAqlSJY6ac` | — |
+| 63 | Miley Cyrus | Angels Like You | Tabs + Chords | `ouh6cEdYXJs` | — |
+| 64 | Mod Sun | Internet Killed The Rockstar | Tabs + Chords | `SNcP4pVP2XI` | — |
+| 65 | My Chemical Romance | Helena | Tabs + Chords | `45-5-wWWh38` | — |
+| 66 | My Chemical Romance | I Don't Love You Acoustic | Tabs + Chords | `lQdDo98fDTs` | — |
+| 67 | My Chemical Romance | I Don't Love You Electric | Tabs + Chords | `UCmwU8zCnNo` | — |
+| 68 | My Chemical Romance | I'm Not Okay I Promise | Tabs + Chords | `9bNCHQppJX0` | — |
+| 69 | My Chemical Romance | Teenagers | Tabs + Chords | `d7fnEm0Eve4` | — |
+| 70 | My Chemical Romance | The Ghost of You | Tabs + Chords | `gxryAZ96pBo` | — |
+| 71 | My Chemical Romance | The Ghost Of You Acoustic | Tabs + Chords | `wTOiQ0Hac8o` | — |
+| 72 | My Chemical Romance | Welcome To The Black Parade | Tabs + Chords | `RSPTME6iA9M` | — |
+| 73 | My Chemical Romance | Welcome To The Black Parade Acoustic | Tabs + Chords | `MdNLG5F5FRA` | — |
+| 74 | Måneskin | Coraline | Tabs + Chords | `DZqQ3Or3EgU` | — |
+| 75 | Måneskin | Zitti E Buoni | Tabs + Chords | `9_secFzAgIM` | — |
+| 76 | Natalie Imbruglia | Torn | Tabs + Chords | `7HUXmpaTaXk` | — |
+| 77 | Neil Diamond | Sweet Caroline | Tabs + Chords | `YUXPTc4kQ7U` | — |
+| 78 | Neil Young | Harvest Moon | Tabs + Chords | `I8ukLoY0AoA` | — |
+| 79 | Neil Young | Heart Of Gold | Tabs + Chords | `MYuNhEVMxJI` | — |
+| 80 | Neil Young | Old Man | Tabs + Chords | `8tkssH0ICCQ` | — |
+| 81 | Niall Horan | Black & White | Tabs + Chords | `xGzsxp3DZtE` | — |
+| 82 | Niall Horan | Slow Hands | Tabs + Chords | `7AOmoxrNxLo` | — |
+| 83 | Niall Horan | This Town | Tabs + Chords | `ffSGXt8LxdU` | — |
+| 84 | Niall Horan | Too Much To Ask | Tabs + Chords | `14XawsvcziU` | — |
+| 85 | Nickelback | Far Away | Tabs + Chords | `wHE4_-3Eu2A` | — |
+| 86 | Nickelback | How You Remind Me | Tabs + Chords | `kMinHgWgLDI` | — |
+| 87 | Nickelback | Someday | Tabs + Chords | `w0mLrz7Ukrg` | — |
+| 88 | No Doubt | Don't Speak | Tabs + Chords | `t5FjHBnD_ts` | — |
+| 89 | Noah Cyrus | July | Tabs + Chords | `mZxuHRNoIzM` | — |
+| 90 | Noah Cyrus | Young & Sad | Tabs + Chords | `x8ixU4_1fG0` | — |
+| 91 | Noah Cyrus PJ Harding | Dear August | Tabs + Chords | `Ui3Lq5AGkIA` | — |
+| 92 | Noah Kahan | Stick Season | Tabs + Chords | `HPvZMkoR_m4` | — |
+| 93 | Noah Kahan | The Great Divide | Tabs + Chords | `wqsVp2EpQ4c` | — |
+| 94 | Noah Kahan | Willing And Able | Tabs + Chords | `I7JWa-6c_ko` | — |
+| 95 | Oasis | Don't Look Back In Anger | Tabs + Solo | `mbnmB_hTfiM` | — |
+| 96 | Oasis | Wonderwall | Tabs + Chords | `LRXRm0eMZZY` | — |
+| 97 | Of Monsters & Men | Dirty Paws | Tabs + Chords | `SHU5JErEDY4` | — |
+| 98 | Old Dominion | One Man Band | Tabs + Chords | `JG9u6wyzArw` | — |
+| 99 | Olivia Rodrigo | Drivers License | Tabs + Chords | `ulb7ywUwD6Q` | — |
+| 100 | Olivia Rodrigo | Enough For You | Tabs + Chords | `oUvTU_0ZeSw` | — |
+| 101 | Olivia Rodrigo | Favorite Crime | Tabs + Chords | `714HWUK2TX8` | — |
+| 102 | Olivia Rodrigo | The Cure | Tabs + Chords | `gEd5ukuCD1Y` | — |
+| 103 | Olivia Rodrigo | Vampire | Tabs + Chords | `5PEFu2TsWeE` | — |
+| 104 | One Direction | Little Things | Tabs + Chords | `U7-d7HhrZgk` | — |
+| 105 | One Direction | Night Changes | Tabs + Chords | `QCCRaF3JCNU` | — |
+| 106 | One Direction | Story Of My Life | Tabs + Chords | `8DGftAc2MQk` | — |
+| 107 | OneRepublic | Apologize | Tabs + Chords | `nO4PAa-PfC8` | — |
+| 108 | OneRepublic | Counting Stars | Tab + Chords | `p-rJs_eTVNM` | — |
+| 109 | OneRepublic | Let's Hurt Tonight | Tabs + Chords | `dyDHAV7OHSU` | — |
+| 110 | P!nk | Cover Me In Sunshine | Tabs + Chords | `05yavdcz6Ow` | — |
+| 111 | Panic! At The Disco | Northern Downpour | Tabs + Chords | `PgphG_Uxql8` | — |
+| 112 | Papa Roach | Last Resort | Tabs + Chords | `JZpautPWT9k` | — |
+| 113 | Paramore | Decode | Tabs + Chords | `88Nc8TaW6u0` | — |
+| 114 | Paramore | The Only Exception | Tabs + Chords | `Wr2Hk3a1mPo` | — |
+| 115 | Passenger | Let Her Go | Tabs + Chords | `TBfcrUsK9hc` | — |
+| 116 | Paul Anka | Put Your Head On My Shoulder | Tabs + Chords | `RgoAI_wfd8c` | — |
+| 117 | Pearl Jam | Just Breathe | Tabs + Chords | `IlFzDcn7mRI` | — |
+| 118 | Pearl Jam | Last Kiss | Tabs + Chords | `qjah-C4phyM` | — |
+| 119 | Phil Collins | Another Day In Paradise | Tabs + Chords | `PTRyHY7apgY` | — |
+| 120 | Pink | Walk Me Home  - | Tabs + Chords | `GJYvrWbeRDQ` | — |
+| 121 | Pink Floyd | Wish You Were Here | Tabs + Chords | `o2NaGFteNvY` | — |
+| 122 | Pixies | Where Is My Mind? | Tabs + Chords | `d89qBdMTlSs` | — |
+| 123 | Plain White T's | Hey There Delilah | Tabs + Chords | `rb5zeViCJCs` | — |
+| 124 | Post Malone | Circles | Tabs + Chords | `s7e_YziMo_4` | — |
+| 125 | Post Malone | Don't Understand | Tabs + Chords | `tD6Xc5jQ0Cw` | — |
+| 126 | Post Malone | Lemon Tree | Tabs + Chords | `7hlv_7cWrqM` | — |
+| 127 | Post Malone | Only Wanna Be With You | Tabs + Chords | `UjYZpuSAL3c` | — |
+| 128 | Post Malone | Overdrive | Tabs + Chords | `aN9xy0yVZps` | — |
+| 129 | Post Malone | Stay | Tabs + Chords | `WvPAmQODWE8` | — |
+| 130 | Powderfinger | My Happiness | Tabs + Chords | `-0ztytTFIcc` | — |
+| 131 | Queen | Bohemian Rhapsody | Tabs + Chords | `VHZXP8MCrQg` | — |
+| 132 | Queen | Bohemian Rhapsody Solo | Tabs | `_tTyvZRTJNs` | — |
+| 133 | Queen | Crazy Little Thing Called Love | Tabs + Chords | `9gGc45WjnpY` | — |
+| 134 | R.E.M. | Losing My Religion | Tabs + Chords | `8GaApT2sCtg` | — |
+| 135 | Radiohead | Fake Plastic Trees | Tabs + Chords | `UDwjKCZJKYs` | — |
+| 136 | Radiohead | No Surprises | Tabs + Chords | `FJq0qfTcGok` | — |
+| 137 | Rage Against The Machine | Killing In The Name | Tabs + Chords | `_9K3nBCkwbs` | — |
+| 138 | Randy Newman | You've Got A Friend In Me | Tabs + Chords | `xHbvC4Xz9Sc` | — |
+| 139 | REM | Everybody Hurts | Tabs + Chords | `UPzmTGOI6zQ` | — |
+| 140 | Ronan Keating | When You Say Nothing At All | Tabs + Chords | `h_vWOnJzwoY` | — |
+| 141 | Sam Smith | Stay With Me | Tabs + Chords | `TdRNB_niKNc` | — |
+| 142 | Sam Smith | Too Good At Goodbyes | Tabs + Chords | `6fkcpFks6tA` | — |
+| 143 | Santana | Black Magic Woman | Tabs + Chords | `5KkYBfk-JuA` | — |
+| 144 | Seafret | Atlantis | Tabs + Chords | `RCfT2Yt5ey0` | — |
+| 145 | Seal | Kiss From A Rose | Tabs + Chords | `8x3Ou0XmVVI` | — |
+| 146 | Seether & Amy Lee | Broken | Tabs + Chords | `GssKsmS2pkg` | — |
+| 147 | Shaboozey | Good News | Tabs + Chords | `qcuATgodlcw` | — |
+| 148 | Shania Twain | You're Still The One | Tabs + Chords | `0P8y_Dgrjic` | — |
+| 149 | Shawn Mendes | Because I Had You | Tabs + Chords | `EZ-KQc_S6aE` | — |
+| 150 | Shawn Mendes | Can't Imagine | Tabs + Chords | `hWYvDaHBq48` | — |
+| 151 | Shawn Mendes | Don't Be A Fool | Tabs + Chords | `SNhQmSZB6FI` | — |
+| 152 | Shawn Mendes | FallIn' All In You | Tabs + Chords | `0GQ6Hv6hoz8` | — |
+| 153 | Shawn Mendes | If I Can't Have You | Tabs + Chords | `a0wOlXkJb-k` | — |
+| 154 | Shawn Mendes | In My Blood | Tabs + Chords | `hXxqeT74FiA` | — |
+| 155 | Shawn Mendes | Patience | Tabs + Chords | `1YmXXiE_vY0` | — |
+| 156 | Shawn Mendes | Song For No One | Tabs + Chords | `8y_uVPtI3CE` | — |
+| 157 | Shawn Mendes | When You're Gone | Tabs + Chords | `Y4JjZ9K0jpo` | — |
+| 158 | Shawn Mendes | Where Were You In The Morning | Tabs + Chords | `nMDb6996yAE` | — |
+| 159 | Shawn Mendes | Wonder | Tabs + Chords | `eP1eO9k9PW0` | — |
+| 160 | Silverstein | My Heroine | Tabs + Chords | `py_9jc8589M` | — |
+| 161 | Simon | The Sound of Silence | Tabs + Chords | `dAne8DS-kxA` | — |
+| 162 | Simon & Garfunkel | The Boxer | Tabs + Chords | `T7LDnIabBR0` | — |
+| 163 | Sixpence None The Richer | Kiss Me | Tabs + Chords | `fsXxRPslOx0` | — |
+| 164 | Slipknot | Snuff | Tabs + Chords | `H0gzEaI14Qs` | — |
+| 165 | Snow Patrol | Chasing Cars | Tabs + Chords | `Ua5bx0Jo-Bc` | — |
+| 166 | Soundgarden Chris Cornell | Black Hole Sun | Tabs + Chords | `55F-PKBrDpQ` | — |
+| 167 | Stephanie Poetri | I Love You 3000 | Tabs + Chords | `S-g6Igbj67I` | — |
+| 168 | Stephen Sanchez | Until I Found You | Tabs + Chords | `1Cm4bM6B1C8` | — |
+| 169 | Sting | Fields Of Gold | Tabs + Chords | `XC1skW1G3yQ` | — |
+| 170 | Sting | Shape Of My Heart | Tabs + Chords | `kYa6ZW5ke1U` | — |
+| 171 | Stone Sour | Bother | Tabs + Chords | `rYbw1IWKN1o` | — |
+| 172 | Stone Sour | Through Glass | Tabs + Chords | `Pwvc6OtZPHk` | — |
+| 173 | Stone Temple Pilots | Interstate Love Song | Tabs + Chords | `tBNEyDJUQEU` | — |
+| 174 | Stone Temple Pilots | Plush | Tabs + Chords | `LFGIPTXVa9Y` | — |
+| 175 | Sum 41 | Fat Lip | Tabs + Chords | `RfHOMwv3NdU` | — |
+| 176 | Sum 41 | Pieces | Tabs + Chords | `1pPaDnm57RE` | — |
+| 177 | Sum 41 | With Me | Tabs + Chords | `pKsgOCHk9zk` | — |
+| 178 | Surf Mesa Madison Beer | Carried Away | Tabs + Chords | `i8VG06hKXBU` | — |
+| 179 | Tate Mcrae | You Broke Me First | Tabs + Chords | `2vTiNZDAdgY` | — |
+| 180 | Taylor Swift | All Too Well | Tabs + Chords | `wQPgs6jIOEA` | — |
+| 181 | Taylor Swift | Cardigan | Tabs + Chords | `pZVEkGhriNA` | — |
+| 182 | Taylor Swift | Cowboy Like Me | Tabs + Chords | `LuQMdBsyN08` | — |
+| 183 | Taylor Swift | Enchanted | Tabs + Chords | `qDR5Eudphe0` | — |
+| 184 | Taylor Swift | Gorgeous | Tabs + Chords | `1il0vA7BFyA` | — |
+| 185 | Taylor Swift | Lover | Tabs + Chords | `niTQXsCct0Y` | — |
+| 186 | Taylor Swift | Red | Tabs + Chords | `8_ZuV-pXKTM` | — |
+| 187 | Taylor Swift | Safe & Sound | Tabs + Chords | `fFef8inzC5w` | — |
+| 188 | Taylor Swift | Soon You'll Get Better | Tabs + Chords | `daNNWnazLm8` | — |
+| 189 | Taylor Swift Bon Iver | Exile | Tabs + Chords | `sTrtJFohC0U` | — |
+| 190 | Tears For Fears | Everybody Wants To Rule The World | Tabs + Chords | `bB6RMiyPiuQ` | — |
+| 191 | The 1975 | Be My Mistake | Tabs + Chords | `ZciviSZ56YE` | — |
+| 192 | The 1975 | Jesus Christ 2005 God Bless America | Tabs + Chords | `XxO6siPeWVU` | — |
+| 193 | The 1975 | Robbers | Tabs + Chords | `EkNHMVvNBjE` | — |
+| 194 | The Animals | House Of The Rising Sun | Tabs + Chords | `Wr0xJKhsFXE` | — |
+| 195 | The Arctic Monkeys | Do I Wanna Know | Tabs + Chords | `Bvte8dWIw7E` | — |
+| 196 | The Band | The Weight | Tabs + Chords | `UumDADjp__Q` | — |
+| 197 | The Beach Boys | God Only Knows | Tabs + Chords | `8s4GwBYfeDk` | — |
+| 198 | The Beatles | Across The Universe | Tabs + Chords | `k8hRLQhSoe4` | — |
+| 199 | The Beatles | All My Loving | Tabs + Chords | `0JE1ibMxpNA` | — |
+| 200 | The Beatles | And I Love Her | Tabs + Chords | `KbS5abXSOJ4` | — |
+| 201 | The Beatles | Blackbird | Tabs + Chords | `T9jMYfDFyP8` | — |
+| 202 | The Beatles | Come Together | Tabs + Chords | `aJBX4pGLGp8` | — |
+| 203 | The Beatles | Here Comes The Sun | Tabs + Chords | `Y3RXr4IcVTo` | — |
+| 204 | The Beatles | Hey Jude | Tabs + Chords | `QpVZr9qOAj4` | — |
+| 205 | The Beatles | I Will | Tabs + Chords | `W3H41zcwmQA` | — |
+| 206 | The Beatles | I'll Follow The Sun | Tabs + Chords | `kpGq6TQFgGQ` | — |
+| 207 | The Beatles | In My Life | Tabs + Chords | `OSH_W41HkM8` | — |
+| 208 | The Beatles | Let It Be | Tabs + Chords | `E1qyF7KqTao` | — |
+| 209 | The Beatles | Michelle | Tabs + Chords | `WEIaYmp8-So` | — |
+| 210 | The Beatles | Norwegian Wood | Tabs + Chords | `FESvPW_phoY` | — |
+| 211 | The Beatles | Now And Then | Tabs + Chords | `GUD6qxFOj7M` | — |
+| 212 | The Beatles | Something | Tabs + Solo | `ll4e_RT9rI8` | — |
+| 213 | The Beatles | The Long And Winding Road | Tabs + Chords | `vEflu4lInCM` | — |
+| 214 | The Beatles | Twist And Shout | Tabs + Chords | `Xpwa0Apcm_c` | — |
+| 215 | The Beatles | While My Guitar Gently Weeps (Anthology 3) | Tabs + Chords | `rdEoAeXFzlE` | — |
+| 216 | The Beatles | You've Got To Hide Your Love Away | Tabs + Chords | `FeBvQcvfB2U` | — |
+| 217 | The Beatles Standard Tuning | Yesterday | Tabs + Chords | `kVSgWK8PrMo` | — |
+| 218 | The Chainsmokers Kelsea Ballerini | This Feeling | Tabs + Chords | `ED7Yy5malhA` | — |
+| 219 | The Cranberries | Linger | Tabs + Chords | `fXbr2C-X0qQ` | — |
+| 220 | The Fray | How To Save A Life | Tabs + Chords | `j_KsHxCjSt0` | — |
+| 221 | The Goo Goo Dolls | Name | Tabs + Chords | `f8nSCcy1Oi0` | — |
+| 222 | The Kid LAROI | Love Again | Tabs + Chords | `wOZSUNiM3Zg` | — |
+| 223 | The Kid LAROI | Without You | Tabs + Chords | `ayhT2swtB0w` | — |
+| 224 | The Killers | Mr. Brightside | Tabs + Chords | `NYEGe3NGma8` | — |
+| 225 | The Last Of Us Part II | Through The Valley | Tabs + Chords | `bIUHmI0XDQs` | — |
+| 226 | The Last Of Us Part II | Wayfaring Stranger | Tabs + Chords | `jrF3UxzFfmc` | — |
+| 227 | The Lumineers | A.M. Radio | Tabs + Chords | `i1XPlIYzrmw` | — |
+| 228 | The Lumineers | Ho Hey | Tabs + Chords | `k72kybxQSx8` | — |
+| 229 | The Mamas & The Papas | California Dreamin’ | Tabs + Chords | `HHank-x-Ll0` | — |
+| 230 | The Offspring | Gone Away | Tabs + Chords | `Eaphw1pgJcI` | — |
+| 231 | The Paper Kites | Arms | Tabs + Chords | `mdSRm7EahZc` | — |
+| 232 | The Police | Every Breath You Take | Tabs + Chords | `JvRLYuiyURk` | — |
+| 233 | The Police | Every Breath You Take Acoustic | Tabs + Chords | `_YrDIC5tZcA` | — |
+| 234 | The Red Jumpsuit Apparatus | Face Down | Tabs + Chords | `l-ir-14IgTI` | — |
+| 235 | The Rolling Stones | (I Can't Get No) Satisfaction | Tabs + Chords | `w92cqb5uuwo` | — |
+| 236 | The Rolling Stones | Angie | Tabs + Chords | `7oqpJKjW7nE` | — |
+| 237 | The Rolling Stones | Paint It Black | Tabs + Chords | `ykAwaVetckg` | — |
+| 238 | The Smashing Pumpkins | 1979 | Tabs + Chords | `3-7BlYrqLoA` | — |
+| 239 | The Smashing Pumpkins | Disarm | Tabs + Chords | `UjScq2EYzbI` | — |
+| 240 | The Smashing Pumpkins | Tonight Tonight | Tabs + Chords | `QNNEfzG1UlU` | — |
+| 241 | The Temptations | My Girl | Tabs + Chords | `T029oJDbFwg` | — |
+| 242 | The Verve | Bitter Sweet Symphony | Tabs + Chords | `6L55fqx40eU` | — |
+| 243 | The Weeknd | Save Your Tears | Tabs + Chords | `NF-gjc8-fz0` | — |
+| 244 | The Weeknd | Save Your Tears Fingerstyle | Tabs + Chords | `kGCzLjO6jAI` | — |
+| 245 | Three Days Grace | I Hate Everything About You | Tabs + Chords | `ob3wf8KqQks` | — |
+| 246 | Tom Odell | Another Love | Tabs + Chords | `zWQjVv3Ya6I` | — |
+| 247 | Tom Petty | Free Fallin' | Tabs + Chords | `RUKNhiR_QTc` | — |
+| 248 | Tom Petty | I Won't Back Down | Tabs + Chords | `OztrUJA_sHA` | — |
+| 249 | Tom Petty | Learning To Fly | Tabs + Chords | `FQTavXwqPZU` | — |
+| 250 | Tom Petty | Wildflowers | Tabs + Chords | `0FagVBP263I` | — |
+| 251 | Toto | Africa | Tabs + Chords | `wU_4JJ7EQlE` | — |
+| 252 | Tracy Chapman | Fast Car | Tabs + Chords | `TZHzhSixBeo` | — |
+| 253 | Train | Hey Soul Sister | Tabs + Chords | `aTxLrUBNGuM` | — |
+| 254 | Trevor Daniel | Past Life | Tabs + Chords | `Su_GkEPPvmc` | — |
+| 255 | U2 | I Still Haven’t Found What I’m Looking For | Tabs + Chords | `MmmhEd7j8K8` | — |
+| 256 | U2 | One | Tabs + Chords | `jmNmAnr_Vr4` | — |
+| 257 | U2 | With Or Without You | Tabs + Chords | `YXHCL2Y-e0U` | — |
+| 258 | Van Morrison | Brown Eyed Girl | Tabs + Chords | `DCAnxbf686A` | — |
+| 259 | Van Morrison | Brown Eyed Girl | Tabs + Chords | `Fy-vqv3AloE` | — |
+| 260 | Weezer | Island In The Sun | Tabs + Chords | `M0A8SlXADss` | — |
+| 261 | Wheatus | Teenage Dirtbag | Tabs + Chords | `gvVXbxDzco0` | — |
+| 262 | Yungblud | Zombie (Acoustic) | Tabs + Chords | `QVFkg6O30i0` | — |
+| 263 | Zach Bryan | 28 | Tabs + Chords | `7V5EQAsvqZQ` | — |
+| 264 | Zach Bryan | Better Days | Tabs + Chords | `Cht1_I5zHac` | — |
+| 265 | Zach Bryan | Burn Burn Burn | Tabs + Chords | `IhSzYFfOsEs` | — |
+| 266 | Zach Bryan | Oklahoma Smokeshow | Tabs + Chords | `FADGMoQl6n0` | — |
+| 267 | Zach Bryan | Pink Skies | Tabs + Chords | `JKEyxxejXMc` | — |
+| 268 | Zach Bryan | Something In The Orange | Tabs + Chords | `DTYP8ldrGZA` | — |
+| 269 | Zach Bryan Feat. Kacey Musgraves | I Remember Everything | Tabs + Chords | `gPXUZB0KUbg` | — |
+| 270 | Zayn Feat Sia | Dusk Till Dawn | Tabs + Chords | `qT8s6mvDzxw` | — |
+| 271 | — | Amazing Grace | Tabs + Chords | `CPdZrYRy4_U` | — |
+| 272 | — | Jingle Bells | Tabs + Chords | `8DUtH_RVFh4` | — |
+| 273 | — | Rudolph The Red Nosed Reindeer | Tabs + Chords | `ILf-Pcd5rsY` | — |
+| 274 | — | The Last Of Us Theme | Tabs + Chords | `TF001G6I_S4` | — |
+| 275 | — | Toss A Coin To Your Witcher | Tabs + Chords | `pz-kI2iZNu8` | — |
+| 276 | 🌻 Post Malone Swae Lee | Sunflower | Tabs + Chords | `AikrCVRguec` | — |
+| 277 | 🎄War Is Over John Lennon | Happy Xmas | Tabs + Chords | `ibGXTK2fT80` | — |
+| 278 | 💃Shawn Mendes Camila Cabello | Señorita | Tabs + Chords | `M1yqtVP-L2M` | — |
+| 279 | 🧞 Aladdin Mena Massoud Naomi Scott | A Whole New World | Tabs + Chords | `8Op8dQdAF8w` | — |
+| 280 | 🧞 Aladdin Zayn & Zhavia Ward | A Whole New World | Tabs + Chords | `GrGxagCmCpE` | — |
 
 ## Само id-тата (за скриптове)
 
@@ -357,12 +336,6 @@ wcYJMaag89Y
 ryqmcUCqvnY
 Cwc-VAlrZcA
 ak9qh_jxqLE
-RlPlrXH1QGs
-pcwHrNnhv1Y
-3iA5i3r6swE
-DPbf7WU4BqA
-MJgpVoCL8Q4
-AL3XVfbuZPs
 vbkZxu_z-3Q
 NIWF1vw2cPI
 gfVwGSMxtcU
@@ -417,13 +390,6 @@ ffSGXt8LxdU
 wHE4_-3Eu2A
 kMinHgWgLDI
 w0mLrz7Ukrg
-6MoufnQTB6U
-RhumXNv5uuE
-HzUjCrEVoGA
-NF7xSm-WC4c
-WBbJMRHygO8
-3X_bVfjToV4
-CGKmmAPBwHw
 t5FjHBnD_ts
 mZxuHRNoIzM
 x8ixU4_1fG0
@@ -475,14 +441,6 @@ UDwjKCZJKYs
 FJq0qfTcGok
 _9K3nBCkwbs
 xHbvC4Xz9Sc
-G8wYxJrXAIk
-F-3PaWyV4b4
-HEO5LeCEKQ4
-3XqUjgvomJc
-ZpKFbvID-pU
-m6f7MnSWN0g
-cbZboCL1nsQ
-FEbB4Puug-o
 UPzmTGOI6zQ
 h_vWOnJzwoY
 TdRNB_niKNc

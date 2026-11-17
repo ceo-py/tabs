@@ -1,0 +1,16 @@
+{
+ "title": "WHAT I'VE DONE (ACOUSTIC)",
+ "subtitle": "Linkin Park  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Linkin-Park-What-Ive-Done-Acoustic.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  INTRO", "t": 4, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_MJgpVoCL8Q4/p_intro.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 26, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_MJgpVoCL8Q4/p_verse.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS", "t": 40, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_MJgpVoCL8Q4/p_prechorus.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1", "t": 52, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_MJgpVoCL8Q4/p_chorus1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 2", "t": 88, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_MJgpVoCL8Q4/p_chorus2.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE", "t": 108, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_MJgpVoCL8Q4/p_bridge.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 3", "t": 126, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_MJgpVoCL8Q4/p_chorus3.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  FINAL CHORUS", "t": 150, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_MJgpVoCL8Q4/p_finalchorus.png"}
+ ],
+ "note": "Chords: Intro | Em | G | D | Asus2 |  ·  Verse | Em | G | D | Asus2 |  ·  Prechorus | C | C | Dadd11 | Dadd11 |  ·  Chorus 1 | Em | G | D | Asus2 |  ·  Chorus 2 | Em | G | D | Asus2 | / | Em | G | D | Asus2 | G/B | C | D |  ·  Bridge | Em | G | D | Asus2 | / | Em | G | D | Asus2 | G/B | C | D |  ·  Chorus 3 | Em | G | D | Asus2 | / | Em | G | D | Asus2 | Asus2 |  ·  Final Chorus | Em | G | D | Asus2 | (Repeat x5)   Strumming: DUDU-UDU (verse and prechorus)  ·  DUDUDUDU (intro, chorus 1, chorus 2, bridge, final chorus)  ·  DDDDDDDD (chorus 3) - all counted in eighths as 1 + 2 + 3 + 4 +. This video shows chord and strumming sheets only - it displays no TAB notation."
+}

@@ -1,0 +1,11 @@
+{
+  "title": "SOUL TO SQUEEZE",
+  "subtitle": "Red Hot Chili Peppers  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Red-Hot-Chili-Peppers-Soul-To-Squeeze.png",
+  "panels": [
+    {"label": "TAB  ·  VERSE", "t": 60, "bbox": [193, 560, 1727, 274], "png": "frames/b17c_m6f7MnSWN0g/p0.png"},
+    {"label": "TAB  ·  CHORUS 1", "t": 100, "bbox": [193, 560, 1727, 490], "png": "frames/b17c_m6f7MnSWN0g/p1.png"},
+    {"label": "STRUMMING PATTERN  ·  FINAL CHORUS", "t": 264, "bbox": [1355, 438, 520, 92], "png": "frames/b17c_m6f7MnSWN0g/p2.png"}
+  ],
+  "note": "Chords: F C Bbmaj7 Dm F C (verse)  ·  F C Dm Bb F C Dm Am Bb (chorus 1)  ·  Strumming: D--UDUD--UDUD-DU (final chorus, shown on screen)"
+}

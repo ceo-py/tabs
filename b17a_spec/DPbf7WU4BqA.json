@@ -1,0 +1,14 @@
+{
+ "title": "SHADOW OF THE DAY",
+ "subtitle": "Linkin Park  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Linkin-Park-Shadow-Of-The-Day.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 40, "bbox": [1200, 130, 590, 410], "png": "frames/b17a_DPbf7WU4BqA/p_verse.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS", "t": 50, "bbox": [1200, 130, 590, 410], "png": "frames/b17a_DPbf7WU4BqA/p_prechorus.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 68, "bbox": [1200, 130, 590, 410], "png": "frames/b17a_DPbf7WU4BqA/p_chorus.png"},
+  {"label": "TAB  ·  SOLO 1", "t": 168, "bbox": [845, 150, 1075, 445], "png": "frames/b17a_DPbf7WU4BqA/p_tab_solo1.png"},
+  {"label": "TAB  ·  CHORUS LEAD", "t": 180, "bbox": [845, 150, 1075, 445], "png": "frames/b17a_DPbf7WU4BqA/p_tab_choruslead.png"},
+  {"label": "TAB  ·  SOLO 2", "t": 208, "bbox": [845, 366, 1075, 234], "png": "frames/b17a_DPbf7WU4BqA/p_tab_solo2.png"}
+ ],
+ "note": "Chords: Verse | Em | D/F# | C | C |  ·  Prechorus | G | Am | Em | C |  ·  Chorus | G | D | Em | C | / | G | Am | Em | C |   Strumming: DUDUDUDU (eighth notes, counted 1 + 2 + 3 + 4 +) for every chord section. The TAB sheets are labelled SOLO 1, CHORUS LEAD and SOLO 2."
+}

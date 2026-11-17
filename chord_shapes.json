@@ -2475,6 +2475,31 @@
   "base": "Dm",
   "bass": "F"
  },
+ "C#5/G#": {
+  "frets": [
+   4,
+   6,
+   8,
+   8,
+   -1,
+   -1
+  ],
+  "base": "C#5",
+  "bass": "G#"
+ },
+ "F#sus4": {
+  "frets": [
+   2,
+   2,
+   4,
+   4,
+   0,
+   2
+  ],
+  "base": "F#sus4",
+  "bass": null,
+  "auto": true
+ },
  "Gb": {
   "frets": [
    2,

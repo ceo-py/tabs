@@ -71,7 +71,11 @@ def build(path_out, title, subtitle, sections, link, min_width=1400,
     if note:
         nf = font(F_REG, 24)
         note_lines = wrap_note(note, nf, W - pad * 2)
-    H = head_h + body_h + pad + (56 + 32 * len(note_lines) if note else 0)
+    # the note is drawn 60 px above the bottom edge with 32 px between the
+    # lines, so only two lines fit in the reserved space - every extra line
+    # needs 32 px more room or the last line is cut off
+    note_extra = 32 * max(0, len(note_lines) - 2)
+    H = head_h + body_h + pad + (56 + 32 * len(note_lines) + note_extra if note else 0)
 
     canvas = Image.new('RGBA', (W, H), BG + (255,))
     d = ImageDraw.Draw(canvas)
@@ -102,7 +106,7 @@ def build(path_out, title, subtitle, sections, link, min_width=1400,
             x += c.size[0] + gap
         y += h + gap
 
-    ly = H - (112 if note else 62)
+    ly = H - (112 + note_extra if note else 62)
     d.polygon([(pad, ly + 4), (pad, ly + 32), (pad + 22, ly + 18)], fill=LINK)
     d.text((pad + 40, ly + 2), link, font=font(F_BOLD, 32), fill=LINK)
     d.text((W - pad - 300, ly + 7), source,

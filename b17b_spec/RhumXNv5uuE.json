@@ -1,0 +1,13 @@
+{
+ "title": "COME AS YOU ARE",
+ "subtitle": "Nirvana  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Nirvana-Come-As-You-Are.png",
+ "panels": [
+  {"label": "TAB  ·  MAIN RIFF", "t": 20, "bbox": [248, 558, 1672, 428], "png": "frames/b17b_RhumXNv5uuE/p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE 1", "t": 56, "bbox": [248, 558, 1672, 484], "png": "frames/b17b_RhumXNv5uuE/p1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE 2", "t": 88, "bbox": [248, 558, 1672, 484], "png": "frames/b17b_RhumXNv5uuE/p2.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 104, "bbox": [248, 558, 1672, 484], "png": "frames/b17b_RhumXNv5uuE/p3.png"},
+  {"label": "TAB  ·  OUTRO", "t": 200, "bbox": [248, 558, 1672, 428], "png": "frames/b17b_RhumXNv5uuE/p4.png"}
+ ],
+ "note": "Chords: F#sus4 A / F#sus4 A* - repeat x3 (bridge 1)  ·  F#sus4 A - repeat x4 (bridge 2)  ·  B5 D5 / B5 D5* - repeat x3 (chorus)   Strumming: D - DU - UDU (bridge 1, bridge 2)  ·  D D D D D D D D (chorus)"
+}

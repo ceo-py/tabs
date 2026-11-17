@@ -1,0 +1,15 @@
+{
+ "title": "LITHIUM",
+ "subtitle": "Nirvana  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Nirvana-Lithium.png",
+ "panels": [
+  {"label": "TAB  ·  INTRO", "t": 4, "bbox": [252, 558, 1668, 300], "png": "frames/b17b_NF7xSm-WC4c/p0.png"},
+  {"label": "TAB  ·  VERSE", "t": 30, "bbox": [252, 558, 1668, 300], "png": "frames/b17b_NF7xSm-WC4c/p1.png"},
+  {"label": "TAB  ·  CHORUS", "t": 48, "bbox": [252, 558, 1668, 300], "png": "frames/b17b_NF7xSm-WC4c/p2.png"},
+  {"label": "TAB  ·  BRIDGE", "t": 136, "bbox": [252, 558, 1668, 521], "png": "frames/b17b_NF7xSm-WC4c/p3.png"},
+  {"label": "STRUMMING PATTERN  ·  VERSE", "t": 30, "bbox": [1518, 388, 374, 155], "png": "frames/b17b_NF7xSm-WC4c/p4.png"},
+  {"label": "STRUMMING PATTERN  ·  CHORUS", "t": 48, "bbox": [1518, 388, 374, 155], "png": "frames/b17b_NF7xSm-WC4c/p5.png"},
+  {"label": "STRUMMING PATTERN  ·  BRIDGE", "t": 136, "bbox": [1518, 388, 374, 155], "png": "frames/b17b_NF7xSm-WC4c/p6.png"}
+ ],
+ "note": "Chords: D G C F A d (chord ticker at the top-left of the video)   Strumming: D - DDDDDD (verse)  ·  D - DUDUDU (chorus)  ·  D - DUD - DU (bridge)   The strumming panel sits inside the video footage, not on the notation sheet."
+}

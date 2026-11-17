@@ -1,0 +1,11 @@
+{
+  "title": "OTHERSIDE",
+  "subtitle": "Red Hot Chili Peppers  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Red-Hot-Chili-Peppers-Otherside.png",
+  "panels": [
+    {"label": "TAB  ·  CHORUS 1", "t": 20, "bbox": [657, 112, 1263, 416], "png": "frames/b17c_3XqUjgvomJc/p0.png"},
+    {"label": "TAB  ·  PRECHORUS", "t": 70, "bbox": [702, 112, 1218, 416], "png": "frames/b17c_3XqUjgvomJc/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  ·  LAST CHORUS", "t": 230, "bbox": [1250, 112, 450, 126], "png": [["frames/b17c_3XqUjgvomJc/p2a.png", [1250, 112, 450, 126]], ["frames/b17c_3XqUjgvomJc/p2b.png", [1205, 388, 565, 150]]]}
+  ],
+  "note": "Chords: the tab panels carry no chord names - the summary overlay gives Am | F | C | G (last chorus)  ·  Strumming: DDDDDDDDDD, accent on the 1st, 5th and 9th strike (last chorus)  ·  the tab panels count 1 + 2 + 3 + 4 +"
+}

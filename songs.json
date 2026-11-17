@@ -3210,6 +3210,136 @@
   "card": "out_gz/Jos-Gonzlez-Heartbeats.png"
  },
  {
+  "id": "RlPlrXH1QGs",
+  "title": "Crawling",
+  "artist": "Linkin Park",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=RlPlrXH1QGs",
+  "card": "out_gz/Linkin-Park-Crawling.png"
+ },
+ {
+  "id": "pcwHrNnhv1Y",
+  "title": "In The End",
+  "artist": "Linkin Park",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=pcwHrNnhv1Y",
+  "card": "out_gz/Linkin-Park-In-The-End.png"
+ },
+ {
+  "id": "3iA5i3r6swE",
+  "title": "Numb",
+  "artist": "Linkin Park",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=3iA5i3r6swE",
+  "card": "out_gz/Linkin-Park-Numb.png"
+ },
+ {
+  "id": "DPbf7WU4BqA",
+  "title": "Shadow Of The Day",
+  "artist": "Linkin Park",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=DPbf7WU4BqA",
+  "card": "out_gz/Linkin-Park-Shadow-Of-The-Day.png"
+ },
+ {
+  "id": "MJgpVoCL8Q4",
+  "title": "What I've Done Acoustic",
+  "artist": "Linkin Park",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=MJgpVoCL8Q4",
+  "card": "out_gz/Linkin-Park-What-Ive-Done-Acoustic.png"
+ },
+ {
+  "id": "AL3XVfbuZPs",
+  "title": "What I've Done Electric",
+  "artist": "Linkin Park",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=AL3XVfbuZPs",
+  "card": "out_gz/Linkin-Park-What-Ive-Done-Electric.png"
+ },
+ {
+  "id": "6MoufnQTB6U",
+  "title": "About A Girl",
+  "artist": "Nirvana",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=6MoufnQTB6U",
+  "card": "out_gz/Nirvana-About-A-Girl.png"
+ },
+ {
+  "id": "RhumXNv5uuE",
+  "title": "Come As You Are",
+  "artist": "Nirvana",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=RhumXNv5uuE",
+  "card": "out_gz/Nirvana-Come-As-You-Are.png"
+ },
+ {
+  "id": "HzUjCrEVoGA",
+  "title": "Heart Shaped Box",
+  "artist": "Nirvana",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=HzUjCrEVoGA",
+  "card": "out_gz/Nirvana-Heart-Shaped-Box.png"
+ },
+ {
+  "id": "NF7xSm-WC4c",
+  "title": "Lithium",
+  "artist": "Nirvana",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=NF7xSm-WC4c",
+  "card": "out_gz/Nirvana-Lithium.png"
+ },
+ {
+  "id": "WBbJMRHygO8",
+  "title": "Polly",
+  "artist": "Nirvana",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=WBbJMRHygO8",
+  "card": "out_gz/Nirvana-Polly.png"
+ },
+ {
+  "id": "3X_bVfjToV4",
+  "title": "Smells Like Teen Spirit",
+  "artist": "Nirvana",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=3X_bVfjToV4",
+  "card": "out_gz/Nirvana-Smells-Like-Teen-Spirit.png"
+ },
+ {
+  "id": "CGKmmAPBwHw",
+  "title": "The Man Who Sold The World MTV Unplugged",
+  "artist": "Nirvana",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=CGKmmAPBwHw",
+  "card": "out_gz/Nirvana-The-Man-Who-Sold-The-World-MTV-Unplugged.png"
+ },
+ {
   "id": "Pearl-Jam-Last-Kiss.png",
   "title": "Last Kiss",
   "artist": "Pearl Jam",
@@ -3238,6 +3368,86 @@
   "channel": "BernadetteTeachesMusic",
   "url": "https://www.youtube.com/watch?v=REM-Losing-",
   "card": "out/REM-Losing-My-Religion.png"
+ },
+ {
+  "id": "G8wYxJrXAIk",
+  "title": "Black Summer",
+  "artist": "Red Hot Chili Peppers",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=G8wYxJrXAIk",
+  "card": "out_gz/Red-Hot-Chili-Peppers-Black-Summer.png"
+ },
+ {
+  "id": "F-3PaWyV4b4",
+  "title": "Californication",
+  "artist": "Red Hot Chili Peppers",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=F-3PaWyV4b4",
+  "card": "out_gz/Red-Hot-Chili-Peppers-Californication.png"
+ },
+ {
+  "id": "HEO5LeCEKQ4",
+  "title": "Can't Stop",
+  "artist": "Red Hot Chili Peppers",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=HEO5LeCEKQ4",
+  "card": "out_gz/Red-Hot-Chili-Peppers-Cant-Stop.png"
+ },
+ {
+  "id": "3XqUjgvomJc",
+  "title": "Otherside",
+  "artist": "Red Hot Chili Peppers",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=3XqUjgvomJc",
+  "card": "out_gz/Red-Hot-Chili-Peppers-Otherside.png"
+ },
+ {
+  "id": "ZpKFbvID-pU",
+  "title": "Snow (Hey Oh)",
+  "artist": "Red Hot Chili Peppers",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=ZpKFbvID-pU",
+  "card": "out_gz/Red-Hot-Chili-Peppers-Snow-Hey-Oh.png"
+ },
+ {
+  "id": "m6f7MnSWN0g",
+  "title": "Soul To Squeeze",
+  "artist": "Red Hot Chili Peppers",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=m6f7MnSWN0g",
+  "card": "out_gz/Red-Hot-Chili-Peppers-Soul-To-Squeeze.png"
+ },
+ {
+  "id": "cbZboCL1nsQ",
+  "title": "The Zephyr Song",
+  "artist": "Red Hot Chili Peppers",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=cbZboCL1nsQ",
+  "card": "out_gz/Red-Hot-Chili-Peppers-The-Zephyr-Song.png"
+ },
+ {
+  "id": "FEbB4Puug-o",
+  "title": "Under The Bridge",
+  "artist": "Red Hot Chili Peppers",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=FEbB4Puug-o",
+  "card": "out_gz/Red-Hot-Chili-Peppers-Under-The-Bridge.png"
  },
  {
   "id": "Eagles-Hotel-California-Short.png",

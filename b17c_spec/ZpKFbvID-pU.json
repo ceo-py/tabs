@@ -1,0 +1,11 @@
+{
+  "title": "SNOW (HEY OH)",
+  "subtitle": "Red Hot Chili Peppers  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Red-Hot-Chili-Peppers-Snow-Hey-Oh.png",
+  "panels": [
+    {"label": "TAB  ·  MAIN RIFF", "t": 20, "bbox": [230, 558, 1690, 522], "png": "frames/b17c_ZpKFbvID-pU/p0.png"},
+    {"label": "TAB  ·  CHORUS", "t": 124, "bbox": [230, 558, 1690, 504], "png": "frames/b17c_ZpKFbvID-pU/p1.png"},
+    {"label": "TAB  ·  PRECHORUS", "t": 102, "bbox": [230, 558, 1690, 498], "png": "frames/b17c_ZpKFbvID-pU/p2.png"}
+  ],
+  "note": "Chords: Gm E B F# (main riff)  ·  B F# C#madd9 (chorus)  ·  the prechorus tab carries no chord names  ·  Strumming: eighth-note strokes in the main riff - up up down up | down up up down, with hammer-on and pull-off on the 3rd note"
+}

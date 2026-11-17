@@ -1,0 +1,14 @@
+{
+ "title": "CRAWLING",
+ "subtitle": "Linkin Park  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Linkin-Park-Crawling.png",
+ "panels": [
+  {"label": "CHORD PATTERN  ·  INTRO - WITH CAPO", "t": 4, "bbox": [1215, 132, 605, 255], "png": "frames/b17a_RlPlrXH1QGs/p_intro.png"},
+  {"label": "TAB  ·  RIFF", "t": 5, "bbox": [1200, 386, 720, 206], "png": "frames/b17a_RlPlrXH1QGs/p_riff.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS - WITH CAPO", "t": 30, "bbox": [1120, 132, 700, 412], "png": "frames/b17a_RlPlrXH1QGs/p_chorus.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE - WITH CAPO", "t": 64, "bbox": [1120, 132, 700, 412], "png": "frames/b17a_RlPlrXH1QGs/p_verse.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS 1 - WITH CAPO", "t": 72, "bbox": [1120, 132, 700, 412], "png": "frames/b17a_RlPlrXH1QGs/p_prechorus1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS 2 - WITH CAPO", "t": 130, "bbox": [1120, 132, 700, 412], "png": "frames/b17a_RlPlrXH1QGs/p_prechorus2.png"}
+ ],
+ "note": "Chords (every section is labelled WITH CAPO): Intro | Am | F | C | G | / | F | G | Am | C |  ·  Chorus | A | F | C | G |  ·  Verse | Am | F | C | G |  ·  Prechorus 1 | F | G | Am | C | (x2)  ·  Prechorus 2 | F | G | Am | C | / | F | G | Am | C | C |   Strumming: D-DU-UDU (chorus, verse, prechorus 1, prechorus 2). The intro shows no strumming pattern - it shows a RIFF tab instead: e string 19-16-14, B string 14-17-16-17, the other strings muted."
+}

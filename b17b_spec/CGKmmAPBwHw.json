@@ -1,0 +1,14 @@
+{
+ "title": "THE MAN WHO SOLD THE WORLD (MTV UNPLUGGED)",
+ "subtitle": "Nirvana  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Nirvana-The-Man-Who-Sold-The-World-MTV-Unplugged.png",
+ "panels": [
+  {"label": "TAB  ·  INTRO", "t": 12, "bbox": [248, 558, 1672, 502], "png": "frames/b17b_CGKmmAPBwHw/p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 32, "bbox": [248, 558, 1672, 520], "png": "frames/b17b_CGKmmAPBwHw/p1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1", "t": 56, "bbox": [248, 558, 1672, 520], "png": "frames/b17b_CGKmmAPBwHw/p2.png"},
+  {"label": "TAB  ·  BREAK 1", "t": 72, "bbox": [248, 558, 1672, 498], "png": "frames/b17b_CGKmmAPBwHw/p3.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 3", "t": 144, "bbox": [248, 558, 1672, 520], "png": "frames/b17b_CGKmmAPBwHw/p4.png"},
+  {"label": "TAB  ·  OUTRO", "t": 180, "bbox": [248, 558, 1672, 498], "png": "frames/b17b_CGKmmAPBwHw/p5.png"}
+ ],
+ "note": "Chords: A A Dm Dm / A A F F / C C A A' Dm Dm (verse)  ·  C C C F C# / F C F C# (chorus 1)  ·  C F C# / F C F C# (chorus 3)   Strumming: DUDU-UDU (verse)  ·  D - DU - UDU (chorus 1)  ·  D - DU - DU (chorus 3)"
+}

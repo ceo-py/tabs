@@ -1,0 +1,14 @@
+{
+ "title": "SMELLS LIKE TEEN SPIRIT",
+ "subtitle": "Nirvana  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Nirvana-Smells-Like-Teen-Spirit.png",
+ "panels": [
+  {"label": "TAB & STRUMMING  ·  INTRO", "t": 10, "bbox": [248, 558, 1672, 514], "png": "frames/b17b_3X_bVfjToV4/p0.png"},
+  {"label": "TAB  ·  VERSE", "t": 40, "bbox": [248, 558, 1672, 294], "png": "frames/b17b_3X_bVfjToV4/p1.png"},
+  {"label": "TAB  ·  PRECHORUS", "t": 60, "bbox": [248, 558, 1672, 294], "png": "frames/b17b_3X_bVfjToV4/p2.png"},
+  {"label": "TAB & STRUMMING  ·  CHORUS", "t": 80, "bbox": [248, 558, 1672, 514], "png": "frames/b17b_3X_bVfjToV4/p3.png"},
+  {"label": "TAB  ·  POST CHORUS", "t": 100, "bbox": [248, 558, 1672, 294], "png": "frames/b17b_3X_bVfjToV4/p4.png"},
+  {"label": "TAB  ·  SOLO", "t": 200, "bbox": [248, 558, 1672, 496], "png": "frames/b17b_3X_bVfjToV4/p5.png"}
+ ],
+ "note": "Chords: F5 A#5 G#5 C#5 (written above the TAB; the Strumming Pattern row marks the changes with F5 / A#5 / G#5 / C#5)   Strumming: D - - UD - DUDUD - DUDU (2 bars - intro and chorus)   The video marks the strum to mute with a highlight and says 'Mute highlighted strums'."
+}

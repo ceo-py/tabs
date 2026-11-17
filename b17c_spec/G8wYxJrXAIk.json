@@ -1,0 +1,11 @@
+{
+  "title": "BLACK SUMMER",
+  "subtitle": "Red Hot Chili Peppers  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Red-Hot-Chili-Peppers-Black-Summer.png",
+  "panels": [
+    {"label": "TAB  ·  INTRO", "t": 6, "bbox": [193, 558, 1727, 285], "png": "frames/b17c_G8wYxJrXAIk/p0.png"},
+    {"label": "TAB  ·  VERSE 1", "t": 20, "bbox": [193, 558, 1727, 503], "png": "frames/b17c_G8wYxJrXAIk/p1.png"},
+    {"label": "TAB  ·  CHORUS 1", "t": 105, "bbox": [193, 558, 1727, 503], "png": "frames/b17c_G8wYxJrXAIk/p2.png"}
+  ],
+  "note": "Chords: Em (intro)  ·  Em G D A Em | Am Em D G D (verse 1)  ·  C G D E G A E (chorus 1)  ·  Strumming: pick strokes under the tab (straight strokes and hook-shaped pick marks) - this video shows no D/U letters"
+}

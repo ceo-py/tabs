@@ -1,0 +1,15 @@
+{
+ "title": "WHAT I'VE DONE (ELECTRIC)",
+ "subtitle": "Linkin Park  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Linkin-Park-What-Ive-Done-Electric.png",
+ "panels": [
+  {"label": "TAB  ·  RHYTHM GUITAR  ·  INTRO", "t": 8, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_AL3XVfbuZPs/p_rhythm_intro.png"},
+  {"label": "TAB  ·  RHYTHM GUITAR  ·  CHORUS 1", "t": 60, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_AL3XVfbuZPs/p_rhythm_chorus1.png"},
+  {"label": "TAB  ·  RHYTHM GUITAR  ·  SOLO", "t": 120, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_AL3XVfbuZPs/p_rhythm_solo.png"},
+  {"label": "TAB  ·  RHYTHM GUITAR  ·  CHORUS 4", "t": 160, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_AL3XVfbuZPs/p_rhythm_chorus4.png"},
+  {"label": "TAB  ·  LEAD GUITAR  ·  INTRO", "t": 200, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_AL3XVfbuZPs/p_lead_intro.png"},
+  {"label": "TAB  ·  LEAD GUITAR  ·  CHORUS 1", "t": 252, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_AL3XVfbuZPs/p_lead_chorus1.png"},
+  {"label": "TAB  ·  LEAD GUITAR  ·  SOLO", "t": 310, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_AL3XVfbuZPs/p_lead_solo.png"}
+ ],
+ "note": "The video is a two-part lesson: a RHYTHM GUITAR part (from the start) and a LEAD GUITAR part (the video says 'Lead Guitar Playthrough at 3:12'). It shows TAB notation only - no chord names and no strumming pattern are displayed in the lesson panels; the small fretboard box on the left only shows which strings are muted. Rhythm sections: Intro, Verse, Chorus 1, Verse 2, Chorus 2, Solo, Bridge/Chorus 3, Chorus 4. Lead sections: Intro, Verse 1, Chorus 1, Verse 2, Chorus 2, Solo, Bridge/Chorus 3, Chorus 4."
+}

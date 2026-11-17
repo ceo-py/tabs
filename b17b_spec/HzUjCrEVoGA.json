@@ -1,0 +1,13 @@
+{
+ "title": "HEART SHAPED BOX",
+ "subtitle": "Nirvana  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Nirvana-Heart-Shaped-Box.png",
+ "panels": [
+  {"label": "TAB  ·  INTRO", "t": 8, "bbox": [248, 558, 1672, 330], "png": "frames/b17b_HzUjCrEVoGA/p0.png"},
+  {"label": "TAB  ·  VERSE", "t": 32, "bbox": [248, 558, 1672, 330], "png": "frames/b17b_HzUjCrEVoGA/p1.png"},
+  {"label": "TAB  ·  CHORUS", "t": 64, "bbox": [248, 558, 1672, 520], "png": "frames/b17b_HzUjCrEVoGA/p2.png"},
+  {"label": "TAB  ·  SOLO", "t": 176, "bbox": [248, 558, 1672, 500], "png": "frames/b17b_HzUjCrEVoGA/p3.png"},
+  {"label": "TAB  ·  FINAL CHORUS", "t": 248, "bbox": [248, 558, 1672, 520], "png": "frames/b17b_HzUjCrEVoGA/p4.png"}
+ ],
+ "note": "Chords: Db Ab Db Gb Bb eb (chord ticker at the top-left of the video)   Strumming: not shown in the video - TAB notation only (rhythm stems are included in the TAB)"
+}

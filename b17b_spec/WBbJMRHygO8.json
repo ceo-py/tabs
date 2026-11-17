@@ -1,0 +1,11 @@
+{
+ "title": "POLLY",
+ "subtitle": "Nirvana  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Nirvana-Polly.png",
+ "panels": [
+  {"label": "CHORD & STRUM  ·  VERSE", "t": 6, "bbox": [954, 140, 956, 200], "png": "frames/b17b_WBbJMRHygO8/p0.png"},
+  {"label": "CHORD & STRUM  ·  CHORUS", "t": 30, "bbox": [954, 140, 956, 200], "png": "frames/b17b_WBbJMRHygO8/p1.png"},
+  {"label": "BREAK  ·  Em", "t": 114, "bbox": [1382, 130, 165, 115], "png": "frames/b17b_WBbJMRHygO8/p2.png"}
+ ],
+ "note": "Chords: Em G D C (verse)  ·  D C G Bb (chorus)  ·  Em (break)   Strumming: D - X U D U X U D U X U - U D U (verse)  ·  D U X U - U D U | D U X U - U D U (chorus)"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "THE ZEPHYR SONG",
+  "subtitle": "Red Hot Chili Peppers  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Red-Hot-Chili-Peppers-The-Zephyr-Song.png",
+  "panels": [
+    {"label": "TAB  ·  VERSE 1 PT.1", "t": 28, "bbox": [228, 560, 1692, 500], "png": "frames/b17c_cbZboCL1nsQ/p0.png"},
+    {"label": "TAB  ·  CHORUS", "t": 60, "bbox": [228, 560, 1692, 283], "png": "frames/b17c_cbZboCL1nsQ/p1.png"},
+    {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE", "t": 152, "bbox": [530, 645, 970, 125], "png": [["frames/b17c_cbZboCL1nsQ/p2a.png", [530, 645, 970, 125]], ["frames/b17c_cbZboCL1nsQ/p2b.png", [650, 840, 750, 125]]]}
+  ],
+  "note": "Chords: Am G Em F (verse 1 pt.1)  ·  D Gadd9 A6 (chorus)  ·  Am(add9) | G(add9) | Em | F(add9) (bridge)  ·  Strumming: D-DUDUD-DUD-D-DU (bridge, shown on screen)"
+}

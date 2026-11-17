@@ -1,0 +1,16 @@
+{
+ "title": "IN THE END",
+ "subtitle": "Linkin Park  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Linkin-Park-In-The-End.png",
+ "panels": [
+  {"label": "TAB  ·  INTRO", "t": 8, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_pcwHrNnhv1Y/p_intro.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 40, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_pcwHrNnhv1Y/p_verse.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1", "t": 66, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_pcwHrNnhv1Y/p_chorus1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 2", "t": 122, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_pcwHrNnhv1Y/p_chorus2.png"},
+  {"label": "TAB  ·  BRIDGE PT. 1", "t": 142, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_pcwHrNnhv1Y/p_bridge1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE PT. 2", "t": 160, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_pcwHrNnhv1Y/p_bridge2.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 3", "t": 182, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_pcwHrNnhv1Y/p_chorus3.png"},
+  {"label": "TAB  ·  OUTRO", "t": 210, "bbox": [252, 556, 1667, 524], "png": "frames/b17a_pcwHrNnhv1Y/p_outro.png"}
+ ],
+ "note": "Chords: Intro tab Em Dadd11 Cmaj7 Dadd11  ·  Verse | Em | D/A | C/G | D/A | (Play x4)  ·  Chorus 1 | Em | G | D | C | (Play x2)  ·  Chorus 2 | Em | G | D | C | | C | (Play x2)  ·  Bridge Pt. 2 | Em | G | D | C | (Play x2)  ·  Chorus 3 | Em | G | D | C | (Play x2)   Strumming: D---D--U-UD-D-DU - the same 16th-note pattern (counted 1 e + a 2 e + a 3 e + a 4 e + a) for verse, chorus 1, chorus 2, bridge pt. 2 and chorus 3. Intro, Bridge Pt. 1 and Outro are TAB notation only - no chords or strumming are shown for them."
+}

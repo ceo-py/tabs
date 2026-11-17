@@ -1,0 +1,12 @@
+{
+ "title": "ABOUT A GIRL",
+ "subtitle": "Nirvana  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Nirvana-About-A-Girl.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 20, "bbox": [248, 558, 1672, 500], "png": "frames/b17b_6MoufnQTB6U/p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 112, "bbox": [248, 558, 1672, 490], "png": "frames/b17b_6MoufnQTB6U/p1.png"},
+  {"label": "TAB & STRUMMING  ·  SOLO", "t": 96, "bbox": [248, 558, 1672, 520], "png": "frames/b17b_6MoufnQTB6U/p2.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  FINAL CHORUS", "t": 148, "bbox": [248, 558, 1672, 520], "png": "frames/b17b_6MoufnQTB6U/p3.png"}
+ ],
+ "note": "Chords: Em G (verse)  ·  C#5 C#5/G# F#11 / E A C - repeat x2 (chorus)  ·  Em G (solo)  ·  C#5 C#5/G# F#11 / E A C / E A C5 C5 - repeat x2 (final chorus)   Strumming: D - DUDUDU (verse, solo)  ·  DUDU-UDU (chorus, final chorus)"
+}

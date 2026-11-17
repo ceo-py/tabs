@@ -1,0 +1,11 @@
+{
+  "title": "CALIFORNICATION",
+  "subtitle": "Red Hot Chili Peppers  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+  "out": "out_gz/Red-Hot-Chili-Peppers-Californication.png",
+  "panels": [
+    {"label": "TAB  ·  VERSE RIFF", "t": 40, "bbox": [914, 116, 1006, 410], "png": "frames/b17c_F-3PaWyV4b4/p0.png"},
+    {"label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS", "t": 84, "bbox": [1290, 112, 370, 130], "png": [["frames/b17c_F-3PaWyV4b4/p1a.png", [1290, 112, 370, 130]], ["frames/b17c_F-3PaWyV4b4/p1b.png", [1150, 388, 680, 120]]]},
+    {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 2 & 3", "t": 192, "bbox": [1265, 112, 430, 281], "png": [["frames/b17c_F-3PaWyV4b4/p2a.png", [1265, 112, 430, 281]], ["frames/b17c_F-3PaWyV4b4/p2b.png", [1205, 388, 565, 120]]]}
+  ],
+  "note": "Chords: Am F5 (verse riff)  ·  Am | Fmaj7 (prechorus)  ·  C G Dm Am | C G Dm Dm | C G Dm Am | C G Dm (chorus 2 & 3)  ·  Strumming: D-DUD-DU-UD-D-DU (prechorus)  ·  D-D-D-DU (chorus 2 & 3)"
+}
