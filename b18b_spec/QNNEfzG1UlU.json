@@ -1,0 +1,97 @@
+{
+ "title": "TONIGHT TONIGHT",
+ "subtitle": "The Smashing Pumpkins  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/The-Smashing-Pumpkins-Tonight-Tonight.png",
+ "panels": [
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  INTRO PT.1",
+   "t": 8,
+   "bbox": [
+    244,
+    556,
+    1676,
+    524
+   ],
+   "png": "frames/b18b_QNNEfzG1UlU/p0.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  INTRO PT. 2",
+   "t": 36,
+   "bbox": [
+    244,
+    556,
+    1676,
+    504
+   ],
+   "png": "frames/b18b_QNNEfzG1UlU/p1.png"
+  },
+  {
+   "label": "TAB  ·  VERSE 1",
+   "t": 60,
+   "bbox": [
+    244,
+    556,
+    1676,
+    524
+   ],
+   "png": "frames/b18b_QNNEfzG1UlU/p2.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS 1",
+   "t": 90,
+   "bbox": [
+    244,
+    556,
+    1676,
+    504
+   ],
+   "png": "frames/b18b_QNNEfzG1UlU/p3.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1",
+   "t": 110,
+   "bbox": [
+    244,
+    556,
+    1676,
+    524
+   ],
+   "png": "frames/b18b_QNNEfzG1UlU/p4.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  BREAK",
+   "t": 128,
+   "bbox": [
+    244,
+    556,
+    1676,
+    524
+   ],
+   "png": "frames/b18b_QNNEfzG1UlU/p5.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  BRIDGE",
+   "t": 220,
+   "bbox": [
+    244,
+    556,
+    1676,
+    524
+   ],
+   "png": "frames/b18b_QNNEfzG1UlU/p6.png"
+  },
+  {
+   "label": "TAB  ·  OUTRO",
+   "t": 258,
+   "bbox": [
+    244,
+    556,
+    1676,
+    524
+   ],
+   "png": "frames/b18b_QNNEfzG1UlU/p7.png"
+  }
+ ],
+ "note": "Chords: G, Gsus4, Em, Em7(b13) (intro pt.1, break)  ·  Intro pt. 2: Cadd9, G/B, Dsus2 (x3) / G, Gsus4  ·  Prechorus riff: G, D/F#, Em, Am, C  ·  Chorus: Cadd9, G/B, Dsus2 (x3) / Em, Am, Asus2 / Cadd9, G/B, Dsus2  ·  Bridge: G, D/F#, Em, Am, C (x5) / G, D/F#, Em, Am, C, -   Strumming: D - - - D - U - D - U - D - U - | D - - - D - U - - - U - D - DU (intro pt.1, two bars of 1 e + a 2 e + a 3 e + a 4 e + a), D - DU - UD U (intro pt.2), D - DU - UDU (prechorus) and D - DUD - DU (chorus and bridge) over 1 + 2 + 3 + 4 +; the video says 'Change chords on highlighted strum'. The verse 1 and outro panels are TAB in Eb tuning.",
+ "diagram": "LETTERS"
+}

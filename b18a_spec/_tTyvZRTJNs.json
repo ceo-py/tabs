@@ -1,0 +1,16 @@
+{
+ "title": "BOHEMIAN RHAPSODY SOLO",
+ "subtitle": "Queen  ·  Guitar Cover  ·  Tabs  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Queen-Bohemian-Rhapsody-Solo.png",
+ "panels": [
+  {"label": "GUITAR PART 1 - STARTS AT 2:18 ON THE ORIGINAL TRACK", "t": 10, "bbox": [0, 632, 1920, 448], "png": "frames/b18a__tTyvZRTJNs/p0.png"},
+  {"label": "GUITAR SOLO - STARTS AT 2:35 ON THE ORIGINAL TRACK", "t": 40, "bbox": [0, 632, 1920, 448], "png": "frames/b18a__tTyvZRTJNs/p1.png"},
+  {"label": "GUITAR PART 3B - STARTS AT 4:27 ON THE ORIGINAL TRACK", "t": 85, "bbox": [0, 632, 1920, 448], "png": "frames/b18a__tTyvZRTJNs/p2.png"},
+  {"label": "GUITAR PART 3C - STARTS AT 4:45 ON THE ORIGINAL TRACK", "t": 110, "bbox": [0, 632, 1920, 448], "png": "frames/b18a__tTyvZRTJNs/p3.png"},
+  {"label": "GUITAR PART 4 - STARTS AT 4:54 ON THE ORIGINAL TRACK", "t": 125, "bbox": [0, 632, 1920, 448], "png": "frames/b18a__tTyvZRTJNs/p4.png"},
+  {"label": "GUITAR PART 5 - STARTS AT 5:04 ON THE ORIGINAL TRACK", "t": 133, "bbox": [0, 632, 1920, 448], "png": "frames/b18a__tTyvZRTJNs/p5.png"},
+  {"label": "GUITAR PART 6 - STARTS AT 5:33 ON THE ORIGINAL TRACK", "t": 150, "bbox": [0, 632, 1920, 448], "png": "frames/b18a__tTyvZRTJNs/p6.png"}
+ ],
+ "note": "Chords: none are written in the video - every panel is 6-line TAB only, with 'full', hammer-on (H), pull-off (P), vibrato strokes and triplet brackets   Strumming: not shown in the video as a separate strumming panel - the rhythm is written into the TAB itself",
+ "diagram": "DIAGRAM"
+}

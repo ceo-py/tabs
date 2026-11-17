@@ -1,0 +1,16 @@
+{
+ "title": "DON'T LOOK BACK IN ANGER",
+ "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Solo  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Oasis-Dont-Look-Back-In-Anger.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  INTRO", "t": 8, "bbox": [1120, 5, 800, 500], "png": "frames/b18c_mbnmB_hTfiM/p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 30, "bbox": [1120, 5, 800, 500], "png": "frames/b18c_mbnmB_hTfiM/p1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS", "t": 55, "bbox": [1120, 5, 800, 500], "png": "frames/b18c_mbnmB_hTfiM/p2.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1", "t": 90, "bbox": [1120, 5, 800, 500], "png": "frames/b18c_mbnmB_hTfiM/p3.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 3", "t": 250, "bbox": [1120, 5, 800, 500], "png": "frames/b18c_mbnmB_hTfiM/p4.png"},
+  {"label": "TAB  ·  SOLO", "t": 200, "bbox": [0, 556, 1920, 524], "png": "frames/b18c_mbnmB_hTfiM/p5.png"},
+  {"label": "TAB  ·  OUTRO LEAD", "t": 280, "bbox": [0, 556, 1920, 524], "png": "frames/b18c_mbnmB_hTfiM/p6.png"}
+ ],
+ "note": "Chords: | C | C | Fsus2 | Fsus2 | x2 (intro)  ·  | C | C/B | Am | E | + | Fsus2 | G | C | Am G | (verse)  ·  | F | Fm | C | C | x3 + | G | G | E/G# | E/G# | + | Am | G | Fsus2 | Fsus2 | + | G | G | G | G | (prechorus)  ·  | C | C/B | Am | E | + | Fsus2 | G | C | Am G | + | C | C/B | Am | E | + | Fsus2 | G | (chorus 1)   Strumming: D-D-D-DU (the same pattern in every section; the video highlights the current chord in green and the current strum in white)   The SOLO (t=186-220) and OUTRO LEAD (t=272-284) panels are full 6-line TAB with the chord letters F, Fm, C, G, E7/G#, E, C/B, Am and Fsus2 printed above the bars.",
+ "diagram": "LETTERS"
+}

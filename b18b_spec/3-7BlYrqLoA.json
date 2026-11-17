@@ -1,0 +1,108 @@
+{
+ "title": "1979",
+ "subtitle": "The Smashing Pumpkins  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/The-Smashing-Pumpkins-1979.png",
+ "panels": [
+  {
+   "label": "TAB  ·  INTRO",
+   "t": 4,
+   "bbox": [
+    244,
+    556,
+    1676,
+    295
+   ],
+   "png": "frames/b18b_3-7BlYrqLoA/p0.png"
+  },
+  {
+   "label": "TAB  ·  VERSE 1",
+   "t": 20,
+   "bbox": [
+    244,
+    556,
+    1676,
+    524
+   ],
+   "png": "frames/b18b_3-7BlYrqLoA/p1.png"
+  },
+  {
+   "label": "TAB  ·  CHORUS 1",
+   "t": 70,
+   "bbox": [
+    244,
+    556,
+    1676,
+    524
+   ],
+   "png": "frames/b18b_3-7BlYrqLoA/p2.png"
+  },
+  {
+   "label": "TAB  ·  BREAK",
+   "t": 95,
+   "bbox": [
+    244,
+    556,
+    1676,
+    295
+   ],
+   "png": "frames/b18b_3-7BlYrqLoA/p3.png"
+  },
+  {
+   "label": "TAB  ·  CHORUS 2",
+   "t": 140,
+   "bbox": [
+    244,
+    556,
+    1676,
+    295
+   ],
+   "png": "frames/b18b_3-7BlYrqLoA/p4.png"
+  },
+  {
+   "label": "TAB  ·  BRIDGE",
+   "t": 152,
+   "bbox": [
+    244,
+    556,
+    1676,
+    524
+   ],
+   "png": "frames/b18b_3-7BlYrqLoA/p5.png"
+  },
+  {
+   "label": "TAB  ·  VERSE 4",
+   "t": 190,
+   "bbox": [
+    244,
+    556,
+    1676,
+    524
+   ],
+   "png": "frames/b18b_3-7BlYrqLoA/p6.png"
+  },
+  {
+   "label": "TAB  ·  CHORUS 3",
+   "t": 220,
+   "bbox": [
+    244,
+    556,
+    1676,
+    524
+   ],
+   "png": "frames/b18b_3-7BlYrqLoA/p7.png"
+  },
+  {
+   "label": "TAB  ·  OUTRO",
+   "t": 250,
+   "bbox": [
+    244,
+    556,
+    1676,
+    524
+   ],
+   "png": "frames/b18b_3-7BlYrqLoA/p8.png"
+  }
+ ],
+ "note": "Chords: F#m11, Badd11, C#m9, Aadd9 are written above the lower TAB staff; the upper staff is the arpeggio TAB with rhythm beams.   Strumming: not shown in the video - TAB notation only",
+ "diagram": "LETTERS"
+}

@@ -1,0 +1,12 @@
+{
+ "title": "WITH OR WITHOUT YOU",
+ "subtitle": "U2  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/U2-With-Or-Without-You.png",
+ "panels": [
+  {"label": "CHORD PATTERN  ·  MAIN PROGRESSION", "t": 30, "bbox": [248, 558, 1672, 200], "png": "frames/b18c_YXHCL2Y-e0U/p0.png"},
+  {"label": "STRUMMING PATTERN  ·  MAIN PROGRESSION", "t": 30, "bbox": [248, 865, 1672, 190], "png": "frames/b18c_YXHCL2Y-e0U/p1.png"},
+  {"label": "TAB  ·  MAIN PROGRESSION (FINGER-PICKED)", "t": 300, "bbox": [248, 558, 1672, 300], "png": "frames/b18c_YXHCL2Y-e0U/p2.png"}
+ ],
+ "note": "Chords: | D | A | Bm7 | G | (main progression - the red bar reads 'Main Progression' for the whole video)   Strumming: DUDU - UDU over 1 + 2 + 3 + 4 +   The first half of the video (t=0-207) is the strummed version; from t=208 the layout switches to a 6-line TAB of the same four chords D, A, Bm7 and G with the e/B/G/D/A/E strings written out.  The video highlights the current chord in green and the current strum in black.",
+ "diagram": "LETTERS"
+}

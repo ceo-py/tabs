@@ -1,0 +1,75 @@
+{
+ "title": "PAINT IT BLACK",
+ "subtitle": "The Rolling Stones  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/The-Rolling-Stones-Paint-It-Black.png",
+ "panels": [
+  {
+   "label": "TAB  ·  INTRO",
+   "t": 8,
+   "bbox": [
+    254,
+    558,
+    1666,
+    519
+   ],
+   "png": "frames/b18b_ykAwaVetckg/p0.png"
+  },
+  {
+   "label": "TAB  ·  MAIN RIFF",
+   "t": 24,
+   "bbox": [
+    254,
+    558,
+    1666,
+    314
+   ],
+   "png": "frames/b18b_ykAwaVetckg/p1.png"
+  },
+  {
+   "label": "TAB & STRUMMING  ·  CHORUS",
+   "t": 64,
+   "bbox": [
+    254,
+    558,
+    1666,
+    522
+   ],
+   "png": "frames/b18b_ykAwaVetckg/p2.png"
+  },
+  {
+   "label": "TAB & STRUMMING  ·  CHORUS",
+   "t": 110,
+   "bbox": [
+    254,
+    558,
+    1666,
+    522
+   ],
+   "png": "frames/b18b_ykAwaVetckg/p3.png"
+  },
+  {
+   "label": "TAB  ·  MAIN RIFF",
+   "t": 150,
+   "bbox": [
+    254,
+    558,
+    1666,
+    314
+   ],
+   "png": "frames/b18b_ykAwaVetckg/p4.png"
+  },
+  {
+   "label": "TAB  ·  OUTRO",
+   "t": 210,
+   "bbox": [
+    254,
+    558,
+    1666,
+    314
+   ],
+   "png": "frames/b18b_ykAwaVetckg/p5.png"
+  }
+ ],
+ "note": "Chords: Dm, C, F, C, Dm and Dm, C, F, C, G, A are written above the TAB in the chorus; the intro and main riff panels are TAB only (bends 3/5, 0h2h3h5, 3p2p0h2). The video shows a CAPO ON 2ND badge.   Strumming: the chorus TAB carries a row of D and U letters over the counts 1 + 2 + 3 + 4 + (D - DUD - DU under the Dm / C / F / C bars); the intro and main riff panels show no strum letters - TAB notation only.",
+ "diagram": "LETTERS"
+}

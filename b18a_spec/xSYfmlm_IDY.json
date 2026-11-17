@@ -1,0 +1,15 @@
+{
+ "title": "NOTHING ELSE MATTERS",
+ "subtitle": "Metallica  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Metallica-Nothing-Else-Matters.png",
+ "panels": [
+  {"label": "TAB  ·  INTRO", "t": 30, "bbox": [192, 560, 1728, 520], "png": "frames/b18a_xSYfmlm_IDY/p0.png"},
+  {"label": "TAB  ·  VERSE", "t": 100, "bbox": [192, 560, 1728, 520], "png": "frames/b18a_xSYfmlm_IDY/p1.png"},
+  {"label": "TAB  ·  CHORUS", "t": 150, "bbox": [192, 560, 1728, 520], "png": "frames/b18a_xSYfmlm_IDY/p2.png"},
+  {"label": "TAB  ·  BRIDGE", "t": 210, "bbox": [192, 560, 1728, 520], "png": "frames/b18a_xSYfmlm_IDY/p3.png"},
+  {"label": "TAB  ·  SOLO", "t": 320, "bbox": [192, 560, 1728, 520], "png": "frames/b18a_xSYfmlm_IDY/p4.png"},
+  {"label": "TAB  ·  OUTRO", "t": 375, "bbox": [192, 560, 1728, 520], "png": "frames/b18a_xSYfmlm_IDY/p5.png"}
+ ],
+ "note": "Chords: Em D Cadd9 Em D Cadd9 / Em D Cadd9 G B7 Em (verse)  ·  C A D C A D C A D Em (chorus)  ·  Em Am C Dsus2 Em (bridge)   Strumming: not shown in the video as a separate strumming panel - the rhythm is written into the TAB; a green highlight marks the note where the chord changes",
+ "diagram": "LETTERS"
+}

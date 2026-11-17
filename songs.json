@@ -3270,6 +3270,36 @@
   "card": "out_gz/Linkin-Park-What-Ive-Done-Electric.png"
  },
  {
+  "id": "Jfcvloq3bzs",
+  "title": "Enter Sandman",
+  "artist": "Metallica",
+  "tag": "Kirk & James' Parts + Wah + TAB",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=Jfcvloq3bzs",
+  "card": "out_gz/Metallica-Enter-Sandman.png"
+ },
+ {
+  "id": "xSYfmlm_IDY",
+  "title": "Nothing Else Matters",
+  "artist": "Metallica",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=xSYfmlm_IDY",
+  "card": "out_gz/Metallica-Nothing-Else-Matters.png"
+ },
+ {
+  "id": "NHCbcG1zKOY",
+  "title": "The Unforgiven",
+  "artist": "Metallica",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=NHCbcG1zKOY",
+  "card": "out_gz/Metallica-The-Unforgiven.png"
+ },
+ {
   "id": "6MoufnQTB6U",
   "title": "About A Girl",
   "artist": "Nirvana",
@@ -3340,6 +3370,36 @@
   "card": "out_gz/Nirvana-The-Man-Who-Sold-The-World-MTV-Unplugged.png"
  },
  {
+  "id": "mbnmB_hTfiM",
+  "title": "Don't Look Back In Anger",
+  "artist": "Oasis",
+  "tag": "Tabs + Solo",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=mbnmB_hTfiM",
+  "card": "out_gz/Oasis-Dont-Look-Back-In-Anger.png"
+ },
+ {
+  "id": "LRXRm0eMZZY",
+  "title": "Wonderwall",
+  "artist": "Oasis",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=LRXRm0eMZZY",
+  "card": "out_gz/Oasis-Wonderwall.png"
+ },
+ {
+  "id": "IlFzDcn7mRI",
+  "title": "Just Breathe",
+  "artist": "Pearl Jam",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=IlFzDcn7mRI",
+  "card": "out_gz/Pearl-Jam-Just-Breathe.png"
+ },
+ {
   "id": "Pearl-Jam-Last-Kiss.png",
   "title": "Last Kiss",
   "artist": "Pearl Jam",
@@ -3348,6 +3408,36 @@
   "channel": "BernadetteTeachesMusic",
   "url": "https://www.youtube.com/watch?v=Pearl-Jam-L",
   "card": "out/Pearl-Jam-Last-Kiss.png"
+ },
+ {
+  "id": "qjah-C4phyM",
+  "title": "Last Kiss",
+  "artist": "Pearl Jam",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=qjah-C4phyM",
+  "card": "out_gz/Pearl-Jam-Last-Kiss.png"
+ },
+ {
+  "id": "VHZXP8MCrQg",
+  "title": "Bohemian Rhapsody",
+  "artist": "Queen",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=VHZXP8MCrQg",
+  "card": "out_gz/Queen-Bohemian-Rhapsody.png"
+ },
+ {
+  "id": "_tTyvZRTJNs",
+  "title": "Bohemian Rhapsody Solo",
+  "artist": "Queen",
+  "tag": "Tabs",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=_tTyvZRTJNs",
+  "card": "out_gz/Queen-Bohemian-Rhapsody-Solo.png"
  },
  {
   "id": "Queen-Crazy-Little-Thing-Called-Love.png",
@@ -3360,6 +3450,16 @@
   "card": "out/Queen-Crazy-Little-Thing-Called-Love.png"
  },
  {
+  "id": "9gGc45WjnpY",
+  "title": "Crazy Little Thing Called Love",
+  "artist": "Queen",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=9gGc45WjnpY",
+  "card": "out_gz/Queen-Crazy-Little-Thing-Called-Love.png"
+ },
+ {
   "id": "REM-Losing-My-Religion.png",
   "title": "Losing My Religion",
   "artist": "R.E.M.",
@@ -3368,6 +3468,26 @@
   "channel": "BernadetteTeachesMusic",
   "url": "https://www.youtube.com/watch?v=REM-Losing-",
   "card": "out/REM-Losing-My-Religion.png"
+ },
+ {
+  "id": "UDwjKCZJKYs",
+  "title": "Fake Plastic Trees",
+  "artist": "Radiohead",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=UDwjKCZJKYs",
+  "card": "out_gz/Radiohead-Fake-Plastic-Trees.png"
+ },
+ {
+  "id": "FJq0qfTcGok",
+  "title": "No Surprises",
+  "artist": "Radiohead",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=FJq0qfTcGok",
+  "card": "out_gz/Radiohead-No-Surprises.png"
  },
  {
   "id": "G8wYxJrXAIk",
@@ -3450,6 +3570,26 @@
   "card": "out_gz/Red-Hot-Chili-Peppers-Under-The-Bridge.png"
  },
  {
+  "id": "rYbw1IWKN1o",
+  "title": "Bother",
+  "artist": "Stone Sour",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=rYbw1IWKN1o",
+  "card": "out_gz/Stone-Sour-Bother.png"
+ },
+ {
+  "id": "Pwvc6OtZPHk",
+  "title": "Through Glass",
+  "artist": "Stone Sour",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=Pwvc6OtZPHk",
+  "card": "out_gz/Stone-Sour-Through-Glass.png"
+ },
+ {
   "id": "Eagles-Hotel-California-Short.png",
   "title": "Hotel California",
   "artist": "The Eagles",
@@ -3470,6 +3610,86 @@
   "card": "out/Hotel-California.png"
  },
  {
+  "id": "JvRLYuiyURk",
+  "title": "Every Breath You Take",
+  "artist": "The Police",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=JvRLYuiyURk",
+  "card": "out_gz/The-Police-Every-Breath-You-Take.png"
+ },
+ {
+  "id": "_YrDIC5tZcA",
+  "title": "Every Breath You Take Acoustic",
+  "artist": "The Police",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=_YrDIC5tZcA",
+  "card": "out_gz/The-Police-Every-Breath-You-Take-Acoustic.png"
+ },
+ {
+  "id": "w92cqb5uuwo",
+  "title": "(I Can't Get No) Satisfaction",
+  "artist": "The Rolling Stones",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=w92cqb5uuwo",
+  "card": "out_gz/The-Rolling-Stones-I-Cant-Get-No-Satisfaction.png"
+ },
+ {
+  "id": "7oqpJKjW7nE",
+  "title": "Angie",
+  "artist": "The Rolling Stones",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=7oqpJKjW7nE",
+  "card": "out_gz/The-Rolling-Stones-Angie.png"
+ },
+ {
+  "id": "ykAwaVetckg",
+  "title": "Paint It Black",
+  "artist": "The Rolling Stones",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=ykAwaVetckg",
+  "card": "out_gz/The-Rolling-Stones-Paint-It-Black.png"
+ },
+ {
+  "id": "3-7BlYrqLoA",
+  "title": "1979",
+  "artist": "The Smashing Pumpkins",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=3-7BlYrqLoA",
+  "card": "out_gz/The-Smashing-Pumpkins-1979.png"
+ },
+ {
+  "id": "UjScq2EYzbI",
+  "title": "Disarm",
+  "artist": "The Smashing Pumpkins",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=UjScq2EYzbI",
+  "card": "out_gz/The-Smashing-Pumpkins-Disarm.png"
+ },
+ {
+  "id": "QNNEfzG1UlU",
+  "title": "Tonight Tonight",
+  "artist": "The Smashing Pumpkins",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=QNNEfzG1UlU",
+  "card": "out_gz/The-Smashing-Pumpkins-Tonight-Tonight.png"
+ },
+ {
   "id": "White-Stripes-Were-Going-To-Be-Friends.png",
   "title": "We're Going To Be Friends",
   "artist": "The White Stripes",
@@ -3478,5 +3698,35 @@
   "channel": "BernadetteTeachesMusic",
   "url": "https://www.youtube.com/watch?v=White-Strip",
   "card": "out/White-Stripes-Were-Going-To-Be-Friends.png"
+ },
+ {
+  "id": "MmmhEd7j8K8",
+  "title": "I Still Haven’t Found What I’m Looking For",
+  "artist": "U2",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=MmmhEd7j8K8",
+  "card": "out_gz/U2-I-Still-Havent-Found-What-Im-Looking-For.png"
+ },
+ {
+  "id": "jmNmAnr_Vr4",
+  "title": "One",
+  "artist": "U2",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=jmNmAnr_Vr4",
+  "card": "out_gz/U2-One.png"
+ },
+ {
+  "id": "YXHCL2Y-e0U",
+  "title": "With Or Without You",
+  "artist": "U2",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=YXHCL2Y-e0U",
+  "card": "out_gz/U2-With-Or-Without-You.png"
  }
 ]

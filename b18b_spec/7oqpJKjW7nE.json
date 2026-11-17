@@ -1,0 +1,97 @@
+{
+ "title": "ANGIE",
+ "subtitle": "The Rolling Stones  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/The-Rolling-Stones-Angie.png",
+ "panels": [
+  {
+   "label": "TAB  ·  INTRO",
+   "t": 8,
+   "bbox": [
+    240,
+    556,
+    1680,
+    524
+   ],
+   "png": "frames/b18b_7oqpJKjW7nE/p0.png"
+  },
+  {
+   "label": "TAB  ·  VERSE VAR 1",
+   "t": 24,
+   "bbox": [
+    240,
+    556,
+    1680,
+    524
+   ],
+   "png": "frames/b18b_7oqpJKjW7nE/p1.png"
+  },
+  {
+   "label": "TAB  ·  PRECHORUS",
+   "t": 36,
+   "bbox": [
+    240,
+    556,
+    1680,
+    524
+   ],
+   "png": "frames/b18b_7oqpJKjW7nE/p2.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS",
+   "t": 52,
+   "bbox": [
+    240,
+    556,
+    1680,
+    524
+   ],
+   "png": "frames/b18b_7oqpJKjW7nE/p3.png"
+  },
+  {
+   "label": "TAB  ·  VERSE VAR 2",
+   "t": 68,
+   "bbox": [
+    240,
+    556,
+    1680,
+    524
+   ],
+   "png": "frames/b18b_7oqpJKjW7nE/p4.png"
+  },
+  {
+   "label": "TAB  ·  SOLO",
+   "t": 198,
+   "bbox": [
+    240,
+    556,
+    1680,
+    524
+   ],
+   "png": "frames/b18b_7oqpJKjW7nE/p5.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  BRIDGE",
+   "t": 230,
+   "bbox": [
+    240,
+    556,
+    1680,
+    524
+   ],
+   "png": "frames/b18b_7oqpJKjW7nE/p6.png"
+  },
+  {
+   "label": "TAB  ·  OUTRO",
+   "t": 270,
+   "bbox": [
+    240,
+    556,
+    1680,
+    524
+   ],
+   "png": "frames/b18b_7oqpJKjW7nE/p7.png"
+  }
+ ],
+ "note": "Chords: Am, E, E/G#, Gsus4, Fsus4, F, Fsus2, C/B, C are written above the TAB (intro, verse var 1 / var 2, prechorus, solo, outro)  ·  Chorus panel: G G Dm Am / C F G G  ·  Bridge panel: Dm Dm Am Am (Repeat x3) / C F G G  ·  Later verse panel: Am E E7 / Gadd11 Fsus4 F F Fsus2 C/B C C/B   Strumming: the TAB panels carry a row of D and U letters under the staff (one bar reads D - D D U U U U D - D - - - D U over 1 e + a 2 e + a 3 e + a 4 e + a); the chorus and bridge panels show D - DUDUDU over 1 e + a 2 e + a and the video says 'Change chords on highlighted strum'.",
+ "diagram": "LETTERS"
+}

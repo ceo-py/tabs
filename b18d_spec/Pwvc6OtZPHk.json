@@ -1,0 +1,64 @@
+{
+ "title": "THROUGH GLASS",
+ "subtitle": "Stone Sour  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Stone-Sour-Through-Glass.png",
+ "panels": [
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1",
+   "t": 32,
+   "bbox": [
+    240,
+    560,
+    1680,
+    520
+   ],
+   "png": "frames/b18d_Pwvc6OtZPHk/p0.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  VERSE",
+   "t": 56,
+   "bbox": [
+    240,
+    560,
+    1680,
+    520
+   ],
+   "png": "frames/b18d_Pwvc6OtZPHk/p1.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS 3",
+   "t": 124,
+   "bbox": [
+    240,
+    560,
+    1680,
+    520
+   ],
+   "png": "frames/b18d_Pwvc6OtZPHk/p2.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  BRIDGE",
+   "t": 168,
+   "bbox": [
+    240,
+    560,
+    1680,
+    520
+   ],
+   "png": "frames/b18d_Pwvc6OtZPHk/p3.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  OUTRO",
+   "t": 240,
+   "bbox": [
+    240,
+    560,
+    1680,
+    520
+   ],
+   "png": "frames/b18d_Pwvc6OtZPHk/p4.png"
+  }
+ ],
+ "note": "Chords: Cadd9 D Em Em D / Cadd9 D Em - (chorus 1 and outro)  ·  C5 D5 E5 E5 D5 (verse)  ·  Cadd9 D Em Em D (chorus 3)  ·  C5 D5 E5 E5 D5 / Cadd9 D Em Em D (bridge)  |  Strumming: D - DD - DDD on 1 + 2 + 3 + 4 + (chorus 1)  ·  D - - - D - - UDUD - D - DU on 1 e + a 2 e + a 3 e + a 4 e + a (verse, chorus 3, bridge, outro) - on-screen tip: 'Change chords on highlighted strum'",
+ "diagram": "LETTERS"
+}

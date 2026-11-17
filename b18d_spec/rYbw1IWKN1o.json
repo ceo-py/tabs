@@ -1,0 +1,64 @@
+{
+ "title": "BOTHER",
+ "subtitle": "Stone Sour  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Stone-Sour-Bother.png",
+ "panels": [
+  {
+   "label": "TAB  ·  VERSE 1",
+   "t": 24,
+   "bbox": [
+    248,
+    560,
+    1672,
+    500
+   ],
+   "png": "frames/b18d_rYbw1IWKN1o/p0.png"
+  },
+  {
+   "label": "TAB  ·  CHORUS 1",
+   "t": 44,
+   "bbox": [
+    248,
+    560,
+    1672,
+    498
+   ],
+   "png": "frames/b18d_rYbw1IWKN1o/p1.png"
+  },
+  {
+   "label": "TAB  ·  VERSE 2",
+   "t": 80,
+   "bbox": [
+    248,
+    560,
+    1672,
+    504
+   ],
+   "png": "frames/b18d_rYbw1IWKN1o/p2.png"
+  },
+  {
+   "label": "TAB  ·  CHORUS 2",
+   "t": 108,
+   "bbox": [
+    248,
+    560,
+    1672,
+    498
+   ],
+   "png": "frames/b18d_rYbw1IWKN1o/p3.png"
+  },
+  {
+   "label": "TAB  ·  SOLO RHYTHM",
+   "t": 132,
+   "bbox": [
+    248,
+    560,
+    1672,
+    504
+   ],
+   "png": "frames/b18d_rYbw1IWKN1o/p4.png"
+  }
+ ],
+ "note": "Chords: Ebm7 Db/Eb Ebm7 Db/Eb Db5 Ebm7 Db/Eb / Ebm7 Db/Eb Ebm7 Db/Eb Db5 Gb5/Db Db5 (verse 1 and verse 2)  ·  Ebm7 Db/Eb Ebm7 Bb7 / Ebm7 Db/Eb B5 Db5 (chorus 1 and chorus 2)  ·  Ebm7 over the whole solo-rhythm TAB  |  Strumming: no separate strumming panel - the TAB notes carry up/down stroke arrows, beamed rhythm stems and H (hammer-on) / P (pull-off) marks",
+ "diagram": "LETTERS"
+}

@@ -1,0 +1,17 @@
+{
+ "title": "CRAZY LITTLE THING CALLED LOVE",
+ "subtitle": "Queen  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Queen-Crazy-Little-Thing-Called-Love.png",
+ "panels": [
+  {"label": "CHORD PATTERN  ·  VERSE", "t": 15, "bbox": [1120, 112, 800, 155], "png": "frames/b18a_9gGc45WjnpY/p0.png"},
+  {"label": "STRUMMING PATTERN  ·  VERSE", "t": 15, "bbox": [1225, 390, 525, 155], "png": "frames/b18a_9gGc45WjnpY/p1.png"},
+  {"label": "CHORD PATTERN  ·  CHORUS", "t": 55, "bbox": [1120, 112, 800, 155], "png": "frames/b18a_9gGc45WjnpY/p2.png"},
+  {"label": "STRUMMING PATTERN  ·  CHORUS", "t": 55, "bbox": [1225, 390, 525, 155], "png": "frames/b18a_9gGc45WjnpY/p3.png"},
+  {"label": "CHORD PATTERN  ·  SOLO", "t": 90, "bbox": [1120, 112, 800, 155], "png": "frames/b18a_9gGc45WjnpY/p4.png"},
+  {"label": "STRUMMING PATTERN  ·  SOLO", "t": 90, "bbox": [1225, 390, 525, 155], "png": "frames/b18a_9gGc45WjnpY/p5.png"},
+  {"label": "CHORD PATTERN  ·  LAST VERSE/OUTRO", "t": 135, "bbox": [1120, 112, 800, 195], "png": "frames/b18a_9gGc45WjnpY/p6.png"},
+  {"label": "STRUMMING PATTERN  ·  LAST VERSE/OUTRO", "t": 135, "bbox": [1225, 390, 525, 155], "png": "frames/b18a_9gGc45WjnpY/p7.png"}
+ ],
+ "note": "Chords: D D G C G / D Bb C D D x2 (verse)  ·  G G C G / Bb Bb E A F (chorus)  ·  Bb Bb D G D / Bb Bb E A F (solo)  ·  D D G C G x2 / D / Bb C D - 'REPEAT TILL END' (last verse / outro)   Strumming: DUDUDUDU (verse, chorus, last verse / outro)  ·  D-DUDUDU (solo)   The green letter in the pattern marks the strum where the chord changes",
+ "diagram": "LETTERS"
+}

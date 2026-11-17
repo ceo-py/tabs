@@ -1,0 +1,18 @@
+{
+ "title": "THE UNFORGIVEN",
+ "subtitle": "Metallica  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Metallica-The-Unforgiven.png",
+ "panels": [
+  {"label": "TAB  ·  INTRO", "t": 30, "bbox": [248, 558, 1672, 522], "png": "frames/b18a_NHCbcG1zKOY/p0.png"},
+  {"label": "TAB  ·  VERSE 1", "t": 70, "bbox": [248, 558, 1672, 522], "png": "frames/b18a_NHCbcG1zKOY/p1.png"},
+  {"label": "TAB  ·  CHORUS 1", "t": 105, "bbox": [248, 558, 1672, 522], "png": "frames/b18a_NHCbcG1zKOY/p2.png"},
+  {"label": "TAB  ·  VERSE 2", "t": 140, "bbox": [248, 558, 1672, 522], "png": "frames/b18a_NHCbcG1zKOY/p3.png"},
+  {"label": "TAB  ·  CHORUS 2", "t": 180, "bbox": [248, 558, 1672, 522], "png": "frames/b18a_NHCbcG1zKOY/p4.png"},
+  {"label": "TAB  ·  SOLO 1", "t": 212, "bbox": [248, 558, 1672, 522], "png": "frames/b18a_NHCbcG1zKOY/p5.png"},
+  {"label": "TAB  ·  SOLO 2", "t": 240, "bbox": [248, 558, 1672, 522], "png": "frames/b18a_NHCbcG1zKOY/p6.png"},
+  {"label": "TAB  ·  CHORUS 3", "t": 280, "bbox": [248, 558, 1672, 522], "png": "frames/b18a_NHCbcG1zKOY/p7.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BREAK 3", "t": 304, "bbox": [248, 558, 1672, 522], "png": "frames/b18a_NHCbcG1zKOY/p8.png"}
+ ],
+ "note": "Chords: Asus2 C Gsus4 Em (intro)  ·  A5 E5 D5 A5 (verse 2, 2/4)  ·  Asus2 C G6 E / Asus2 C Gsus4 Em (chorus 2)  ·  Am Cadd9 G E (break 3 chord panel)   Strumming: break 3 panel - DU - UD - DU | DU - UD - DU, counted 1 e + a 2 e + a 3 e + a 4 e + a, 'Change chords on 3 beat'   The other panels are TAB only, no separate strumming pattern is shown",
+ "diagram": "LETTERS"
+}

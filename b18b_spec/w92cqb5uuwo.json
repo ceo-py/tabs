@@ -1,0 +1,17 @@
+{
+ "title": "(I CAN'T GET NO) SATISFACTION",
+ "subtitle": "The Rolling Stones  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/The-Rolling-Stones-I-Cant-Get-No-Satisfaction.png",
+ "panels": [
+  {"label": "TAB  ·  INTRO", "t": 4, "bbox": [248, 556, 1672, 297], "png": "frames/b18b_w92cqb5uuwo/p0.png"},
+  {"label": "TAB  ·  CHORUS 1", "t": 20, "bbox": [248, 556, 1672, 520], "png": "frames/b18b_w92cqb5uuwo/p1.png"},
+  {"label": "TAB  ·  VERSE 1", "t": 40, "bbox": [248, 556, 1672, 521], "png": "frames/b18b_w92cqb5uuwo/p2.png"},
+  {"label": "TAB  ·  CHORUS 2", "t": 80, "bbox": [248, 556, 1672, 521], "png": "frames/b18b_w92cqb5uuwo/p3.png"},
+  {"label": "TAB  ·  CHORUS 3", "t": 140, "bbox": [248, 556, 1672, 521], "png": "frames/b18b_w92cqb5uuwo/p4.png"},
+  {"label": "TAB  ·  OUTRO", "t": 200, "bbox": [248, 556, 1672, 478], "png": "frames/b18b_w92cqb5uuwo/p5.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 256, "bbox": [248, 556, 1672, 504], "png": "frames/b18b_w92cqb5uuwo/p6.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 286, "bbox": [248, 556, 1672, 524], "png": "frames/b18b_w92cqb5uuwo/p7.png"}
+ ],
+ "note": "Chords: E and A are written above the TAB in the chorus bars  ·  Chorus chord panel: E E A A / E E A A / E B7 E A  ·  Verse chord panel: E A D A (Repeat x8) / E - / E A D A (Repeat x2)   Strumming: D - D - DUDU over 1 + 2 + 3 + 4 + (chorus and verse); the verse panel says 'Change chords on + beat after 3'.",
+ "diagram": "LETTERS"
+}

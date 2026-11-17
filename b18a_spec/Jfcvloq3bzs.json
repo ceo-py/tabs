@@ -1,0 +1,18 @@
+{
+ "title": "ENTER SANDMAN",
+ "subtitle": "Metallica  ·  Guitar Cover  ·  Kirk & James' Parts + Wah + TAB  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Metallica-Enter-Sandman.png",
+ "panels": [
+  {"label": "TAB  ·  INTRO", "t": 40, "bbox": [164, 558, 1756, 522], "png": "frames/b18a_Jfcvloq3bzs/p0.png"},
+  {"label": "TAB  ·  VERSE 1", "t": 80, "bbox": [164, 558, 1756, 522], "png": "frames/b18a_Jfcvloq3bzs/p1.png"},
+  {"label": "TAB  ·  CHORUS 1", "t": 104, "bbox": [164, 558, 1756, 522], "png": "frames/b18a_Jfcvloq3bzs/p2.png"},
+  {"label": "TAB  ·  BREAK", "t": 118, "bbox": [164, 558, 1756, 522], "png": "frames/b18a_Jfcvloq3bzs/p3.png"},
+  {"label": "TAB  ·  VERSE 2", "t": 136, "bbox": [164, 558, 1756, 522], "png": "frames/b18a_Jfcvloq3bzs/p4.png"},
+  {"label": "TAB  ·  CHORUS 2", "t": 158, "bbox": [164, 558, 1756, 522], "png": "frames/b18a_Jfcvloq3bzs/p5.png"},
+  {"label": "TAB  ·  SOLO", "t": 170, "bbox": [164, 558, 1756, 522], "png": "frames/b18a_Jfcvloq3bzs/p6.png"},
+  {"label": "TAB  ·  BRIDGE", "t": 218, "bbox": [164, 558, 1756, 522], "png": "frames/b18a_Jfcvloq3bzs/p7.png"},
+  {"label": "TAB  ·  CHORUS 3", "t": 248, "bbox": [164, 558, 1756, 522], "png": "frames/b18a_Jfcvloq3bzs/p8.png"}
+ ],
+ "note": "Chords: none are written in the video - every panel is 6-line TAB only, with palm-mute (P.M.) markings, vibrato strokes, slide (+), harmonic (o), hammer-on (H) and pull-off (P) signs   Strumming: not shown in the video as a separate strumming panel - the rhythm is written into the TAB itself",
+ "diagram": "DIAGRAM"
+}

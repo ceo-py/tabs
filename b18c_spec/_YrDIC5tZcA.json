@@ -1,0 +1,19 @@
+{
+ "title": "EVERY BREATH YOU TAKE (ACOUSTIC)",
+ "subtitle": "The Police  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/The-Police-Every-Breath-You-Take-Acoustic.png",
+ "panels": [
+  {"label": "TAB  ·  INTRO", "t": 8, "bbox": [248, 560, 1672, 520], "png": "frames/b18c__YrDIC5tZcA/p0.png"},
+  {"label": "TAB  ·  VERSE", "t": 26, "bbox": [248, 560, 1672, 520], "png": "frames/b18c__YrDIC5tZcA/p1.png"},
+  {"label": "TAB  ·  PRECHORUS", "t": 44, "bbox": [248, 560, 1672, 520], "png": "frames/b18c__YrDIC5tZcA/p2.png"},
+  {"label": "TAB  ·  CHORUS", "t": 60, "bbox": [248, 560, 1672, 520], "png": "frames/b18c__YrDIC5tZcA/p3.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE", "t": 96, "bbox": [248, 560, 1672, 520], "png": "frames/b18c__YrDIC5tZcA/p4.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BREAK", "t": 112, "bbox": [248, 560, 1672, 520], "png": "frames/b18c__YrDIC5tZcA/p5.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS", "t": 136, "bbox": [248, 560, 1672, 520], "png": "frames/b18c__YrDIC5tZcA/p6.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 155, "bbox": [248, 560, 1672, 520], "png": "frames/b18c__YrDIC5tZcA/p7.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE VARIATION", "t": 188, "bbox": [248, 560, 1672, 520], "png": "frames/b18c__YrDIC5tZcA/p8.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  OUTRO", "t": 205, "bbox": [248, 560, 1672, 520], "png": "frames/b18c__YrDIC5tZcA/p9.png"}
+ ],
+ "note": "Chords printed above the TAB: INTRO Gadd9 Gadd9 Emadd9 Emadd9 | Cadd9 Dsus2 Gadd9 Gadd9 · VERSE Gadd9 Gadd9 Emadd9 Emadd9 | Cadd9 Dsus2 Emadd9 Emadd9 · PRECHORUS as INTRO · CHORUS Cadd9 Cadd9 Gadd9 Gadd9 | Aadd9 Aadd9 Dsus2 Dsus2. Chords on the CHORD PATTERN panels (plain letters): BRIDGE Eb F Eb (X2) · BREAK G Em Em | C D Em Em · PRECHORUS G G Em Em | C D G G · CHORUS C C7 G G | A7 A7 D D · VERSE G G Em Em | C D Em Em · VERSE VARIATION C D | Em Em Em Em · OUTRO G G Em C. Strumming: BRIDGE D-DU-UDU-UDU-UDU, the other pattern panels DUDUDUDU. The TAB is written with 'Capo fret 1'. Sections on screen: INTRO, VERSE, PRECHORUS, CHORUS, VERSE, BRIDGE, BREAK, PRECHORUS, CHORUS, VERSE, VERSE VARIATION, OUTRO.",
+ "diagram": "LETTERS"
+}

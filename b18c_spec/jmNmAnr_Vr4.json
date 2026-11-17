@@ -1,0 +1,15 @@
+{
+ "title": "ONE",
+ "subtitle": "U2  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/U2-One.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  INTRO", "t": 6, "bbox": [248, 558, 1672, 522], "png": "frames/b18c_jmNmAnr_Vr4/p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 20, "bbox": [248, 558, 1672, 522], "png": "frames/b18c_jmNmAnr_Vr4/p1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 40, "bbox": [248, 558, 1672, 522], "png": "frames/b18c_jmNmAnr_Vr4/p2.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BREAK", "t": 60, "bbox": [248, 558, 1672, 522], "png": "frames/b18c_jmNmAnr_Vr4/p3.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE", "t": 165, "bbox": [248, 558, 1672, 522], "png": "frames/b18c_jmNmAnr_Vr4/p4.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  FINAL CHORUS", "t": 190, "bbox": [248, 558, 1672, 522], "png": "frames/b18c_jmNmAnr_Vr4/p5.png"}
+ ],
+ "note": "Chords: Am D F G (intro, verse, break)  ·  C Am F C (chorus)  ·  C C/B Am C C/B Am / C G G F F (bridge)   Strumming: D - - UDUD - - UDUD - DU (one bar over 1 e + a 2 e + a 3 e + a 4 e + a)   The bridge panel says 'Change chords on highlighted strum'; the video highlights the current strum in black and the current chord in green.",
+ "diagram": "LETTERS"
+}

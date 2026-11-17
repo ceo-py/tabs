@@ -1,0 +1,14 @@
+{
+ "title": "BOHEMIAN RHAPSODY",
+ "subtitle": "Queen  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Queen-Bohemian-Rhapsody.png",
+ "panels": [
+  {"label": "CHORD PATTERN  ·  INTRO", "t": 30, "bbox": [1130, 112, 790, 273], "png": "frames/b18a_VHZXP8MCrQg/p0.png"},
+  {"label": "CHORD PATTERN  ·  VERSE 1", "t": 90, "bbox": [1130, 112, 790, 273], "png": "frames/b18a_VHZXP8MCrQg/p1.png"},
+  {"label": "CHORD & STRUMMING  ·  VERSE 1", "t": 90, "bbox": [930, 386, 975, 120], "png": "frames/b18a_VHZXP8MCrQg/p2.png"},
+  {"label": "CHORD PATTERN  ·  VERSE 2", "t": 150, "bbox": [1130, 112, 790, 273], "png": "frames/b18a_VHZXP8MCrQg/p3.png"},
+  {"label": "CHORD & STRUMMING  ·  VERSE 2", "t": 150, "bbox": [930, 386, 975, 120], "png": "frames/b18a_VHZXP8MCrQg/p4.png"}
+ ],
+ "note": "Chords: Em7/G A7 D7 G / Em G7 C / Am D7 / G# G F# G x2 / C G/B Bbdim7 D7 (intro)  ·  G Em Am Am D7 / G Em Am Am/G# Am/G Am/F# Am/F Am/E / C G/B Am Dm Dm/C# Dm/C G7/B G / C G/B Am Fm C RIFF (verse 1 chart)  ·  the verse 2 panel shows the same chart scrolled with Dm highlighted in green   Strumming: verse 1 - D-D-D-DUD | D-D-DU | D-D-DU | D-D-D-DUD-D-D-D-DU (the Am bar underlined in green = change chord)  ·  verse 2 - D-D-D-D-D-D---D--- | D-D-DUD-D-D-D-DU   The video shows no TAB, only the chord chart and the CHORD / STRUM table",
+ "diagram": "LETTERS"
+}

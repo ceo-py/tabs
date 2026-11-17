@@ -1,0 +1,64 @@
+{
+ "title": "JUST BREATHE",
+ "subtitle": "Pearl Jam  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Pearl-Jam-Just-Breathe.png",
+ "panels": [
+  {
+   "label": "TAB  ·  VERSE 1",
+   "t": 40,
+   "bbox": [
+    248,
+    560,
+    1672,
+    270
+   ],
+   "png": "frames/b18d_IlFzDcn7mRI/p0.png"
+  },
+  {
+   "label": "TAB  ·  REFRAIN",
+   "t": 68,
+   "bbox": [
+    248,
+    560,
+    1672,
+    270
+   ],
+   "png": "frames/b18d_IlFzDcn7mRI/p1.png"
+  },
+  {
+   "label": "TAB  ·  CHORUS 1",
+   "t": 136,
+   "bbox": [
+    248,
+    560,
+    1672,
+    516
+   ],
+   "png": "frames/b18d_IlFzDcn7mRI/p2.png"
+  },
+  {
+   "label": "TAB  ·  CHORUS 2",
+   "t": 188,
+   "bbox": [
+    248,
+    560,
+    1672,
+    508
+   ],
+   "png": "frames/b18d_IlFzDcn7mRI/p3.png"
+  },
+  {
+   "label": "TAB  ·  OUTRO",
+   "t": 236,
+   "bbox": [
+    248,
+    560,
+    1672,
+    516
+   ],
+   "png": "frames/b18d_IlFzDcn7mRI/p4.png"
+  }
+ ],
+ "note": "Chords: verse 1 - no chord names, TAB only  ·  Am Am7 Am Am7 F Fadd9 F (refrain, last F marked 'rall.' to quarter = 50)  ·  G Dm G Dm / F Am Dm Dm/C Bdim G (chorus 1 and chorus 2)  ·  Am Am7 Am Am7 F Fadd9 F Fadd9 / Am Am7 Am Am7 F Fadd9 F (outro)  |  Strumming: not shown as a separate panel - the TAB staff is annotated only with beamed rhythm stems under every measure",
+ "diagram": "LETTERS"
+}

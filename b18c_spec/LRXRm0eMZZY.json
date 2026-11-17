@@ -1,0 +1,15 @@
+{
+ "title": "WONDERWALL",
+ "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Oasis-Wonderwall.png",
+ "panels": [
+  {"label": "CHORD PROGRESSION  ·  VERSE", "t": 8, "bbox": [1140, 0, 780, 235], "png": "frames/b18c_LRXRm0eMZZY/p0.png"},
+  {"label": "CHORD · STRUM · TIMING  ·  VERSE", "t": 8, "bbox": [936, 388, 972, 154], "png": "frames/b18c_LRXRm0eMZZY/p1.png"},
+  {"label": "CHORD PROGRESSION  ·  PRECHORUS", "t": 70, "bbox": [1140, 0, 780, 340], "png": "frames/b18c_LRXRm0eMZZY/p2.png"},
+  {"label": "CHORD · STRUM · TIMING  ·  PRECHORUS", "t": 70, "bbox": [936, 388, 972, 154], "png": "frames/b18c_LRXRm0eMZZY/p3.png"},
+  {"label": "CHORD PROGRESSION  ·  CHORUS", "t": 95, "bbox": [1140, 0, 780, 235], "png": "frames/b18c_LRXRm0eMZZY/p4.png"},
+  {"label": "CHORD · STRUM · TIMING  ·  CHORUS", "t": 95, "bbox": [936, 388, 972, 154], "png": "frames/b18c_LRXRm0eMZZY/p5.png"}
+ ],
+ "note": "Chords: | Em7 G | Dsus4 A7sus4 | (verse)  ·  | Cadd9 Dsus4 | Em7 | x2 + | Cadd9 Dsus4 | G D/F# Em7 G | + | A7sus4 | A7sus4 | (prechorus)  ·  | Cadd9 | Em7 | G | Em7 | (chorus)   Strumming: D-D-D--U DUD-D--U (verse)  ·  D-D-D--U DUD-D--U (prechorus)  ·  D-D-D--U | DUD-D--U | DUD-D--U | DUD-D--U (chorus, timing 1+2+ | 3+4+ | 1+2+ | 3+4+)   The video prints every section as a big chord row plus a CHORD | STRUM | TIMING table; the current chord is highlighted in green and the current strum in black.",
+ "diagram": "LETTERS"
+}

@@ -1,0 +1,15 @@
+{
+ "title": "I STILL HAVEN'T FOUND WHAT I'M LOOKING FOR",
+ "subtitle": "U2  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/U2-I-Still-Havent-Found-What-Im-Looking-For.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  INTRO", "t": 4, "bbox": [248, 558, 1672, 522], "png": "frames/b18c_MmmhEd7j8K8/p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 1", "t": 30, "bbox": [248, 558, 1672, 522], "png": "frames/b18c_MmmhEd7j8K8/p1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1", "t": 60, "bbox": [248, 558, 1672, 522], "png": "frames/b18c_MmmhEd7j8K8/p2.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  INSTRUMENTAL", "t": 140, "bbox": [248, 558, 1672, 522], "png": "frames/b18c_MmmhEd7j8K8/p3.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  OUTRO", "t": 240, "bbox": [248, 558, 1672, 522], "png": "frames/b18c_MmmhEd7j8K8/p4.png"},
+  {"label": "TAB  ·  VERSE 1 (2nd PASS)", "t": 275, "bbox": [248, 558, 1672, 522], "png": "frames/b18c_MmmhEd7j8K8/p5.png"}
+ ],
+ "note": "Chords: C C C C (intro)  ·  C C C C / Fsus2 Fsus2 C C - repeat x2 (verse 1)  ·  G Fsus2 C C - repeat x2 (chorus 1)  ·  C C C C / C C Fsus2 Fsus2 / C C (instrumental)  ·  C C C C (outro)   Strumming: D - D - D - DU - UD - D - DU (one bar over 1 e + a 2 e + a 3 e + a 4 e + a; the video highlights the current strum in black and the current chord in green)   The second half of the video (t=248-508) repeats the same sections as full 6-line TAB with the chord letters C, Fsus2 and G printed above the bars.",
+ "diagram": "LETTERS"
+}

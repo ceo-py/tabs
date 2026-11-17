@@ -1,0 +1,86 @@
+{
+ "title": "DISARM",
+ "subtitle": "The Smashing Pumpkins  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/The-Smashing-Pumpkins-Disarm.png",
+ "panels": [
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  INTRO",
+   "t": 8,
+   "bbox": [
+    248,
+    556,
+    1672,
+    524
+   ],
+   "png": "frames/b18b_UjScq2EYzbI/p0.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  VERSE",
+   "t": 24,
+   "bbox": [
+    248,
+    556,
+    1672,
+    524
+   ],
+   "png": "frames/b18b_UjScq2EYzbI/p1.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS",
+   "t": 38,
+   "bbox": [
+    248,
+    556,
+    1672,
+    524
+   ],
+   "png": "frames/b18b_UjScq2EYzbI/p2.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1",
+   "t": 70,
+   "bbox": [
+    248,
+    556,
+    1672,
+    524
+   ],
+   "png": "frames/b18b_UjScq2EYzbI/p3.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  BREAK",
+   "t": 98,
+   "bbox": [
+    248,
+    556,
+    1672,
+    524
+   ],
+   "png": "frames/b18b_UjScq2EYzbI/p4.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS 2",
+   "t": 150,
+   "bbox": [
+    248,
+    556,
+    1672,
+    524
+   ],
+   "png": "frames/b18b_UjScq2EYzbI/p5.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  OUTRO",
+   "t": 180,
+   "bbox": [
+    248,
+    556,
+    1672,
+    524
+   ],
+   "png": "frames/b18b_UjScq2EYzbI/p6.png"
+  }
+ ],
+ "note": "Chords: Em7, Cadd9, G, D/F# (intro, verse)  ·  Prechorus: Em7, Cadd9, G, D/F# / Em7, Cadd9, G, D, C  ·  Chorus: C, Em, Dsus2, C (x3) / Em, Dsus2 (x2)  ·  Break: C, C  ·  Outro: Dsus2, Em, C (x3) / Dsus2, Em (x3) / C   Strumming: a steady eighth-note downstroke row over two bars of 1 e + a 2 e + a 3 e + a 4 e + a - D on the beat and on the '+', '-' on the other sixteenths, with a D U D figure at the end of the first bar and a D U on the last sixteenth; the video says 'Change chords on highlighted strum' and 'Accent dotted strum' (the accented strums carry a dot).",
+ "diagram": "LETTERS"
+}

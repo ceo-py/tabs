@@ -1,0 +1,16 @@
+{
+ "title": "EVERY BREATH YOU TAKE",
+ "subtitle": "The Police  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/The-Police-Every-Breath-You-Take.png",
+ "panels": [
+  {"label": "TAB  ·  INTRO", "t": 8, "bbox": [248, 560, 1672, 516], "png": "frames/b18c_JvRLYuiyURk/p0.png"},
+  {"label": "TAB  ·  VERSE", "t": 26, "bbox": [248, 560, 1672, 516], "png": "frames/b18c_JvRLYuiyURk/p1.png"},
+  {"label": "TAB  ·  PRECHORUS", "t": 44, "bbox": [248, 560, 1672, 516], "png": "frames/b18c_JvRLYuiyURk/p2.png"},
+  {"label": "TAB  ·  CHORUS", "t": 60, "bbox": [248, 560, 1672, 516], "png": "frames/b18c_JvRLYuiyURk/p3.png"},
+  {"label": "TAB  ·  BRIDGE", "t": 94, "bbox": [248, 560, 1672, 516], "png": "frames/b18c_JvRLYuiyURk/p4.png"},
+  {"label": "TAB  ·  BREAK", "t": 112, "bbox": [248, 560, 1672, 516], "png": "frames/b18c_JvRLYuiyURk/p5.png"},
+  {"label": "TAB  ·  OUTRO", "t": 192, "bbox": [248, 560, 1672, 516], "png": "frames/b18c_JvRLYuiyURk/p6.png"}
+ ],
+ "note": "Chords: none printed - in this studio video every panel is a plain 6-line TAB with fret numbers, and the chord shapes are only shown on the vertical fretboard diagram at the left of the frame.   Strumming: no strumming pattern is shown anywhere in this video (the TAB bars carry rhythm stems only), so no strumming panel is included.   Sections on screen: INTRO, VERSE, PRECHORUS, CHORUS, VERSE, BRIDGE, BREAK, PRECHORUS, CHORUS, VERSE, VERSE VARIATION, OUTRO.",
+ "diagram": "DIAGRAM"
+}

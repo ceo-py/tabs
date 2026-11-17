@@ -1,0 +1,64 @@
+{
+ "title": "FAKE PLASTIC TREES",
+ "subtitle": "Radiohead  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Radiohead-Fake-Plastic-Trees.png",
+ "panels": [
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  VERSE",
+   "t": 24,
+   "bbox": [
+    248,
+    560,
+    1672,
+    480
+   ],
+   "png": "frames/b18d_UDwjKCZJKYs/p0.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1",
+   "t": 64,
+   "bbox": [
+    248,
+    560,
+    1672,
+    480
+   ],
+   "png": "frames/b18d_UDwjKCZJKYs/p1.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  VERSE",
+   "t": 100,
+   "bbox": [
+    248,
+    560,
+    1672,
+    480
+   ],
+   "png": "frames/b18d_UDwjKCZJKYs/p2.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS 2",
+   "t": 144,
+   "bbox": [
+    248,
+    560,
+    1672,
+    480
+   ],
+   "png": "frames/b18d_UDwjKCZJKYs/p3.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  OUTRO",
+   "t": 256,
+   "bbox": [
+    248,
+    560,
+    1672,
+    480
+   ],
+   "png": "frames/b18d_UDwjKCZJKYs/p4.png"
+  }
+ ],
+ "note": "Chords: A A Asus4 Dmaj9/F# Dmaj9/F# E6 / Dsus2 A Dsus2 Dsus2 (both verse panels)  ·  Bm7add11 Bm7add11 A A / Bm7add11 Bm7add11 A A Asus4 (chorus 1 and chorus 2)  ·  Bm7add11 Bm7add11 A A E6 x3 / Bm7add11 Bm7add11 A (outro)  |  Strumming: D - D - D - DU | D - D - D - DU on 1 e + a 2 e + a 3 e + a 4 e + a (verse)  ·  D - - - D - DU | D - - - D - DU (chorus 1, chorus 2, outro)",
+ "diagram": "LETTERS"
+}
