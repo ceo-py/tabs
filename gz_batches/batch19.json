@@ -1,0 +1,146 @@
+[
+ {
+  "id": "YGGjna1GkK0",
+  "artist": "Lady Gaga",
+  "song": "Always Remember Us This Way",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Lady-Gaga-Always-Remember-Us-This-Way.png",
+  "url": "https://www.youtube.com/watch?v=YGGjna1GkK0"
+ },
+ {
+  "id": "gz0mC6yiMFQ",
+  "artist": "Lady Gaga",
+  "song": "I'll Never Love Again",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Lady-Gaga-Ill-Never-Love-Again.png",
+  "url": "https://www.youtube.com/watch?v=gz0mC6yiMFQ"
+ },
+ {
+  "id": "11plqWEM8cc",
+  "artist": "Lady Gaga & Bradley Cooper",
+  "song": "Shallow",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Lady-Gaga-Bradley-Cooper-Shallow.png",
+  "url": "https://www.youtube.com/watch?v=11plqWEM8cc"
+ },
+ {
+  "id": "PTRyHY7apgY",
+  "artist": "Phil Collins",
+  "song": "Another Day In Paradise",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Phil-Collins-Another-Day-In-Paradise.png",
+  "url": "https://www.youtube.com/watch?v=PTRyHY7apgY"
+ },
+ {
+  "id": "o2NaGFteNvY",
+  "artist": "Pink Floyd",
+  "song": "Wish You Were Here",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Pink-Floyd-Wish-You-Were-Here.png",
+  "url": "https://www.youtube.com/watch?v=o2NaGFteNvY"
+ },
+ {
+  "id": "8GaApT2sCtg",
+  "artist": "R.E.M.",
+  "song": "Losing My Religion",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/R-E-M-Losing-My-Religion.png",
+  "url": "https://www.youtube.com/watch?v=8GaApT2sCtg"
+ },
+ {
+  "id": "_9K3nBCkwbs",
+  "artist": "Rage Against The Machine",
+  "song": "Killing In The Name",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Rage-Against-The-Machine-Killing-In-The-Name.png",
+  "url": "https://www.youtube.com/watch?v=_9K3nBCkwbs"
+ },
+ {
+  "id": "UPzmTGOI6zQ",
+  "artist": "REM",
+  "song": "Everybody Hurts",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/REM-Everybody-Hurts.png",
+  "url": "https://www.youtube.com/watch?v=UPzmTGOI6zQ"
+ },
+ {
+  "id": "5KkYBfk-JuA",
+  "artist": "Santana",
+  "song": "Black Magic Woman",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Santana-Black-Magic-Woman.png",
+  "url": "https://www.youtube.com/watch?v=5KkYBfk-JuA"
+ },
+ {
+  "id": "0P8y_Dgrjic",
+  "artist": "Shania Twain",
+  "song": "You're Still The One",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "out": "out_gz/Shania-Twain-Youre-Still-The-One.png",
+  "url": "https://www.youtube.com/watch?v=0P8y_Dgrjic"
+ },
+ {
+  "id": "H0gzEaI14Qs",
+  "artist": "Slipknot",
+  "song": "Snuff",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Slipknot-Snuff.png",
+  "url": "https://www.youtube.com/watch?v=H0gzEaI14Qs"
+ },
+ {
+  "id": "fXbr2C-X0qQ",
+  "artist": "The Cranberries",
+  "song": "Linger",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/The-Cranberries-Linger.png",
+  "url": "https://www.youtube.com/watch?v=fXbr2C-X0qQ"
+ },
+ {
+  "id": "Eaphw1pgJcI",
+  "artist": "The Offspring",
+  "song": "Gone Away",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/The-Offspring-Gone-Away.png",
+  "url": "https://www.youtube.com/watch?v=Eaphw1pgJcI"
+ },
+ {
+  "id": "6L55fqx40eU",
+  "artist": "The Verve",
+  "song": "Bitter Sweet Symphony",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/The-Verve-Bitter-Sweet-Symphony.png",
+  "url": "https://www.youtube.com/watch?v=6L55fqx40eU"
+ },
+ {
+  "id": "TZHzhSixBeo",
+  "artist": "Tracy Chapman",
+  "song": "Fast Car",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Tracy-Chapman-Fast-Car.png",
+  "url": "https://www.youtube.com/watch?v=TZHzhSixBeo"
+ },
+ {
+  "id": "gvVXbxDzco0",
+  "artist": "Wheatus",
+  "song": "Teenage Dirtbag",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Wheatus-Teenage-Dirtbag.png",
+  "url": "https://www.youtube.com/watch?v=gvVXbxDzco0"
+ }
+]

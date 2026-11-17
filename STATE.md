@@ -46,7 +46,54 @@
 | 15 | 25 | 300–324 | ⏸ отложена (5 карти са готови и публикувани) |
 | 16 | 25 | 325–349 | ⏸ отложена (0 карти) |
 | **17** | **21** | RHCP 8 · Nirvana 7 · Linkin Park 6 | **✅ 21/21 — публикувана (вълна 5)** |
-| **18** | **25** | Metallica 3 · Queen 3 · Rolling Stones 3 · Smashing Pumpkins 3 · U2 3 · Oasis 2 · Pearl Jam 2 · Stone Sour 2 · The Police 2 · Radiohead 2 | **✅ 25/25 готови — комитната, непубликувана (VPS изключен)** |
+| **18** | **25** | Metallica 3 · Queen 3 · Rolling Stones 3 · Smashing Pumpkins 3 · U2 3 · Oasis 2 · Pearl Jam 2 · Stone Sour 2 · The Police 2 · Radiohead 2 | **✅ 25/25 готови — комитната (`c9d99d5`), непубликувана (VPS изключен)** |
+| **19** | **16** | Lady Gaga 2 · Lady Gaga & Bradley Cooper 1 · Phil Collins · Pink Floyd · R.E.M. · REM · Rage Against The Machine · Santana · Shania Twain · Slipknot · The Cranberries · The Offspring · The Verve · Tracy Chapman · Wheatus | **⏸ спряна на пауза — 0/16 карти** |
+
+### Партида 19 — къде сме спрени (18 ноември, ~01:15)
+
+Манифест: `gz_batches/batch19.json` + `batch19_ids.txt` (**16 песни**).
+Видеата са свалени **16/16** в `dl/w4_<ID>.mp4` (PO-Token сървър на `127.0.0.1:4416` — ако
+не работи, пусни го от `potsrc/server/` с `denobin/deno.exe run --allow-all
+--node-modules-dir=manual src/main.ts -p 4416`).
+Бриф: `B19-BRIEF.md`.
+
+⚠️ **3-те Lady Gaga песни са преместени** от batch15/batch16 в batch19, за да не са в два
+партидни файла едновременно: `YGGjna1GkK0` (Always Remember Us This Way),
+`gz0mC6yiMFQ` (I'll Never Love Again) → от batch15; `11plqWEM8cc` (Shallow) → от batch16.
+Сега: batch15 = 23, batch16 = 24, batch19 = 16. Няма дубликати в batch1..batch19 (403).
+
+| Агент | Изпълнители | Карти | Статус |
+|---|---|---|---|
+| b19a | Lady Gaga ×2 + Lady Gaga & Bradley Cooper + Phil Collins | 0/4 | ⏸ спрян |
+| b19b | Pink Floyd · R.E.M. · REM · Rage Against The Machine | 0/4 | ⏸ спрян |
+| b19c | Santana · Shania Twain · Slipknot · The Cranberries | 0/4 | ⏸ спрян |
+| b19d | The Offspring · The Verve · Tracy Chapman · Wheatus | 0/4 | ⏸ спрян |
+
+Агентите бяха спрени **в началото на survey етапа** — 0 спецификации, 0 карти.
+На диска са готови помощните им скриптове (`b19a_build.py`, `b19a_grab.py`,
+`b19a_sheet.py`, `b19a_survey.py`, `b19b_*.py`, `b19c_*.py`, `b19d_*.py`) и **survey
+данни за 10/16 видета** в `frames/b19*_<ID>/` (69–147 файла на видео) — това спестява
+времето при възобновяване. Остават 6 видеа без survey: Lady Gaga ×2, Shallow,
+Phil Collins, The Verve, Tracy Chapman, Wheatus.
+
+**Следващи стъпки при възобновяване:**
+```powershell
+# 1. рестарт на 4-те агента (по 4 песни), всеки в свой namespace b19a..b19d
+# 2. класификация (всеки агент пише `diagram` в своя spec):
+py -3.14 _b19_classify.py        # -> chords_diagram_p21.json
+# 3. pipeline:
+py -3.14 import_cards.py         # range(1,19) -> разшири до range(1,20) за batch19!
+py -3.14 merge_chord_diagrams.py
+py -3.14 chord_extract.py
+py -3.14 chord_shapes.py
+py -3.14 site_build.py
+py -3.14 list_remaining.py
+git add <явни пътища> ; git commit ; git push origin main
+# 4. деплой (само ако VPS-ът е назад)
+```
+
+> ⚠️ `import_cards.py` чете `batch%d.json` за `range(1, 19)` — за batch19 трябва да се
+> разшири до `range(1, 20)`.
 
 ### Партида 18 — готова, чака деплой (18 ноември)
 

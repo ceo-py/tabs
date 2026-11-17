@@ -205,23 +205,5 @@
   "rock": false,
   "out": "out_gz/Kodaline-High-Hopes.png",
   "url": "https://www.youtube.com/watch?v=FSm62X5wLIQ"
- },
- {
-  "id": "YGGjna1GkK0",
-  "artist": "Lady Gaga",
-  "song": "Always Remember Us This Way",
-  "tag": "Tabs + Chords",
-  "rock": false,
-  "out": "out_gz/Lady-Gaga-Always-Remember-Us-This-Way.png",
-  "url": "https://www.youtube.com/watch?v=YGGjna1GkK0"
- },
- {
-  "id": "gz0mC6yiMFQ",
-  "artist": "Lady Gaga",
-  "song": "I'll Never Love Again",
-  "tag": "Tabs + Chords",
-  "rock": false,
-  "out": "out_gz/Lady-Gaga-Ill-Never-Love-Again.png",
-  "url": "https://www.youtube.com/watch?v=gz0mC6yiMFQ"
  }
 ]
