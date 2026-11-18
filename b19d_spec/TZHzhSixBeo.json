@@ -1,0 +1,53 @@
+{
+ "title": "FAST CAR",
+ "subtitle": "Tracy Chapman  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Tracy-Chapman-Fast-Car.png",
+ "panels": [
+  {
+   "label": "TAB  ·  INTRO",
+   "t": 10,
+   "bbox": [
+    248,
+    558,
+    1672,
+    520
+   ],
+   "png": "frames/b19d_TZHzhSixBeo/p0.png"
+  },
+  {
+   "label": "TAB  ·  VERSE",
+   "t": 40,
+   "bbox": [
+    248,
+    558,
+    1672,
+    294
+   ],
+   "png": "frames/b19d_TZHzhSixBeo/p1.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS",
+   "t": 130,
+   "bbox": [
+    248,
+    558,
+    1672,
+    484
+   ],
+   "png": "frames/b19d_TZHzhSixBeo/p2.png"
+  },
+  {
+   "label": "TAB  ·  OUTRO",
+   "t": 294,
+   "bbox": [
+    248,
+    558,
+    1672,
+    294
+   ],
+   "png": "frames/b19d_TZHzhSixBeo/p3.png"
+  }
+ ],
+ "note": "Chords: C, G, Em, D (intro, verse, outro)  ·  chorus chart | C | G | Em | D | + | C Em | D | + | C D |, played x2.  Strumming: D - DU - UDU (chorus, counted 1 + 2 + 3 + 4 +; on-screen tip: 'CHANGE CHORDS ON HIGHLIGHTED STRUM').  The intro, verse and outro TAB panels show no strumming letters, only the TAB with the beat count.",
+ "diagram": "LETTERS"
+}

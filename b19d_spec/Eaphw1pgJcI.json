@@ -1,0 +1,75 @@
+{
+ "title": "GONE AWAY",
+ "subtitle": "The Offspring  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/The-Offspring-Gone-Away.png",
+ "panels": [
+  {
+   "label": "TAB  ·  INTRO",
+   "t": 14,
+   "bbox": [
+    248,
+    558,
+    1672,
+    500
+   ],
+   "png": "frames/b19d_Eaphw1pgJcI/p0.png"
+  },
+  {
+   "label": "TAB  ·  VERSE 1",
+   "t": 40,
+   "bbox": [
+    248,
+    558,
+    1672,
+    506
+   ],
+   "png": "frames/b19d_Eaphw1pgJcI/p1.png"
+  },
+  {
+   "label": "TAB  ·  CHORUS 1",
+   "t": 70,
+   "bbox": [
+    248,
+    558,
+    1672,
+    278
+   ],
+   "png": "frames/b19d_Eaphw1pgJcI/p2.png"
+  },
+  {
+   "label": "TAB  ·  PRECHORUS 1",
+   "t": 114,
+   "bbox": [
+    248,
+    558,
+    1672,
+    506
+   ],
+   "png": "frames/b19d_Eaphw1pgJcI/p3.png"
+  },
+  {
+   "label": "TAB  ·  BREAK",
+   "t": 166,
+   "bbox": [
+    248,
+    558,
+    1672,
+    506
+   ],
+   "png": "frames/b19d_Eaphw1pgJcI/p4.png"
+  },
+  {
+   "label": "TAB  ·  BRIDGE",
+   "t": 186,
+   "bbox": [
+    248,
+    558,
+    1672,
+    278
+   ],
+   "png": "frames/b19d_Eaphw1pgJcI/p5.png"
+  }
+ ],
+ "note": "Chords: F5, Ab5, Eb5, Bb5 (intro, chorus 1, bridge)  ·  Bb5 with P.M. (palm mute) at the end of prechorus 1 and in the break  ·  the verse 1 TAB panel carries no chord names, only the TAB.  Strumming: not shown in the video - the TAB shows rhythm stems and beams only, no D/U letters.",
+ "diagram": "LETTERS"
+}

@@ -7189,6 +7189,72 @@
    "chords": []
   },
   {
+   "id": "YGGjna1GkK0",
+   "title": "Always Remember Us This Way",
+   "artist": "Lady Gaga",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=YGGjna1GkK0",
+   "card": "cards/Lady-Gaga-Always-Remember-Us-This-Way.webp?v=62c702ef",
+   "thumb": "thumbs/Lady-Gaga-Always-Remember-Us-This-Way.webp?v=f6906720",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 7214,
+   "chords": [
+    "Am",
+    "F",
+    "C",
+    "G",
+    "Bb"
+   ]
+  },
+  {
+   "id": "gz0mC6yiMFQ",
+   "title": "I'll Never Love Again",
+   "artist": "Lady Gaga",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=gz0mC6yiMFQ",
+   "card": "cards/Lady-Gaga-Ill-Never-Love-Again.webp?v=650581a8",
+   "thumb": "thumbs/Lady-Gaga-Ill-Never-Love-Again.webp?v=705b52ae",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 2416,
+   "chords": [
+    "G",
+    "Em",
+    "C",
+    "D",
+    "F"
+   ]
+  },
+  {
+   "id": "11plqWEM8cc",
+   "title": "Shallow",
+   "artist": "Lady Gaga & Bradley Cooper",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=11plqWEM8cc",
+   "card": "cards/Lady-Gaga-Bradley-Cooper-Shallow.webp?v=fac00231",
+   "thumb": "thumbs/Lady-Gaga-Bradley-Cooper-Shallow.webp?v=f2796010",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1460,
+   "h": 4074,
+   "chords": [
+    "Em7",
+    "D/F#",
+    "G",
+    "C",
+    "D"
+   ]
+  },
+  {
    "id": "RlPlrXH1QGs",
    "title": "Crawling",
    "artist": "Linkin Park",
@@ -7645,6 +7711,50 @@
    ]
   },
   {
+   "id": "PTRyHY7apgY",
+   "title": "Another Day In Paradise",
+   "artist": "Phil Collins",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=PTRyHY7apgY",
+   "card": "cards/Phil-Collins-Another-Day-In-Paradise.webp?v=8fd11032",
+   "thumb": "thumbs/Phil-Collins-Another-Day-In-Paradise.webp?v=0dfb3044",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 5241,
+   "chords": [
+    "Em",
+    "D",
+    "Am7",
+    "C",
+    "G"
+   ]
+  },
+  {
+   "id": "o2NaGFteNvY",
+   "title": "Wish You Were Here",
+   "artist": "Pink Floyd",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=o2NaGFteNvY",
+   "card": "cards/Pink-Floyd-Wish-You-Were-Here.webp?v=da177351",
+   "thumb": "thumbs/Pink-Floyd-Wish-You-Were-Here.webp?v=17fa683f",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2323,
+   "chords": [
+    "Em7",
+    "G",
+    "C",
+    "D/F#",
+    "Am"
+   ]
+  },
+  {
    "id": "VHZXP8MCrQg",
    "title": "Bohemian Rhapsody",
    "artist": "Queen",
@@ -7754,6 +7864,31 @@
    "chords": []
   },
   {
+   "id": "8GaApT2sCtg",
+   "title": "Losing My Religion",
+   "artist": "R.E.M.",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=8GaApT2sCtg",
+   "card": "cards/R-E-M-Losing-My-Religion.webp?v=ce0cdc4e",
+   "thumb": "thumbs/R-E-M-Losing-My-Religion.webp?v=170d2bc8",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2597,
+   "chords": [
+    "Am",
+    "Em",
+    "Dm",
+    "G",
+    "F",
+    "C",
+    "D5",
+    "C/B"
+   ]
+  },
+  {
    "id": "UDwjKCZJKYs",
    "title": "Fake Plastic Trees",
    "artist": "Radiohead",
@@ -7797,6 +7932,22 @@
     "A",
     "Asus4"
    ]
+  },
+  {
+   "id": "_9K3nBCkwbs",
+   "title": "Killing In The Name",
+   "artist": "Rage Against The Machine",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=_9K3nBCkwbs",
+   "card": "cards/Rage-Against-The-Machine-Killing-In-The-Name.webp?v=6eaca315",
+   "thumb": "thumbs/Rage-Against-The-Machine-Killing-In-The-Name.webp?v=b46348ec",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2304,
+   "chords": []
   },
   {
    "id": "G8wYxJrXAIk",
@@ -7986,6 +8137,93 @@
    ]
   },
   {
+   "id": "UPzmTGOI6zQ",
+   "title": "Everybody Hurts",
+   "artist": "REM",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=UPzmTGOI6zQ",
+   "card": "cards/REM-Everybody-Hurts.webp?v=d1e31d51",
+   "thumb": "thumbs/REM-Everybody-Hurts.webp?v=614a227b",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2248,
+   "chords": [
+    "D",
+    "G",
+    "Em",
+    "A",
+    "F#",
+    "Bm",
+    "C"
+   ]
+  },
+  {
+   "id": "5KkYBfk-JuA",
+   "title": "Black Magic Woman",
+   "artist": "Santana",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=5KkYBfk-JuA",
+   "card": "cards/Santana-Black-Magic-Woman.webp?v=ac7329bb",
+   "thumb": "thumbs/Santana-Black-Magic-Woman.webp?v=a17a1aa1",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 3700,
+   "chords": [
+    "Dm",
+    "Gm",
+    "A7"
+   ]
+  },
+  {
+   "id": "0P8y_Dgrjic",
+   "title": "You're Still The One",
+   "artist": "Shania Twain",
+   "tag": "Tabs + Chords",
+   "rock": false,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=0P8y_Dgrjic",
+   "card": "cards/Shania-Twain-Youre-Still-The-One.webp?v=7549a7b9",
+   "thumb": "thumbs/Shania-Twain-Youre-Still-The-One.webp?v=76db12cb",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 3894,
+   "chords": [
+    "D",
+    "D/F#",
+    "G",
+    "A",
+    "Em"
+   ]
+  },
+  {
+   "id": "H0gzEaI14Qs",
+   "title": "Snuff",
+   "artist": "Slipknot",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=H0gzEaI14Qs",
+   "card": "cards/Slipknot-Snuff.webp?v=cb2877e0",
+   "thumb": "thumbs/Slipknot-Snuff.webp?v=72db0fff",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1536,
+   "h": 3400,
+   "chords": [
+    "Em",
+    "G/B",
+    "C",
+    "D"
+   ]
+  },
+  {
    "id": "rYbw1IWKN1o",
    "title": "Bother",
    "artist": "Stone Sour",
@@ -8032,6 +8270,28 @@
    ]
   },
   {
+   "id": "fXbr2C-X0qQ",
+   "title": "Linger",
+   "artist": "The Cranberries",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=fXbr2C-X0qQ",
+   "card": "cards/The-Cranberries-Linger.webp?v=e078db41",
+   "thumb": "thumbs/The-Cranberries-Linger.webp?v=dfcd5f1a",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 3310,
+   "chords": [
+    "D",
+    "Dadd11",
+    "A",
+    "C",
+    "G"
+   ]
+  },
+  {
    "id": "Eagles-Hotel-California-Short.png",
    "title": "Hotel California",
    "artist": "The Eagles",
@@ -8062,6 +8322,27 @@
    "w": 1412,
    "h": 1028,
    "chords": []
+  },
+  {
+   "id": "Eaphw1pgJcI",
+   "title": "Gone Away",
+   "artist": "The Offspring",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=Eaphw1pgJcI",
+   "card": "cards/The-Offspring-Gone-Away.webp?v=e67963ad",
+   "thumb": "thumbs/The-Offspring-Gone-Away.webp?v=48e3f095",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 3346,
+   "chords": [
+    "F5",
+    "Ab5",
+    "Eb5",
+    "Bb5"
+   ]
   },
   {
    "id": "JvRLYuiyURk",
@@ -8242,6 +8523,27 @@
    ]
   },
   {
+   "id": "6L55fqx40eU",
+   "title": "Bitter Sweet Symphony",
+   "artist": "The Verve",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=6L55fqx40eU",
+   "card": "cards/The-Verve-Bitter-Sweet-Symphony.webp?v=e3c06c68",
+   "thumb": "thumbs/The-Verve-Bitter-Sweet-Symphony.webp?v=1fb5530c",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 1294,
+   "chords": [
+    "E",
+    "Esus4",
+    "D",
+    "Asus2"
+   ]
+  },
+  {
    "id": "White-Stripes-Were-Going-To-Be-Friends.png",
    "title": "We're Going To Be Friends",
    "artist": "The White Stripes",
@@ -8256,6 +8558,27 @@
    "w": 1400,
    "h": 1754,
    "chords": []
+  },
+  {
+   "id": "TZHzhSixBeo",
+   "title": "Fast Car",
+   "artist": "Tracy Chapman",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=TZHzhSixBeo",
+   "card": "cards/Tracy-Chapman-Fast-Car.webp?v=ef157b7c",
+   "thumb": "thumbs/Tracy-Chapman-Fast-Car.webp?v=e6248d38",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2296,
+   "chords": [
+    "C",
+    "G",
+    "Em",
+    "D"
+   ]
   },
   {
    "id": "MmmhEd7j8K8",
@@ -8319,6 +8642,27 @@
     "A",
     "Bm7",
     "G"
+   ]
+  },
+  {
+   "id": "gvVXbxDzco0",
+   "title": "Teenage Dirtbag",
+   "artist": "Wheatus",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "GuitarZero2HeroExpress",
+   "url": "https://www.youtube.com/watch?v=gvVXbxDzco0",
+   "card": "cards/Wheatus-Teenage-Dirtbag.webp?v=96aec7eb",
+   "thumb": "thumbs/Wheatus-Teenage-Dirtbag.webp?v=45c3e767",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1400,
+   "h": 4044,
+   "chords": [
+    "E",
+    "Bsus4",
+    "Asus2",
+    "C#m7"
    ]
   }
  ]

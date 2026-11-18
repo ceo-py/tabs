@@ -1,0 +1,45 @@
+{
+ "title": "SNUFF",
+ "subtitle": "Slipknot  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Slipknot-Snuff.png",
+ "panels": [
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  VERSE VARIATION",
+   "t": 135,
+   "bbox": [1220, 130, 600, 440],
+   "png": "frames/b19c_H0gzEaI14Qs/p0.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS",
+   "t": 220,
+   "bbox": [1220, 130, 600, 440],
+   "png": "frames/b19c_H0gzEaI14Qs/p1.png"
+  },
+  {
+   "label": "VERSE 1 TIMING",
+   "t": 2,
+   "bbox": [1022, 308, 880, 282],
+   "png": "frames/b19c_H0gzEaI14Qs/p2.png"
+  },
+  {
+   "label": "TAB  ·  BREAK LEAD",
+   "t": 48,
+   "bbox": [778, 150, 1142, 444],
+   "png": "frames/b19c_H0gzEaI14Qs/p3.png"
+  },
+  {
+   "label": "TAB  ·  POST CHORUS RIFF",
+   "t": 100,
+   "bbox": [544, 358, 1376, 236],
+   "png": "frames/b19c_H0gzEaI14Qs/p4.png"
+  },
+  {
+   "label": "TAB  ·  SOLO RIFF",
+   "t": 186,
+   "bbox": [544, 358, 1376, 236],
+   "png": "frames/b19c_H0gzEaI14Qs/p5.png"
+  }
+ ],
+ "note": "Chords: | Em G/B | C G/B | (verse, headed 'VERSE/BREAK/SOLO/OUTRO')  ·  | Em G/B | C | (verse variation)  ·  | D | Em | x3 / | D | C | (chorus)  ·  verse 1 timing table: CHORD Em ... G/B over COUNT 1 e + a 2 e + a 3 e + a 4 e + a, then CHORD C ... G/B over the same count  ·  Strumming: D---D-DU-UD--UDU - tip on screen: 'CHANGE CHORDS ON HIGHLIGHTED STRUM'",
+ "diagram": "LETTERS"
+}

@@ -1,0 +1,240 @@
+{
+ "title": "ALWAYS REMEMBER US THIS WAY",
+ "subtitle": "Lady Gaga  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Lady-Gaga-Always-Remember-Us-This-Way.png",
+ "panels": [
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  VERSE",
+   "t": 10,
+   "bbox": [
+    1200,
+    160,
+    580,
+    196
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p0.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  VERSE",
+   "t": 10,
+   "bbox": [
+    1200,
+    384,
+    580,
+    126
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p0b.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS",
+   "t": 40,
+   "bbox": [
+    1200,
+    160,
+    580,
+    196
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p1.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS",
+   "t": 40,
+   "bbox": [
+    1200,
+    384,
+    580,
+    126
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p1b.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1",
+   "t": 58,
+   "bbox": [
+    1200,
+    160,
+    580,
+    196
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p2.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS 1",
+   "t": 58,
+   "bbox": [
+    1200,
+    384,
+    580,
+    126
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p2b.png"
+  },
+  {
+   "label": "CHORD · TIMING · STRUM TABLE  ·  CHORUS 1",
+   "t": 50,
+   "bbox": [
+    1028,
+    348,
+    880,
+    206
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p3.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  VERSE (2nd pass)",
+   "t": 80,
+   "bbox": [
+    1200,
+    160,
+    580,
+    196
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p4.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  VERSE (2nd pass)",
+   "t": 80,
+   "bbox": [
+    1200,
+    384,
+    580,
+    126
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p4b.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS (2nd pass)",
+   "t": 100,
+   "bbox": [
+    1200,
+    160,
+    580,
+    196
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p5.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS (2nd pass)",
+   "t": 100,
+   "bbox": [
+    1200,
+    384,
+    580,
+    126
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p5b.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS 2",
+   "t": 116,
+   "bbox": [
+    1200,
+    160,
+    580,
+    196
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p6.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS 2",
+   "t": 116,
+   "bbox": [
+    1200,
+    384,
+    580,
+    126
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p6b.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  BRIDGE",
+   "t": 128,
+   "bbox": [
+    1200,
+    160,
+    580,
+    196
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p7.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  BRIDGE",
+   "t": 128,
+   "bbox": [
+    1200,
+    384,
+    580,
+    126
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p7b.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS (3rd pass)",
+   "t": 148,
+   "bbox": [
+    1200,
+    160,
+    580,
+    196
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p8.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS (3rd pass)",
+   "t": 148,
+   "bbox": [
+    1200,
+    384,
+    580,
+    126
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p8b.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS 3",
+   "t": 163,
+   "bbox": [
+    1200,
+    160,
+    580,
+    196
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p9.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS 3",
+   "t": 163,
+   "bbox": [
+    1200,
+    384,
+    580,
+    126
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p9b.png"
+  },
+  {
+   "label": "CHORD PATTERN  ·  OUTRO",
+   "t": 180,
+   "bbox": [
+    1200,
+    160,
+    580,
+    196
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p10.png"
+  },
+  {
+   "label": "CHORD · TIMING · STRUM TABLE  ·  OUTRO",
+   "t": 172,
+   "bbox": [
+    1028,
+    348,
+    880,
+    206
+   ],
+   "png": "frames/b19a_YGGjna1GkK0/p11.png"
+  }
+ ],
+ "note": "Chords read on screen: VERSE | Am | Am | F | F | over | C | C | G | G |  ·  PRECHORUS | F | F | C | C | over | Am | Am | G | G |  ·  CHORUS 1 | F G Am | F G C | over | F | G | C | C |  ·  BRIDGE | Bb | Bb | F | F | over | C | C | Bb | Bb | over | F | F | G | G |  ·  CHORUS 3 | F G Am | F G C | over | F | G | Am | Am |  ·  OUTRO | F G Am | F G C | over | F | G | and | F | Bb | F | C |   Strumming: D-D-D-D-DU - the same pattern is printed under the chords in every section of the video except the outro, where only the CHORD | TIMING | STRUM table is shown (no printed strumming pattern).   The video highlights the chord that is currently sounding in green and marks the current beat in the CHORD | TIMING | STRUM table (1+ 2+ 3+ 4+ over D - D D - D D DU).",
+ "diagram": "LETTERS"
+}

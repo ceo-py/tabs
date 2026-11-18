@@ -1,0 +1,39 @@
+{
+ "title": "LINGER",
+ "subtitle": "The Cranberries  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/The-Cranberries-Linger.png",
+ "panels": [
+  {
+   "label": "TAB  ·  INTRO",
+   "t": 10,
+   "bbox": [248, 558, 1672, 522],
+   "png": "frames/b19c_fXbr2C-X0qQ/p0.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  INTRO",
+   "t": 30,
+   "bbox": [248, 558, 1672, 522],
+   "png": "frames/b19c_fXbr2C-X0qQ/p1.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  VERSE",
+   "t": 70,
+   "bbox": [248, 558, 1672, 522],
+   "png": "frames/b19c_fXbr2C-X0qQ/p2.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS",
+   "t": 100,
+   "bbox": [248, 558, 1672, 522],
+   "png": "frames/b19c_fXbr2C-X0qQ/p3.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  BREAK",
+   "t": 190,
+   "bbox": [248, 558, 1672, 522],
+   "png": "frames/b19c_fXbr2C-X0qQ/p4.png"
+  }
+ ],
+ "note": "Chords: D and Dadd11 over the intro TAB staff ('let ring throughout', 4/4, quarter = 120 rall quarter = 90)  ·  | D | D | A | A | / | C | C | G | G | - the same chord pattern on the intro, verse, chorus and break panels, with the chord to play highlighted in green  ·  Strumming: D - DUD - DU - UD - DUDU on 1 e + a 2 e + a 3 e + a 4 e + a  ·  tips on screen: 'Play Dsus2 on highlighted strums (Optional)' (intro) and 'Play Cmaj7 on highlighted strums (Optional)' (break)",
+ "diagram": "LETTERS"
+}

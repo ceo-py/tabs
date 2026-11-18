@@ -1,0 +1,27 @@
+{
+ "title": "ANOTHER DAY IN PARADISE",
+ "subtitle": "Phil Collins  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Phil-Collins-Another-Day-In-Paradise.png",
+ "panels": [
+  {"label": "TAB  ·  INTRO", "t": 4,
+   "bbox": [248, 558, 1672, 310], "png": "frames/b19a_PTRyHY7apgY/p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 1", "t": 30,
+   "bbox": [248, 558, 1672, 522], "png": "frames/b19a_PTRyHY7apgY/p1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 64,
+   "bbox": [248, 558, 1672, 522], "png": "frames/b19a_PTRyHY7apgY/p2.png"},
+  {"label": "TAB  ·  BREAK", "t": 88,
+   "bbox": [248, 558, 1672, 310], "png": "frames/b19a_PTRyHY7apgY/p3.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 2", "t": 104,
+   "bbox": [248, 558, 1672, 522], "png": "frames/b19a_PTRyHY7apgY/p4.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE", "t": 160,
+   "bbox": [248, 558, 1672, 522], "png": "frames/b19a_PTRyHY7apgY/p5.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE 3", "t": 186,
+   "bbox": [248, 558, 1672, 522], "png": "frames/b19a_PTRyHY7apgY/p6.png"},
+  {"label": "TAB  ·  OUTRO", "t": 250,
+   "bbox": [248, 558, 1672, 310], "png": "frames/b19a_PTRyHY7apgY/p7.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BREAK (2nd pass)", "t": 400,
+   "bbox": [248, 558, 1672, 522], "png": "frames/b19a_PTRyHY7apgY/p8.png"}
+ ],
+ "note": "Chords read on screen.   TAB panels (INTRO, BREAK, OUTRO): the chord names printed above the 6-line TAB are Em, D, Am7, Em, D, Am7; the sheet is in 4/4 with 'Capo. fret 1' and rhythm stems under the bars.   Chord panels: VERSE 1 | Em | D Am7 | over | Em | D | (Repeat x4)  ·  VERSE 2 and VERSE 3 | Em | D Am7 | over | Em | D | (Repeat x2)  ·  CHORUS | Em | D | C | D | over | Em | D | C | with the continuation | D Em D C |  ·  BRIDGE | D | Em | D | G | over | D | Em | D | G | G |  ·  BREAK (2nd pass) | Em | D Am7 | (Repeat x4).   Strumming: DUDU - UDU over 1 + 2 + 3 + 4 + in the verse, chorus and bridge; DUDU | DUDU in the break, with the note 'Change chords on 3 beat'.   The video prints the chord that is currently sounding in green and the current stroke in black.   The whole lesson is played twice: the first pass runs t=0-258 and the second pass t=260-516 with the same sections.",
+ "diagram": "LETTERS"
+}

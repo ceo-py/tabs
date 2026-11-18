@@ -1,0 +1,119 @@
+{
+ "title": "SHALLOW",
+ "subtitle": "Lady Gaga & Bradley Cooper  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Lady-Gaga-Bradley-Cooper-Shallow.png",
+ "panels": [
+  {
+   "label": "TAB  ·  INTRO",
+   "t": 10,
+   "bbox": [
+    619,
+    115,
+    1300,
+    432
+   ],
+   "png": "frames/b19a_11plqWEM8cc/p0.png"
+  },
+  {
+   "label": "TAB  ·  VERSE",
+   "t": 40,
+   "bbox": [
+    619,
+    115,
+    1300,
+    226
+   ],
+   "png": "frames/b19a_11plqWEM8cc/p1.png"
+  },
+  {
+   "label": "TAB  ·  BREAK",
+   "t": 63,
+   "bbox": [
+    619,
+    115,
+    1300,
+    226
+   ],
+   "png": "frames/b19a_11plqWEM8cc/p2.png"
+  },
+  {
+   "label": "TAB  ·  GAGA PRECHORUS",
+   "t": 95,
+   "bbox": [
+    619,
+    115,
+    1300,
+    222
+   ],
+   "png": "frames/b19a_11plqWEM8cc/p3.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS",
+   "t": 120,
+   "bbox": [
+    1180,
+    162,
+    590,
+    140
+   ],
+   "png": "frames/b19a_11plqWEM8cc/p4.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS",
+   "t": 120,
+   "bbox": [
+    1200,
+    385,
+    580,
+    126
+   ],
+   "png": "frames/b19a_11plqWEM8cc/p4b.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  BRIDGE",
+   "t": 154,
+   "bbox": [
+    1180,
+    162,
+    590,
+    140
+   ],
+   "png": "frames/b19a_11plqWEM8cc/p5.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  BRIDGE",
+   "t": 154,
+   "bbox": [
+    1200,
+    385,
+    580,
+    150
+   ],
+   "png": "frames/b19a_11plqWEM8cc/p5b.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS (final)",
+   "t": 190,
+   "bbox": [
+    1180,
+    162,
+    590,
+    140
+   ],
+   "png": "frames/b19a_11plqWEM8cc/p6.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS (final)",
+   "t": 190,
+   "bbox": [
+    1200,
+    385,
+    580,
+    126
+   ],
+   "png": "frames/b19a_11plqWEM8cc/p6b.png"
+  }
+ ],
+ "note": "The video uses two different layouts.   TAB sheet (INTRO, VERSE, BREAK, GAGA PRECHORUS) - chord names printed above the 6-line TAB: Em7, D/F#, G, C, G, D.  The INTRO sheet shows Em7 D/F# G | C | G D with a 0h2p0 hammer-on in the D bar and a second line with Em7 D/F# G; the BREAK sheet shows Em7 D/F# G with X2; every bar is counted 1 + 2 + 3 + 4 +.   Chord overlay (CHORUS, BRIDGE, final CHORUS): CHORUS | Am | D | G D | Em |  ·  BRIDGE | Bm | D | A | Em | over | Bm | D | A |  ·  final CHORUS | Am2 | D2 | G1 D1 | Em2 |.   Strumming: D-DU-UDU (chorus)  ·  D-DU (chorus, later)  ·  bridge: ten down strokes D D D D D D D D D D with the accented strums printed in green under the caption 'ACCENT HIGHLIGHTED STRUMS'  ·  D-D-D-D-DU (final chorus).   The video highlights the chord that is currently sounding in green.",
+ "diagram": "LETTERS"
+}

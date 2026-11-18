@@ -1,0 +1,31 @@
+{
+ "title": "BITTER SWEET SYMPHONY",
+ "subtitle": "The Verve  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/The-Verve-Bitter-Sweet-Symphony.png",
+ "panels": [
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  MAIN PROGRESSION",
+   "t": 60,
+   "bbox": [
+    248,
+    558,
+    1672,
+    516
+   ],
+   "png": "frames/b19d_6L55fqx40eU/p0.png"
+  },
+  {
+   "label": "TAB  ·  MAIN PROGRESSION",
+   "t": 10,
+   "bbox": [
+    1120,
+    630,
+    690,
+    212
+   ],
+   "png": "frames/b19d_6L55fqx40eU/p1.png"
+  }
+ ],
+ "note": "Chords: | E | Esus4 | D | Asus2 | (main progression)  ·  the TAB box of the same screen repeats E, Esus4, D and Asus2 above the bars.  Strumming: D - DUDUD - - UDUDUDDU, counted 1 e + a 2 e + a 3 e + a 4 e + a; on-screen tip: 'Change chords on highlighted strum'.  The video shows only the 'Main Progression' screen (t=2-100) - there are no separate verse / chorus screens, the chord chart and the strum are simply highlighted as the loop plays.",
+ "diagram": "LETTERS"
+}

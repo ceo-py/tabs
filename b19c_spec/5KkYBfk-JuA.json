@@ -1,0 +1,45 @@
+{
+ "title": "BLACK MAGIC WOMAN",
+ "subtitle": "Santana  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Santana-Black-Magic-Woman.png",
+ "panels": [
+  {
+   "label": "TAB  ·  INTRO",
+   "t": 8,
+   "bbox": [182, 558, 1738, 522],
+   "png": "frames/b19c_5KkYBfk-JuA/p0.png"
+  },
+  {
+   "label": "TAB  ·  SOLO 1",
+   "t": 52,
+   "bbox": [182, 558, 1738, 522],
+   "png": "frames/b19c_5KkYBfk-JuA/p1.png"
+  },
+  {
+   "label": "TAB  ·  VERSE 1",
+   "t": 80,
+   "bbox": [182, 558, 1738, 522],
+   "png": "frames/b19c_5KkYBfk-JuA/p2.png"
+  },
+  {
+   "label": "TAB  ·  SOLO 2",
+   "t": 120,
+   "bbox": [182, 558, 1738, 522],
+   "png": "frames/b19c_5KkYBfk-JuA/p3.png"
+  },
+  {
+   "label": "TAB  ·  VERSE 3",
+   "t": 172,
+   "bbox": [182, 558, 1738, 522],
+   "png": "frames/b19c_5KkYBfk-JuA/p4.png"
+  },
+  {
+   "label": "TAB  ·  OUTRO",
+   "t": 192,
+   "bbox": [182, 558, 1738, 522],
+   "png": "frames/b19c_5KkYBfk-JuA/p5.png"
+  }
+ ],
+ "note": "Chords: Dm Gm A7 - chord names are printed only over the two verse systems: verse 1 = Dm Dm Gm Gm | Dm A7 Dm Dm, verse 3 = Dm Dm A7 A7 | Dm Dm Gm Gm  ·  Strumming: not shown in the video - there is no strumming panel, only up/down strum arrows, triplet brackets and bend / pull-off (full, P) marks under the TAB staff",
+ "diagram": "LETTERS"
+}

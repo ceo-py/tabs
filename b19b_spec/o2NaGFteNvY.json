@@ -1,0 +1,13 @@
+{
+ "title": "WISH YOU WERE HERE",
+ "subtitle": "Pink Floyd  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Pink-Floyd-Wish-You-Were-Here.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 100, "bbox": [236, 554, 1684, 516], "png": "frames/b19b_o2NaGFteNvY/p0.png"},
+  {"label": "TAB  ·  INTRO", "t": 20, "bbox": [236, 554, 1684, 512], "png": "frames/b19b_o2NaGFteNvY/p1.png"},
+  {"label": "TAB  ·  SOLO 2", "t": 155, "bbox": [0, 554, 1920, 514], "png": "frames/b19b_o2NaGFteNvY/p2.png"},
+  {"label": "TAB  ·  OUTRO", "t": 245, "bbox": [236, 554, 1684, 504], "png": "frames/b19b_o2NaGFteNvY/p3.png"}
+ ],
+ "note": "Chords: Em7 G A7sus4 (intro / solo / outro TAB) · C D/F# Am G (verse chord chart)   Strumming: D-D-D-DU, played twice for each chord (verse) · D / DU / UD written under each measure (intro & outro TAB)",
+ "diagram": "LETTERS"
+}

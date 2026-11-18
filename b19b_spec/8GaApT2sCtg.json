@@ -1,0 +1,13 @@
+{
+ "title": "LOSING MY RELIGION",
+ "subtitle": "R.E.M.  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/R-E-M-Losing-My-Religion.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 30, "bbox": [248, 558, 1672, 486], "png": "frames/b19b_8GaApT2sCtg/p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 86, "bbox": [248, 558, 1672, 516], "png": "frames/b19b_8GaApT2sCtg/p1.png"},
+  {"label": "CHORD PATTERN & TAB  ·  BRIDGE", "t": 182, "bbox": [248, 558, 1672, 496], "png": "frames/b19b_8GaApT2sCtg/p2.png"},
+  {"label": "TAB  ·  OUTRO", "t": 266, "bbox": [254, 558, 1666, 502], "png": "frames/b19b_8GaApT2sCtg/p3.png"}
+ ],
+ "note": "Chords: Am Em Dm G (verse, repeat x3) · F G Am G (intro & chorus) · Am G F G / C Dm C Dm (bridge) · F D5 Am C/B C / F D5 Am G (final chorus)   Strumming: D-D-DUDU-UD-DUDU (verse) · D-DUDUDU-UDUD-DU (chorus & intro) · D-DU / D-DU / D-DU / DUUWU (final chorus)",
+ "diagram": "LETTERS"
+}

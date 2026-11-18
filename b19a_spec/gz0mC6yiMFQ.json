@@ -1,0 +1,21 @@
+{
+ "title": "I'LL NEVER LOVE AGAIN",
+ "subtitle": "Lady Gaga  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Lady-Gaga-Ill-Never-Love-Again.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE/CHORUS", "t": 10,
+   "bbox": [1200, 160, 580, 196], "png": "frames/b19a_gz0mC6yiMFQ/p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE/CHORUS", "t": 10,
+   "bbox": [1200, 384, 580, 126], "png": "frames/b19a_gz0mC6yiMFQ/p0b.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE", "t": 200,
+   "bbox": [1200, 160, 580, 196], "png": "frames/b19a_gz0mC6yiMFQ/p1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE", "t": 200,
+   "bbox": [1200, 384, 580, 126], "png": "frames/b19a_gz0mC6yiMFQ/p1b.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE/CHORUS (2nd part)", "t": 250,
+   "bbox": [1200, 160, 580, 196], "png": "frames/b19a_gz0mC6yiMFQ/p2.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE/CHORUS (2nd part)", "t": 250,
+   "bbox": [1200, 384, 580, 126], "png": "frames/b19a_gz0mC6yiMFQ/p2b.png"}
+ ],
+ "note": "Chords read on screen: VERSE/CHORUS | G | G | Em | Em | over | C | C | D | D |  ·  BRIDGE | Em | Em | G | G | over | F | F | C | C |   Strumming: D-D-D-D-DU - the same pattern is printed under the chords in every section of the video.   The video highlights the chord that is currently sounding in green and the current strum in white.   The last minute of the video (from t=276) shows the outro talk and the subscribe / end screen - no chords and no strumming pattern are on screen there, so no outro panel is included.",
+ "diagram": "LETTERS"
+}

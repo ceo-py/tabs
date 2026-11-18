@@ -3210,6 +3210,36 @@
   "card": "out_gz/Jos-Gonzlez-Heartbeats.png"
  },
  {
+  "id": "YGGjna1GkK0",
+  "title": "Always Remember Us This Way",
+  "artist": "Lady Gaga",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=YGGjna1GkK0",
+  "card": "out_gz/Lady-Gaga-Always-Remember-Us-This-Way.png"
+ },
+ {
+  "id": "gz0mC6yiMFQ",
+  "title": "I'll Never Love Again",
+  "artist": "Lady Gaga",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=gz0mC6yiMFQ",
+  "card": "out_gz/Lady-Gaga-Ill-Never-Love-Again.png"
+ },
+ {
+  "id": "11plqWEM8cc",
+  "title": "Shallow",
+  "artist": "Lady Gaga & Bradley Cooper",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=11plqWEM8cc",
+  "card": "out_gz/Lady-Gaga-Bradley-Cooper-Shallow.png"
+ },
+ {
   "id": "RlPlrXH1QGs",
   "title": "Crawling",
   "artist": "Linkin Park",
@@ -3420,6 +3450,26 @@
   "card": "out_gz/Pearl-Jam-Last-Kiss.png"
  },
  {
+  "id": "PTRyHY7apgY",
+  "title": "Another Day In Paradise",
+  "artist": "Phil Collins",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=PTRyHY7apgY",
+  "card": "out_gz/Phil-Collins-Another-Day-In-Paradise.png"
+ },
+ {
+  "id": "o2NaGFteNvY",
+  "title": "Wish You Were Here",
+  "artist": "Pink Floyd",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=o2NaGFteNvY",
+  "card": "out_gz/Pink-Floyd-Wish-You-Were-Here.png"
+ },
+ {
   "id": "VHZXP8MCrQg",
   "title": "Bohemian Rhapsody",
   "artist": "Queen",
@@ -3470,6 +3520,16 @@
   "card": "out/REM-Losing-My-Religion.png"
  },
  {
+  "id": "8GaApT2sCtg",
+  "title": "Losing My Religion",
+  "artist": "R.E.M.",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=8GaApT2sCtg",
+  "card": "out_gz/R-E-M-Losing-My-Religion.png"
+ },
+ {
   "id": "UDwjKCZJKYs",
   "title": "Fake Plastic Trees",
   "artist": "Radiohead",
@@ -3488,6 +3548,16 @@
   "channel": "GuitarZero2HeroExpress",
   "url": "https://www.youtube.com/watch?v=FJq0qfTcGok",
   "card": "out_gz/Radiohead-No-Surprises.png"
+ },
+ {
+  "id": "_9K3nBCkwbs",
+  "title": "Killing In The Name",
+  "artist": "Rage Against The Machine",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=_9K3nBCkwbs",
+  "card": "out_gz/Rage-Against-The-Machine-Killing-In-The-Name.png"
  },
  {
   "id": "G8wYxJrXAIk",
@@ -3570,6 +3640,46 @@
   "card": "out_gz/Red-Hot-Chili-Peppers-Under-The-Bridge.png"
  },
  {
+  "id": "UPzmTGOI6zQ",
+  "title": "Everybody Hurts",
+  "artist": "REM",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=UPzmTGOI6zQ",
+  "card": "out_gz/REM-Everybody-Hurts.png"
+ },
+ {
+  "id": "5KkYBfk-JuA",
+  "title": "Black Magic Woman",
+  "artist": "Santana",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=5KkYBfk-JuA",
+  "card": "out_gz/Santana-Black-Magic-Woman.png"
+ },
+ {
+  "id": "0P8y_Dgrjic",
+  "title": "You're Still The One",
+  "artist": "Shania Twain",
+  "tag": "Tabs + Chords",
+  "rock": false,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=0P8y_Dgrjic",
+  "card": "out_gz/Shania-Twain-Youre-Still-The-One.png"
+ },
+ {
+  "id": "H0gzEaI14Qs",
+  "title": "Snuff",
+  "artist": "Slipknot",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=H0gzEaI14Qs",
+  "card": "out_gz/Slipknot-Snuff.png"
+ },
+ {
   "id": "rYbw1IWKN1o",
   "title": "Bother",
   "artist": "Stone Sour",
@@ -3590,6 +3700,16 @@
   "card": "out_gz/Stone-Sour-Through-Glass.png"
  },
  {
+  "id": "fXbr2C-X0qQ",
+  "title": "Linger",
+  "artist": "The Cranberries",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=fXbr2C-X0qQ",
+  "card": "out_gz/The-Cranberries-Linger.png"
+ },
+ {
   "id": "Eagles-Hotel-California-Short.png",
   "title": "Hotel California",
   "artist": "The Eagles",
@@ -3608,6 +3728,16 @@
   "channel": "BernadetteTeachesMusic",
   "url": "https://www.youtube.com/watch?v=Hotel-Calif",
   "card": "out/Hotel-California.png"
+ },
+ {
+  "id": "Eaphw1pgJcI",
+  "title": "Gone Away",
+  "artist": "The Offspring",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=Eaphw1pgJcI",
+  "card": "out_gz/The-Offspring-Gone-Away.png"
  },
  {
   "id": "JvRLYuiyURk",
@@ -3690,6 +3820,16 @@
   "card": "out_gz/The-Smashing-Pumpkins-Tonight-Tonight.png"
  },
  {
+  "id": "6L55fqx40eU",
+  "title": "Bitter Sweet Symphony",
+  "artist": "The Verve",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=6L55fqx40eU",
+  "card": "out_gz/The-Verve-Bitter-Sweet-Symphony.png"
+ },
+ {
   "id": "White-Stripes-Were-Going-To-Be-Friends.png",
   "title": "We're Going To Be Friends",
   "artist": "The White Stripes",
@@ -3698,6 +3838,16 @@
   "channel": "BernadetteTeachesMusic",
   "url": "https://www.youtube.com/watch?v=White-Strip",
   "card": "out/White-Stripes-Were-Going-To-Be-Friends.png"
+ },
+ {
+  "id": "TZHzhSixBeo",
+  "title": "Fast Car",
+  "artist": "Tracy Chapman",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=TZHzhSixBeo",
+  "card": "out_gz/Tracy-Chapman-Fast-Car.png"
  },
  {
   "id": "MmmhEd7j8K8",
@@ -3728,5 +3878,15 @@
   "channel": "GuitarZero2HeroExpress",
   "url": "https://www.youtube.com/watch?v=YXHCL2Y-e0U",
   "card": "out_gz/U2-With-Or-Without-You.png"
+ },
+ {
+  "id": "gvVXbxDzco0",
+  "title": "Teenage Dirtbag",
+  "artist": "Wheatus",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "GuitarZero2HeroExpress",
+  "url": "https://www.youtube.com/watch?v=gvVXbxDzco0",
+  "card": "out_gz/Wheatus-Teenage-Dirtbag.png"
  }
 ]

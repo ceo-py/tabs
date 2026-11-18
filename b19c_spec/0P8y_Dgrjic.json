@@ -1,0 +1,45 @@
+{
+ "title": "YOU'RE STILL THE ONE",
+ "subtitle": "Shania Twain  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Shania-Twain-Youre-Still-The-One.png",
+ "panels": [
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  INTRO",
+   "t": 4,
+   "bbox": [250, 558, 1670, 522],
+   "png": "frames/b19c_0P8y_Dgrjic/p0.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  VERSE",
+   "t": 20,
+   "bbox": [250, 558, 1670, 522],
+   "png": "frames/b19c_0P8y_Dgrjic/p1.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS",
+   "t": 40,
+   "bbox": [250, 558, 1670, 522],
+   "png": "frames/b19c_0P8y_Dgrjic/p2.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  CHORUS",
+   "t": 168,
+   "bbox": [250, 558, 1670, 522],
+   "png": "frames/b19c_0P8y_Dgrjic/p3.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  BRIDGE",
+   "t": 146,
+   "bbox": [250, 558, 1670, 522],
+   "png": "frames/b19c_0P8y_Dgrjic/p4.png"
+  },
+  {
+   "label": "TAB  ·  OUTRO",
+   "t": 190,
+   "bbox": [250, 558, 1670, 522],
+   "png": "frames/b19c_0P8y_Dgrjic/p5.png"
+  }
+ ],
+ "note": "Chords: D | D/F# | G | A (intro and verse)  ·  D | G | A | A / D | G | A | G (prechorus)  ·  D | G | Em | A / D | G | A | G A / D | G | Em | A / D | G | A | A (chorus)  ·  D | G | A | A (bridge)  ·  D | D/F# | TAB (outro TAB staff)  ·  Strumming: D - DUDUDU on every chord-pattern panel, with the chord to play highlighted in green - tip on the chorus panel: 'CHANGE CHORDS ON HIGHLIGHTED STRUM'  ·  Capo on 1st fret (shown on the fret diagram at the left of the frame)",
+ "diagram": "LETTERS"
+}

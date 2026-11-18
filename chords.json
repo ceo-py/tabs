@@ -2341,6 +2341,27 @@
   "D",
   "B7"
  ],
+ "out_gz/Lady-Gaga-Always-Remember-Us-This-Way.png": [
+  "Am",
+  "F",
+  "C",
+  "G",
+  "Bb"
+ ],
+ "out_gz/Lady-Gaga-Bradley-Cooper-Shallow.png": [
+  "Em7",
+  "D/F#",
+  "G",
+  "C",
+  "D"
+ ],
+ "out_gz/Lady-Gaga-Ill-Never-Love-Again.png": [
+  "G",
+  "Em",
+  "C",
+  "D",
+  "F"
+ ],
  "out_gz/Linkin-Park-Crawling.png": [
   "Am",
   "F",
@@ -2477,6 +2498,20 @@
   "C",
   "D"
  ],
+ "out_gz/Phil-Collins-Another-Day-In-Paradise.png": [
+  "Em",
+  "D",
+  "Am7",
+  "C",
+  "G"
+ ],
+ "out_gz/Pink-Floyd-Wish-You-Were-Here.png": [
+  "Em7",
+  "G",
+  "C",
+  "D/F#",
+  "Am"
+ ],
  "out_gz/Queen-Bohemian-Rhapsody.png": [
   "Em7/G",
   "A7",
@@ -2514,6 +2549,25 @@
   "G",
   "C",
   "Bb"
+ ],
+ "out_gz/R-E-M-Losing-My-Religion.png": [
+  "Am",
+  "Em",
+  "Dm",
+  "G",
+  "F",
+  "C",
+  "D5",
+  "C/B"
+ ],
+ "out_gz/REM-Everybody-Hurts.png": [
+  "D",
+  "G",
+  "Em",
+  "A",
+  "F#",
+  "Bm",
+  "C"
  ],
  "out/REM-Losing-My-Religion.png": [
   "Am",
@@ -2603,6 +2657,24 @@
   "G6",
   "Fmaj7"
  ],
+ "out_gz/Santana-Black-Magic-Woman.png": [
+  "Dm",
+  "Gm",
+  "A7"
+ ],
+ "out_gz/Shania-Twain-Youre-Still-The-One.png": [
+  "D",
+  "D/F#",
+  "G",
+  "A",
+  "Em"
+ ],
+ "out_gz/Slipknot-Snuff.png": [
+  "Em",
+  "G/B",
+  "C",
+  "D"
+ ],
  "out_gz/Stone-Sour-Bother.png": [
   "Ebm7",
   "Db/Eb",
@@ -2625,6 +2697,19 @@
   "G",
   "A",
   "Em"
+ ],
+ "out_gz/The-Cranberries-Linger.png": [
+  "D",
+  "Dadd11",
+  "A",
+  "C",
+  "G"
+ ],
+ "out_gz/The-Offspring-Gone-Away.png": [
+  "F5",
+  "Ab5",
+  "Eb5",
+  "Bb5"
  ],
  "out_gz/The-Police-Every-Breath-You-Take-Acoustic.png": [
   "Gadd9",
@@ -2683,6 +2768,18 @@
   "Em7",
   "B13"
  ],
+ "out_gz/The-Verve-Bitter-Sweet-Symphony.png": [
+  "E",
+  "Esus4",
+  "D",
+  "Asus2"
+ ],
+ "out_gz/Tracy-Chapman-Fast-Car.png": [
+  "C",
+  "G",
+  "Em",
+  "D"
+ ],
  "out_gz/U2-I-Still-Havent-Found-What-Im-Looking-For.png": [
   "C",
   "Fsus2",
@@ -2701,6 +2798,12 @@
   "A",
   "Bm7",
   "G"
+ ],
+ "out_gz/Wheatus-Teenage-Dirtbag.png": [
+  "E",
+  "Bsus4",
+  "Asus2",
+  "C#m7"
  ],
  "out/White-Stripes-Were-Going-To-Be-Friends.png": [
   "G",

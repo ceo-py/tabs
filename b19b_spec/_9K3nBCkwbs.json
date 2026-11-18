@@ -1,0 +1,13 @@
+{
+ "title": "KILLING IN THE NAME",
+ "subtitle": "Rage Against The Machine  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Rage-Against-The-Machine-Killing-In-The-Name.png",
+ "panels": [
+  {"label": "TAB  ·  INTRO 1", "t": 8, "bbox": [178, 558, 1742, 282], "png": "frames/b19b__9K3nBCkwbs/p0.png"},
+  {"label": "TAB  ·  VERSE 1", "t": 60, "bbox": [178, 558, 1742, 494], "png": "frames/b19b__9K3nBCkwbs/p1.png"},
+  {"label": "TAB  ·  CHORUS 1", "t": 125, "bbox": [178, 558, 1742, 494], "png": "frames/b19b__9K3nBCkwbs/p2.png"},
+  {"label": "TAB  ·  SOLO", "t": 245, "bbox": [178, 558, 1742, 496], "png": "frames/b19b__9K3nBCkwbs/p3.png"}
+ ],
+ "note": "Chords: not shown in the video - TAB notation only   Strumming: not shown in the video - TAB notation only (TAB marks H = hammer-on, P = pull-off, P.M. = palm mute and tempo marks 110 / 90 / 121)",
+ "diagram": "NONE"
+}

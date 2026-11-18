@@ -1,0 +1,14 @@
+{
+ "title": "TEENAGE DIRTBAG",
+ "subtitle": "Wheatus  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/Wheatus-Teenage-Dirtbag.png",
+ "panels": [
+  {"label": "CHORD PATTERN & STRUMMING  ·  VERSE", "t": 14, "bbox": [1100, 0, 820, 560], "png": "frames/b19d_gvVXbxDzco0/p0.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  PRECHORUS", "t": 34, "bbox": [1100, 0, 820, 560], "png": "frames/b19d_gvVXbxDzco0/p1.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  CHORUS", "t": 50, "bbox": [1100, 0, 820, 560], "png": "frames/b19d_gvVXbxDzco0/p2.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  BRIDGE", "t": 126, "bbox": [1010, 0, 910, 560], "png": "frames/b19d_gvVXbxDzco0/p3.png"},
+  {"label": "CHORD PATTERN & STRUMMING  ·  OUTRO", "t": 216, "bbox": [1100, 0, 820, 560], "png": "frames/b19d_gvVXbxDzco0/p4.png"}
+ ],
+ "note": "Chords: verse | E | Bsus4 | E | Asus2 |  ·  prechorus | C#m7 | Asus2 | Bsus4 | Bsus4 | x2  ·  chorus | E | Asus2 | Bsus4 | Riff | x3  +  | E | Asus2 | Bsus4 | Ex. Riff |  ·  bridge | E Bsus4 Asus2 | x3  +  | Ex. Riff |  ·  outro | E | Bsus4 | E | Asus2 |  +  | E | Bsus4 | E | Outro Riff |.  Strumming: D-D-X--U (verse, prechorus, outro)  ·  bridge table - CHORD: E Bsus4 Asus2 and STRUM: D - D - D - D - - - D - D - DU.  The chorus screen also shows a RIFF TAB box (e B G D A E with /4, 6 and 4).",
+ "diagram": "LETTERS"
+}

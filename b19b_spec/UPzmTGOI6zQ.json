@@ -1,0 +1,13 @@
+{
+ "title": "EVERYBODY HURTS",
+ "subtitle": "REM  ·  Guitar Cover  ·  Tabs + Chords  ·  GuitarZero2HeroExpress",
+ "out": "out_gz/REM-Everybody-Hurts.png",
+ "panels": [
+  {"label": "TAB & CHORDS  ·  INTRO", "t": 10, "bbox": [254, 560, 1666, 298], "png": "frames/b19b_UPzmTGOI6zQ/p0.png"},
+  {"label": "TAB & CHORDS  ·  CHORUS", "t": 50, "bbox": [254, 560, 1666, 514], "png": "frames/b19b_UPzmTGOI6zQ/p1.png"},
+  {"label": "TAB & CHORDS  ·  BRIDGE", "t": 150, "bbox": [254, 560, 1666, 514], "png": "frames/b19b_UPzmTGOI6zQ/p2.png"},
+  {"label": "TAB & CHORDS  ·  OUTRO", "t": 250, "bbox": [254, 560, 1666, 298], "png": "frames/b19b_UPzmTGOI6zQ/p3.png"}
+ ],
+ "note": "Chords: D G (intro, verse & outro) · Em A (chorus, x2) · F# Bm C G (bridge, x3)   Strumming: not shown in the video - TAB notation only",
+ "diagram": "LETTERS"
+}
