@@ -1,0 +1,51 @@
+{
+ "title": "DIGSY'S DINNER",
+ "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  G.S.N. Tabs",
+ "out": "out_gz/Oasis-Digsy-s-Dinner.png",
+ "panels": [
+  {
+   "label": "TAB  ·  INTRO",
+   "t": 3,
+   "bbox": [0, 360, 1280, 268],
+   "png": "frames/b21a_ILwkE8olT7I/p0.png"
+  },
+  {
+   "label": "TAB  ·  VERSE 1",
+   "t": 30,
+   "bbox": [0, 360, 1280, 268],
+   "png": "frames/b21a_ILwkE8olT7I/p1.png"
+  },
+  {
+   "label": "TAB  ·  CHORUS 1",
+   "t": 57,
+   "bbox": [0, 360, 1280, 268],
+   "png": "frames/b21a_ILwkE8olT7I/p2.png"
+  },
+  {
+   "label": "TAB  ·  VERSE 2",
+   "t": 72,
+   "bbox": [0, 360, 1280, 268],
+   "png": "frames/b21a_ILwkE8olT7I/p3.png"
+  },
+  {
+   "label": "TAB  ·  SOLO",
+   "t": 84,
+   "bbox": [0, 360, 1280, 268],
+   "png": "frames/b21a_ILwkE8olT7I/p4.png"
+  },
+  {
+   "label": "TAB  ·  CHORUS 2",
+   "t": 99,
+   "bbox": [0, 360, 1280, 268],
+   "png": "frames/b21a_ILwkE8olT7I/p5.png"
+  },
+  {
+   "label": "TAB  ·  VERSE 3",
+   "t": 111,
+   "bbox": [0, 360, 1280, 268],
+   "png": "frames/b21a_ILwkE8olT7I/p6.png"
+  }
+ ],
+ "note": "Chords: Intro A C#7 D Dsus2   Verse 1 A Asus4 C#7   Chorus 1 D7 A Asus4 E E7 F#m   Verse 2 C#7 A D Dsus2   Solo A Asus4 C#7 D   Chorus 2 D7 A Asus4 F#m   Verse 3 Bm7 C#7 A   Strumming: not shown in the video - TAB notation only   On screen: section titles Intro, Verse 1, Chorus 1, Verse 2, Solo, Chorus 2 and Verse 3, TAB clef with 4/4 time signature, tempo 140   Layout: a rolling TAB strip scrolls under the performance video, the scrolling captions run in a black band at the bottom of the frame",
+ "diagram": "LETTERS"
+}

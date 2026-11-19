@@ -1,0 +1,33 @@
+{
+ "title": "ACQUIESCE",
+ "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  G.S.N. Tabs",
+ "out": "out_gz/Oasis-Acquiesce.png",
+ "panels": [
+  {
+   "label": "TAB  ·  TEMPO 112  ·  BARS 1-4",
+   "t": 2,
+   "bbox": [0, 360, 1280, 268],
+   "png": "frames/b21a_oE6uuH-eKHI/p0.png"
+  },
+  {
+   "label": "TAB  ·  LET RING (full)  ·  BARS 9-12",
+   "t": 20,
+   "bbox": [0, 360, 1280, 268],
+   "png": "frames/b21a_oE6uuH-eKHI/p1.png"
+  },
+  {
+   "label": "TAB  ·  HARMONICS (H)  ·  BARS 36-38",
+   "t": 75,
+   "bbox": [0, 360, 1280, 268],
+   "png": "frames/b21a_oE6uuH-eKHI/p2.png"
+  },
+  {
+   "label": "TAB  ·  TEMPO 71  ·  BARS 116-120",
+   "t": 250,
+   "bbox": [0, 360, 1280, 268],
+   "png": "frames/b21a_oE6uuH-eKHI/p3.png"
+  }
+ ],
+ "note": "Chords: not shown in the video - TAB notation only   Strumming: not shown in the video - TAB notation only   On screen: TAB clef with 4/4 time signature, tempo 112 then 89 then 71, let ring marked 'full', natural harmonics marked 'H', 1/2 and 1/4 bends   Layout: a rolling TAB strip scrolls under the performance video, the scrolling captions run in a black band at the bottom of the frame   Note: the video shows no section titles, the panels are labelled with the tempo and bar numbers printed on the TAB",
+ "diagram": "DIAGRAM"
+}
