@@ -478,7 +478,7 @@ py -3.14 _oasis_coverage.py
 | Acquiesce | Oasis | G.S.N. Tabs | `oE6uuH-eKHI` | `out_gz/Oasis-Acquiesce.png` |
 | Digsy's Dinner | Oasis | G.S.N. Tabs | `ILwkE8olT7I` | `out_gz/Oasis-Digsy-s-Dinner.png` |
 | The Hindu Times | Oasis | Behnam Guitar Tabs | `GwSh_jC4xqY` | `out_gz/Oasis-The-Hindu-Times.png` |
-| Who Feels Love? | Oasis | Wayne R Guitar | `zYP0Npys8s4` | `out_gz/Oasis-Who-Feels-Love.png` |
+| Who Feels Love? | Oasis | ~~Wayne R Guitar~~ → **Fretboard Fundamentals** | `WPupZKbRTvo` | `out_gz/Oasis-Who-Feels-Love.png` |
 | Love Like A Bomb | Oasis | Fretboard Fundamentals | `7Fc5KPnarJo` | `out_gz/Oasis-Love-Like-A-Bomb.png` |
 | Instant Karma | John Lennon | Top Guitar Players | `2lc9NwgCwmA` | `out_gz/Oasis-Instant-Karma.png` |
 
@@ -486,23 +486,41 @@ py -3.14 _oasis_coverage.py
 `_oasis_songs.py` са записани неточно като „The Hindu" и „Who Feels It") — коригирай при
 следваща итерация.
 
+⚠️ **Who Feels Love? смени източника.** Първият избор (`zYP0Npys8s4`, Wayne R Guitar) се оказа
+видео **без никаква нотация** — пълно сканиране на 662-те кадра (1 fps) не намери нито TAB,
+нито имена на акорди, нито грифни диаграми, нито текстов overlay. Вместо празна карта е
+използвана версията от **Fretboard Fundamentals** (`WPupZKbRTvo`) — същия канал и layout като
+Love Like A Bomb. Старите spec и PNG са изтрити (recoverable delete).
+
 ### Нови канали (добавени в `site_build.py` → `CHANNEL_URLS`)
 
-| канал | channel id |
-|---|---|
-| G.S.N. Tabs | `UCJ4ZRv0jfD8MmBD1s2CRUPg` |
-| Behnam Guitar Tabs | `UC2JWSXBqH8Ihwy9f5kmHAWw` |
-| Wayne R Guitar | `UCwTczAeQtEqoSqOc5ouSqwQ` |
-| Fretboard Fundamentals | `UCFcJJp4uBTXN3_j5kBjNzIw` |
-| Top Guitar Players | `UCpMKt1zAnRPjwpk3RLr439g` |
+| канал | channel id | уроци |
+|---|---|---|
+| G.S.N. Tabs | `UCJ4ZRv0jfD8MmBD1s2CRUPg` | 2 |
+| Behnam Guitar Tabs | `UC2JWSXBqH8Ihwy9f5kmHAWw` | 1 |
+| Fretboard Fundamentals | `UCFcJJp4uBTXN3_j5kBjNzIw` | 2 |
+| Top Guitar Players | `UCpMKt1zAnRPjwpk3RLr439g` | 1 |
+| Wayne R Guitar | `UCwTczAeQtEqoSqOc5ouSqwQ` | 0 (източникът е заменен) |
 
 ### Състояние
 
 * ✅ манифест `gz_batches/batch21.json` + `batch21_ids.txt` (6 урока)
 * ✅ 6/6 видеа свалени в `dl/w4_<ID>.mp4`
-* ✅ `B21-BRIEF.md` — бриф за агентите (5 namespace-а: b21a…b21c)
-* 🔄 агентите работят
+* ✅ `B21-BRIEF.md` — бриф за агентите (namespace-и b21a…b21c)
+* ✅ 5/6 карти построени и машинно проверени (`_b21_check.py` → 0 проблема):
+  Acquiesce=DIAGRAM, Digsy's Dinner=LETTERS, The Hindu Times=LETTERS,
+  Love Like A Bomb=LETTERS, Instant Karma=DIAGRAM
+* 🔄 Who Feels Love? (новата версия) се строи · 🔄 независим одит на 5-те готови карти
 * ⏳ след тях: `chords_diagram_p23.json` → pipeline → 410 + 6 = **416** карти → commit + push
+
+### Важно: видеата не са еднакви по размер
+
+* **G.S.N. Tabs** — 1280×720 (rolling tab strip на `y 360..627`)
+* **Wayne R Guitar** — 1280×720
+* **Behnam Guitar Tabs**, **Fretboard Fundamentals**, **Top Guitar Players** — 1920×1080
+
+Всички bbox-и са преизмерени в пространството на съответното видео — брифът предполага
+1920×1080, но това не важи за всички.
 
 ### Важно за `import_cards.py`
 
