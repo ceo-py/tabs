@@ -104,6 +104,13 @@
   "card_artist": "Dolly Parton",
   "card_title": "Jolene"
  },
+ "https://www.youtube.com/watch?v=77GKbVesERM": {
+  "channel": "CWZ Guitar",
+  "title": "Oasis Live Forever Guitar Chords Lesson & Tab Tutorial + Solo / Rick and Morty",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Live Forever"
+ },
  "https://www.youtube.com/watch?v=ULdmqHIfHeU": {
   "channel": "CWZ Guitar",
   "title": "Bob Dylan Knockin On Heaven's Door Guitar Chords Lesson & Tab Tutorial also by Guns n Roses",
@@ -1763,6 +1770,20 @@
   "card_artist": "Blink-182",
   "card_title": "What's My Age Again"
  },
+ "https://www.youtube.com/watch?v=GMq1kz1ORJs": {
+  "channel": "guitar cover with tabs & chords",
+  "title": "Oasis – Rock 'N' Roll Star (guitar cover with tabs & chords)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Rock 'n' Roll Star"
+ },
+ "https://www.youtube.com/watch?v=BYLzgA94yxU": {
+  "channel": "guitar cover with tabs & chords",
+  "title": "Oasis - D'you Know What I Mean? (guitar cover with tabs & chords)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "D'You Know What I Mean?"
+ },
  "https://www.youtube.com/watch?v=fSxo-pH2WQ8": {
   "channel": "guitar cover with tabs & chords",
   "title": "Red Hot Chili Peppers - The Zephyr Song (guitar cover with tabs & chords)",
@@ -1798,6 +1819,13 @@
   "card_artist": "Arctic Monkeys",
   "card_title": "I Wanna Be Yours"
  },
+ "https://www.youtube.com/watch?v=d1RxW2VIVcI": {
+  "channel": "guitar cover with tabs & chords",
+  "title": "Oasis - Slide Away (guitar cover with tabs & chords)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Slide Away"
+ },
  "https://www.youtube.com/watch?v=lR-81dPzAuc": {
   "channel": "guitar cover with tabs & chords",
   "title": "Bee Gees - How Deep Is Your Love (guitar cover with tabs & chords)",
@@ -1818,6 +1846,13 @@
   "match": "exact",
   "card_artist": "Radiohead",
   "card_title": "No Surprises"
+ },
+ "https://www.youtube.com/watch?v=3dARZh-lqAI": {
+  "channel": "guitar cover with tabs & chords",
+  "title": "Oasis - Champagne Supernova (guitar cover with tabs & chords)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Champagne Supernova"
  },
  "https://www.youtube.com/watch?v=P1gtyL3lhNg": {
   "channel": "guitar cover with tabs & chords",
@@ -1853,6 +1888,13 @@
   "match": "exact",
   "card_artist": "John Mayer",
   "card_title": "New Light"
+ },
+ "https://www.youtube.com/watch?v=CNNKH_oWCK0": {
+  "channel": "guitar cover with tabs & chords",
+  "title": "Oasis - Live Forever (guitar cover with tabs & chords)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Live Forever"
  },
  "https://www.youtube.com/watch?v=9ubWfaOQGx8": {
   "channel": "guitar cover with tabs & chords",
@@ -2043,6 +2085,13 @@
   "card_artist": "Oasis",
   "card_title": "Don't Look Back In Anger"
  },
+ "https://www.youtube.com/watch?v=iop2pF2hyw8": {
+  "channel": "guitar cover with tabs & chords",
+  "title": "Oasis - I Hope, I Think, I Know (guitar cover with tabs & chords)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "I Hope, I Think, I Know"
+ },
  "https://www.youtube.com/watch?v=x2lCWiN3Nyk": {
   "channel": "guitar cover with tabs & chords",
   "title": "The Chainsmokers & Coldplay - Something just like this (guitar cover with tabs & chords)",
@@ -2056,6 +2105,13 @@
   "match": "exact",
   "card_artist": "The Smashing Pumpkins",
   "card_title": "1979"
+ },
+ "https://www.youtube.com/watch?v=01gU00k6rY4": {
+  "channel": "guitar cover with tabs & chords",
+  "title": "Oasis - Morning Glory (guitar cover with tabs & chords)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Morning Glory"
  },
  "https://www.youtube.com/watch?v=QjoLdI9oWw0": {
   "channel": "guitar cover with tabs & chords",
@@ -2077,6 +2133,13 @@
   "match": "exact",
   "card_artist": "Joji",
   "card_title": "Glimpse Of Us"
+ },
+ "https://www.youtube.com/watch?v=XEyu6iQQURo": {
+  "channel": "guitar cover with tabs & chords",
+  "title": "Oasis - Supersonic (guitar cover with tabs & chords)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Supersonic"
  },
  "https://www.youtube.com/watch?v=zBvLHj2D-PM": {
   "channel": "guitar cover with tabs & chords",
@@ -5242,6 +5305,13 @@
   "card_artist": "Green Day",
   "card_title": "Holiday"
  },
+ "https://www.youtube.com/watch?v=qPTV5wkocv0": {
+  "channel": "Lex Guitar Tabs",
+  "title": "Some Might Say - Oasis | Tabs | Guitar Lesson | Cover | Tutorial | Solo | All Guitar Parts",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Some Might Say"
+ },
  "https://www.youtube.com/watch?v=H_okwreVK-U": {
   "channel": "Lex Guitar Tabs",
   "title": "Last Kiss - Pearl Jam | Tabs + Chords | Guitar Lesson | Cover | Tutorial | Solo | All Guitar Parts",
@@ -5263,12 +5333,26 @@
   "card_artist": "Foo Fighters",
   "card_title": "The Pretender"
  },
+ "https://www.youtube.com/watch?v=RTOBQ3zKZDU": {
+  "channel": "Lex Guitar Tabs",
+  "title": "Slide Away - Oasis | Tabs | Guitar Lesson | Cover | Tutorial | Solo | All Guitar Parts",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Slide Away"
+ },
  "https://www.youtube.com/watch?v=fRZvVFb7wq8": {
   "channel": "Lex Guitar Tabs",
   "title": "Yellow - Coldplay | Tabs + Chords | Guitar Lesson | Cover | Tutorial | All Guitar Parts | Tuning",
   "match": "exact",
   "card_artist": "Coldplay",
   "card_title": "Yellow"
+ },
+ "https://www.youtube.com/watch?v=1F7ZncckR1o": {
+  "channel": "Lex Guitar Tabs",
+  "title": "Cigarettes & Alcohol - Oasis | Tabs | Guitar Lesson | Cover | Tutorial | Solo | All Guitar Parts",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Cigarettes & Alcohol"
  },
  "https://www.youtube.com/watch?v=FWCr6sPgCnU": {
   "channel": "Lex Guitar Tabs",
@@ -5291,12 +5375,26 @@
   "card_artist": "Oasis",
   "card_title": "Don't Look Back In Anger"
  },
+ "https://www.youtube.com/watch?v=6CVKC5LVAAs": {
+  "channel": "Lex Guitar Tabs",
+  "title": "Whatever - Oasis | Tabs + Chords | Guitar Lesson | Cover | Tutorial | Solo | All Guitar Parts",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Whatever"
+ },
  "https://www.youtube.com/watch?v=vKWakePuqQw": {
   "channel": "Lex Guitar Tabs",
   "title": "American Idiot - Green Day | Tabs + Chords | Guitar Lesson | Cover | Tutorial | All Guitar Parts",
   "match": "exact",
   "card_artist": "Green Day",
   "card_title": "American Idiot"
+ },
+ "https://www.youtube.com/watch?v=d4xrDH4XVLY": {
+  "channel": "Lex Guitar Tabs",
+  "title": "Live Forever - Oasis | Tabs + Chords | Guitar Lesson | Cover | Tutorial | Solo | All Guitar Parts",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Live Forever"
  },
  "https://www.youtube.com/watch?v=61pCQoOjf7I": {
   "channel": "Lex Guitar Tabs",
@@ -5311,6 +5409,27 @@
   "match": "exact",
   "card_artist": "Audioslave",
   "card_title": "Like A Stone"
+ },
+ "https://www.youtube.com/watch?v=wtjoRQfmHQI": {
+  "channel": "Lex Guitar Tabs",
+  "title": "Half The World Away - Oasis | Tabs + Chords |  Guitar Lesson | Cover | Tutorial | All Guitar Parts",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Half The World Away"
+ },
+ "https://www.youtube.com/watch?v=42GX06WDX5w": {
+  "channel": "Lex Guitar Tabs",
+  "title": "She's Electric - Oasis | Tabs | Guitar Lesson | Cover | Tutorial | Solo | All Guitar Parts",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "She's Electric"
+ },
+ "https://www.youtube.com/watch?v=BAoPHsvI1v0": {
+  "channel": "Lex Guitar Tabs",
+  "title": "Stand By Me - Oasis | Tabs | Guitar Lesson | Cover | Tutorial | Solo | All Guitar Parts",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Stand By Me"
  },
  "https://www.youtube.com/watch?v=Ppx6g-ODVls": {
   "channel": "Lex Guitar Tabs",
@@ -5332,6 +5451,13 @@
   "match": "exact",
   "card_artist": "Foo Fighters",
   "card_title": "Learn To Fly"
+ },
+ "https://www.youtube.com/watch?v=e7KCUxWBJj4": {
+  "channel": "Lex Guitar Tabs",
+  "title": "Supersonic - Oasis | Tabs | Guitar Lesson | Cover | Tutorial | Solo | All Guitar Parts",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Supersonic"
  },
  "https://www.youtube.com/watch?v=C7tGPM1BSrE": {
   "channel": "Lex Guitar Tabs",
@@ -8105,6 +8231,20 @@
   "card_artist": "Rage Against The Machine",
   "card_title": "Killing In The Name"
  },
+ "https://www.youtube.com/watch?v=x7KFlJUPkI4": {
+  "channel": "Sparky Guitar",
+  "title": "Whatever - Oasis (Guitar Cover #350)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Whatever"
+ },
+ "https://www.youtube.com/watch?v=p0Fpu1mZKOk": {
+  "channel": "Sparky Guitar",
+  "title": "The Masterplan - Oasis (Guitar Cover #349)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Masterplan"
+ },
  "https://www.youtube.com/watch?v=ZBrBI7XIL5g": {
   "channel": "Sparky Guitar",
   "title": "Nutshell - Alice in Chains - with solo! (Guitar Cover #323)",
@@ -8126,6 +8266,13 @@
   "card_artist": "Arctic Monkeys",
   "card_title": "I Wanna Be Yours"
  },
+ "https://www.youtube.com/watch?v=Lbs---ONA3I": {
+  "channel": "Sparky Guitar",
+  "title": "Columbia - Oasis (Guitar Cover #338)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Columbia"
+ },
  "https://www.youtube.com/watch?v=09RlWFQrsO4": {
   "channel": "Sparky Guitar",
   "title": "Killing In The Name - Rage Against The Machine (Guitar Cover #139 with Tabs)",
@@ -8133,12 +8280,33 @@
   "card_artist": "Rage Against The Machine",
   "card_title": "Killing In The Name"
  },
+ "https://www.youtube.com/watch?v=B-BkCZrGp2M": {
+  "channel": "Sparky Guitar",
+  "title": "Shakermaker - Oasis (Guitar Cover #329)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Shakermaker"
+ },
  "https://www.youtube.com/watch?v=Ti91kS5CAfY": {
   "channel": "Sparky Guitar",
   "title": "Wonderwall - Oasis (Guitar Cover #225 with Tab) …I missed out on tickets again!",
   "match": "exact",
   "card_artist": "Oasis",
   "card_title": "Wonderwall"
+ },
+ "https://www.youtube.com/watch?v=Pjjw0_6lHOc": {
+  "channel": "Sparky Guitar",
+  "title": "Some Might Say - Oasis (Guitar Cover & Tab) for everyone (like me) that didn’t get tickets :-(",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Some Might Say"
+ },
+ "https://www.youtube.com/watch?v=cLoT9goXsn0": {
+  "channel": "Sparky Guitar",
+  "title": "Supersonic - Oasis - Learn to Play! (Guitar Cover & Tab)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Supersonic"
  },
  "https://www.youtube.com/watch?v=GnYzD5VTEtE": {
   "channel": "Sparky Guitar",
@@ -8168,12 +8336,26 @@
   "card_artist": "Red Hot Chili Peppers",
   "card_title": "Californication"
  },
+ "https://www.youtube.com/watch?v=W9MqwwhQyRg": {
+  "channel": "Sparky Guitar",
+  "title": "Champagne Supernova - Oasis - LEAD GUITAR ONLY (Guitar Cover #130 - with Tabs)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Champagne Supernova"
+ },
  "https://www.youtube.com/watch?v=-rzL8zdcTbQ": {
   "channel": "Sparky Guitar",
   "title": "Disarm - Smashing Pumpkins (Guitar Cover & Tab)",
   "match": "exact",
   "card_artist": "The Smashing Pumpkins",
   "card_title": "Disarm"
+ },
+ "https://www.youtube.com/watch?v=CprIwq9JOWo": {
+  "channel": "Sparky Guitar",
+  "title": "She’s Electric - Oasis (Guitar Cover #261)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "She's Electric"
  },
  "https://www.youtube.com/watch?v=V_MdNKbqDQU": {
   "channel": "Sparky Guitar",
@@ -8188,6 +8370,13 @@
   "match": "exact",
   "card_artist": "Oasis",
   "card_title": "Wonderwall"
+ },
+ "https://www.youtube.com/watch?v=2KXANWf7brs": {
+  "channel": "Sparky Guitar",
+  "title": "Half The World Away - Oasis (Guitar Cover)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Half The World Away"
  },
  "https://www.youtube.com/watch?v=tpeoBEC3Y5I": {
   "channel": "Sparky Guitar",
@@ -8210,12 +8399,33 @@
   "card_artist": "Nirvana",
   "card_title": "Heart Shaped Box"
  },
+ "https://www.youtube.com/watch?v=AgFhnu1TKvo": {
+  "channel": "Sparky Guitar",
+  "title": "Some Might Say - Oasis (Guitar Cover)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Some Might Say"
+ },
+ "https://www.youtube.com/watch?v=QtQxEV9KVtY": {
+  "channel": "Sparky Guitar",
+  "title": "Supersonic - Oasis (Guitar Cover)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Supersonic"
+ },
  "https://www.youtube.com/watch?v=GSAYiZ6xKLU": {
   "channel": "Sparky Guitar",
   "title": "Everlong - Foo Fighters (Guitar Cover)",
   "match": "exact",
   "card_artist": "Foo Fighters",
   "card_title": "Everlong"
+ },
+ "https://www.youtube.com/watch?v=2rNqbYEmyhY": {
+  "channel": "Sparky Guitar",
+  "title": "Rock 'n' Roll Star - Oasis - Learn to Play! (Guitar Cover & Tab)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Rock 'n' Roll Star"
  },
  "https://www.youtube.com/watch?v=fLH_HnR0sg0": {
   "channel": "Sparky Guitar",
@@ -8231,12 +8441,26 @@
   "card_artist": "Bush",
   "card_title": "Glycerine"
  },
+ "https://www.youtube.com/watch?v=I3PpJCzgzz0": {
+  "channel": "Sparky Guitar",
+  "title": "Champagne Supernova - Oasis (Guitar Cover #130 with Tabs)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Champagne Supernova"
+ },
  "https://www.youtube.com/watch?v=dlsSTcLMU_E": {
   "channel": "Sparky Guitar",
   "title": "Sparks - Coldplay (Guitar Cover #125)",
   "match": "exact",
   "card_artist": "Coldplay",
   "card_title": "Sparks"
+ },
+ "https://www.youtube.com/watch?v=VGuwhM10lyI": {
+  "channel": "Sparky Guitar",
+  "title": "Slide Away - Oasis (Guitar Cover #99 with Tabs)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Slide Away"
  },
  "https://www.youtube.com/watch?v=H4r0FIljO0E": {
   "channel": "Sparky Guitar",
@@ -8272,6 +8496,27 @@
   "match": "exact",
   "card_artist": "Oasis",
   "card_title": "Don't Look Back In Anger"
+ },
+ "https://www.youtube.com/watch?v=QCBdj0ZPnHE": {
+  "channel": "Sparky Guitar",
+  "title": "Slide Away - Oasis (Guitar Cover #99)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Slide Away"
+ },
+ "https://www.youtube.com/watch?v=QEPv8PzFo6w": {
+  "channel": "Sparky Guitar",
+  "title": "Live Forever - Oasis (Guitar Cover #82)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Live Forever"
+ },
+ "https://www.youtube.com/watch?v=ykgP6BU_NBM": {
+  "channel": "Sparky Guitar",
+  "title": "Live Forever - Oasis (Guitar Cover #82 with Tabs)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Live Forever"
  },
  "https://www.youtube.com/watch?v=zBrJZXMyI60": {
   "channel": "Sparky Guitar",
@@ -8980,6 +9225,13 @@
   "card_artist": "Nirvana",
   "card_title": "Lithium"
  },
+ "https://www.youtube.com/watch?v=_AOU2WXbhL0": {
+  "channel": "Marc Sanz Guitar",
+  "title": "Supersonic Oasis Guitar Guitar Tab Cover Lesson Tutorial",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Supersonic"
+ },
  "https://www.youtube.com/watch?v=g4R9_nhSmJk": {
   "channel": "Marc Sanz Guitar",
   "title": "Don't look back in anger Oasis Guitar Tab Cover Lesson Tutorial",
@@ -9232,12 +9484,33 @@
   "card_artist": "Metallica",
   "card_title": "Nothing Else Matters"
  },
+ "https://www.youtube.com/watch?v=GqLoxBINqaY": {
+  "channel": "Let's Play All",
+  "title": "How to Play \"Slide Away\" by Oasis  | Guitar Lesson",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Slide Away"
+ },
+ "https://www.youtube.com/watch?v=-1u59zWWWkM": {
+  "channel": "Let's Play All",
+  "title": "How to Play \"Supersonic\" by Oasis  | Guitar Lesson",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Supersonic"
+ },
  "https://www.youtube.com/watch?v=52RWiuQXyvo": {
   "channel": "Let's Play All",
   "title": "How to Play \"Everlong\" by Foo Fighters | Guitar Lesson",
   "match": "exact",
   "card_artist": "Foo Fighters",
   "card_title": "Everlong"
+ },
+ "https://www.youtube.com/watch?v=AHqtIIlvjxQ": {
+  "channel": "Let's Play All",
+  "title": "How to Play \"Rock 'n' Roll Star\" by Oasis | Guitar Lesson",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Rock 'n' Roll Star"
  },
  "https://www.youtube.com/watch?v=vMcVIs6wp8I": {
   "channel": "Let's Play All",
@@ -9259,6 +9532,13 @@
   "match": "exact",
   "card_artist": "Foo Fighters",
   "card_title": "Times Like These"
+ },
+ "https://www.youtube.com/watch?v=czqCqRMv0s8": {
+  "channel": "Let's Play All",
+  "title": "How to Play \"Live Forever\" by Oasis  | Guitar Lesson",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Live Forever"
  },
  "https://www.youtube.com/watch?v=EhNZb2VRtYc": {
   "channel": "Let's Play All",
@@ -10576,6 +10856,13 @@
   "card_artist": "Fleetwood Mac",
   "card_title": "Dreams"
  },
+ "https://www.youtube.com/watch?v=tenXPQO1MOI": {
+  "channel": "Chevans Music",
+  "title": "Songbird by Oasis Super Easy Guitar Tutorial! MEMBERS ONLY!",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Songbird"
+ },
  "https://www.youtube.com/watch?v=zfIRql3-kDI": {
   "channel": "Chevans Music",
   "title": "Tennessee Whiskey by Chris Stapleton Full Tutorial! MEMBERS ONLY!",
@@ -10723,12 +11010,26 @@
   "card_artist": "U2",
   "card_title": "With Or Without You"
  },
+ "https://www.youtube.com/watch?v=g6rTK6khM5g": {
+  "channel": "Chevans Music",
+  "title": "How to play Songbird by Oasis on Guitar in under 2 minutes with Chas Evans! #guitar #guitarra",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Songbird"
+ },
  "https://www.youtube.com/watch?v=zMi_SKuYzGs": {
   "channel": "Chevans Music",
   "title": "How to play Dreams by Fleetwood Mac on Guitar in under 2 minutes with Chas Evans! #guitar",
   "match": "exact",
   "card_artist": "Fleetwood Mac",
   "card_title": "Dreams"
+ },
+ "https://www.youtube.com/watch?v=T3fNidwo4rY": {
+  "channel": "Chevans Music",
+  "title": "Songbird by Oasis Guitar Tutorial Lesson with Chevans Music!  #guitar #music #guitarra #musica",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Songbird"
  },
  "https://www.youtube.com/watch?v=UTaaAOOxrB8": {
   "channel": "Chevans Music",
@@ -10785,6 +11086,20 @@
   "match": "exact",
   "card_artist": "Nirvana",
   "card_title": "About A Girl"
+ },
+ "https://www.youtube.com/watch?v=Qqak8lJ35wM": {
+  "channel": "Play Along Guitar",
+  "title": "Oasis 'Supersonic' Rhythm Guitar Tutorial: Play Along with Original Video & Audio - On-Screen Tabs",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Supersonic"
+ },
+ "https://www.youtube.com/watch?v=GDTGa6Ez6cs": {
+  "channel": "Play Along Guitar",
+  "title": "Oasis 'Supersonic' Lead Guitar Tutorial: Play Along with Original Video & Audio - On-Screen Tabs",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Supersonic"
  },
  "https://www.youtube.com/watch?v=ixYHx0KJC3Q": {
   "channel": "Play Along Guitar",
@@ -14048,6 +14363,13 @@
   "card_artist": "4 Non Blondes",
   "card_title": "What's Up"
  },
+ "https://www.youtube.com/watch?v=oXiuPELMgXo": {
+  "channel": "christianvib",
+  "title": "Stand By Me  - Oasis GUITAR CHORDS + SOLO Acoustic | Guitarra Cover Christianvib",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Stand By Me"
+ },
  "https://www.youtube.com/watch?v=9QYEiuGf7fU": {
   "channel": "christianvib",
   "title": "Don’t Look Back In Anger - Oasis GUITAR CHORDS + SOLO Acoustic | Guitarra Cover Christianvib",
@@ -16148,6 +16470,13 @@
   "card_artist": "AC/DC",
   "card_title": "Back in Black"
  },
+ "https://www.youtube.com/watch?v=uHsG18scxsA": {
+  "channel": "ike",
+  "title": "Oasis - Whatever Guitar Cover with Tab",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Whatever"
+ },
  "https://www.youtube.com/watch?v=wOxpe_7RlsQ": {
   "channel": "ike",
   "title": "Heart-Shaped Box - Nirvana Guitar Cover with Tab",
@@ -16161,6 +16490,13 @@
   "match": "exact",
   "card_artist": "Frank Sinatra",
   "card_title": "Fly Me To The Moon"
+ },
+ "https://www.youtube.com/watch?v=DjmB1xM7xME": {
+  "channel": "ike",
+  "title": "Songbird - Oasis Guitar Cover with Tab",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Songbird"
  },
  "https://www.youtube.com/watch?v=OgaS_-oT4oQ": {
   "channel": "ike",
@@ -16197,12 +16533,26 @@
   "card_artist": "Oasis",
   "card_title": "Don't Look Back In Anger"
  },
+ "https://www.youtube.com/watch?v=ZM3-4UMPS5c": {
+  "channel": "ike",
+  "title": "Oasis - Live Forever Guitar Cover with Tab",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Live Forever"
+ },
  "https://www.youtube.com/watch?v=I7dLdul9o0Q": {
   "channel": "ike",
   "title": "Chuck Berry - Johnny B. Goode Guitar Cover with Tab",
   "match": "exact",
   "card_artist": "Chuck Berry",
   "card_title": "Johnny B. Goode"
+ },
+ "https://www.youtube.com/watch?v=UJTf9PTJr9I": {
+  "channel": "ike",
+  "title": "Oasis - Supersonic Guitar Cover with Tab",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Supersonic"
  },
  "https://www.youtube.com/watch?v=kKNK3KifJvI": {
   "channel": "ike",
@@ -16218,12 +16568,40 @@
   "card_artist": "Avril Lavigne",
   "card_title": "Complicated"
  },
+ "https://www.youtube.com/watch?v=kBs2nBraZBM": {
+  "channel": "ike",
+  "title": "Oasis - Stay Young Guitar Cover with Tab",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Stay Young"
+ },
+ "https://www.youtube.com/watch?v=BN9bZdDOyZQ": {
+  "channel": "ike",
+  "title": "Oasis - Lyla Guitar Cover with Tab",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Lyla"
+ },
  "https://www.youtube.com/watch?v=dp_W9SHnfL0": {
   "channel": "ike",
   "title": "Queen - Bohemian Rhapsody Guitar Solo Cover with Tab",
   "match": "exact",
   "card_artist": "Queen",
   "card_title": "Bohemian Rhapsody"
+ },
+ "https://www.youtube.com/watch?v=bXJhS8fVjpM": {
+  "channel": "ike",
+  "title": "Oasis - Rock 'n' Roll Star Guitar Cover With Tab",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Rock 'n' Roll Star"
+ },
+ "https://www.youtube.com/watch?v=-X1aR0LKCuA": {
+  "channel": "ike",
+  "title": "Oasis - Some Might Say Guitar Cover With Tab",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Some Might Say"
  },
  "https://www.youtube.com/watch?v=-oo_9bFbz7g": {
   "channel": "ike",
@@ -16246,6 +16624,13 @@
   "card_artist": "Bob Marley",
   "card_title": "No Woman No Cry"
  },
+ "https://www.youtube.com/watch?v=dqS2wUriKG8": {
+  "channel": "ike",
+  "title": "Roll With It Guitar Cover With Tab - Oasis",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Roll With It"
+ },
  "https://www.youtube.com/watch?v=phIlpIJcuDg": {
   "channel": "ike",
   "title": "John Denver - Take Me Home Country Roads Guitar Tabs",
@@ -16266,6 +16651,13 @@
   "match": "exact",
   "card_artist": "Bobby Helms",
   "card_title": "Jingle Bell Rock"
+ },
+ "https://www.youtube.com/watch?v=zlwupbvEaxI": {
+  "channel": "ike",
+  "title": "Live Forever(Solo) - Oasis",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Live Forever"
  },
  "https://www.youtube.com/watch?v=drbJogtnrhU": {
   "channel": "ike",
@@ -16771,6 +17163,13 @@
   "card_artist": "Alanis Morissette",
   "card_title": "Ironic"
  },
+ "https://www.youtube.com/watch?v=WWxD-CK_i6k": {
+  "channel": "Marty Music",
+  "title": "Oasis Supersonic Guitar Lesson + Tutorial",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Supersonic"
+ },
  "https://www.youtube.com/watch?v=shMXSn_Jp4A": {
   "channel": "Marty Music",
   "title": "Creedence Clearwater Revival Down On The Corner Guitar Lesson + Tutorial",
@@ -17219,6 +17618,13 @@
   "card_artist": "U2",
   "card_title": "One"
  },
+ "https://www.youtube.com/watch?v=6Qa-INwDATo": {
+  "channel": "Marty Music",
+  "title": "How to Play \"Live Forever\" by Oasis on Guitar - Easy Acoustic Songs",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Live Forever"
+ },
  "https://www.youtube.com/watch?v=eVIhW-_cw_A": {
   "channel": "Marty Music",
   "title": "3 Chord Easy Acoustic Song - Imagine Dragons \"Believer\" Guitar Lesson",
@@ -17302,6 +17708,13 @@
   "match": "exact",
   "card_artist": "Green Day",
   "card_title": "21 Guns"
+ },
+ "https://www.youtube.com/watch?v=Fa9QZDqHpg4": {
+  "channel": "Marty Music",
+  "title": "How to Play \"Champagne Supernova\" on Acoustic Guitar by Oasis - Easy Acoustic Songs for guitar",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Champagne Supernova"
  },
  "https://www.youtube.com/watch?v=m3eqotE1A-Y": {
   "channel": "Marty Music",
@@ -18157,6 +18570,13 @@
   "card_artist": "The Smashing Pumpkins",
   "card_title": "1979"
  },
+ "https://www.youtube.com/watch?v=atm0RWn0wks": {
+  "channel": "Romain CNC",
+  "title": "Supersonic - Oasis (Bonehead's Guitar backing track)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Supersonic"
+ },
  "https://www.youtube.com/watch?v=fqSf7LJ9hto": {
   "channel": "Romain CNC",
   "title": "Can't Stop - Red Hot Chili Peppers (Guitar tab)",
@@ -18177,6 +18597,13 @@
   "match": "exact",
   "card_artist": "Chris Isaak",
   "card_title": "Wicked Game"
+ },
+ "https://www.youtube.com/watch?v=jrMRQLVc56g": {
+  "channel": "Romain CNC",
+  "title": "Supersonic - Oasis (Noel's Guitar backing track)",
+  "match": "exact",
+  "card_artist": "Oasis",
+  "card_title": "Supersonic"
  },
  "https://www.youtube.com/watch?v=J8jwwblI6h8": {
   "channel": "Law of the Riff",

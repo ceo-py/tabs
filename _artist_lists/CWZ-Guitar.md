@@ -102,7 +102,7 @@
 | 96 | Jan Hammer | 2 | — |
 | 97 | L7 | 2 | — |
 | 98 | hole | 2 | — |
-| 99 | Oasis | 2 | ✅ 1 |
+| 99 | Oasis | 2 | ✅ 2 |
 | 100 | Primus | 2 | — |
 | 101 | Queens of Stone Age | 2 | — |
 | 102 | Blues | 2 | — |

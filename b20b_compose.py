@@ -6,6 +6,7 @@ or used).  The only differences are the footer source label and that the
 footer is right-aligned, because this channel's name is longer than the
 default one.
 """
+import re
 import os
 from PIL import Image, ImageDraw, ImageFont
 
@@ -41,6 +42,8 @@ def rounded_card(img, pad=24, radius=18, bg=CARD):
 
 
 def wrap_note(note, font, max_w):
+    # keep the multi-space separators between the note fields readable
+    note = re.sub(r'\s{2,}', ' \u00b7 ', note)
     words = note.split(' ')
     lines, cur = [], ''
     for w in words:
@@ -78,7 +81,7 @@ def build(path_out, title, subtitle, sections, link, min_width=1400,
     # the note is drawn 60 px above the bottom edge with 32 px between the
     # lines, so only two lines fit in the reserved space - every extra line
     # needs 32 px more room or the last line is cut off
-    note_extra = 32 * max(0, len(note_lines) - 2)
+    note_extra = 32 * max(0, len(note_lines) - 1)
     H = head_h + body_h + pad + (56 + 32 * len(note_lines) + note_extra if note else 0)
 
     canvas = Image.new('RGBA', (W, H), BG + (255,))

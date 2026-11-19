@@ -100,7 +100,7 @@
 | 92 | [Radiohead "Paranoid Android" Toned Up! \| How They Got That Sound](https://www.youtube.com/watch?v=E9lDQUyCnL8) | ALT | — |
 | 93 | [How to Play "The Bronze" by Queens Of The Stone Age \| Guitar Lesson](https://www.youtube.com/watch?v=CZFFAuOgTV0) | METAL CLASSIC COVER | — |
 | 94 | [How to Play "The Pod" by Hum \| Guitar Lesson](https://www.youtube.com/watch?v=-_2GkwlAPS0) | COVER | — |
-| 95 | [How to Play "Slide Away" by Oasis \| Guitar Lesson](https://www.youtube.com/watch?v=GqLoxBINqaY) | ALT COVER | — |
+| 95 | [How to Play "Slide Away" by Oasis \| Guitar Lesson](https://www.youtube.com/watch?v=GqLoxBINqaY) | ALT COVER | ✅ Oasis — Slide Away |
 | 96 | [How to Play "London Calling" by The Clash \| Guitar Lesson](https://www.youtube.com/watch?v=a8OXNauVJLE) | PUNK COVER | — |
 | 97 | [Foo Fighters "Asking For A Friend" Guitar Lesson with TAB](https://www.youtube.com/watch?v=WqsKYO80-Cg) | TAB ALT COVER | — |
 | 98 | [Kurt Cobain "Burn The Rain" Guitar Lesson \| Plus Harmonova "fan rendition" tutorial!](https://www.youtube.com/watch?v=o_t2BuHufe4) | COVER | — |
@@ -165,7 +165,7 @@
 | 157 | [How to Play "Karma Police" by Radiohead \| Guitar Lesson](https://www.youtube.com/watch?v=ljuwoNwqFPA) | ALT COVER | — |
 | 158 | [How to Play "Ocean Man" by Ween \| Guitar Lesson](https://www.youtube.com/watch?v=aKENGDAasXw) | COVER | — |
 | 159 | [Sonicake Pocket Master - Amazing Multi Effects Pedal for just $69!! \| Demo](https://www.youtube.com/watch?v=okHN4iIGhkM) |  | — |
-| 160 | [How to Play "Supersonic" by Oasis \| Guitar Lesson](https://www.youtube.com/watch?v=-1u59zWWWkM) | ALT COVER | — |
+| 160 | [How to Play "Supersonic" by Oasis \| Guitar Lesson](https://www.youtube.com/watch?v=-1u59zWWWkM) | ALT COVER | ✅ Oasis — Supersonic |
 | 161 | [How to Play "I Like It Small" by Mudhoney \| Guitar Lesson](https://www.youtube.com/watch?v=3qtOqw1Bg2E) | GRUNGE COVER | — |
 | 162 | [How to Play "Blew" by Nirvana \| Guitar Lesson](https://www.youtube.com/watch?v=n5zZ7nErBQA) | GRUNGE ALT COVER | — |
 | 163 | [Beetronics Swarm Fuzz Harmoniser Pedal Demo](https://www.youtube.com/watch?v=bPBGkCtKbGg) |  | — |
@@ -217,7 +217,7 @@
 | 209 | [Beetronics Tuna Fuzz Pedal](https://www.youtube.com/watch?v=ht-8L6MOg-g) |  | — |
 | 210 | [8 Carlos Santana Riffs and Tones! \| Missing Link Audio Super Natural Overdrive Pedal Demo](https://www.youtube.com/watch?v=s52O1Pe3D60) |  | — |
 | 211 | [How to Play "Misfit Love" by Queens Of The Stone Age \| Guitar Lesson](https://www.youtube.com/watch?v=8YswQVV7qTA) | METAL CLASSIC COVER | — |
-| 212 | [How to Play "Rock 'n' Roll Star" by Oasis \| Guitar Lesson](https://www.youtube.com/watch?v=AHqtIIlvjxQ) | ALT COVER | — |
+| 212 | [How to Play "Rock 'n' Roll Star" by Oasis \| Guitar Lesson](https://www.youtube.com/watch?v=AHqtIIlvjxQ) | ALT COVER | ✅ Oasis — Rock 'n' Roll Star |
 | 213 | [How to Play "Sighommi" by Smashing Pumpkins \| Guitar Lesson](https://www.youtube.com/watch?v=8klxZX__PD4) | ALT COVER | — |
 | 214 | [How to Play "Possum Kingdom" by The Toadies \| Guitar Lesson](https://www.youtube.com/watch?v=oqRAYXHMtHo) | COVER | — |
 | 215 | [Pearl Jam "Black" Solo Ideas - Play It Like Mike!](https://www.youtube.com/watch?v=lb24SmBHRDI) | GRUNGE ALT | — |
@@ -275,7 +275,7 @@
 | 267 | [Alice In Chains Riffs \| Sonicake A Factory and B Factory Preamp Pedals for Acoustic and Bass](https://www.youtube.com/watch?v=JyjmLuVpp7I) | GRUNGE ALT BASS | — |
 | 268 | [How to Play "Bloodbuzz Ohio" by The National \| Easy Guitar Lesson](https://www.youtube.com/watch?v=o7WYiR-slxg) | COVER | — |
 | 269 | [How to Play "Seven Caged Tigers" by Stone Temple Pilots \| Guitar Lesson](https://www.youtube.com/watch?v=y5IifTYHqeo) | GRUNGE ALT COVER | — |
-| 270 | [How to Play "Live Forever" by Oasis \| Guitar Lesson](https://www.youtube.com/watch?v=czqCqRMv0s8) | ALT COVER | — |
+| 270 | [How to Play "Live Forever" by Oasis \| Guitar Lesson](https://www.youtube.com/watch?v=czqCqRMv0s8) | ALT COVER | ✅ Oasis — Live Forever |
 | 271 | [How to Play "Running" by Pearl Jam \| Guitar Lesson](https://www.youtube.com/watch?v=4qBLYumtj1E) | GRUNGE ALT COVER | — |
 | 272 | [How to Play "Rotten Apple" by Alice In Chains \| Guitar Lesson](https://www.youtube.com/watch?v=T4BZDY79cM4) | GRUNGE ALT COVER | — |
 | 273 | [Hendrix riffs and more! \| Jam Pedals Fuzz Phrase Si Pedal Demo](https://www.youtube.com/watch?v=JRin0iKIxso) |  | — |

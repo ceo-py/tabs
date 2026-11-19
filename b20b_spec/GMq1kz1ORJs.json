@@ -4,7 +4,9 @@
   "out": "out_gz/Oasis-Rock-n-Roll-Star.png",
   "panels": [
     {"label": "SCORE  ·  CHORDS, NOTATION & TAB", "t": 20, "bbox": [0, 582, 1920, 498], "png": "frames/b20b_GMq1kz1ORJs/p0.png"},
-    {"label": "SCORE  ·  CHORDS, NOTATION & TAB  ·  LATER PART", "t": 270, "bbox": [0, 582, 1920, 498], "png": "frames/b20b_GMq1kz1ORJs/p1.png"}
+    {"label": "SCORE  ·  CHORDS, NOTATION & TAB  ·  LATER PART", "t": 120, "bbox": [0, 582, 1920, 498], "png": "frames/b20b_GMq1kz1ORJs/p1.png"},
+    {"label": "SCORE  ·  CHORDS, NOTATION & TAB  ·  LATER PART 2", "t": 225, "bbox": [0, 582, 1920, 498], "png": "frames/b20b_GMq1kz1ORJs/p2.png"},
+    {"label": "SCORE  ·  CHORDS, NOTATION & TAB  ·  LATER PART 3", "t": 270, "bbox": [0, 582, 1920, 498], "png": "frames/b20b_GMq1kz1ORJs/p3.png"}
   ],
   "note": "Chords: B E C#m Aadd9 G#m A A7 F#   Strumming: not shown in the video - TAB notation only   On screen: tempo = 138",
   "diagram": "LETTERS"

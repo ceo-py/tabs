@@ -68,8 +68,8 @@
 | 60 | [Poison - Alice Cooper - Guitar Play Along with On-Screen Tabs](https://www.youtube.com/watch?v=TvckGyfhpgU) | TAB COVER | — |
 | 61 | [Danger Zone (TOP GUN) - Kenny Loggins - Guitar Play Along with On-Screen Tabs](https://www.youtube.com/watch?v=Opnp_8Oj2tY) | TAB COVER | — |
 | 62 | [Eminem's 'Lose Yourself' Guitar Tutorial - Play Along with Video & Audio \| Full Guide 🎤🎸](https://www.youtube.com/watch?v=irdb3mU2I30) | COVER | — |
-| 63 | [Oasis 'Supersonic' Rhythm Guitar Tutorial: Play Along with Original Video & Audio - On-Screen Tabs](https://www.youtube.com/watch?v=Qqak8lJ35wM) | TAB ALT COVER | — |
-| 64 | [Oasis 'Supersonic' Lead Guitar Tutorial: Play Along with Original Video & Audio - On-Screen Tabs](https://www.youtube.com/watch?v=GDTGa6Ez6cs) | TAB ALT COVER | — |
+| 63 | [Oasis 'Supersonic' Rhythm Guitar Tutorial: Play Along with Original Video & Audio - On-Screen Tabs](https://www.youtube.com/watch?v=Qqak8lJ35wM) | TAB ALT COVER | ✅ Oasis — Supersonic |
+| 64 | [Oasis 'Supersonic' Lead Guitar Tutorial: Play Along with Original Video & Audio - On-Screen Tabs](https://www.youtube.com/watch?v=GDTGa6Ez6cs) | TAB ALT COVER | ✅ Oasis — Supersonic |
 | 65 | [I Was Made for Lovin' You - Kiss - Guitar Play Along with On-Screen Tabs](https://www.youtube.com/watch?v=1lkfarFZqLk) | TAB METAL COVER | — |
 | 66 | [Whiskey in the Jar - Thin Lizzy - Guitar Play Along with On-Screen Tabs](https://www.youtube.com/watch?v=aVWZnveQYNY) | TAB CLASSIC COVER | — |
 | 67 | [Light My Fire - The Doors - Guitar Play Along with On-Screen Tabs](https://www.youtube.com/watch?v=BX7xDnGlc58) | TAB CLASSIC COVER | — |

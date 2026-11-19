@@ -5,14 +5,14 @@
 | # | Канал | Tab видеа | Артисти | Имаме | Файл |
 |---|---|---|---|---|---|
 | 1 | DadRock TABS | 3183 | 285 | 53 | [DadRock-TABS.md](DadRock-TABS.md) |
-| 2 | CWZ Guitar | 2096 | 1359 | 67 | [CWZ-Guitar.md](CWZ-Guitar.md) |
+| 2 | CWZ Guitar | 2096 | 1359 | 68 | [CWZ-Guitar.md](CWZ-Guitar.md) |
 | 3 | Schmuck's Punk Tabs | 1489 | 769 | 3 | [Schmuck-s-Punk-Tabs.md](Schmuck-s-Punk-Tabs.md) |
 | 4 | SAW | 1469 | 708 | 155 | [SAW.md](SAW.md) |
 | 5 | CoverSolutions | 1431 | 481 | 76 | [CoverSolutions.md](CoverSolutions.md) |
 | 6 | Mike Atsushi | 1145 | 981 | 49 | [Mike-Atsushi.md](Mike-Atsushi.md) |
 | 7 | Easy Guitar Tabs Tutorial  | 1120 | 839 | 33 | [Easy-Guitar-Tabs-Tutorial.md](Easy-Guitar-Tabs-Tutorial.md) |
 | 8 | Fiddling with my Whistle | 1047 | 330 | 62 | [Fiddling-with-my-Whistle.md](Fiddling-with-my-Whistle.md) |
-| 9 | guitar cover with tabs & chords | 682 | 318 | 50 | [guitar-cover-with-tabs-chords.md](guitar-cover-with-tabs-chords.md) |
+| 9 | guitar cover with tabs & chords | 682 | 318 | 58 | [guitar-cover-with-tabs-chords.md](guitar-cover-with-tabs-chords.md) |
 | 10 | Dotti Brothers | 680 | 170 | 56 | [Dotti-Brothers.md](Dotti-Brothers.md) |
 | 11 | Thomas Friedt Music | 645 | 324 | 35 | [Thomas-Friedt-Music.md](Thomas-Friedt-Music.md) |
 | 12 | GuitarZero2Hero Express | 611 | 418 | 367 | [GuitarZero2Hero-Express.md](GuitarZero2Hero-Express.md) |
@@ -27,26 +27,26 @@
 | 21 | Mr. Tabs (real) | 317 | 142 | 32 | [Mr.-Tabs-real.md](Mr.-Tabs-real.md) |
 | 22 | GuitarZero2Hero | 315 | 247 | 152 | [GuitarZero2Hero.md](GuitarZero2Hero.md) |
 | 23 | Kevin Balke | 286 | 172 | 26 | [Kevin-Balke.md](Kevin-Balke.md) |
-| 24 | ike | 264 | 67 | 19 | [ike.md](ike.md) |
+| 24 | ike | 264 | 67 | 28 | [ike.md](ike.md) |
 | 25 | Frostic Tabs | 257 | 152 | 0 | [Frostic-Tabs.md](Frostic-Tabs.md) |
 | 26 | Rock Factory | 252 | 38 | 34 | [Rock-Factory.md](Rock-Factory.md) |
 | 27 | Guitar Tab Lab | 245 | 103 | 5 | [Guitar-Tab-Lab.md](Guitar-Tab-Lab.md) |
 | 28 | Romain CNC | 233 | 162 | 6 | [Romain-CNC.md](Romain-CNC.md) |
-| 29 | Lex Guitar Tabs | 198 | 95 | 19 | [Lex-Guitar-Tabs.md](Lex-Guitar-Tabs.md) |
+| 29 | Lex Guitar Tabs | 198 | 95 | 28 | [Lex-Guitar-Tabs.md](Lex-Guitar-Tabs.md) |
 | 30 | christianvib | 184 | 165 | 24 | [christianvib.md](christianvib.md) |
 | 31 | Sightline Guitar | 184 | 56 | 8 | [Sightline-Guitar.md](Sightline-Guitar.md) |
 | 32 | Shadow Mantra Steve | 174 | 42 | 0 | [Shadow-Mantra-Steve.md](Shadow-Mantra-Steve.md) |
 | 33 | Rockin Tabs | 161 | 57 | 8 | [Rockin-Tabs.md](Rockin-Tabs.md) |
-| 34 | Sparky Guitar | 149 | 88 | 10 | [Sparky-Guitar.md](Sparky-Guitar.md) |
+| 34 | Sparky Guitar | 149 | 88 | 17 | [Sparky-Guitar.md](Sparky-Guitar.md) |
 | 35 | Marcus Andersen | 148 | 94 | 0 | [Marcus-Andersen.md](Marcus-Andersen.md) |
 | 36 | Yoni Schlesinger | 141 | 76 | 34 | [Yoni-Schlesinger.md](Yoni-Schlesinger.md) |
 | 37 | Eu Toco Punk Assim | 140 | 50 | 1 | [Eu-Toco-Punk-Assim.md](Eu-Toco-Punk-Assim.md) |
 | 38 | Juha Aitakangas | 138 | 82 | 1 | [Juha-Aitakangas.md](Juha-Aitakangas.md) |
-| 39 | Play Along Guitar | 128 | 82 | 16 | [Play-Along-Guitar.md](Play-Along-Guitar.md) |
+| 39 | Play Along Guitar | 128 | 82 | 18 | [Play-Along-Guitar.md](Play-Along-Guitar.md) |
 | 40 | De Gaspari Guitar | 122 | 78 | 26 | [De-Gaspari-Guitar.md](De-Gaspari-Guitar.md) |
 | 41 | Guitar Tab Studio | 113 | 44 | 2 | [Guitar-Tab-Studio.md](Guitar-Tab-Studio.md) |
 | 42 | ThunderB Music | 109 | 74 | 0 | [ThunderB-Music.md](ThunderB-Music.md) |
-| 43 | Marc Sanz Guitar | 96 | 53 | 11 | [Marc-Sanz-Guitar.md](Marc-Sanz-Guitar.md) |
+| 43 | Marc Sanz Guitar | 96 | 53 | 12 | [Marc-Sanz-Guitar.md](Marc-Sanz-Guitar.md) |
 | 44 | Nik Nocturnal | 94 | 65 | 0 | [Nik-Nocturnal.md](Nik-Nocturnal.md) |
 | 45 | Yuuki Tsujimura | 94 | 14 | 5 | [Yuuki-Tsujimura.md](Yuuki-Tsujimura.md) |
 | 46 | TAB 'EM ALL | 94 | 7 | 6 | [TAB-EM-ALL.md](TAB-EM-ALL.md) |

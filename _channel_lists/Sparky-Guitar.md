@@ -34,10 +34,10 @@
 | 26 | [Hash Pipe - Weezer (Guitar Cover #357)](https://www.youtube.com/watch?v=I7bXMdGBO_8) | ALT COVER | — |
 | 27 | [Starting Over - LSD and the Search For God (Guitar Cover #355)](https://www.youtube.com/watch?v=pLLzhcyoIWU) | COVER | — |
 | 28 | [Brothers In Arms - Dire Straits (Guitar Cover #204 with Tabs)](https://www.youtube.com/watch?v=KD_lpRAvZnI) | TAB CLASSIC COVER | — |
-| 29 | [Whatever - Oasis (Guitar Cover #350)](https://www.youtube.com/watch?v=x7KFlJUPkI4) | ALT COVER | — |
+| 29 | [Whatever - Oasis (Guitar Cover #350)](https://www.youtube.com/watch?v=x7KFlJUPkI4) | ALT COVER | ✅ Oasis — Whatever |
 | 30 | [Well I Wonder - The Smiths (Guitar Cover #352)](https://www.youtube.com/watch?v=RVx91GuN5KA) | ALT COVER | — |
 | 31 | [Seven - Sunny Day Real Estate (Guitar Cover #353)](https://www.youtube.com/watch?v=I4sl3gWIpbs) | COVER | — |
-| 32 | [The Masterplan - Oasis (Guitar Cover #349)](https://www.youtube.com/watch?v=p0Fpu1mZKOk) | ALT COVER | — |
+| 32 | [The Masterplan - Oasis (Guitar Cover #349)](https://www.youtube.com/watch?v=p0Fpu1mZKOk) | ALT COVER | ✅ Oasis — Masterplan |
 | 33 | [Hurt - Johnny Cash (Guitar Cover #351)](https://www.youtube.com/watch?v=u6zKK8SJ0IU) | COVER | — |
 | 34 | [Street Spirit (Fade Out) - Radiohead (Guitar Cover #348)](https://www.youtube.com/watch?v=EkgizwvL9hk) | ALT COVER | — |
 | 35 | [Band on the Run - Paul McCartney & Wings (Guitar Cover #347)](https://www.youtube.com/watch?v=AguaHhBb0Hk) | COVER | — |
@@ -53,7 +53,7 @@
 | 45 | [I Am One - Smashing Pumpkins (Guitar Cover & Tab)](https://www.youtube.com/watch?v=jc9wlhK56dE) | TAB ALT COVER | — |
 | 46 | [I Wanna Be Yours - Arctic Monkeys (Guitar Cover #341)](https://www.youtube.com/watch?v=2qJyVimC26k) | ALT COVER | ✅ Arctic Monkeys — I Wanna Be Yours |
 | 47 | [Can't Stand Me Now - The Libertines (Guitar Cover #123 with Tabs)](https://www.youtube.com/watch?v=8TZ0hFFqlHM) | TAB COVER | — |
-| 48 | [Columbia - Oasis (Guitar Cover #338)](https://www.youtube.com/watch?v=Lbs---ONA3I) | ALT COVER | — |
+| 48 | [Columbia - Oasis (Guitar Cover #338)](https://www.youtube.com/watch?v=Lbs---ONA3I) | ALT COVER | ✅ Oasis — Columbia |
 | 49 | [Dear Ol' Dad - Blind Melon (Guitar Cover #336)](https://www.youtube.com/watch?v=BbDHvhblskc) | COVER | — |
 | 50 | [Shine On - The House of Love (Guitar Cover #122 with Tabs)](https://www.youtube.com/watch?v=RJxG2u1YSsE) | TAB COVER | — |
 | 51 | [Dead in the Water - Noel Gallagher's High Flying Birds (Guitar Cover #339)](https://www.youtube.com/watch?v=3VGNX76824c) | COVER | — |
@@ -66,7 +66,7 @@
 | 58 | [First Love - The Maccabees (Guitar Cover #331)](https://www.youtube.com/watch?v=Vyl3OoobgLc) | COVER | — |
 | 59 | [Star Sign - Teenage Fanclub (Guitar Cover #119 with Tabs)](https://www.youtube.com/watch?v=0IaOX0G3XxQ) | TAB COVER | — |
 | 60 | [The Adults Are Talking - The Strokes (Guitar Cover #330)](https://www.youtube.com/watch?v=d30142Ca2Zk) | ALT COVER | — |
-| 61 | [Shakermaker - Oasis (Guitar Cover #329)](https://www.youtube.com/watch?v=B-BkCZrGp2M) | ALT COVER | — |
+| 61 | [Shakermaker - Oasis (Guitar Cover #329)](https://www.youtube.com/watch?v=B-BkCZrGp2M) | ALT COVER | ✅ Oasis — Shakermaker |
 | 62 | [Say it Ain't So - Weezer - Learn to Play! (Guitar Cover & Tab)](https://www.youtube.com/watch?v=zEOr1jLelDo) | TAB ALT COVER | — |
 | 63 | [Bullet with Butterfly Wings - Smashing Pumpkins (Guitar Cover & Tab)](https://www.youtube.com/watch?v=wq5bNTWRxtU) | TAB ALT COVER | — |
 | 64 | [Favourite - Fontaines D.C (Guitar Cover #328)](https://www.youtube.com/watch?v=snA_p0gGXes) | COVER | — |
@@ -87,8 +87,8 @@
 | 79 | [Disorder - Joy Division (Guitar Cover & Tab)](https://www.youtube.com/watch?v=evaaJLKlECE) | TAB COVER | — |
 | 80 | [Wonderwall - Oasis (Guitar Cover #225 with Tab) …I missed out on tickets again!](https://www.youtube.com/watch?v=Ti91kS5CAfY) | TAB ALT COVER | ✅ Oasis — Wonderwall |
 | 81 | [Territorial Pissings - Nirvana (Guitar Cover #314)](https://www.youtube.com/watch?v=XKRfonlVwZI) | GRUNGE ALT COVER | — |
-| 82 | [Some Might Say - Oasis (Guitar Cover & Tab) for everyone (like me) that didn’t get tickets :-(](https://www.youtube.com/watch?v=Pjjw0_6lHOc) | TAB ALT COVER | — |
-| 83 | [Supersonic - Oasis - Learn to Play! (Guitar Cover & Tab)](https://www.youtube.com/watch?v=cLoT9goXsn0) | TAB ALT COVER | — |
+| 82 | [Some Might Say - Oasis (Guitar Cover & Tab) for everyone (like me) that didn’t get tickets :-(](https://www.youtube.com/watch?v=Pjjw0_6lHOc) | TAB ALT COVER | ✅ Oasis — Some Might Say |
+| 83 | [Supersonic - Oasis - Learn to Play! (Guitar Cover & Tab)](https://www.youtube.com/watch?v=cLoT9goXsn0) | TAB ALT COVER | ✅ Oasis — Supersonic |
 | 84 | [Desire Lines - Deerhunter (Guitar Cover #316)](https://www.youtube.com/watch?v=yLWTDXQQZ-c) | COVER | — |
 | 85 | [Call Me - Blondie (Guitar Cover #312)](https://www.youtube.com/watch?v=tR-wWbpo4Rs) | COVER | — |
 | 86 | [Anytown - Everything But The Girl (Guitar Cover #311)](https://www.youtube.com/watch?v=d9qYZYAZpYs) | COVER | — |
@@ -143,7 +143,7 @@
 | 135 | [TUESDAY BONUS: Track X - Black Country New Road (Guitar Cover #291)](https://www.youtube.com/watch?v=j6g9NpV54c4) | COVER | — |
 | 136 | [The Modern Age - The Strokes (Guitar Cover #279)](https://www.youtube.com/watch?v=eju0BLucTGM) | ALT COVER | — |
 | 137 | [Spaceboy - Smashing Pumpkins - Learn to Play! (Guitar Cover & Tab)](https://www.youtube.com/watch?v=y0z0V8gSZ0E) | TAB ALT COVER | — |
-| 138 | [Champagne Supernova - Oasis - LEAD GUITAR ONLY (Guitar Cover #130 - with Tabs)](https://www.youtube.com/watch?v=W9MqwwhQyRg) | TAB ALT COVER | — |
+| 138 | [Champagne Supernova - Oasis - LEAD GUITAR ONLY (Guitar Cover #130 - with Tabs)](https://www.youtube.com/watch?v=W9MqwwhQyRg) | TAB ALT COVER | ✅ Oasis — Champagne Supernova |
 | 139 | [Is This It - The Strokes (Guitar Cover #278)](https://www.youtube.com/watch?v=fpe71BVabPg) | ALT COVER | — |
 | 140 | [Here Comes Your Man - Pixies (Guitar Cover #92 with Tabs)](https://www.youtube.com/watch?v=EtDhFgsusuA) | TAB COVER | — |
 | 141 | [Youth - Daughter (Guitar Cover #277)](https://www.youtube.com/watch?v=f2oRsD971eo) | COVER | — |
@@ -164,7 +164,7 @@
 | 156 | [Dakota - Stereophonics (Guitar Cover #77 with Tabs)](https://www.youtube.com/watch?v=axf6byw57w0) | TAB COVER | — |
 | 157 | [Buddy Holly - Weezer (Guitar Cover #262)](https://www.youtube.com/watch?v=PuPVDlQYTbI) | ALT COVER | — |
 | 158 | [Sweet Disposition - The Temper Trap (Guitar Cover #75 with Tabs)](https://www.youtube.com/watch?v=spabNkvGmjs) | TAB COVER | — |
-| 159 | [She’s Electric - Oasis (Guitar Cover #261)](https://www.youtube.com/watch?v=CprIwq9JOWo) | ALT COVER | — |
+| 159 | [She’s Electric - Oasis (Guitar Cover #261)](https://www.youtube.com/watch?v=CprIwq9JOWo) | ALT COVER | ✅ Oasis — She's Electric |
 | 160 | [No. 13 Baby - Pixies (Guitar Cover #74 with Tabs)](https://www.youtube.com/watch?v=IqSfcldm9l8) | TAB COVER | — |
 | 161 | [Welcome to Hell - Black Midi (Guitar Cover #260)](https://www.youtube.com/watch?v=JP-MjYNlrfE) | COVER | — |
 | 162 | [Times Like These - Foo Fighters (Guitar Cover #257)](https://www.youtube.com/watch?v=V_MdNKbqDQU) | ALT COVER | ✅ Foo Fighters — Times Like These |
@@ -254,7 +254,7 @@
 | 246 | [Loomer - My Bloody Valentine (Guitar Cover #19 with Tabs)](https://www.youtube.com/watch?v=5fvkv-qFqjg) | TAB COVER | — |
 | 247 | [Girl Afraid - The Smiths (Guitar Cover #17 with Tabs)](https://www.youtube.com/watch?v=wOW21wxU_1s) | TAB ALT COVER | — |
 | 248 | [Them Bones - Alice in Chains (Guitar Cover #16 with Tabs)](https://www.youtube.com/watch?v=IpSuiuQHgrM) | TAB GRUNGE ALT COVER | — |
-| 249 | [Half The World Away - Oasis (Guitar Cover)](https://www.youtube.com/watch?v=2KXANWf7brs) | ALT COVER | — |
+| 249 | [Half The World Away - Oasis (Guitar Cover)](https://www.youtube.com/watch?v=2KXANWf7brs) | ALT COVER | ✅ Oasis — Half The World Away |
 | 250 | [Theme from Better Call Saul - Barrie Cadogan (Guitar Cover & Tab)](https://www.youtube.com/watch?v=Y_5RmlGIyHM) | TAB COVER | — |
 | 251 | [Debaser - Pixies (Guitar Cover #15 with Tabs)](https://www.youtube.com/watch?v=UnfwsC267A0) | TAB COVER | — |
 | 252 | [Come As You Are - Nirvana (Guitar Cover)](https://www.youtube.com/watch?v=tpeoBEC3Y5I) | GRUNGE ALT COVER | ✅ Nirvana — Come As You Are |
@@ -291,7 +291,7 @@
 | 283 | [Break My Body - Pixies (Guitar Cover)](https://www.youtube.com/watch?v=5WCQ3_s4k1c) | COVER | — |
 | 284 | [Friday I'm In Love - The Cure (Guitar Cover)](https://www.youtube.com/watch?v=o-r3ONKeM7A) | COVER | — |
 | 285 | [Always Like This - Bombay Bicycle Club (Guitar Cover)](https://www.youtube.com/watch?v=QICV4iE8VIQ) | COVER | — |
-| 286 | [Some Might Say - Oasis (Guitar Cover)](https://www.youtube.com/watch?v=AgFhnu1TKvo) | ALT COVER | — |
+| 286 | [Some Might Say - Oasis (Guitar Cover)](https://www.youtube.com/watch?v=AgFhnu1TKvo) | ALT COVER | ✅ Oasis — Some Might Say |
 | 287 | [Get You Down - Sam Fender (Guitar Cover)](https://www.youtube.com/watch?v=ekfLfVBmsNs) | COVER | — |
 | 288 | [London Calling - The Clash (Guitar Cover)](https://www.youtube.com/watch?v=jZEfeI1smb4) | PUNK COVER | — |
 | 289 | [Parklife - Blur (Guitar Cover) **Double Blur Weekend **](https://www.youtube.com/watch?v=WiDM6bMSlQw) | ALT COVER | — |
@@ -314,12 +314,12 @@
 | 306 | [Comfortably Numb - Pink Floyd - Solos (Guitar Cover & Tab)](https://www.youtube.com/watch?v=0GWL7R1okpM) | TAB CLASSIC COVER | — |
 | 307 | [Dead - Pixies (Guitar Cover)](https://www.youtube.com/watch?v=goaSycW3HPw) | COVER | — |
 | 308 | [Black Dog - Led Zeppelin (Guitar Cover #129 with Tabs)](https://www.youtube.com/watch?v=K_ROpDMB5c4) | TAB METAL COVER | — |
-| 309 | [Supersonic - Oasis (Guitar Cover)](https://www.youtube.com/watch?v=QtQxEV9KVtY) | ALT COVER | — |
+| 309 | [Supersonic - Oasis (Guitar Cover)](https://www.youtube.com/watch?v=QtQxEV9KVtY) | ALT COVER | ✅ Oasis — Supersonic |
 | 310 | [Everlong - Foo Fighters (Guitar Cover)](https://www.youtube.com/watch?v=GSAYiZ6xKLU) | ALT COVER | ✅ Foo Fighters — Everlong |
 | 311 | [Hanging on the Telephone - Blondie (Guitar Cover)](https://www.youtube.com/watch?v=j_AwsnQXHjw) | COVER | — |
 | 312 | [Between The Bars - Elliott Smith (Guitar Cover)](https://www.youtube.com/watch?v=GCZ17AZu2i4) | COVER | — |
 | 313 | [On Standby - Shed Seven (Guitar Cover)](https://www.youtube.com/watch?v=xljwZlm3XJ0) | COVER | — |
-| 314 | [Rock 'n' Roll Star - Oasis - Learn to Play! (Guitar Cover & Tab)](https://www.youtube.com/watch?v=2rNqbYEmyhY) | TAB ALT COVER | — |
+| 314 | [Rock 'n' Roll Star - Oasis - Learn to Play! (Guitar Cover & Tab)](https://www.youtube.com/watch?v=2rNqbYEmyhY) | TAB ALT COVER | ✅ Oasis — Rock 'n' Roll Star |
 | 315 | [The Bitter End - Placebo (Guitar Cover)](https://www.youtube.com/watch?v=5SESyZoxGMo) | COVER | — |
 | 316 | [Shadowplay - Joy Division (Guitar Cover)](https://www.youtube.com/watch?v=DZqI8LWxEv8) | COVER | — |
 | 317 | [In A Remote Part/Scottish Fiction - Idlewild (Guitar Cover)](https://www.youtube.com/watch?v=12YSm04raHI) | COVER | — |
@@ -349,7 +349,7 @@
 | 341 | [New Dawn Fades - Joy Division (Guitar Cover)](https://www.youtube.com/watch?v=inHezwR_xcw) | COVER | — |
 | 342 | [Glycerine - Bush (Guitar Cover)](https://www.youtube.com/watch?v=-EmyTKy3uqM) | ALT COVER | ✅ Bush — Glycerine |
 | 343 | [Naive - The Kooks (Guitar Cover)](https://www.youtube.com/watch?v=13rSlNHIvU8) | COVER | — |
-| 344 | [Champagne Supernova - Oasis (Guitar Cover #130 with Tabs)](https://www.youtube.com/watch?v=I3PpJCzgzz0) | TAB ALT COVER | — |
+| 344 | [Champagne Supernova - Oasis (Guitar Cover #130 with Tabs)](https://www.youtube.com/watch?v=I3PpJCzgzz0) | TAB ALT COVER | ✅ Oasis — Champagne Supernova |
 | 345 | [Tones of Home - Blind Melon (Guitar Cover)](https://www.youtube.com/watch?v=vwywM8Em4rk) | COVER | — |
 | 346 | [Everlasting Gaze - Smashing Pumpkins (Guitar Cover)](https://www.youtube.com/watch?v=JXDdHbKqS-E) | ALT COVER | — |
 | 347 | [Local Boy in the Photograph - Stereophonics (Guitar Cover)](https://www.youtube.com/watch?v=821ynOJIPZc) | COVER | — |
@@ -372,7 +372,7 @@
 | 364 | [Star Sign - Teenage Fanclub (Guitar Cover #119)](https://www.youtube.com/watch?v=faM8filnadM) | COVER | — |
 | 365 | [Disorder - Joy Division (Guitar Cover #116 with Tabs)](https://www.youtube.com/watch?v=MKNH87KN8CE) | TAB COVER | — |
 | 366 | [Bullet with Butterfly Wings - Smashing Pumpkins (Guitar Cover)](https://www.youtube.com/watch?v=F2X-6-ZmYhc) | ALT COVER | — |
-| 367 | [Slide Away - Oasis (Guitar Cover #99 with Tabs)](https://www.youtube.com/watch?v=VGuwhM10lyI) | TAB ALT COVER | — |
+| 367 | [Slide Away - Oasis (Guitar Cover #99 with Tabs)](https://www.youtube.com/watch?v=VGuwhM10lyI) | TAB ALT COVER | ✅ Oasis — Slide Away |
 | 368 | [Caught By The Fuzz - Supergrass (Guitar Cover #79)](https://www.youtube.com/watch?v=BPbhAYlZpwQ) | COVER | — |
 | 369 | [Here Is No Why - Smashing Pumpkins (Guitar Cover)](https://www.youtube.com/watch?v=CmPTOjic-tI) | ALT COVER | — |
 | 370 | [Start! - The Jam (Guitar Cover #114)](https://www.youtube.com/watch?v=okX9N1D0F60) | COVER | — |
@@ -400,7 +400,7 @@
 | 392 | [Do I Wanna Know? - Arctic Monkeys (Guitar Cover #1 with Tabs)](https://www.youtube.com/watch?v=DkumDDXiKNU) | TAB ALT COVER | — |
 | 393 | [Stereotypes - Blur (Guitar Cover #102)](https://www.youtube.com/watch?v=3Ga6WKeSbK0) | ALT COVER | — |
 | 394 | [Hummer - Smashing Pumpkins - Learn to play! (Guitar Cover & Tab)](https://www.youtube.com/watch?v=yJa_a4ML-k8) | TAB ALT COVER | — |
-| 395 | [Slide Away - Oasis (Guitar Cover #99)](https://www.youtube.com/watch?v=QCBdj0ZPnHE) | ALT COVER | — |
+| 395 | [Slide Away - Oasis (Guitar Cover #99)](https://www.youtube.com/watch?v=QCBdj0ZPnHE) | ALT COVER | ✅ Oasis — Slide Away |
 | 396 | [Shine on You Crazy Diamond (Parts 1 - 5) - Pink Floyd (Guitar Cover #98)](https://www.youtube.com/watch?v=tV5RkwzQYnU) | CLASSIC COVER | — |
 | 397 | [Muzzle - Smashing Pumpkins (Guitar Cover)](https://www.youtube.com/watch?v=ww2PU4ldQXU) | ALT COVER | — |
 | 398 | [There's No Other Way - Blur (Guitar Cover #96)](https://www.youtube.com/watch?v=BPe_tBE0Kn0) | ALT COVER | — |
@@ -421,10 +421,10 @@
 | 413 | [This Charming Man - The Smiths (Guitar Cover #5 with Tabs)](https://www.youtube.com/watch?v=oSZzdxB10Us) | TAB ALT COVER | — |
 | 414 | [Only Shallow - My Bloody Valentine (Guitar Cover #8 with Tabs)](https://www.youtube.com/watch?v=AqG3CQXCNzE) | TAB COVER | — |
 | 415 | [Soon - My Bloody Valentine (Guitar Cover #7 with Tabs)](https://www.youtube.com/watch?v=Ms3uWTw-4Rg) | TAB COVER | — |
-| 416 | [Live Forever - Oasis (Guitar Cover #82)](https://www.youtube.com/watch?v=QEPv8PzFo6w) | ALT COVER | — |
+| 416 | [Live Forever - Oasis (Guitar Cover #82)](https://www.youtube.com/watch?v=QEPv8PzFo6w) | ALT COVER | ✅ Oasis — Live Forever |
 | 417 | [Made of Stone - The Stone Roses (Guitar Cover #83)](https://www.youtube.com/watch?v=7xrbbYBbaUQ) | COVER | — |
 | 418 | [Made of Stone - The Stone Roses (Guitar Cover #83 with Tabs)](https://www.youtube.com/watch?v=Ub98yEXDCEE) | TAB COVER | — |
-| 419 | [Live Forever - Oasis (Guitar Cover #82 with Tabs)](https://www.youtube.com/watch?v=ykgP6BU_NBM) | TAB ALT COVER | — |
+| 419 | [Live Forever - Oasis (Guitar Cover #82 with Tabs)](https://www.youtube.com/watch?v=ykgP6BU_NBM) | TAB ALT COVER | ✅ Oasis — Live Forever |
 | 420 | [When You Sleep - My Bloody Valentine - Learn To Play! (Guitar Cover & Tab)](https://www.youtube.com/watch?v=GIYD67lgq-8) | TAB COVER | — |
 | 421 | [Where Is My Mind - Pixies (Guitar Cover #78 with Tabs)](https://www.youtube.com/watch?v=ODzhCZ-5f3A) | TAB COVER | — |
 | 422 | [Time - Pink Floyd (Guitar Cover #76 with Tabs)](https://www.youtube.com/watch?v=h89N3PeiBZ8) | TAB CLASSIC COVER | — |

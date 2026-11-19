@@ -2464,6 +2464,26 @@
   "C",
   "C#"
  ],
+ "out_gz/Oasis-Champagne-Supernova.png": [
+  "Aadd9",
+  "Aadd9/G",
+  "F#m7",
+  "Esus4",
+  "E",
+  "G",
+  "A",
+  "Gadd9",
+  "D/F#"
+ ],
+ "out_gz/Oasis-D-You-Know-What-I-Mean.png": [
+  "Em7",
+  "G6",
+  "Dsus2",
+  "A",
+  "Esus4",
+  "E",
+  "C"
+ ],
  "out_gz/Oasis-Dont-Look-Back-In-Anger.png": [
   "C",
   "Fsus2",
@@ -2474,6 +2494,136 @@
   "F",
   "Fm",
   "E/G#"
+ ],
+ "out_gz/Oasis-Half-The-World-Away.png": [
+  "C",
+  "C/B",
+  "C/G",
+  "Fmaj7/C",
+  "Fm/C",
+  "Am",
+  "Asus2",
+  "D7",
+  "E"
+ ],
+ "out_gz/Oasis-I-Hope-I-Think-I-Know.png": [
+  "D",
+  "Em7",
+  "G",
+  "Bm",
+  "A",
+  "F#m7",
+  "Aadd9"
+ ],
+ "out_gz/Oasis-Live-Forever.png": [
+  "C",
+  "D",
+  "G",
+  "Am7",
+  "Em7"
+ ],
+ "out_gz/Oasis-Lyla.png": [
+  "A",
+  "Dadd9/A",
+  "Fmaj7/A",
+  "G6/A",
+  "D",
+  "G",
+  "E"
+ ],
+ "out_gz/Oasis-Masterplan.png": [
+  "Am",
+  "E7",
+  "Cmaj7/A",
+  "Am9",
+  "Fmaj7/A",
+  "Bm11/A",
+  "Am7"
+ ],
+ "out_gz/Oasis-Morning-Glory.png": [
+  "Em7",
+  "D",
+  "Cadd9",
+  "B"
+ ],
+ "out_gz/Oasis-Rock-n-Roll-Star.png": [
+  "B",
+  "E",
+  "C#m",
+  "Aadd9",
+  "G#m",
+  "A",
+  "A7",
+  "F#"
+ ],
+ "out_gz/Oasis-Roll-With-It.png": [
+  "D7",
+  "C9",
+  "G",
+  "Cadd9",
+  "G/B",
+  "F"
+ ],
+ "out_gz/Oasis-Slide-Away.png": [
+  "Am7",
+  "G",
+  "D/F#",
+  "G7",
+  "C"
+ ],
+ "out_gz/Oasis-Some-Might-Say.png": [
+  "D5",
+  "Bsus2/F#",
+  "G",
+  "D",
+  "A",
+  "Em",
+  "C",
+  "E"
+ ],
+ "out_gz/Oasis-Songbird.png": [
+  "G",
+  "G/F#",
+  "Em7"
+ ],
+ "out_gz/Oasis-Stand-By-Me.png": [
+  "C",
+  "F",
+  "D/F#",
+  "G",
+  "D",
+  "Am",
+  "C/B",
+  "Dsus4",
+  "Em",
+  "A7",
+  "Cadd9"
+ ],
+ "out_gz/Oasis-Stay-Young.png": [
+  "D",
+  "F#7",
+  "G",
+  "G/F#",
+  "Em7",
+  "A"
+ ],
+ "out_gz/Oasis-Supersonic.png": [
+  "F#m7",
+  "A",
+  "B7",
+  "E",
+  "D",
+  "C#7"
+ ],
+ "out_gz/Oasis-Whatever.png": [
+  "G",
+  "G/F#",
+  "Em7",
+  "Dsus4",
+  "Cadd9",
+  "F#",
+  "E",
+  "A"
  ],
  "out_gz/Oasis-Wonderwall.png": [
   "Em7",

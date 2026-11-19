@@ -4,7 +4,8 @@
   "out": "out_gz/Oasis-Slide-Away.png",
   "panels": [
     {"label": "SCORE  ·  CHORDS, NOTATION & TAB", "t": 10, "bbox": [0, 570, 1920, 510], "png": "frames/b20b_d1RxW2VIVcI/p0.png"},
-    {"label": "SCORE  ·  CHORDS, NOTATION & TAB  ·  LATER PART", "t": 200, "bbox": [0, 570, 1920, 510], "png": "frames/b20b_d1RxW2VIVcI/p1.png"}
+    {"label": "SCORE  ·  CHORDS, NOTATION & TAB  ·  LATER PART", "t": 200, "bbox": [0, 570, 1920, 510], "png": "frames/b20b_d1RxW2VIVcI/p1.png"},
+    {"label": "SCORE  ·  CHORDS, NOTATION & TAB  ·  LATER PART 2", "t": 260, "bbox": [0, 570, 1920, 510], "png": "frames/b20b_d1RxW2VIVcI/p2.png"}
   ],
   "note": "Chords: Am7 G FM7 D/F# G7 C (N.C. in the intro bars)   Strumming: not shown in the video - TAB notation only   On screen: tempo = 95",
   "diagram": "LETTERS"

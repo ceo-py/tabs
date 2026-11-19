@@ -38,7 +38,7 @@
 | 30 | [Sugar - System Of A Down \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts](https://www.youtube.com/watch?v=cAyIEMiO93c) | TAB METAL COVER | — |
 | 31 | [Chapter Four - Avenged Sevenfold \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=9CYLLBO0cSk) | TAB METAL COVER | — |
 | 32 | [Last Resort - Papa Roach \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts](https://www.youtube.com/watch?v=eTwDpduo7bs) | TAB COVER | — |
-| 33 | [Some Might Say - Oasis \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=qPTV5wkocv0) | TAB ALT COVER | — |
+| 33 | [Some Might Say - Oasis \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=qPTV5wkocv0) | TAB ALT COVER | ✅ Oasis — Some Might Say |
 | 34 | [When A Blind Man Cries - Deep Purple \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo](https://www.youtube.com/watch?v=luGDp9zbKAU) | TAB CLASSIC COVER | — |
 | 35 | [Wherever I May Roam - Metallica \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=xdIyQtwdFk4) | TAB METAL COVER | — |
 | 36 | [No One Like You - Scorpions \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=QTAbRGS4hwc) | TAB METAL COVER | — |
@@ -55,7 +55,7 @@
 | 47 | [Bat Country - Avenged Sevenfold \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=OKqDEjLTKCs) | TAB METAL COVER | — |
 | 48 | [Love Gun - Kiss \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=ZHrvnbCALWM) | TAB METAL COVER | — |
 | 49 | [Be Yourself - Audioslave \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=0jM_9IVgQfo) | TAB COVER | — |
-| 50 | [Slide Away - Oasis \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=RTOBQ3zKZDU) | TAB ALT COVER | — |
+| 50 | [Slide Away - Oasis \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=RTOBQ3zKZDU) | TAB ALT COVER | ✅ Oasis — Slide Away |
 | 51 | [Yellow - Coldplay \| Tabs + Chords \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts \| Tuning](https://www.youtube.com/watch?v=fRZvVFb7wq8) | TAB ALT COVER | ✅ Coldplay — Yellow |
 | 52 | [Toxicity - System Of A Down \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts](https://www.youtube.com/watch?v=1VwFTBPNQH4) | TAB METAL COVER | — |
 | 53 | [Born To Be Wild - Steppenwolf \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=2rlcRNSo788) | TAB COVER | — |
@@ -63,7 +63,7 @@
 | 55 | [Youngest Daughter - Superheaven \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts](https://www.youtube.com/watch?v=3V3rGhzCv7s) | TAB COVER | — |
 | 56 | [Hollow - Pantera \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts \| Standard Tuning](https://www.youtube.com/watch?v=cgISyXoe8p4) | TAB METAL COVER | — |
 | 57 | [Bombtrack - Rage Against The Machine \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts](https://www.youtube.com/watch?v=mgIB1agrsXI) | TAB COVER | — |
-| 58 | [Cigarettes & Alcohol - Oasis \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=1F7ZncckR1o) | TAB ALT COVER | — |
+| 58 | [Cigarettes & Alcohol - Oasis \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=1F7ZncckR1o) | TAB ALT COVER | ✅ Oasis — Cigarettes & Alcohol |
 | 59 | [The Pot - Tool \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts](https://www.youtube.com/watch?v=Zs4k__5M40Q) | TAB METAL COVER | — |
 | 60 | [You Only Live Once - The Strokes \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts](https://www.youtube.com/watch?v=SeDtJZuN0nw) | TAB ALT COVER | — |
 | 61 | [Show Me How To Live - Audioslave \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=xVensge7wnc) | TAB COVER | — |
@@ -77,11 +77,11 @@
 | 69 | [No Surprises - Radiohead \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts \| 440Hz](https://www.youtube.com/watch?v=-O_NKqREnyA) | TAB ALT COVER | ✅ Radiohead — No Surprises |
 | 70 | [Peace Of Mind - Boston \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=LU_8QuMeF9M) | TAB CLASSIC COVER | — |
 | 71 | [Don't Look Back In Anger - Oasis \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=G_QjLLCP1sU) | TAB ALT COVER | ✅ Oasis — Don't Look Back In Anger |
-| 72 | [Whatever - Oasis \| Tabs + Chords \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=6CVKC5LVAAs) | TAB ALT COVER | — |
+| 72 | [Whatever - Oasis \| Tabs + Chords \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=6CVKC5LVAAs) | TAB ALT COVER | ✅ Oasis — Whatever |
 | 73 | [American Idiot - Green Day \| Tabs + Chords \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts](https://www.youtube.com/watch?v=vKWakePuqQw) | TAB PUNK COVER | ✅ Green Day — American Idiot |
 | 74 | [Santeria - Sublime \| Tabs + Chords \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=V8iiAXaLHYo) | TAB COVER | — |
 | 75 | [Knockin' On Heaven's Door - Guns N' Roses \| Tabs \| Guitar Lesson \| Cover \| Solo \| Slash + Izzy](https://www.youtube.com/watch?v=OwkRs1QLaw8) | TAB COVER | — |
-| 76 | [Live Forever - Oasis \| Tabs + Chords \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=d4xrDH4XVLY) | TAB ALT COVER | — |
+| 76 | [Live Forever - Oasis \| Tabs + Chords \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=d4xrDH4XVLY) | TAB ALT COVER | ✅ Oasis — Live Forever |
 | 77 | [Fall To Pieces - Velvet Revolver \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=xGscfX6lhNY) | TAB COVER | — |
 | 78 | [The Zephyr Song - Red Hot Chili Peppers \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo](https://www.youtube.com/watch?v=61pCQoOjf7I) | TAB ALT COVER | ✅ Red Hot Chili Peppers — The Zephyr Song |
 | 79 | [Bodies - Drowning Pool \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts](https://www.youtube.com/watch?v=YVi_e8zK-TQ) | TAB COVER | — |
@@ -105,7 +105,7 @@
 | 97 | [Would? - Alice In Chains \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=_vPPpJU7VDI) | TAB GRUNGE ALT COVER | — |
 | 98 | [Today - The Smashing Pumpkins \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=SaRep644gI8) | TAB ALT COVER | — |
 | 99 | [Shine On You Crazy Diamond - Pink Floyd \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo](https://www.youtube.com/watch?v=zRlxgWzGX70) | TAB CLASSIC COVER | — |
-| 100 | [Half The World Away - Oasis \| Tabs + Chords \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts](https://www.youtube.com/watch?v=wtjoRQfmHQI) | TAB ALT COVER | — |
+| 100 | [Half The World Away - Oasis \| Tabs + Chords \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts](https://www.youtube.com/watch?v=wtjoRQfmHQI) | TAB ALT COVER | ✅ Oasis — Half The World Away |
 | 101 | [Burn - Deep Purple \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=vmY8A9PP0Cc) | TAB CLASSIC COVER | — |
 | 102 | [Dear God - Avenged Sevenfold \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=OoC_gkxi3A0) | TAB METAL COVER | — |
 | 103 | [Start Me Up - The Rolling Stones \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=bDZDtnAbuYw) | TAB COVER | — |
@@ -119,7 +119,7 @@
 | 111 | [Wind Of Change - Scorpions \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| Enya Nova Go Sonic](https://www.youtube.com/watch?v=XqWpsgqq3Pg) | TAB METAL COVER | — |
 | 112 | [Eddie - Red Hot Chili Peppers \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| Backing Track](https://www.youtube.com/watch?v=9Uy8IA_DaUc) | TAB ALT COVER | — |
 | 113 | [Walk Of Life - Dire Straits \| Tabs + Chords \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts](https://www.youtube.com/watch?v=pYsV2_k7_3E) | TAB CLASSIC COVER | — |
-| 114 | [She's Electric - Oasis \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=42GX06WDX5w) | TAB ALT COVER | — |
+| 114 | [She's Electric - Oasis \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=42GX06WDX5w) | TAB ALT COVER | ✅ Oasis — She's Electric |
 | 115 | [Oasis Top 10 Riffs with Tabs](https://www.youtube.com/watch?v=rwm5znzj61c) | TAB ALT | — |
 | 116 | [Monkey Wrench - Foo Fighters \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts](https://www.youtube.com/watch?v=bZhiy-KSFJ4) | TAB ALT COVER | — |
 | 117 | [So Far Away - Avenged Sevenfold \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=8YAVjCvd9Pk) | TAB METAL COVER | — |
@@ -128,7 +128,7 @@
 | 120 | [Live And Let Die - Guns N' Roses \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=aR_4hG3XRvc) | TAB COVER | — |
 | 121 | [Still Loving You - Scorpions \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=GIotgEKGDWs) | TAB METAL COVER | — |
 | 122 | [Black - Pearl Jam \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=ObtUqx2n1EE) | TAB GRUNGE ALT COVER | — |
-| 123 | [Stand By Me - Oasis \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=BAoPHsvI1v0) | TAB ALT COVER | — |
+| 123 | [Stand By Me - Oasis \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=BAoPHsvI1v0) | TAB ALT COVER | ✅ Oasis — Stand By Me |
 | 124 | [Schism - Tool \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts](https://www.youtube.com/watch?v=wsXXjvqz5w0) | TAB METAL COVER | — |
 | 125 | [Waking The Demon - Bullet For My Valentine \| Tabs \| Guitar Lesson \| Cover \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=vlaYBxK0F6E) | TAB METAL COVER | — |
 | 126 | [The Four Horsemen - Metallica \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=M0c1eXPxooU) | TAB METAL COVER | — |
@@ -144,7 +144,7 @@
 | 136 | [Black Hole Sun - Soundgarden \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=WgqnXZN0UeA) | TAB GRUNGE ALT COVER | — |
 | 137 | [Yesterdays - Guns N' Roses \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=GoVKGMEyaWA) | TAB COVER | — |
 | 138 | [Reptilia - The Strokes \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=SgrJBwTg4mU) | TAB ALT COVER | — |
-| 139 | [Supersonic - Oasis \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=e7KCUxWBJj4) | TAB ALT COVER | — |
+| 139 | [Supersonic - Oasis \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=e7KCUxWBJj4) | TAB ALT COVER | ✅ Oasis — Supersonic |
 | 140 | [Cryin - Aerosmith \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo \| All Guitar Parts](https://www.youtube.com/watch?v=EMlpzA0boPg) | TAB METAL CLASSIC COVER | — |
 | 141 | [Bigmouth Strikes Again - The Smiths \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| All Guitar Parts](https://www.youtube.com/watch?v=l7YEt45_kO4) | TAB ALT COVER | — |
 | 142 | [Since I Don't Have You - Guns N' Roses \| Tabs \| Guitar Lesson \| Cover \| Tutorial \| Solo](https://www.youtube.com/watch?v=2DzTOAy5AtI) | TAB COVER | — |

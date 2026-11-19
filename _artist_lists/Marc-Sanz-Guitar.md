@@ -13,7 +13,7 @@
 | 7 | Beatles | 3 | — |
 | 8 | Lit | 2 | ✅ 1 |
 | 9 | Sunshine of your love | 2 | — |
-| 10 | Oasis | 2 | ✅ 1 |
+| 10 | Oasis | 2 | ✅ 2 |
 | 11 | Weezer | 2 | — |
 | 12 | Free | 2 | — |
 | 13 | Dire Straits | 2 | — |

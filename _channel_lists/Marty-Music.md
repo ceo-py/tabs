@@ -1463,7 +1463,7 @@
 | 1455 | [3 Doors Down It's Not My Time Guitar Lesson + Tutorial](https://www.youtube.com/watch?v=B_L9P4s4z_c) | COVER | — |
 | 1456 | [Bachman Turner Overdrive You Ain't Seen Nothing Yet Guitar Lesson + Tutorial](https://www.youtube.com/watch?v=jOP3ONIC-24) | COVER | — |
 | 1457 | [Gabby Barrett (feat. Charlie Puth) I Hope Guitar Lesson + Tutorial](https://www.youtube.com/watch?v=Vk0pdHYvGfc) | COVER | — |
-| 1458 | [Oasis Supersonic Guitar Lesson + Tutorial](https://www.youtube.com/watch?v=WWxD-CK_i6k) | ALT COVER | — |
+| 1458 | [Oasis Supersonic Guitar Lesson + Tutorial](https://www.youtube.com/watch?v=WWxD-CK_i6k) | ALT COVER | ✅ Oasis — Supersonic |
 | 1459 | [Chris Stapleton Starting Over Guitar Lesson + Tutorial](https://www.youtube.com/watch?v=IXU0CkeZKUM) | COVER | — |
 | 1460 | [100 Cliche Things Guitar Players Say ROUND 2](https://www.youtube.com/watch?v=lwwpSJnTW8M) |  | — |
 | 1461 | [John Mayer, Derek Trucks And Marcus King Inspired Blues Lick](https://www.youtube.com/watch?v=Oe1Zm2CudGw) |  | — |
@@ -2412,7 +2412,7 @@
 | 2404 | [Amazing Guitar Collection \| Marty's Guitar Tours](https://www.youtube.com/watch?v=On1p_k08OMM) |  | — |
 | 2405 | [Comfortably Numb Second Solo Lesson Part 2 - Pink Floyd, David Gilmour](https://www.youtube.com/watch?v=CW9QsHQgt08) | CLASSIC COVER | — |
 | 2406 | [The Tool Every Guitarist Should Have (Plus Strings and Picks)](https://www.youtube.com/watch?v=OQhbcr89qj0) | METAL | — |
-| 2407 | [How to Play "Live Forever" by Oasis on Guitar - Easy Acoustic Songs](https://www.youtube.com/watch?v=6Qa-INwDATo) | ALT COVER | — |
+| 2407 | [How to Play "Live Forever" by Oasis on Guitar - Easy Acoustic Songs](https://www.youtube.com/watch?v=6Qa-INwDATo) | ALT COVER | ✅ Oasis — Live Forever |
 | 2408 | [Top 7 Onstage Antics](https://www.youtube.com/watch?v=1vHtd-59TpI) |  | — |
 | 2409 | [AC/DC Hells Bells Guitar Lesson](https://www.youtube.com/watch?v=AdubWOFNvzk) | CLASSIC COVER | — |
 | 2410 | [Blues Rock Lick Inspired by Hendrix, Clapton, SRV](https://www.youtube.com/watch?v=o33F_ORLiG0) |  | — |
@@ -2549,7 +2549,7 @@
 | 2541 | [Jamtrack A minor - A Blues - A Dorian](https://www.youtube.com/watch?v=nAL4gN8rCi4) |  | — |
 | 2542 | [Cigar Box Guitars - Marty Schwartz Gear Videos - Guitar Demo](https://www.youtube.com/watch?v=z1Zt3LVj-Rk) |  | — |
 | 2543 | [Guitar Lesson For "Born To Run" by Bruce Springsteen - how to play](https://www.youtube.com/watch?v=BfZAColCjbs) | COVER | — |
-| 2544 | [How to Play "Champagne Supernova" on Acoustic Guitar by Oasis - Easy Acoustic Songs for guitar](https://www.youtube.com/watch?v=Fa9QZDqHpg4) | ALT COVER | — |
+| 2544 | [How to Play "Champagne Supernova" on Acoustic Guitar by Oasis - Easy Acoustic Songs for guitar](https://www.youtube.com/watch?v=Fa9QZDqHpg4) | ALT COVER | ✅ Oasis — Champagne Supernova |
 | 2545 | [Black Magic Woman Guitar Lesson Part 1 - Santana - Marty Schwartz Guitar Lesson](https://www.youtube.com/watch?v=m3eqotE1A-Y) | COVER | ✅ Santana — Black Magic Woman |
 | 2546 | [Ultimate E Blues Scale Run - Marty Schwartz Blues Guitar Lesson](https://www.youtube.com/watch?v=qwI_-x-QE1c) | COVER | — |
 | 2547 | [Best Fuzz Pedal Shootout - Swollen Pickle, Big Muff, and The Octafuzz - Marty's Thursday Gear](https://www.youtube.com/watch?v=Y4oBh3pBmzc) |  | — |

@@ -8,27 +8,27 @@
 |---|---|---|---|---|---|
 | 1 | Wonderwall | ✅ | 27 | 11 | CWZ Guitar, Cameron Ford Music, Chevans Music, CoverSolutions |
 | 2 | Don't Look Back In Anger | ✅ | 16 | 10 | CWZ Guitar, Cameron Ford Music, GuitarZero2Hero, GuitarZero2Hero Ex |
-| 3 | Live Forever | — | 9 | 5 | CWZ Guitar, Let's Play All, Lex Guitar Tabs, Marty Music |
-| 4 | Supersonic | — | 12 | 7 | Let's Play All, Lex Guitar Tabs, Marc Sanz Guitar, Marty Music |
-| 5 | Slide Away | — | 5 | 3 | Let's Play All, Lex Guitar Tabs, Sparky Guitar, guitar cover with  |
-| 6 | Some Might Say | — | 4 | 3 | Lex Guitar Tabs, Sparky Guitar, ike |
-| 7 | Whatever | — | 3 | 2 | Lex Guitar Tabs, Sparky Guitar, ike |
-| 8 | Champagne Supernova | — | 4 | 3 | Marty Music, Sparky Guitar, guitar cover with  |
-| 9 | Rock 'n' Roll Star | — | 4 | 3 | Let's Play All, Sparky Guitar, guitar cover with , ike |
-| 10 | Half The World Away | — | 2 | 1 | Lex Guitar Tabs, Sparky Guitar |
-| 11 | Cigarettes & Alcohol | — | 1 | 1 | Lex Guitar Tabs |
-| 12 | Morning Glory | — | 1 | 1 | guitar cover with  |
-| 13 | She's Electric | — | 2 | 1 | Lex Guitar Tabs, Sparky Guitar |
-| 14 | Stand By Me | — | 2 | 1 | Lex Guitar Tabs, christianvib |
-| 15 | D'You Know What I Mean? | — | 1 | 1 | guitar cover with  |
-| 16 | I Hope, I Think, I Know | — | 1 | 1 | guitar cover with  |
-| 17 | Songbird | — | 4 | 1 | Chevans Music, ike |
-| 18 | Lyla | — | 1 | 1 | ike |
-| 19 | Stay Young | — | 1 | 1 | ike |
-| 20 | Roll With It | — | 1 | 1 | ike |
-| 21 | Columbia | — | 1 | 0 | Sparky Guitar |
-| 22 | Masterplan | — | 1 | 0 | Sparky Guitar |
-| 23 | Shakermaker | — | 1 | 0 | Sparky Guitar |
+| 3 | Live Forever | ✅ | 9 | 5 | CWZ Guitar, Let's Play All, Lex Guitar Tabs, Marty Music |
+| 4 | Supersonic | ✅ | 12 | 7 | Let's Play All, Lex Guitar Tabs, Marc Sanz Guitar, Marty Music |
+| 5 | Slide Away | ✅ | 5 | 3 | Let's Play All, Lex Guitar Tabs, Sparky Guitar, guitar cover with  |
+| 6 | Some Might Say | ✅ | 4 | 3 | Lex Guitar Tabs, Sparky Guitar, ike |
+| 7 | Whatever | ✅ | 3 | 2 | Lex Guitar Tabs, Sparky Guitar, ike |
+| 8 | Champagne Supernova | ✅ | 4 | 3 | Marty Music, Sparky Guitar, guitar cover with  |
+| 9 | Rock 'n' Roll Star | ✅ | 4 | 3 | Let's Play All, Sparky Guitar, guitar cover with , ike |
+| 10 | Half The World Away | ✅ | 2 | 1 | Lex Guitar Tabs, Sparky Guitar |
+| 11 | Cigarettes & Alcohol | ✅ | 1 | 1 | Lex Guitar Tabs |
+| 12 | Morning Glory | ✅ | 1 | 1 | guitar cover with  |
+| 13 | She's Electric | ✅ | 2 | 1 | Lex Guitar Tabs, Sparky Guitar |
+| 14 | Stand By Me | ✅ | 2 | 1 | Lex Guitar Tabs, christianvib |
+| 15 | D'You Know What I Mean? | ✅ | 1 | 1 | guitar cover with  |
+| 16 | I Hope, I Think, I Know | ✅ | 1 | 1 | guitar cover with  |
+| 17 | Songbird | ✅ | 4 | 1 | Chevans Music, ike |
+| 18 | Lyla | ✅ | 1 | 1 | ike |
+| 19 | Stay Young | ✅ | 1 | 1 | ike |
+| 20 | Roll With It | ✅ | 1 | 1 | ike |
+| 21 | Columbia | ✅ | 1 | 0 | Sparky Guitar |
+| 22 | Masterplan | ✅ | 1 | 0 | Sparky Guitar |
+| 23 | Shakermaker | ✅ | 1 | 0 | Sparky Guitar |
 | 24 | Stop Crying Your Heart Out | — | 1 | 0 | christianvib |
 | 25 | Go Let It Out | — | 0 | 0 | — |
 | 26 | Importance Of Being Idle | — | 1 | 0 | Guitar Push |
@@ -66,35 +66,14 @@
 ## Обобщение
 
 - канонични Oasis песни: **56**
-- с готова карта: **2**
-- остават: **54**
+- с готова карта: **23**
+- остават: **33**
 - Oasis видеа в корпуса: **112** (с tab: 59)
 
 ## Остават без карта
 
 | Песен | Видеа в корпуса | С tab | Канали |
 |---|---|---|---|
-| Live Forever | 9 | 5 | CWZ Guitar, Let's Play All, Lex Guitar Tabs, Marty Music |
-| Supersonic | 12 | 7 | Let's Play All, Lex Guitar Tabs, Marc Sanz Guitar, Marty Music |
-| Slide Away | 5 | 3 | Let's Play All, Lex Guitar Tabs, Sparky Guitar, guitar cover with  |
-| Some Might Say | 4 | 3 | Lex Guitar Tabs, Sparky Guitar, ike |
-| Whatever | 3 | 2 | Lex Guitar Tabs, Sparky Guitar, ike |
-| Champagne Supernova | 4 | 3 | Marty Music, Sparky Guitar, guitar cover with  |
-| Rock 'n' Roll Star | 4 | 3 | Let's Play All, Sparky Guitar, guitar cover with , ike |
-| Half The World Away | 2 | 1 | Lex Guitar Tabs, Sparky Guitar |
-| Cigarettes & Alcohol | 1 | 1 | Lex Guitar Tabs |
-| Morning Glory | 1 | 1 | guitar cover with  |
-| She's Electric | 2 | 1 | Lex Guitar Tabs, Sparky Guitar |
-| Stand By Me | 2 | 1 | Lex Guitar Tabs, christianvib |
-| D'You Know What I Mean? | 1 | 1 | guitar cover with  |
-| I Hope, I Think, I Know | 1 | 1 | guitar cover with  |
-| Songbird | 4 | 1 | Chevans Music, ike |
-| Lyla | 1 | 1 | ike |
-| Stay Young | 1 | 1 | ike |
-| Roll With It | 1 | 1 | ike |
-| Columbia | 1 | 0 | Sparky Guitar |
-| Masterplan | 1 | 0 | Sparky Guitar |
-| Shakermaker | 1 | 0 | Sparky Guitar |
 | Stop Crying Your Heart Out | 1 | 0 | christianvib |
 | Go Let It Out | 0 | 0 | — |
 | Importance Of Being Idle | 1 | 0 | Guitar Push |

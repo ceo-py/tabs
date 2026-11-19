@@ -7,7 +7,7 @@
 | 1 | Beatles | 124 | — |
 | 2 | Ramones | 12 | — |
 | 3 | Sex Pistols | 12 | — |
-| 4 | Oasis | 10 | ✅ 1 |
+| 4 | Oasis | 10 | ✅ 10 |
 | 5 | Nirvana | 9 | ✅ 4 |
 | 6 | Ventures | 6 | — |
 | 7 | David Bowie | 5 | ✅ 1 |

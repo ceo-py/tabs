@@ -6,7 +6,7 @@
 |---|---|---|---|
 | 1 | Jimi Hendrix | 8 | — |
 | 2 | Metallica | 6 | ✅ 1 |
-| 3 | Oasis | 4 | ✅ 2 |
+| 3 | Oasis | 4 | ✅ 4 |
 | 4 | Nirvana | 4 | ✅ 3 |
 | 5 | Doors | 4 | — |
 | 6 | Motörhead | 3 | — |

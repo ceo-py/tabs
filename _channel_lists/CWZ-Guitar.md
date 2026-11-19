@@ -1028,7 +1028,7 @@
 | 1020 | [Johnny Cash One Piece At A Time Guitar Chords Lesson & Tab Tutorial](https://www.youtube.com/watch?v=eIy5KBE62kc) | TAB COVER | — |
 | 1021 | [Incubus Wish You Were Here Guitar Lesson & Guitar Tab Tutorial / Guitar Chords](https://www.youtube.com/watch?v=q1nwGH4ZFek) | TAB ALT COVER | — |
 | 1022 | [Deftones Ohms Guitar Lesson / Guitar Tabs / Guitar Tutorial / Guitar Chords / Guitar Cover 6 string](https://www.youtube.com/watch?v=L_7aUaOiMkc) | TAB METAL COVER | — |
-| 1023 | [Oasis Live Forever Guitar Chords Lesson & Tab Tutorial + Solo / Rick and Morty](https://www.youtube.com/watch?v=77GKbVesERM) | TAB ALT COVER | — |
+| 1023 | [Oasis Live Forever Guitar Chords Lesson & Tab Tutorial + Solo / Rick and Morty](https://www.youtube.com/watch?v=77GKbVesERM) | TAB ALT COVER | ✅ Oasis — Live Forever |
 | 1024 | [Gwar Saddam A Go Go Guitar Chords Lesson & Tab Tutorial](https://www.youtube.com/watch?v=eSCqnGcyf4o) | TAB COVER | — |
 | 1025 | [Kid Rock I Am The Bullgod Guitar Chords Lesson & Tab Tutorial](https://www.youtube.com/watch?v=eH65k_nua9o) | TAB COVER | — |
 | 1026 | [Bob Dylan Knockin On Heaven's Door Guitar Chords Lesson & Tab Tutorial also by Guns n Roses](https://www.youtube.com/watch?v=ULdmqHIfHeU) | TAB METAL COVER | ✅ Bob Dylan — Knockin' On Heaven's Door |

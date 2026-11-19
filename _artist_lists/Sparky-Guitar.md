@@ -5,7 +5,7 @@
 | # | Артист | Видеа с tab | Имаме |
 |---|---|---|---|
 | 1 | Smashing Pumpkins | 22 | ✅ 3 |
-| 2 | Oasis | 9 | ✅ 2 |
+| 2 | Oasis | 9 | ✅ 9 |
 | 3 | Pink Floyd | 8 | — |
 | 4 | Smiths | 7 | — |
 | 5 | Arctic Monkeys | 5 | — |

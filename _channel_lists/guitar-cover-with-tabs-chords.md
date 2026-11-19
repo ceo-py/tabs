@@ -33,11 +33,11 @@
 | 25 | [Sum 41 - In Too Deep (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=VYOtqt0w6FY) | TAB ALT COVER | — |
 | 26 | [Chainsmoker Cat OP - なんもねえ Nanmonee (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=ubzMnyivCfY) | TAB COVER | — |
 | 27 | [Shocking Blue - Venus (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=4EqsgJs4Hnk) | TAB COVER | — |
-| 28 | [Oasis – Rock 'N' Roll Star (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=GMq1kz1ORJs) | TAB ALT COVER | — |
+| 28 | [Oasis – Rock 'N' Roll Star (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=GMq1kz1ORJs) | TAB ALT COVER | ✅ Oasis — Rock 'n' Roll Star |
 | 29 | [King Gnu - GO GHOST (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=TyZSyRFj9Ng) | TAB METAL POP COVER | — |
 | 30 | [Yorushika - あぶく Bubble (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=OAoXtDC6Weg) | TAB POP COVER | — |
 | 31 | [10-FEET - 第ゼロ感 Dai Zero Kan (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=eh2juYU47rk) | TAB COVER | — |
-| 32 | [Oasis - D'you Know What I Mean? (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=BYLzgA94yxU) | TAB ALT COVER | — |
+| 32 | [Oasis - D'you Know What I Mean? (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=BYLzgA94yxU) | TAB ALT COVER | ✅ Oasis — D'You Know What I Mean? |
 | 33 | [Joy Division - Disorder (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=1CQ3eVmxbLw) | TAB COVER | — |
 | 34 | [Pantera - Cowboys From Hell (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=GsEjv8x93MM) | TAB METAL COVER | — |
 | 35 | [Red Hot Chili Peppers - The Zephyr Song (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=fSxo-pH2WQ8) | TAB ALT COVER | ✅ Red Hot Chili Peppers — The Zephyr Song |
@@ -66,7 +66,7 @@
 | 58 | [164 feat.GUMI - 天ノ弱 Amanojaku (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=rEKzXZLskMY) | TAB COVER | — |
 | 59 | [Bee Gees - Night Fever (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=EMoQOu2AIsw) | TAB COVER | — |
 | 60 | [Bobby Caldwell - What You Won't Do For Love (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=l7OCwR2Otqo) | TAB COVER | — |
-| 61 | [Oasis - Slide Away (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=d1RxW2VIVcI) | TAB ALT COVER | — |
+| 61 | [Oasis - Slide Away (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=d1RxW2VIVcI) | TAB ALT COVER | ✅ Oasis — Slide Away |
 | 62 | [Neru - ロストワンの号哭 Lost One's Weeping (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=xxmbSCvkIt4) | TAB COVER | — |
 | 63 | [Sting - Shape of My Heart (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=3G3bIRwat1w) | TAB CLASSIC COVER | — |
 | 64 | [Two Door Cinema Club - What You Know (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=ZdDI0BHT_zw) | TAB COVER | — |
@@ -177,7 +177,7 @@
 | 169 | [Yu Yu Hakusho OP - Hohoemi No Bakudan (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=lJAdh6NdwL0) | TAB COVER | — |
 | 170 | [Radiohead - No Surprises (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=2C_n-gT-oWU) | TAB ALT COVER | ✅ Radiohead — No Surprises |
 | 171 | [James Brown - Get Up (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=mkM3fACcj2c) | TAB COVER | — |
-| 172 | [Oasis - Champagne Supernova (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=3dARZh-lqAI) | TAB ALT COVER | — |
+| 172 | [Oasis - Champagne Supernova (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=3dARZh-lqAI) | TAB ALT COVER | ✅ Oasis — Champagne Supernova |
 | 173 | [James Brown - I Got You (I Feel Good) (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=ftA75VERDxs) | TAB COVER | — |
 | 174 | [Mrs. GREEN APPLE - クスシキ Kusushiki (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=NdI2M9nPLMg) | TAB COVER | — |
 | 175 | [Ado - ROCKSTAR (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=bcszMuQdesk) | TAB COVER | — |
@@ -278,7 +278,7 @@
 | 270 | [めざせポケモンマスター Mezase Pokémon Master (Guitar Only)(guitar cover with tabs & chords)](https://www.youtube.com/watch?v=wGOnOSq6iTQ) | TAB COVER | — |
 | 271 | [John Mayer - New Light (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=YCNMmpraEs8) | TAB COVER | ✅ John Mayer — New Light |
 | 272 | [BTS - Dynamite (Guitar Only)(guitar cover with tabs & chords)](https://www.youtube.com/watch?v=CNxM1LCTTC0) | TAB POP COVER | — |
-| 273 | [Oasis - Live Forever (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=CNNKH_oWCK0) | TAB ALT COVER | — |
+| 273 | [Oasis - Live Forever (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=CNNKH_oWCK0) | TAB ALT COVER | ✅ Oasis — Live Forever |
 | 274 | [Jamiroquai - Cosmic Girl (Guitar Only)(guitar cover with tabs & chords)](https://www.youtube.com/watch?v=gdJ9KUinr3M) | TAB COVER | — |
 | 275 | [Billy Talent - End Of Me feat. Rivers Cuomo (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=l4XpVFXvSi4) | TAB METAL COVER | — |
 | 276 | [John Mayer - Who Did You Think I Was (Guitar Only)(guitar cover with tabs & chords)](https://www.youtube.com/watch?v=5QeUIgP4Ffc) | TAB COVER | — |
@@ -601,7 +601,7 @@
 | 593 | [Vacations - Telephones (guitar backing track with tab)](https://www.youtube.com/watch?v=GQJ-p6-hfEQ) | TAB | — |
 | 594 | [Bocchi The Rock! - ギターと孤独と蒼い惑星 Guitar, Loneliness and Blue Planet (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=NeGfm_5lqgY) | TAB POP COVER | — |
 | 595 | [d4vd - Romantic Homicide (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=vvokDMevYVk) | TAB COVER | — |
-| 596 | [Oasis - I Hope, I Think, I Know (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=iop2pF2hyw8) | TAB ALT COVER | — |
+| 596 | [Oasis - I Hope, I Think, I Know (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=iop2pF2hyw8) | TAB ALT COVER | ✅ Oasis — I Hope, I Think, I Know |
 | 597 | [Bocchi The Rock! - 星座になれたら If I Could Be A Constellation (bass backing track)](https://www.youtube.com/watch?v=Y9brAT5MNEY) | POP BASS | — |
 | 598 | [Bocchi The Rock! - 星座になれたら If I Could Be A Constellation (guitar backing track)](https://www.youtube.com/watch?v=IHZu-xnTzxQ) | POP | — |
 | 599 | [Bocchi The Rock! - 星座になれたら If I Could Be A Constellation (karaoke)](https://www.youtube.com/watch?v=tSP_E5GMQDk) | POP | — |
@@ -637,7 +637,7 @@
 | 629 | [24 City Pop Style Guitar Solo Licks](https://www.youtube.com/watch?v=wJgwAmlSEho) |  | — |
 | 630 | [15 City Pop Style Tasty Licks](https://www.youtube.com/watch?v=esROQkKQcVU) |  | — |
 | 631 | [15 City Pop Style Licks (chords & funky licks)](https://www.youtube.com/watch?v=WJsNSqzRrsI) |  | — |
-| 632 | [Oasis - Morning Glory (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=01gU00k6rY4) | TAB ALT COVER | — |
+| 632 | [Oasis - Morning Glory (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=01gU00k6rY4) | TAB ALT COVER | ✅ Oasis — Morning Glory |
 | 633 | [Bruno Major - Nothing (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=Vf6qBN3lqMk) | TAB COVER | — |
 | 634 | [RHCP - Dani California (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=RifgjXtJ6Zw) | TAB ALT COVER | — |
 | 635 | [The Walters - I love you so (guitar cover with tab, tutorial, gear)](https://www.youtube.com/watch?v=wk8-ZT-xRDM) | TAB COVER | — |
@@ -678,7 +678,7 @@
 | 670 | [Tatsuro Yamashita - Love Space (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=t27OjggySuE) | TAB COVER | — |
 | 671 | [John Mayer - Crossroads (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=ADhEzxIhS78) | TAB COVER | — |
 | 672 | [Yasushi Nakanishi - Last Rain (guitar solo cover with tabs & chords)](https://www.youtube.com/watch?v=hbRMC9kHx9U) | TAB COVER | — |
-| 673 | [Oasis - Supersonic (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=XEyu6iQQURo) | TAB ALT COVER | — |
+| 673 | [Oasis - Supersonic (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=XEyu6iQQURo) | TAB ALT COVER | ✅ Oasis — Supersonic |
 | 674 | [Pixies - Debaser (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=OKTsi2_8qc0) | TAB COVER | — |
 | 675 | [HYBS - Ride (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=ImUcrtbq_iY) | TAB COVER | — |
 | 676 | [Minnie Riperton - Inside My Love (guitar cover with tabs & chords)](https://www.youtube.com/watch?v=fv2wSx_HKTE) | TAB COVER | — |

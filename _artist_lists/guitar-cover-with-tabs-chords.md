@@ -11,7 +11,7 @@
 | 5 | Red Hot Chili Peppers | 17 | ✅ 8 |
 | 6 | John Mayer | 15 | ✅ 4 |
 | 7 | Bruno Mars | 12 | ✅ 2 |
-| 8 | Oasis | 11 | ✅ 3 |
+| 8 | Oasis | 11 | ✅ 11 |
 | 9 | K-ON! | 10 | — |
 | 10 | Linkin Park | 9 | ✅ 3 |
 | 11 | Nirvana | 8 | ✅ 4 |

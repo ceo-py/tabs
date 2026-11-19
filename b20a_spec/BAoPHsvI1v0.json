@@ -1,0 +1,13 @@
+{
+  "title": "STAND BY ME",
+  "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  Lex Guitar Tabs",
+  "out": "out_gz/Oasis-Stand-By-Me.png",
+  "panels": [
+    {"label": "CHORD PATTERN & STRUMMING  ·  UPPER PART", "t": 330,
+     "bbox": [0, 344, 1920, 172], "png": "frames/b20a_BAoPHsvI1v0/p0.png"},
+    {"label": "TAB  ·  LOWER PART", "t": 330,
+     "bbox": [0, 902, 1920, 178], "png": "frames/b20a_BAoPHsvI1v0/p1.png"}
+  ],
+  "note": "Chords: C F D/F# G D Am (shown in the upper panel) - elsewhere in the video: C/B B7add11 Dsus4 Em A7 Cadd9   Strumming: up and down strum arrows over the chord shapes in the upper panel",
+  "diagram": "LETTERS"
+}

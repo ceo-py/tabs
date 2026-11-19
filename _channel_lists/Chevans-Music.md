@@ -203,7 +203,7 @@
 | 195 | [3 Easy 60s Songs Every Guitarist MUST Learn](https://www.youtube.com/watch?v=b1tx3Zqm2lk) |  | — |
 | 196 | [Dreams by Fleetwood Mac, a really easy song to learn! MEMBERS ONLY!](https://www.youtube.com/watch?v=HbidBX8cCA8) |  | ✅ Fleetwood Mac — Dreams |
 | 197 | [Learn These 3 Iconic 90s Guitar Songs Now!](https://www.youtube.com/watch?v=trAkXex1SKg) |  | — |
-| 198 | [Songbird by Oasis Super Easy Guitar Tutorial! MEMBERS ONLY!](https://www.youtube.com/watch?v=tenXPQO1MOI) | ALT COVER | — |
+| 198 | [Songbird by Oasis Super Easy Guitar Tutorial! MEMBERS ONLY!](https://www.youtube.com/watch?v=tenXPQO1MOI) | ALT COVER | ✅ Oasis — Songbird |
 | 199 | [3 More Beatles Songs Every Beginner Guitarist Needs to Know!](https://www.youtube.com/watch?v=WKu-p_5HqQA) |  | — |
 | 200 | [Learn this one song and you're officially a guitar player](https://www.youtube.com/watch?v=yQG3ccLSnro) |  | — |
 | 201 | [3 Green Day Songs Every Beginner Guitarist Needs To Know!](https://www.youtube.com/watch?v=KUPpqCmlPFg) | PUNK | — |
@@ -503,7 +503,7 @@
 | 495 | [How to play Waves by Mr. Probz on Guitar in under 2 minutes with Chas Evans! #guitar #guitarra](https://www.youtube.com/watch?v=fe36vd4cX_M) | COVER | — |
 | 496 | [How to play Knocking on Heaven's Door by Bob Dylan on Guitar in Under 2 minutes with Chas Evans!](https://www.youtube.com/watch?v=oQAGvogQpDk) | COVER | — |
 | 497 | [How to play Sweet But Psycho by Ava Max on Guitar in under 2 minutes with Chas Evans! #guitar](https://www.youtube.com/watch?v=0uSdA8rr_eA) | COVER | — |
-| 498 | [How to play Songbird by Oasis on Guitar in under 2 minutes with Chas Evans! #guitar #guitarra](https://www.youtube.com/watch?v=g6rTK6khM5g) | ALT COVER | — |
+| 498 | [How to play Songbird by Oasis on Guitar in under 2 minutes with Chas Evans! #guitar #guitarra](https://www.youtube.com/watch?v=g6rTK6khM5g) | ALT COVER | ✅ Oasis — Songbird |
 | 499 | [How to play Shotgun by George Ezra on Guitar in under 2 minutes with Chas Evans! #guitar #guitarra](https://www.youtube.com/watch?v=20BbP3vaPOU) | COVER | — |
 | 500 | [How to play Diamonds by Rihanna on Guitar in under 2 minutes with Chas Evans! #guitar #guitarra](https://www.youtube.com/watch?v=vU6oipxNuYM) | POP COVER | — |
 | 501 | [How to play Blurred Lines by Robin Thicke on Guitar in under 2 minutes with Chas Evans! #guitar](https://www.youtube.com/watch?v=XI7G1WZM-6Q) | COVER | — |
@@ -531,7 +531,7 @@
 | 523 | [Mary Jane’s Last Dance by Tom Petty Guitar Tutorial with Chevans Music! #guitar #music #guitarra](https://www.youtube.com/watch?v=fobryu6pDxc) | COVER | — |
 | 524 | [Learn Sweet But Psycho Guitar in Minutes with Chevans Music](https://www.youtube.com/watch?v=sI3UFXYL8hc) |  | — |
 | 525 | [Pumped Up Kicks Guitar Tutorial with Chevans Music!](https://www.youtube.com/watch?v=k0roCL19l1c) | COVER | — |
-| 526 | [Songbird by Oasis Guitar Tutorial Lesson with Chevans Music! #guitar #music #guitarra #musica](https://www.youtube.com/watch?v=T3fNidwo4rY) | ALT COVER | — |
+| 526 | [Songbird by Oasis Guitar Tutorial Lesson with Chevans Music! #guitar #music #guitarra #musica](https://www.youtube.com/watch?v=T3fNidwo4rY) | ALT COVER | ✅ Oasis — Songbird |
 | 527 | [Cheap Thrills by Sia Guitar Tutorial with Chevans Music #guitar #music #guitarra #musica #love #tube](https://www.youtube.com/watch?v=SicJKhS4B5M) | COVER | — |
 | 528 | [Linger by The Cranberries Guitar Tutorial Lesson with Chevans Music! #guitar #guitarra #music](https://www.youtube.com/watch?v=UTaaAOOxrB8) | ALT COVER | ✅ The Cranberries — Linger |
 | 529 | [Shake It Off Guitar Tutorial - Easy Chords & Strumming Pattern](https://www.youtube.com/watch?v=BuO4HdHHhN8) | COVER | — |

@@ -37,7 +37,7 @@
 | 29 | [Bad Moon Rising Creedence Guitar Tab Cover Lesson Tutorial](https://www.youtube.com/watch?v=FURE_t4Voy0) | TAB CLASSIC COVER | — |
 | 30 | [Crosstown Traffic Jimi Hendrix Guitar Tab Cover Lesson Tutorial](https://www.youtube.com/watch?v=gmQQ6EOzAaI) | TAB CLASSIC COVER | — |
 | 31 | [On A Plain Nirvana Guitar Tab Cover Lesson Tutorial](https://www.youtube.com/watch?v=bfYkN_lgCH8) | TAB GRUNGE ALT COVER | — |
-| 32 | [Supersonic Oasis Guitar Guitar Tab Cover Lesson Tutorial](https://www.youtube.com/watch?v=_AOU2WXbhL0) | TAB ALT COVER | — |
+| 32 | [Supersonic Oasis Guitar Guitar Tab Cover Lesson Tutorial](https://www.youtube.com/watch?v=_AOU2WXbhL0) | TAB ALT COVER | ✅ Oasis — Supersonic |
 | 33 | [Don't look back in anger Oasis Guitar Tab Cover Lesson Tutorial](https://www.youtube.com/watch?v=g4R9_nhSmJk) | TAB ALT COVER | ✅ Oasis — Don't Look Back In Anger |
 | 34 | [Island in the Sun Weezer Guitar Tab Cover Lesson Tutorial](https://www.youtube.com/watch?v=b4kN8NHH2n0) | TAB ALT COVER | — |
 | 35 | [Fake Tales Of San Francisco Arctic Monkeys Guitar Tab Cover Lesson Tutorial](https://www.youtube.com/watch?v=j6JrM9l96lE) | TAB ALT COVER | — |

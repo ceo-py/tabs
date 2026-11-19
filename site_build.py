@@ -196,6 +196,12 @@ def main():
         'guitar cover with tabs & chords': 'https://www.youtube.com/@guitarcoverwithtab',
         'ike': 'https://www.youtube.com/@Guitar-Jam.',
         'Sparky Guitar': 'https://www.youtube.com/@SparkyGuitar',
+        # batch 21 (channels that were not measured in the 112-channel sweep)
+        'G.S.N. Tabs': 'https://www.youtube.com/channel/UCJ4ZRv0jfD8MmBD1s2CRUPg',
+        'Behnam Guitar Tabs': 'https://www.youtube.com/channel/UC2JWSXBqH8Ihwy9f5kmHAWw',
+        'Wayne R Guitar': 'https://www.youtube.com/channel/UCwTczAeQtEqoSqOc5ouSqwQ',
+        'Fretboard Fundamentals': 'https://www.youtube.com/channel/UCFcJJp4uBTXN3_j5kBjNzIw',
+        'Top Guitar Players': 'https://www.youtube.com/channel/UCpMKt1zAnRPjwpk3RLr439g',
     }
     used_channels = []
     for s in songs:

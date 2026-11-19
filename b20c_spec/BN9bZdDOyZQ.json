@@ -16,6 +16,12 @@
    "png": "frames/b20c_BN9bZdDOyZQ/p1.png"
   },
   {
+   "label": "CHORDS & TAB  ·  Fmaj7/A · G6/A · A",
+   "t": 44,
+   "bbox": [0, 0, 1920, 618],
+   "png": "frames/b20c_BN9bZdDOyZQ/p1b.png"
+  },
+  {
    "label": "CHORDS & TAB  ·  CHORUS",
    "t": 70,
    "bbox": [0, 0, 1920, 618],
@@ -40,6 +46,6 @@
    "png": "frames/b20c_BN9bZdDOyZQ/p5.png"
   }
  ],
- "note": "Chords: A (intro)  ·  Dadd9/A Fmaj7/A G6/A A (verse 1)  ·  D A A D A G D (chorus)  ·  Dadd9/A Fmaj7/A (verse 2)  ·  E G (interlude)  ·  A D A G D A D A (final chorus)  ·  Capo: fret 2 (printed on the intro panel)  ·  Strumming: not shown in the video - the channel shows standard notation and TAB only, there is no strumming pattern panel",
+ "note": "Chords: A (intro)  ·  Dadd9/A Fmaj7/A (verse 1)  ·  Fmaj7/A G6/A A (verse 1 continued - no section title printed on screen)  ·  D A A D A G D (chorus)  ·  Dadd9/A Fmaj7/A (verse 2)  ·  A D A G D E G (interlude)  ·  A D A G D A D A (final chorus)  ·  Capo: fret 2 (printed on the intro panel)  ·  Strumming: not shown in the video - the channel shows standard notation and TAB only, there is no strumming pattern panel",
  "diagram": "LETTERS"
 }

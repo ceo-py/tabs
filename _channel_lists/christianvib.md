@@ -201,7 +201,7 @@
 | 193 | [TODOS PODEMOS APRENDER A CANTAR? MASTERCLASS \| Ivanna Valadez](https://www.youtube.com/watch?v=uUMZURBNS0k) |  | — |
 | 194 | [Si Antes Te Hubiera Conocido - KAROL G GUITARRA ACORDES Cover Guitarra \| Christianvib](https://www.youtube.com/watch?v=SXs7P-TcwC0) | COVER | — |
 | 195 | [CHORDHOUSE MIS POLEMICAS CON ROLANDO MORA, TIAGO ANDREE Y MAS \| Iván Gonzalez #29](https://www.youtube.com/watch?v=gpbEMqQmDtw) |  | — |
-| 196 | [Stand By Me - Oasis GUITAR CHORDS + SOLO Acoustic \| Guitarra Cover Christianvib](https://www.youtube.com/watch?v=oXiuPELMgXo) | ALT COVER | — |
+| 196 | [Stand By Me - Oasis GUITAR CHORDS + SOLO Acoustic \| Guitarra Cover Christianvib](https://www.youtube.com/watch?v=oXiuPELMgXo) | ALT COVER | ✅ Oasis — Stand By Me |
 | 197 | [Tocando la Canción de POU CLIFF JUMP en Tambor de Lenguas Económico \| Notas Musicales](https://www.youtube.com/watch?v=sqAvxK2GqNE) |  | — |
 | 198 | [Osito Gominola - Piano Tutorial FACIL \| Notas Musicales Cover](https://www.youtube.com/watch?v=TxhMk0zG7bE) | COVER | — |
 | 199 | [ANTES TOCABA GUITARRA EN LOS CAMIONES \| Anecdotario con mi hija Natalia #28](https://www.youtube.com/watch?v=YO4dFWkXf0M) |  | — |

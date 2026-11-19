@@ -4,7 +4,7 @@
 
 | # | Артист | Видеа с tab | Имаме |
 |---|---|---|---|
-| 1 | Oasis | 11 | ✅ 2 |
+| 1 | Oasis | 11 | ✅ 10 |
 | 2 | Ghost | 8 | — |
 | 3 | Metallica | 8 | ✅ 1 |
 | 4 | Pink Floyd | 7 | — |
@@ -75,7 +75,7 @@
 | 69 | Fuel | 1 | — |
 | 70 | Dire Straits | 1 | — |
 | 71 | Cranberries | 1 | — |
-| 72 | Me | 1 | — |
+| 72 | Me | 1 | ✅ 1 |
 | 73 | Waking Demon | 1 | — |
 | 74 | Welcome Home | 1 | — |
 | 75 | Dreams | 1 | ✅ 1 |

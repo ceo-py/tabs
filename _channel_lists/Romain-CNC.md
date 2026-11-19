@@ -230,7 +230,7 @@
 | 222 | [Bauhaus - All We Ever Wanted (Guitar cover with tabs)](https://www.youtube.com/watch?v=PewmkI0MqvE) | TAB COVER | — |
 | 223 | [Doused - DIIV (Guitar cover with tab)](https://www.youtube.com/watch?v=cdO9H_Jh-_s) | TAB COVER | — |
 | 224 | [The Stone Roses - I Wanna Be Adored (Guitar cover with tabs)](https://www.youtube.com/watch?v=Mm_tyY33Wc4) | TAB COVER | — |
-| 225 | [Supersonic - Oasis (Bonehead's Guitar backing track)](https://www.youtube.com/watch?v=atm0RWn0wks) | ALT | — |
+| 225 | [Supersonic - Oasis (Bonehead's Guitar backing track)](https://www.youtube.com/watch?v=atm0RWn0wks) | ALT | ✅ Oasis — Supersonic |
 | 226 | [Teenage Kicks - The Undertones (Guitar cover with tab)](https://www.youtube.com/watch?v=tzEDYt5yMtk) | TAB COVER | — |
 | 227 | [Буерак (Buerak) - Танцы По Расчёту (Guitar cover)](https://www.youtube.com/watch?v=x1cLteAijSg) | COVER | — |
 | 228 | [Obstacle 1 - Interpol (Guitar cover + tab)](https://www.youtube.com/watch?v=SJJDcQavy3g) | TAB COVER | — |
@@ -280,6 +280,6 @@
 | 272 | [Half full glass of wine - Tame Impala (Guitar backing track)](https://www.youtube.com/watch?v=zokWIY8_lCw) | ALT | — |
 | 273 | [Cornerstone - Arctic Monkeys (Backing track guitar & vocals)](https://www.youtube.com/watch?v=tbpZz1rHqU0) | ALT | — |
 | 274 | [What difference does it make - The Smiths (Guitar backing track)](https://www.youtube.com/watch?v=JH5LV7rH1Y4) | ALT | — |
-| 275 | [Supersonic - Oasis (Noel's Guitar backing track)](https://www.youtube.com/watch?v=jrMRQLVc56g) | ALT | — |
+| 275 | [Supersonic - Oasis (Noel's Guitar backing track)](https://www.youtube.com/watch?v=jrMRQLVc56g) | ALT | ✅ Oasis — Supersonic |
 | 276 | [What once was - Her's (Guitar backing track)](https://www.youtube.com/watch?v=S75dc-zsBHo) |  | — |
 | 277 | [Her's - What once was (Guitar cover with tab)](https://www.youtube.com/watch?v=Zdrj6lnlJ1w) | TAB COVER | — |

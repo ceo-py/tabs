@@ -373,7 +373,7 @@
 | 92 | Papa Roach | 2 | — |
 | 93 | Jan Hammer | 2 | — |
 | 94 | L7 | 2 | — |
-| 95 | Oasis | 2 | ✅ 1 |
+| 95 | Oasis | 2 | ✅ 2 |
 | 96 | GUNS N ROSES | 2 | ✅ 1 |
 | 97 | Primus | 2 | — |
 | 98 | Blues | 2 | — |
@@ -5710,7 +5710,7 @@
 | 5 | Red Hot Chili Peppers | 17 | ✅ 8 |
 | 6 | John Mayer | 15 | ✅ 4 |
 | 7 | Bruno Mars | 12 | ✅ 2 |
-| 8 | Oasis | 11 | ✅ 3 |
+| 8 | Oasis | 11 | ✅ 11 |
 | 9 | K-ON! | 10 | — |
 | 10 | Linkin Park | 9 | ✅ 3 |
 | 11 | Nirvana | 8 | ✅ 4 |
@@ -8958,7 +8958,7 @@
 | 1 | Beatles | 124 | — |
 | 2 | Ramones | 12 | — |
 | 3 | Sex Pistols | 12 | — |
-| 4 | Oasis | 10 | ✅ 1 |
+| 4 | Oasis | 10 | ✅ 10 |
 | 5 | Nirvana | 9 | ✅ 4 |
 | 6 | Ventures | 6 | — |
 | 7 | Heart | 5 | ✅ 1 |
@@ -9499,7 +9499,7 @@
 
 | # | Артист | Видеа с tab | Имаме |
 |---|---|---|---|
-| 1 | Oasis | 11 | ✅ 2 |
+| 1 | Oasis | 11 | ✅ 10 |
 | 2 | Ghost | 8 | — |
 | 3 | Metallica | 8 | ✅ 1 |
 | 4 | Pink Floyd | 7 | — |
@@ -9569,7 +9569,7 @@
 | 68 | Fuel | 1 | — |
 | 69 | Dire Straits | 1 | — |
 | 70 | Cranberries | 1 | — |
-| 71 | Me | 1 | — |
+| 71 | Me | 1 | ✅ 1 |
 | 72 | Waking Demon | 1 | — |
 | 73 | Welcome Home | 1 | — |
 | 74 | Dreams | 1 | ✅ 1 |
@@ -9927,7 +9927,7 @@
 | # | Артист | Видеа с tab | Имаме |
 |---|---|---|---|
 | 1 | Smashing Pumpkins | 22 | ✅ 3 |
-| 2 | Oasis | 9 | ✅ 2 |
+| 2 | Oasis | 9 | ✅ 9 |
 | 3 | Pink Floyd | 8 | — |
 | 4 | Smiths | 7 | — |
 | 5 | Arctic Monkeys | 5 | — |
@@ -10339,7 +10339,7 @@
 |---|---|---|---|
 | 1 | Jimi Hendrix | 8 | — |
 | 2 | Metallica | 6 | ✅ 1 |
-| 3 | Oasis | 4 | ✅ 2 |
+| 3 | Oasis | 4 | ✅ 4 |
 | 4 | Nirvana | 4 | ✅ 3 |
 | 5 | Doors | 4 | — |
 | 6 | Motörhead | 3 | — |
@@ -10639,7 +10639,7 @@
 | 7 | Beatles | 3 | — |
 | 8 | Lit | 2 | ✅ 1 |
 | 9 | Sunshine Of Your Love | 2 | — |
-| 10 | Oasis | 2 | ✅ 1 |
+| 10 | Oasis | 2 | ✅ 2 |
 | 11 | Weezer | 2 | — |
 | 12 | Free | 2 | — |
 | 13 | Dire Straits | 2 | — |
