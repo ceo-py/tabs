@@ -1,0 +1,13 @@
+{
+ "title": "MASTERPLAN",
+ "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  Sparky Guitar",
+ "out": "out_gz/Oasis-Masterplan.png",
+ "panels": [
+  {"label": "TAB  ·  Am · E7 · Cmaj7/A", "t": 27, "bbox": [960, 438, 960, 96], "png": "frames/b20d_p0Fpu1mZKOk/p0.png"},
+  {"label": "TAB  ·  Am(maj7)add9 · Am9 · Am6add9", "t": 36, "bbox": [960, 438, 960, 96], "png": "frames/b20d_p0Fpu1mZKOk/p1.png"},
+  {"label": "TAB  ·  Fmaj7(#11)/A · Bm11(#9)/A · Am", "t": 45, "bbox": [960, 438, 960, 96], "png": "frames/b20d_p0Fpu1mZKOk/p2.png"},
+  {"label": "TAB  ·  Am · E7 · Am7", "t": 54, "bbox": [960, 438, 960, 96], "png": "frames/b20d_p0Fpu1mZKOk/p3.png"}
+ ],
+ "note": "Chords: Am E7 Cmaj7/A Am(maj7)add9 Am9 Am6add9 Fmaj7(#11)/A Bm11(#9)/A Am Am7 (printed above the TAB staff of a strip that scrolls from right to left)   Strumming: not shown in the video - TAB notation only   On screen: the TAB strip runs in the top-right panel for the first ~55 s of the video, the rest is a split-screen performance of electric, acoustic and hollow-body guitars - there is no separate strumming-pattern panel",
+ "diagram": "LETTERS"
+}

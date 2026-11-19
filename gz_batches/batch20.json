@@ -218,5 +218,16 @@
   "url": "https://www.youtube.com/watch?v=B-BkCZrGp2M",
   "source_channel": "Sparky Guitar",
   "score": 70
+ },
+ {
+  "id": "BAoPHsvI1v0",
+  "artist": "Oasis",
+  "song": "Stand By Me",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "out": "out_gz/Oasis-Stand-By-Me.png",
+  "url": "https://www.youtube.com/watch?v=BAoPHsvI1v0",
+  "source_channel": "Lex Guitar Tabs",
+  "score": 130
  }
 ]
