@@ -557,7 +557,7 @@ Love Like A Bomb. Старите spec и PNG са изтрити (recoverable de
 | `38500c9` | b21c — Love Like A Bomb, Instant Karma (Fretboard Fundamentals + Top Guitar Players) |
 | `6388a5b` | b21b — The Hindu Times + смяната на източника на Who Feels Love? |
 | `30b5ffc` | STATE.md — състояние до 5/6 карти |
-| (нов) | финал на партида 21: p23, pipeline, 416 карти, поправки в research списъците |
+| `64517fd` | **финал на партида 21**: p23, pipeline, 416 карти, site_build, поправки в research списъците, 6 stale webp |
 
 ### Класификация
 
