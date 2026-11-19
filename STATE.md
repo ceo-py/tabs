@@ -276,32 +276,36 @@ VPS: `/home/ceo/production/tabs/` = web root, `/home/ceo/production/tabs-repo/` 
 
 ## 9. ПАРТИДА 20 — Oasis (4 нови канала)
 
-> **АКТУАЛНО СЪСТОЯНИЕ: 19 ноември 2026, 22:25.** Работата е ВЪЗОБНОВЕНА.
-> **21/21 карти построени** (манифестът е разширен с 21-ви урок — Stand By Me).
-> Класификация: **17 LETTERS + 2 DIAGRAM + 2 NONE**.
-> Комити по партида 20: `ff43fd0` (part 1) · `b7f5e7b` (b20a, 5) · `3be5021` (b20d, 3 + Stand By Me).
-> Активни агенти: поправки на note-ите в b20b/b20c (по одит) + одит на b20a/b20d.
+> **АКТУАЛНО СЪСТОЯНИЕ: 19 ноември 2026, 22:40.**
+> **Партида 20 е ЗАВЪРШЕНА, комитната и push-ната: `669e6c8`.**
+> Каталогът: **389 → 410 песни**. Класификация: **17 LETTERS + 2 DIAGRAM + 2 NONE**.
+> Сайт: 410 карти + 410 thumbs (820 webp, всички валидни), 69 MB.
+> Активни агенти: **партида 21** (6 урока / 5 нови канала) + одит на b20a/b20d.
 > Историята на прекъсването (18 ноември 13:20) е под този блок.
 
 ### 9.0 Актуално състояние (19 ноември 2026)
 
 | # | задача | статус |
 |---|---|---|
-| 1 | **b20b** — guitar cover with tabs & chords, 8 урока | ✅ 8/8 карти · 🔄 поправка на note-ите по одит |
-| 2 | **b20c** — ike, 4 урока | ✅ 4/4 карти · 🔄 поправка на note-ите по одит |
-| 3 | **b20a** — Lex Guitar Tabs, 6 урока (вкл. Stand By Me) | ✅ 6/6 карти · 🔄 одит в ход |
-| 4 | **b20d** — Sparky Guitar, 3 урока | ✅ 3/3 карти · 🔄 одит в ход |
-| 5 | класификация `chords_diagram_p22.json` | ⏳ след поправките |
-| 6 | pipeline (import_cards → merge → chord_extract → chord_shapes → site_build) | ⏳ след 5 → 389 + 21 = **410** карти |
-| 7 | commit + push на остатъка от партида 20 | ⏳ след 6 |
-| 8 | `REMAINING-LESSONS.md` + прегенериране на маркираните списъци | ⏳ след 6 |
-| 9 | деплой на VPS-а | 🔒 блокиран — машината е жива, но задушена (`Exceeded MaxStartups`), чака физически рестарт |
+| 1 | **b20a** — Lex Guitar Tabs, 6 урока (вкл. Stand By Me) | ✅ 6/6 · 3 LETTERS + 1 DIAGRAM + 2 LETTERS |
+| 2 | **b20b** — guitar cover with tabs & chords, 8 урока | ✅ 8/8 · 8 LETTERS |
+| 3 | **b20c** — ike, 4 урока | ✅ 4/4 · 4 LETTERS |
+| 4 | **b20d** — Sparky Guitar, 3 урока | ✅ 3/3 · 1 LETTERS + 2 NONE |
+| 5 | класификация `chords_diagram_p22.json` | ✅ 21 карти (17/2/2) |
+| 6 | pipeline | ✅ 410 песни · 357 LETTERS / 29 DIAGRAM / 24 NONE · 382 с акорди · 229 форми · **0 несъгласуваности** |
+| 7 | site_build | ✅ 410 карти + 410 thumbs, 820 webp валидни, 69 MB |
+| 8 | commit + push | ✅ `669e6c8` → **push-нат** |
+| 9 | маркирани списъци + `REMAINING-LESSONS.md` | ✅ 2792 видео маркирани · REMAINING: 239 (GZ2H, непроменен — песните са от други канали) |
+| 10 | **партида 21** — 6 урока / 5 нови канала | 🔄 в ход (манифест, видеата и брифът са готови) |
+| 11 | деплой на VPS-а | 🔒 блокиран — SSH връзката се затваря, сайтът не отговаря и на 20 s; чака физически рестарт |
 
-Коммити по партида 20:
+Комити по партида 20:
 * `ff43fd0` — **part 1**: 12 карти (b20b + b20c), research списъците с маркерите, `B20-BRIEF.md`,
   `gz_batches/batch20.json`, `import_cards.py`, `site_build.py` → **push-нат**
 * `b7f5e7b` — **part 2**: 5 карти от Lex Guitar Tabs (b20a)
 * `3be5021` — **part 3**: 3 карти от Sparky Guitar (b20d) + 21-ви урок Stand By Me
+* `669e6c8` — **финал**: пълният pipeline (410 карти), всичките 21 рендерирани карти,
+  поправените spec-и, списъците, `B21-BRIEF.md`, манифестът на партида 21 → **push-нат**
 
 #### Находки от независимия одит (важни!)
 
@@ -438,17 +442,75 @@ py -3.14 _oasis_coverage.py
 
 ### 9.2 Покритие на Oasis — 56 канонични песни
 
-`_oasis_coverage.md` (генериран от `_oasis_coverage.py`):
+`_oasis_coverage.md` (генериран от `_oasis_coverage.py`) — **състояние след партида 20**:
 * канонични Oasis песни: **56**
-* с готова карта при създаването: **2** (Wonderwall, Don't Look Back In Anger)
-* остават: **54** — от тях **25 имат видео с tab** в корпуса (обхванати от партида 20)
-* **29 нямат нито едно видео** в измерените 112 канала → за тях трябва друг източник
+* с готова карта: **23** (беше 2 преди партида 20)
+* остават: **33**
+
+`_oasis_gap.py` сканира **целия корпус** (50 490 видео), а не само видеата с „Oasis“ в
+заглавието — това е причината да се разкрие Stand By Me. Резултат:
+* **само 1** от останалите песни има използваемо tab видео в корпуса → Stand By Me (добавен)
+* останалите ~26 са **лъжливи съвпадения** („The Turning" → Pink Floyd, „My Big Mouth" →
+  Minor Threat, „All Around The World" → Judas Priest, „Party On" → Bloc Party/Deftones)
+  или нямат източник → за тях трябва нов източник (виж т. 10)
 
 ### 9.3 Източникови канали на партида 20
 
 | канал | handle | channel id | уроци |
 |---|---|---|---|
-| Lex Guitar Tabs | @LexGuitarTabs | `UCN4wqAJ7UYPnVRGKshckZJQ` | 5 |
+| Lex Guitar Tabs | @LexGuitarTabs | `UCN4wqAJ7UYPnVRGKshckZJQ` | 6 |
 | guitar cover with tabs & chords | @guitarcoverwithtab | `UCeWHmkuMBM760nryL8wLfLg` | 8 |
 | ike | @Guitar-Jam. | `UCOXYqrNa6diSXKD8wl5EpIA` | 4 |
 | Sparky Guitar | @SparkyGuitar | `UCR8OM6seRnlh6bvZinGyyjA` | 3 |
+
+---
+
+## 10. ПАРТИДА 21 — още 6 урока от 5 НОВИ канала (в ход от 19.11 22:30)
+
+Партида 20 доказа, че **измерените 112 канала не са всичко** — за много Oasis песни няма
+подходящо видео в тях. `_oasis_search.py` търси в YouTube (`Oasis <песен> guitar tab`) и
+намира кандидати в канали, които **не са** в измерения корпус.
+
+### Уроци
+
+| песня | артист | канал | id | out |
+|---|---|---|---|---|
+| Acquiesce | Oasis | G.S.N. Tabs | `oE6uuH-eKHI` | `out_gz/Oasis-Acquiesce.png` |
+| Digsy's Dinner | Oasis | G.S.N. Tabs | `ILwkE8olT7I` | `out_gz/Oasis-Digsy-s-Dinner.png` |
+| The Hindu Times | Oasis | Behnam Guitar Tabs | `GwSh_jC4xqY` | `out_gz/Oasis-The-Hindu-Times.png` |
+| Who Feels Love? | Oasis | Wayne R Guitar | `zYP0Npys8s4` | `out_gz/Oasis-Who-Feels-Love.png` |
+| Love Like A Bomb | Oasis | Fretboard Fundamentals | `7Fc5KPnarJo` | `out_gz/Oasis-Love-Like-A-Bomb.png` |
+| Instant Karma | John Lennon | Top Guitar Players | `2lc9NwgCwmA` | `out_gz/Oasis-Instant-Karma.png` |
+
+⚠️ „The Hindu Times" и „Who Feels Love?" са **точните имена** на песните (в каноничния списък
+`_oasis_songs.py` са записани неточно като „The Hindu" и „Who Feels It") — коригирай при
+следваща итерация.
+
+### Нови канали (добавени в `site_build.py` → `CHANNEL_URLS`)
+
+| канал | channel id |
+|---|---|
+| G.S.N. Tabs | `UCJ4ZRv0jfD8MmBD1s2CRUPg` |
+| Behnam Guitar Tabs | `UC2JWSXBqH8Ihwy9f5kmHAWw` |
+| Wayne R Guitar | `UCwTczAeQtEqoSqOc5ouSqwQ` |
+| Fretboard Fundamentals | `UCFcJJp4uBTXN3_j5kBjNzIw` |
+| Top Guitar Players | `UCpMKt1zAnRPjwpk3RLr439g` |
+
+### Състояние
+
+* ✅ манифест `gz_batches/batch21.json` + `batch21_ids.txt` (6 урока)
+* ✅ 6/6 видеа свалени в `dl/w4_<ID>.mp4`
+* ✅ `B21-BRIEF.md` — бриф за агентите (5 namespace-а: b21a…b21c)
+* 🔄 агентите работят
+* ⏳ след тях: `chords_diagram_p23.json` → pipeline → 410 + 6 = **416** карти → commit + push
+
+### Важно за `import_cards.py`
+
+`import_cards.py` чете `range(1, 21)` — за партида 21 трябва да стане `range(1, 22)`,
+иначе уроците от batch21 няма да се импортират.
+
+### Важно за каналите
+
+`source_channel` в манифеста е точното име на канала, както го връща YouTube
+(с водещи/завършващи интервали в някои случаи). То трябва да съвпада с ключа в
+`CHANNEL_URLS` на `site_build.py`, иначе каналът няма линк в сайта.

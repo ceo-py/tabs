@@ -3,9 +3,29 @@
  "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  Sparky Guitar",
  "out": "out_gz/Oasis-Columbia.png",
  "panels": [
-  {"label": "TUNING  ·  STANDARD (445 Hz)", "t": 12, "bbox": [1316, 840, 524, 156], "png": "frames/b20d_Lbs---ONA3I/p0.png"},
-  {"label": "TABS & PRESETS  ·  ACCESS NOTE", "t": 24, "bbox": [1120, 876, 800, 196], "png": "frames/b20d_Lbs---ONA3I/p1.png"}
+  {
+   "label": "TUNING  ·  STANDARD (445 Hz)",
+   "t": 12,
+   "bbox": [
+    1316,
+    840,
+    524,
+    156
+   ],
+   "png": "frames/b20d_Lbs---ONA3I/p0.png"
+  },
+  {
+   "label": "TABS & PRESETS  ·  ACCESS NOTE",
+   "t": 24,
+   "bbox": [
+    1120,
+    876,
+    800,
+    196
+   ],
+   "png": "frames/b20d_Lbs---ONA3I/p1.png"
+  }
  ],
- "note": "Chords: not shown in the video - no TAB, chord names or strumming pattern ever appear on screen, the video is a split-screen performance only   Strumming: not shown in the video - TAB notation only   On screen: Tuning: Standard - Set tuner to 445Hz, and a notice telling the viewer to look below the video for the tabs and presets   Layout: the performance is filmed as a split screen of the electric and the hollow-body guitar, the tuning and the tabs notices are overlays on the lower half",
+ "note": "Chords: not shown in the video - no TAB, chord names or strumming pattern ever appear on screen, the video is a split-screen performance only   Strumming: not shown in the video - no strumming pattern appears on screen   On screen: Tuning: Standard - Set tuner to 445Hz, and a notice telling the viewer to look below the video for the tabs and presets   Layout: the performance is filmed as a split screen of the electric and the hollow-body guitar, the tuning and the tabs notices are overlays on the lower half",
  "diagram": "NONE"
 }

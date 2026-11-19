@@ -1,13 +1,31 @@
 {
-  "title": "WHATEVER",
-  "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  Lex Guitar Tabs",
-  "out": "out_gz/Oasis-Whatever.png",
-  "panels": [
-    {"label": "CHORD PATTERN & STRUMMING  ·  UPPER PART", "t": 100,
-     "bbox": [0, 350, 1920, 186], "png": "frames/b20a_6CVKC5LVAAs/p0.png"},
-    {"label": "TAB  ·  LOWER PART", "t": 100,
-     "bbox": [0, 928, 1920, 152], "png": "frames/b20a_6CVKC5LVAAs/p1.png"}
-  ],
-  "note": "Chords: G G/F# Em7 Dsus4 Cadd9 A7sus4 B7add11 F# E A (shown above the upper TAB)   Strumming: up and down strum arrows over the chord shapes in the upper panel",
-  "diagram": "LETTERS"
+ "title": "WHATEVER",
+ "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  Lex Guitar Tabs",
+ "out": "out_gz/Oasis-Whatever.png",
+ "panels": [
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  UPPER PART",
+   "t": 100,
+   "bbox": [
+    0,
+    350,
+    1920,
+    186
+   ],
+   "png": "frames/b20a_6CVKC5LVAAs/p0.png"
+  },
+  {
+   "label": "TAB  ·  LOWER PART",
+   "t": 100,
+   "bbox": [
+    0,
+    928,
+    1920,
+    152
+   ],
+   "png": "frames/b20a_6CVKC5LVAAs/p1.png"
+  }
+ ],
+ "note": "Chords: G G/F# Em7 Dsus4 Cadd9 A7sus4 B7add11 E A (shown above the upper TAB)   Strumming: up and down strum arrows over the TAB in the upper panel",
+ "diagram": "LETTERS"
 }

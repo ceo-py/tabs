@@ -3,9 +3,29 @@
  "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  Sparky Guitar",
  "out": "out_gz/Oasis-Shakermaker.png",
  "panels": [
-  {"label": "TUNING  ·  STANDARD (444 Hz)", "t": 9, "bbox": [1278, 808, 596, 148], "png": "frames/b20d_B-BkCZrGp2M/p0.png"},
-  {"label": "TABS & PRESETS  ·  ACCESS NOTE", "t": 19, "bbox": [1120, 880, 800, 196], "png": "frames/b20d_B-BkCZrGp2M/p1.png"}
+  {
+   "label": "TUNING  ·  STANDARD (444 Hz)",
+   "t": 9,
+   "bbox": [
+    1278,
+    808,
+    596,
+    148
+   ],
+   "png": "frames/b20d_B-BkCZrGp2M/p0.png"
+  },
+  {
+   "label": "TABS & PRESETS  ·  ACCESS NOTE",
+   "t": 19,
+   "bbox": [
+    1120,
+    880,
+    800,
+    196
+   ],
+   "png": "frames/b20d_B-BkCZrGp2M/p1.png"
+  }
  ],
- "note": "Chords: not shown in the video - no TAB, chord names or strumming pattern ever appear on screen, the video is a split-screen performance only   Strumming: not shown in the video - TAB notation only   On screen: Tuning: Standard but set tuner to 444Hz, and a notice telling the viewer to look below the video for the tabs and presets   Layout: the performance is filmed as a split screen of the electric and the hollow-body guitar, the tuning and the tabs notices are overlays on the lower half",
+ "note": "Chords: not shown in the video - no TAB, chord names or strumming pattern ever appear on screen, the video is a split-screen performance only   Strumming: not shown in the video - no strumming pattern appears on screen   On screen: Tuning: Standard but set tuner to 444Hz, and a notice telling the viewer to look below the video for the tabs and presets   Layout: the performance is filmed as a split screen of the electric and the hollow-body guitar, the tuning and the tabs notices are overlays on the lower half",
  "diagram": "NONE"
 }

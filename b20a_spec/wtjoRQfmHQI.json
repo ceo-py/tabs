@@ -1,13 +1,31 @@
 {
-  "title": "HALF THE WORLD AWAY",
-  "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  Lex Guitar Tabs",
-  "out": "out_gz/Oasis-Half-The-World-Away.png",
-  "panels": [
-    {"label": "TAB  ·  UPPER PART", "t": 30,
-     "bbox": [0, 382, 1920, 156], "png": "frames/b20a_wtjoRQfmHQI/p0.png"},
-    {"label": "CHORD PATTERN & STRUMMING  ·  LOWER PART", "t": 30,
-     "bbox": [0, 898, 1920, 182], "png": "frames/b20a_wtjoRQfmHQI/p1.png"}
-  ],
-  "note": "Chords: C C/B C/G Fmaj7/C Fm/C Am Asus2 D7 D7sus E (shown in the lower chord panel)   Strumming: up and down strum arrows over the chord shapes in the lower panel",
-  "diagram": "LETTERS"
+ "title": "HALF THE WORLD AWAY",
+ "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  Lex Guitar Tabs",
+ "out": "out_gz/Oasis-Half-The-World-Away.png",
+ "panels": [
+  {
+   "label": "TAB  ·  UPPER PART",
+   "t": 30,
+   "bbox": [
+    0,
+    382,
+    1920,
+    156
+   ],
+   "png": "frames/b20a_wtjoRQfmHQI/p0.png"
+  },
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  LOWER PART",
+   "t": 30,
+   "bbox": [
+    0,
+    898,
+    1920,
+    182
+   ],
+   "png": "frames/b20a_wtjoRQfmHQI/p1.png"
+  }
+ ],
+ "note": "Chords: C C/B C/G Fmaj7/C Em/C Am Asus2 D7 D7sus E (shown in the lower chord panel)   Strumming: up and down strum arrows over the TAB in the lower panel",
+ "diagram": "LETTERS"
 }

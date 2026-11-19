@@ -1,13 +1,31 @@
 {
-  "title": "SOME MIGHT SAY",
-  "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  Lex Guitar Tabs",
-  "out": "out_gz/Oasis-Some-Might-Say.png",
-  "panels": [
-    {"label": "CHORD PATTERN & STRUMMING  ·  UPPER PART", "t": 100,
-     "bbox": [0, 332, 1920, 208], "png": "frames/b20a_qPTV5wkocv0/p0.png"},
-    {"label": "TAB  ·  LOWER PART", "t": 100,
-     "bbox": [0, 888, 1920, 192], "png": "frames/b20a_qPTV5wkocv0/p1.png"}
-  ],
-  "note": "Chords: D5 Bsus2/F# G D A Em C E (shown above the upper TAB)   Strumming: up and down strum arrows over the TAB in the upper panel",
-  "diagram": "LETTERS"
+ "title": "SOME MIGHT SAY",
+ "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  Lex Guitar Tabs",
+ "out": "out_gz/Oasis-Some-Might-Say.png",
+ "panels": [
+  {
+   "label": "CHORD PATTERN & STRUMMING  ·  UPPER PART",
+   "t": 100,
+   "bbox": [
+    0,
+    332,
+    1920,
+    208
+   ],
+   "png": "frames/b20a_qPTV5wkocv0/p0.png"
+  },
+  {
+   "label": "TAB  ·  LOWER PART",
+   "t": 100,
+   "bbox": [
+    0,
+    888,
+    1920,
+    192
+   ],
+   "png": "frames/b20a_qPTV5wkocv0/p1.png"
+  }
+ ],
+ "note": "Chords: D5 Bsus2/F# G D A Em C (shown above the upper TAB)   Strumming: up and down strum arrows over the TAB in the upper panel",
+ "diagram": "LETTERS"
 }

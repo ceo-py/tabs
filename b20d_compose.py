@@ -112,8 +112,9 @@ def build(path_out, title, subtitle, sections, link, min_width=1400,
     ly = H - (112 + note_extra if note else 62)
     d.polygon([(pad, ly + 4), (pad, ly + 32), (pad + 22, ly + 18)], fill=LINK)
     d.text((pad + 40, ly + 2), link, font=font(F_BOLD, 32), fill=LINK)
-    d.text((W - pad - 300, ly + 7), source,
-           font=font(F_REG, 24), fill=(105, 105, 138))
+    sf = font(F_REG, 24)
+    d.text((W - pad - sf.getlength(source), ly + 7), source,
+           font=sf, fill=(105, 105, 138))
     if note:
         ny = ly + 52
         for ln in note_lines:
