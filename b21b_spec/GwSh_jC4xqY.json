@@ -1,0 +1,20 @@
+{
+  "title": "THE HINDU TIMES",
+  "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  Behnam Guitar Tabs",
+  "source": "Behnam Guitar Tabs",
+  "out": "out_gz/Oasis-The-Hindu-Times.png",
+  "panels": [
+    {"label": "TAB  ·  [A] INTRO", "t": 232, "bbox": [0, 378, 1920, 324], "png": "frames/b21b_GwSh_jC4xqY/p0.png"},
+    {"label": "TAB  ·  [B] VERSE 1", "t": 245, "bbox": [0, 378, 1920, 324], "png": "frames/b21b_GwSh_jC4xqY/p1.png"},
+    {"label": "TAB  ·  [C] PRE CHORUS 1", "t": 270, "bbox": [0, 378, 1920, 324], "png": "frames/b21b_GwSh_jC4xqY/p2.png"},
+    {"label": "TAB  ·  [D] CHORUS 1", "t": 285, "bbox": [0, 378, 1920, 324], "png": "frames/b21b_GwSh_jC4xqY/p3.png"},
+    {"label": "TAB  ·  [C] PRE CHORUS 2", "t": 331, "bbox": [0, 378, 1920, 324], "png": "frames/b21b_GwSh_jC4xqY/p4.png"},
+    {"label": "TAB  ·  [D] CHORUS 2", "t": 348, "bbox": [0, 378, 1920, 324], "png": "frames/b21b_GwSh_jC4xqY/p5.png"},
+    {"label": "TAB  ·  CHORD NAMES & FRET NUMBERS", "t": 360, "bbox": [0, 378, 1920, 324], "png": "frames/b21b_GwSh_jC4xqY/p6.png"},
+    {"label": "TAB  ·  [E] SOLO", "t": 381, "bbox": [0, 378, 1920, 324], "png": "frames/b21b_GwSh_jC4xqY/p7.png"},
+    {"label": "TAB  ·  [D] CHORUS 3", "t": 398, "bbox": [0, 378, 1920, 324], "png": "frames/b21b_GwSh_jC4xqY/p8.png"},
+    {"label": "TAB  ·  [F] OUTRO", "t": 446, "bbox": [0, 378, 1920, 324], "png": "frames/b21b_GwSh_jC4xqY/p9.png"}
+  ],
+  "note": "Chords: A A7sus4 A5 D D5 E C F/C G/D   Strumming: not shown in the video - TAB notation only   On screen: tempo = 114, Capo fret 2, TAB in 4/4 with fret numbers and rhythm stems",
+  "diagram": "LETTERS"
+}
