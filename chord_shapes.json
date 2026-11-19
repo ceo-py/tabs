@@ -2525,16 +2525,16 @@
   "base": "Fmaj7",
   "bass": "C"
  },
- "Fm/C": {
+ "Em/C": {
   "frets": [
-   1,
-   3,
-   3,
-   1,
-   1,
-   1
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
   ],
-  "base": "Fm",
+  "base": "Em",
   "bass": "C"
  },
  "Dadd9/A": {
@@ -2611,6 +2611,30 @@
   "base": "Bsus2",
   "bass": "F#",
   "auto": true
+ },
+ "G/Eb": {
+  "frets": [
+   3,
+   2,
+   0,
+   0,
+   0,
+   3
+  ],
+  "base": "G",
+  "bass": "Eb"
+ },
+ "Fsus2/G": {
+  "frets": [
+   1,
+   3,
+   3,
+   0,
+   1,
+   1
+  ],
+  "base": "Fsus2",
+  "bass": "G"
  },
  "Fadd9": {
   "frets": [

@@ -2484,6 +2484,18 @@
   "E",
   "C"
  ],
+ "out_gz/Oasis-Digsy-s-Dinner.png": [
+  "A",
+  "C#7",
+  "D",
+  "Dsus2",
+  "Asus4",
+  "D7",
+  "E",
+  "E7",
+  "F#m",
+  "Bm7"
+ ],
  "out_gz/Oasis-Dont-Look-Back-In-Anger.png": [
   "C",
   "Fsus2",
@@ -2500,7 +2512,7 @@
   "C/B",
   "C/G",
   "Fmaj7/C",
-  "Fm/C",
+  "Em/C",
   "Am",
   "Asus2",
   "D7",
@@ -2515,12 +2527,23 @@
   "F#m7",
   "Aadd9"
  ],
+ "out_gz/Oasis-Instant-Karma.png": [
+  "A",
+  "G"
+ ],
  "out_gz/Oasis-Live-Forever.png": [
   "C",
   "D",
   "G",
   "Am7",
   "Em7"
+ ],
+ "out_gz/Oasis-Love-Like-A-Bomb.png": [
+  "E",
+  "E7",
+  "Asus2",
+  "Dsus2",
+  "G"
  ],
  "out_gz/Oasis-Lyla.png": [
   "A",
@@ -2578,8 +2601,7 @@
   "D",
   "A",
   "Em",
-  "C",
-  "E"
+  "C"
  ],
  "out_gz/Oasis-Songbird.png": [
   "G",
@@ -2615,15 +2637,35 @@
   "D",
   "C#7"
  ],
+ "out_gz/Oasis-The-Hindu-Times.png": [
+  "A",
+  "A5",
+  "D",
+  "D5",
+  "E",
+  "C",
+  "F/C",
+  "G/D"
+ ],
  "out_gz/Oasis-Whatever.png": [
   "G",
   "G/F#",
   "Em7",
   "Dsus4",
   "Cadd9",
-  "F#",
   "E",
   "A"
+ ],
+ "out_gz/Oasis-Who-Feels-Love.png": [
+  "G5",
+  "Cadd9",
+  "G",
+  "G/B",
+  "G/E",
+  "G/D",
+  "G/F",
+  "G/Eb",
+  "Fsus2/G"
  ],
  "out_gz/Oasis-Wonderwall.png": [
   "Em7",

@@ -1,9 +1,9 @@
 # TABS 90 — състояние на проекта
 
-**19 ноември 2026.** Жив сайт: **348 карти** (build `f73f71a`), комитнат е `70d1fd1` (партида 19,
-389 карти), но **партида 19 не е публикувана** — VPS-ът е изключен и деплой не е възможен.
-**Партида 20 (Oasis, 20 урока от 4 нови канала) е в ход** — 12/20 карти са готови и комитнати
-(`ff43fd0`), 8 остават (b20a + b20d). Виж **раздел 9** за пълното състояние и точните команди.
+**19 ноември 2026.** Жив сайт: **348 карти** (build `f73f71a`) — VPS-ът е извън и нищо ново не е
+публикувано от партида 19 насам. **Партида 20 (21 карти, 389 → 410) и партида 21 (6 карти, 410 → 416)
+са готови, комитнати и push-нати**, но не са публикувани — VPS-ът не отговаря.
+Виж **раздел 9** (партида 20) и **раздел 11** (партида 21) за пълното състояние и точните команди.
 Документът се обновява след всеки деплой — виж раздел 1 за текущите числа.
 
 ---
@@ -532,3 +532,143 @@ Love Like A Bomb. Старите spec и PNG са изтрити (recoverable de
 `source_channel` в манифеста е точното име на канала, както го връща YouTube
 (с водещи/завършващи интервали в някои случаи). То трябва да съвпада с ключа в
 `CHANNEL_URLS` на `site_build.py`, иначе каналът няма линк в сайта.
+
+---
+
+## 11. ПАРТИДА 21 — ЗАВЪРШЕНА (19 ноември 2026, ~23:45)
+
+6 урока от 5 нови канала, които **не са** в измерените 112 канала. Каталогът: **410 → 416 песни**.
+
+### Какво е готово
+
+* ✅ 6/6 карти построени, машинно проверени (`_b21_check.py` → **0 проблема**: четни bbox-и, панели = bbox)
+* ✅ Класификация `chords_diagram_p23.json`: **4 LETTERS + 2 DIAGRAM**
+* ✅ Pipeline изпълнен: `import_cards` → `merge_chord_diagrams` → `chord_extract` → `chord_shapes` → `site_build`
+* ✅ `site_build` → **416 cards + 416 thumbs webp, всички валидни (0 счупени)**, 58.9 MB
+* ✅ Research списъци прегенерирани за 416 карти: **2792** от 50 490 видео маркирани
+* ✅ `REMAINING-LESSONS.md` → остават **239** от 606 (GZ2H остава най-големият канал)
+* ✅ `_oasis_coverage.md` → **29 от 56** канонични Oasis песни имат карта (беше 23 преди партида 20)
+
+### Комити
+
+| commit | съдържание |
+|---|---|
+| `292349d` | b21a — Acquiesce, Digsy's Dinner (G.S.N. Tabs) |
+| `38500c9` | b21c — Love Like A Bomb, Instant Karma (Fretboard Fundamentals + Top Guitar Players) |
+| `6388a5b` | b21b — The Hindu Times + смяната на източника на Who Feels Love? |
+| `30b5ffc` | STATE.md — състояние до 5/6 карти |
+| (нов) | финал на партида 21: p23, pipeline, 416 карти, поправки в research списъците |
+
+### Класификация
+
+| песня | артист | канал | id | клас |
+|---|---|---|---|---|
+| Acquiesce | Oasis | G.S.N. Tabs | `oE6uuH-eKHI` | DIAGRAM |
+| Digsy's Dinner | Oasis | G.S.N. Tabs | `ILwkE8olT7I` | LETTERS |
+| The Hindu Times | Oasis | Behnam Guitar Tabs | `GwSh_jC4xqY` | LETTERS |
+| Who Feels Love? | Oasis | Fretboard Fundamentals | `WPupZKbRTvo` | LETTERS |
+| Love Like A Bomb | Oasis | Fretboard Fundamentals | `7Fc5KPnarJo` | LETTERS |
+| Instant Karma | John Lennon | Top Guitar Players | `2lc9NwgCwmA` | DIAGRAM |
+
+### Смяна на източник: Who Feels Love?
+
+Първият избор беше `zYP0Npys8s4` (Wayne R Guitar) — **видео без никаква нотация**.
+Пълно сканиране на 662 кадра (1 fps): 0 TAB, 0 акорди, 0 диаграми, 0 overlay.
+Вместо празна карта е използвана версията от **Fretboard Fundamentals** (`WPupZKbRTvo`).
+Старите spec и PNG са изтрити през recoverable delete.
+
+### Одит
+
+Два независими одита. Първият (Acquiesce, Digsy's Dinner, Love Like A Bomb, Instant Karma) —
+**не намери дефекти**:
+* Acquiesce: пълно сканиране на 269 s → **22 glyph blob-а** в лентата с акорди (само титърната
+  карта на t=0), при Digsy — **1677**. DIAGRAM потвърден. Темпо 112 → 89 → 71 потвърдено.
+* Instant Karma: секции **A–G**, темпо ♩=119, **0** буквени акорда. DIAGRAM потвърден.
+* Love Like A Bomb: 5 грифни диаграми (E, E7, Asus2, Dsus2, G) с точни надписи; няма TAB, няма удари.
+* TAB clef + 4/4 присъстват и в Acquiesce, и в Digsy (проверено на увеличени ляв ръб).
+
+Вторият одит (The Hindu Times, Who Feels Love?) беше прекъснат два пъти без доклад, затова
+**parent-ът го направи лично**, с четение на самите PNG-та:
+* The Hindu Times — 10 панала, всичките 9 акорда (A, A7sus4, A5, D, D5, E, C, F/C, G/D) се
+  виждат, footer пълен, темпо 114 и capo 2 отпечатани на екрана.
+* Who Feels Love? — 17 панала, 13-те акорда се виждат (G5, Bb6add9, Am7add11, Cadd9, G*, G**,
+  G/B, G/E, G/D, G/F, G/Eb, G/B*, Fsus2/G), footer пълен, tuning DGDGBD на intro картата.
+* „5fr“ маркерите в последните два диаграма (G/B*, Fsus2/G) са **отрязани в самото видео** —
+  chordpic кутията излиза извън 1920-пикселовия кадър. Ограничение на източника, не на crop-а.
+
+### Открити и поправени дефекти при финала
+
+1. **`_oasis_songs.py` — неточни имена**: „The Hindu“ → **„The Hindu Times“**, „Who Feels It“ →
+   **„Who Feels Love?“**. Възстановени са 2 карти от coverage отчета.
+2. **Instant Karma се броеше за липсваща** — картата е на John Lennon, а canonical списъкът я
+   иска за Oasis (Oasis е правил cover). Добавен е `CROSS_ARTIST_CARDS` в `_oasis_songs.py`
+   и е използван в `_oasis_coverage.py` + `_oasis_gap.py`.
+3. **`chord_extract.py` изпуска 20 акорда в 20 карти** — парсерът не разбира
+   `A7sus4`, `Bb6add9`, `Am7add11`, `C6add9`, `D7sus4`, `B7add11` и др. (23 имена в 20 карти,
+   6 от които са Oasis от партида 20/21). **Не е поправен** — виж „Отворени въпроси“.
+4. 🐛 **Заварени `webp` в `site/` за 6 карти от партида 20** — открито при финалния build.
+   `site/cards/*.webp` за Columbia, Half The World Away, Masterplan, Shakermaker, Some Might Say
+   и Whatever идваха от комит `669e6c8`, а PNG-ите са поправени в по-късния `c34586c`
+   (поправените note-ове от 2-рия одит). Тоест **комитнатият сайт носеше остарелите footers** —
+   например „Strumming: not shown in the video - TAB notation only“ вместо поправеното
+   „no strumming pattern appears on screen“. Финалният `site_build` е прегенерирал всичките
+   6 и разликата е потвърдена пикселно (max channel diff 109–146 само в областта на footer-а).
+   ✅ **Поправено** — новите webp вече са в работното дърво.
+
+### Отворени въпроси (за следващата сесия)
+
+* 🔴 **`chord_extract.py` трябва да разбира `<root><num><qual>` и `<root><qual><num>` формите.**
+  Проблемът е в `CHORD_TOKEN` (ред 51–58) и `expand_token`. Проверено е, че
+  `chord_voicings.voicings()` умее да генерира грифна форма за **всички** 15 липсващи имена
+  (`A7sus4`, `Bb6add9`, `Am7add11`, `G**`, `G/B*`, `A7sus2`, `D7sus`, `C6add9`, `B7add11`,
+  `G6sus2`, `D7sus4`, `C#7sus2`, `F#7sus4`, `D6add11`) — т.е. поправката е само в regex-а,
+  речникът `chord_shapes.py` не трябва да се пипа. ⚠️ Изисква преглед на всички 416 карти след
+  поправката, защото `chords.json` и `chord_shapes.json` се пренаписват наново.
+* 🔴 **27 Oasis песни още нямат карта** (от 56). От тях само **1** има използваемо tab видео в
+  измерения корпус. Нови източници → нови канали извън 112-те (както партида 21).
+* 🟡 16 стари публикувани карти (b5_spec/b10_spec) имат отрязан note от дефект в `b13_compose.py`
+  — не е обхванато от потребителя.
+* 🟡 Нито един измерен research канал не е визуално проверен за on-screen tab — „използваемостта“
+  е изведена само от заглавията.
+* 🔴 **VPS-ът е извън** — SSH „Connection closed by 188.124.90.118 port 3456“, сайтът вися и на
+  20 s timeout. Машината е жива, но задушена → нужен е **физически/конзолен рестарт**.
+  След рестарта cron-ът (`*/5 * * * *`) ще заложи push-натите комити автоматично.
+
+### Команди за следващата сесия
+
+```powershell
+# проверка на консистентност (бърза)
+py -3.14 _b21_check.py                  # очаквано: 6 checked, 0 problems
+py -3.14 _b21_classify.py               # -> chords_diagram_p23.json (6 cards)
+
+# след поправката на chord_extract (ако се прави)
+py -3.14 chord_extract.py
+py -3.14 chord_shapes.py
+py -3.14 site_build.py                  # бавен ~13 мин, webp method=6
+py -3.14 _mark_have.py                  # прегенерира маркираните списъци
+py -3.14 _oasis_coverage.py
+py -3.14 _oasis_gap.py
+
+# деплой след рестарт на VPS-а (работещият вариант, remote.ps1 е счупен)
+$SSH = (Get-ChildItem 'C:\Windows\WinSxS' -Filter 'ssh.exe' -Recurse -ErrorAction SilentlyContinue |
+        Where-Object { $_.FullName -like '*openssh-client-components-onecore*' -and $_.DirectoryName -notlike '*\r' } |
+        Select-Object -First 1).FullName
+$script = '/home/ceo/production/tabs-deploy.sh && tail -3 /home/ceo/production/deploy.log'
+$b64 = [Convert]::ToBase64String([System.Text.Encoding]::UTF8.GetBytes($script))
+& $SSH -F "$HOME\.ssh\config" -o BatchMode=yes -o ConnectTimeout=20 Oriahovo "echo $b64 | base64 -d | bash"
+```
+
+### Геометрия по канали (за бъдещи партиди)
+
+* **G.S.N. Tabs** (1280×720) — rolling tab strip `y 360..627` (`bbox [0,360,1280,268]`),
+  подписи в черна лента `y 629..719`.
+* **Behnam Guitar Tabs** (1920×1080) — втората половина: центрирана TAB лента `y 378..701`
+  (`bbox [0,378,1920,324]`); първата половина е zoomed strip `y 755..1078`.
+* **Fretboard Fundamentals** (1920×1080) — chordpic box горе вдясно
+  (`[1678,0,236,354]` за Love Like A Bomb, `[1724,0,196,306]` за Who Feels Love?),
+  navy лента с акорди+текст долу (`[0,850,1844,230]`, `[0,870,1920,210]`,
+  `[0,916,1920,164]`, `[0,948,1520,132]`).
+* **Top Guitar Players** (1920×1080) — scrolling notation page, лента `y 186..557`
+  (`bbox [0,186,1920,392]`), секции A–G, темпо 119.
+* **Wayne R Guitar** (1280×720) — засега 0 урока (източникът е заменен).
+

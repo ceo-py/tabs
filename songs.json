@@ -2830,6 +2830,16 @@
   "card": "out/John-Denver-Take-Me-Home-Country-Roads.png"
  },
  {
+  "id": "2lc9NwgCwmA",
+  "title": "Instant Karma",
+  "artist": "John Lennon",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "Top Guitar Players",
+  "url": "https://www.youtube.com/watch?v=2lc9NwgCwmA",
+  "card": "out_gz/Oasis-Instant-Karma.png"
+ },
+ {
   "id": "V5VcCgDqLTA",
   "title": "3x5",
   "artist": "John Mayer",
@@ -3400,6 +3410,16 @@
   "card": "out_gz/Nirvana-The-Man-Who-Sold-The-World-MTV-Unplugged.png"
  },
  {
+  "id": "oE6uuH-eKHI",
+  "title": "Acquiesce",
+  "artist": "Oasis",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "G.S.N. Tabs",
+  "url": "https://www.youtube.com/watch?v=oE6uuH-eKHI",
+  "card": "out_gz/Oasis-Acquiesce.png"
+ },
+ {
   "id": "3dARZh-lqAI",
   "title": "Champagne Supernova",
   "artist": "Oasis",
@@ -3440,6 +3460,16 @@
   "card": "out_gz/Oasis-D-You-Know-What-I-Mean.png"
  },
  {
+  "id": "ILwkE8olT7I",
+  "title": "Digsy's Dinner",
+  "artist": "Oasis",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "G.S.N. Tabs",
+  "url": "https://www.youtube.com/watch?v=ILwkE8olT7I",
+  "card": "out_gz/Oasis-Digsy-s-Dinner.png"
+ },
+ {
   "id": "mbnmB_hTfiM",
   "title": "Don't Look Back In Anger",
   "artist": "Oasis",
@@ -3478,6 +3508,16 @@
   "channel": "guitar cover with tabs & chords",
   "url": "https://www.youtube.com/watch?v=CNNKH_oWCK0",
   "card": "out_gz/Oasis-Live-Forever.png"
+ },
+ {
+  "id": "7Fc5KPnarJo",
+  "title": "Love Like A Bomb",
+  "artist": "Oasis",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "Fretboard Fundamentals",
+  "url": "https://www.youtube.com/watch?v=7Fc5KPnarJo",
+  "card": "out_gz/Oasis-Love-Like-A-Bomb.png"
  },
  {
   "id": "BN9bZdDOyZQ",
@@ -3610,6 +3650,16 @@
   "card": "out_gz/Oasis-Supersonic.png"
  },
  {
+  "id": "GwSh_jC4xqY",
+  "title": "The Hindu Times",
+  "artist": "Oasis",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "Behnam Guitar Tabs",
+  "url": "https://www.youtube.com/watch?v=GwSh_jC4xqY",
+  "card": "out_gz/Oasis-The-Hindu-Times.png"
+ },
+ {
   "id": "6CVKC5LVAAs",
   "title": "Whatever",
   "artist": "Oasis",
@@ -3618,6 +3668,16 @@
   "channel": "Lex Guitar Tabs",
   "url": "https://www.youtube.com/watch?v=6CVKC5LVAAs",
   "card": "out_gz/Oasis-Whatever.png"
+ },
+ {
+  "id": "WPupZKbRTvo",
+  "title": "Who Feels Love?",
+  "artist": "Oasis",
+  "tag": "Tabs + Chords",
+  "rock": true,
+  "channel": "Fretboard Fundamentals",
+  "url": "https://www.youtube.com/watch?v=WPupZKbRTvo",
+  "card": "out_gz/Oasis-Who-Feels-Love.png"
  },
  {
   "id": "LRXRm0eMZZY",

@@ -33,6 +33,14 @@ def main():
             continue
         have[c.get("title", "")] = c
 
+    # a few Oasis songs are covered by other performers (Oasis covered them
+    # too) - the lesson card is credited to the original artist
+    for c in cards:
+        t = c.get("title", "")
+        for canon, artist in OS.CROSS_ARTIST_CARDS.items():
+            if (c.get("artist") or "") == artist and toks(canon) == toks(t):
+                have.setdefault(t, c)
+
     # canonical song -> our card title
     card_by_song = {}
     for canon in OS.OASIS_SONGS:

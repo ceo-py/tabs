@@ -30,6 +30,7 @@ SPEC_DIR = 'b21c_spec'
 SOURCE_BY_ID = {
     '7Fc5KPnarJo': 'Fretboard Fundamentals',
     '2lc9NwgCwmA': 'Top Guitar Players',
+    'WPupZKbRTvo': 'Fretboard Fundamentals',
 }
 
 
@@ -58,7 +59,11 @@ def render(vid, s):
     for p in s['panels']:
         out = p['png']
         crop(video, p['t'], p['bbox'], out)
-        sections.append((p['label'], [out]))
+        # consecutive panels that share a label become one row of images
+        if sections and sections[-1][0] == p['label']:
+            sections[-1][1].append(out)
+        else:
+            sections.append((p['label'], [out]))
     make_card(vid, s['title'], s['subtitle'], sections, note=s.get('note'),
               out_path=s['out'], source=SOURCE_BY_ID.get(vid))
     print('CARD', s['out'])

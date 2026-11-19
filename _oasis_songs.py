@@ -13,14 +13,22 @@ OASIS_SONGS = [
     "Fade Away", "Let It All Hang Out", "The Boy With The Blues",
     "Don't Believe The Truth", "Ain't Got Nothin'", "Born On The Reign Of Bang",
     "The Turning", "Trying To Get To Heaven", "All Around The World",
-    "Acrid", "Killing Time", "Love Like A Bomb", "The Hindu", "Say What You Want",
-    "Who Feels It", "Acquiesce", "Magnificent", "Digsy's Dinner", "Party On",
+    "Acrid", "Killing Time", "Love Like A Bomb", "The Hindu Times", "Say What You Want",
+    "Who Feels Love?", "Acquiesce", "Magnificent", "Digsy's Dinner", "Party On",
     "The Boy With The Blues", "Up On The Downtown", "Where We Born And Raised",
     "Natures Way", "(It's Good) To Be In A Band", "Long Distance Winner",
     "Pretty In Black", "Do What You Wanna", "Instant Karma",
 ]
 
 _NORM = re.compile(r"[^a-z0-9]+")
+
+
+# Oasis covered these songs - the lesson card we have is credited to the
+# original performer, not to Oasis. Without this the coverage and gap reports
+# would count a song we already have as missing and look for a second source.
+CROSS_ARTIST_CARDS = {
+    "Instant Karma": "John Lennon",
+}
 
 
 def _n(s):

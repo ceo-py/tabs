@@ -1,0 +1,111 @@
+{
+ "title": "WHO FEELS LOVE?",
+ "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  Fretboard Fundamentals",
+ "out": "out_gz/Oasis-Who-Feels-Love.png",
+ "panels": [
+  {
+   "label": "TUNING  ·  DGDGBD",
+   "t": 4,
+   "bbox": [502, 500, 914, 80],
+   "png": "frames/b21c_WPupZKbRTvo/p0.png"
+  },
+  {
+   "label": "CHORDS & LYRICS  ·  G5",
+   "t": 30,
+   "bbox": [0, 870, 1920, 210],
+   "png": "frames/b21c_WPupZKbRTvo/p1.png"
+  },
+  {
+   "label": "CHORD DIAGRAMS",
+   "t": 6,
+   "bbox": [1724, 0, 196, 306],
+   "png": "frames/b21c_WPupZKbRTvo/p2.png"
+  },
+  {
+   "label": "CHORD DIAGRAMS",
+   "t": 69,
+   "bbox": [1724, 0, 196, 306],
+   "png": "frames/b21c_WPupZKbRTvo/p3.png"
+  },
+  {
+   "label": "CHORD DIAGRAMS",
+   "t": 72,
+   "bbox": [1724, 0, 196, 306],
+   "png": "frames/b21c_WPupZKbRTvo/p4.png"
+  },
+  {
+   "label": "CHORD DIAGRAMS",
+   "t": 76,
+   "bbox": [1724, 0, 196, 306],
+   "png": "frames/b21c_WPupZKbRTvo/p5.png"
+  },
+  {
+   "label": "CHORD DIAGRAMS",
+   "t": 88,
+   "bbox": [1724, 0, 196, 306],
+   "png": "frames/b21c_WPupZKbRTvo/p6.png"
+  },
+  {
+   "label": "CHORD DIAGRAMS",
+   "t": 157,
+   "bbox": [1724, 0, 196, 306],
+   "png": "frames/b21c_WPupZKbRTvo/p7.png"
+  },
+  {
+   "label": "CHORDS & LYRICS  ·  Bb6add9  Am7add11  Cadd9  G/B",
+   "t": 70,
+   "bbox": [0, 916, 1920, 164],
+   "png": "frames/b21c_WPupZKbRTvo/p8.png"
+  },
+  {
+   "label": "CHORD DIAGRAMS  ·  SLASH CHORDS",
+   "t": 79,
+   "bbox": [1724, 0, 196, 306],
+   "png": "frames/b21c_WPupZKbRTvo/p9.png"
+  },
+  {
+   "label": "CHORD DIAGRAMS  ·  SLASH CHORDS",
+   "t": 159,
+   "bbox": [1724, 0, 196, 306],
+   "png": "frames/b21c_WPupZKbRTvo/p10.png"
+  },
+  {
+   "label": "CHORD DIAGRAMS  ·  SLASH CHORDS",
+   "t": 160,
+   "bbox": [1724, 0, 196, 306],
+   "png": "frames/b21c_WPupZKbRTvo/p11.png"
+  },
+  {
+   "label": "CHORD DIAGRAMS  ·  SLASH CHORDS",
+   "t": 162,
+   "bbox": [1724, 0, 196, 306],
+   "png": "frames/b21c_WPupZKbRTvo/p12.png"
+  },
+  {
+   "label": "CHORD DIAGRAMS  ·  SLASH CHORDS",
+   "t": 182,
+   "bbox": [1724, 0, 196, 306],
+   "png": "frames/b21c_WPupZKbRTvo/p13.png"
+  },
+  {
+   "label": "CHORD DIAGRAMS  ·  SLASH CHORDS",
+   "t": 188,
+   "bbox": [1724, 0, 196, 306],
+   "png": "frames/b21c_WPupZKbRTvo/p14.png"
+  },
+  {
+   "label": "CHORD DIAGRAMS  ·  SLASH CHORDS",
+   "t": 192,
+   "bbox": [1724, 0, 196, 306],
+   "png": "frames/b21c_WPupZKbRTvo/p15.png"
+  },
+  {
+   "label": "CHORDS  ·  G**  G/F  G/E  G/D x3  G**  G/F  G/E  G/Eb",
+   "t": 160,
+   "bbox": [0, 948, 1520, 132],
+   "png": "frames/b21c_WPupZKbRTvo/p16.png"
+  }
+ ],
+ "note": "Chords: G5  Bb6add9  Am7add11  Cadd9  G*  G**  G/B  G/E  G/D  G/F  G/Eb  G/B*  Fsus2/G   Tuning: DGDGBD (printed on the intro card)   Strumming: not shown in the video - chord names and fret diagrams only (no TAB and no strumming pattern)",
+ "diagram": "LETTERS"
+}

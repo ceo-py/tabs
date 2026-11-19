@@ -38,6 +38,11 @@ def main():
         a = (c.get("artist") or "").lower()
         if "oasis" in a:
             have.add(frozenset(toks(c.get("title", ""))))
+        # a few Oasis songs are covered by other performers (Oasis covered them
+        # too) - the lesson card is credited to the original artist
+        for canon, artist in OS.CROSS_ARTIST_CARDS.items():
+            if (c.get("artist") or "") == artist and toks(canon) == toks(c.get("title", "")):
+                have.add(frozenset(toks(c.get("title", ""))))
 
     rows = list(csv.DictReader(open(os.path.join(R, "_channels_all_videos.csv"), encoding="utf-8")))
     print("corpus videos: %d" % len(rows))

@@ -45,13 +45,13 @@
 | 37 | All Around The World | — | 0 | 0 | — |
 | 38 | Acrid | — | 0 | 0 | — |
 | 39 | Killing Time | — | 0 | 0 | — |
-| 40 | Love Like A Bomb | — | 0 | 0 | — |
-| 41 | The Hindu | — | 0 | 0 | — |
+| 40 | Love Like A Bomb | ✅ | 0 | 0 | — |
+| 41 | The Hindu Times | ✅ | 0 | 0 | — |
 | 42 | Say What You Want | — | 0 | 0 | — |
-| 43 | Who Feels It | — | 0 | 0 | — |
-| 44 | Acquiesce | — | 0 | 0 | — |
+| 43 | Who Feels Love? | ✅ | 0 | 0 | — |
+| 44 | Acquiesce | ✅ | 0 | 0 | — |
 | 45 | Magnificent | — | 0 | 0 | — |
-| 46 | Digsy's Dinner | — | 0 | 0 | — |
+| 46 | Digsy's Dinner | ✅ | 0 | 0 | — |
 | 47 | Party On | — | 0 | 0 | — |
 | 48 | The Boy With The Blues | — | 0 | 0 | — |
 | 49 | Up On The Downtown | — | 0 | 0 | — |
@@ -61,13 +61,13 @@
 | 53 | Long Distance Winner | — | 0 | 0 | — |
 | 54 | Pretty In Black | — | 0 | 0 | — |
 | 55 | Do What You Wanna | — | 0 | 0 | — |
-| 56 | Instant Karma | — | 0 | 0 | — |
+| 56 | Instant Karma | ✅ | 0 | 0 | — |
 
 ## Обобщение
 
 - канонични Oasis песни: **56**
-- с готова карта: **23**
-- остават: **33**
+- с готова карта: **29**
+- остават: **27**
 - Oasis видеа в корпуса: **112** (с tab: 59)
 
 ## Остават без карта
@@ -90,13 +90,8 @@
 | All Around The World | 0 | 0 | — |
 | Acrid | 0 | 0 | — |
 | Killing Time | 0 | 0 | — |
-| Love Like A Bomb | 0 | 0 | — |
-| The Hindu | 0 | 0 | — |
 | Say What You Want | 0 | 0 | — |
-| Who Feels It | 0 | 0 | — |
-| Acquiesce | 0 | 0 | — |
 | Magnificent | 0 | 0 | — |
-| Digsy's Dinner | 0 | 0 | — |
 | Party On | 0 | 0 | — |
 | The Boy With The Blues | 0 | 0 | — |
 | Up On The Downtown | 0 | 0 | — |
@@ -106,4 +101,3 @@
 | Long Distance Winner | 0 | 0 | — |
 | Pretty In Black | 0 | 0 | — |
 | Do What You Wanna | 0 | 0 | — |
-| Instant Karma | 0 | 0 | — |

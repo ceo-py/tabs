@@ -11,6 +11,16 @@
    "url": "https://www.youtube.com/@BernadetteTeachesMusic"
   },
   {
+   "id": "Top Guitar Players",
+   "name": "Top Guitar Players",
+   "url": "https://www.youtube.com/channel/UCpMKt1zAnRPjwpk3RLr439g"
+  },
+  {
+   "id": "G.S.N. Tabs",
+   "name": "G.S.N. Tabs",
+   "url": "https://www.youtube.com/channel/UCJ4ZRv0jfD8MmBD1s2CRUPg"
+  },
+  {
    "id": "guitar cover with tabs & chords",
    "name": "guitar cover with tabs & chords",
    "url": "https://www.youtube.com/@guitarcoverwithtab"
@@ -26,9 +36,19 @@
    "url": "https://www.youtube.com/@SparkyGuitar"
   },
   {
+   "id": "Fretboard Fundamentals",
+   "name": "Fretboard Fundamentals",
+   "url": "https://www.youtube.com/channel/UCFcJJp4uBTXN3_j5kBjNzIw"
+  },
+  {
    "id": "ike",
    "name": "ike",
    "url": "https://www.youtube.com/@Guitar-Jam."
+  },
+  {
+   "id": "Behnam Guitar Tabs",
+   "name": "Behnam Guitar Tabs",
+   "url": "https://www.youtube.com/channel/UC2JWSXBqH8Ihwy9f5kmHAWw"
   }
  ],
  "songs": [
@@ -6335,6 +6355,22 @@
    "chords": []
   },
   {
+   "id": "2lc9NwgCwmA",
+   "title": "Instant Karma",
+   "artist": "John Lennon",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "Top Guitar Players",
+   "url": "https://www.youtube.com/watch?v=2lc9NwgCwmA",
+   "card": "cards/Oasis-Instant-Karma.webp?v=5a50cfb2",
+   "thumb": "thumbs/Oasis-Instant-Karma.webp?v=7caad12b",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 1930,
+   "chords": []
+  },
+  {
    "id": "V5VcCgDqLTA",
    "title": "3x5",
    "artist": "John Mayer",
@@ -7621,6 +7657,22 @@
    ]
   },
   {
+   "id": "oE6uuH-eKHI",
+   "title": "Acquiesce",
+   "artist": "Oasis",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "G.S.N. Tabs",
+   "url": "https://www.youtube.com/watch?v=oE6uuH-eKHI",
+   "card": "cards/Oasis-Acquiesce.webp?v=8d95380a",
+   "thumb": "thumbs/Oasis-Acquiesce.webp?v=426bd196",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1440,
+   "h": 2206,
+   "chords": []
+  },
+  {
    "id": "3dARZh-lqAI",
    "title": "Champagne Supernova",
    "artist": "Oasis",
@@ -7670,8 +7722,8 @@
    "rock": true,
    "channel": "Sparky Guitar",
    "url": "https://www.youtube.com/watch?v=Lbs---ONA3I",
-   "card": "cards/Oasis-Columbia.webp?v=ac7e0af7",
-   "thumb": "thumbs/Oasis-Columbia.webp?v=c3bf5042",
+   "card": "cards/Oasis-Columbia.webp?v=242f4d0d",
+   "thumb": "thumbs/Oasis-Columbia.webp?v=4e1fcffc",
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
@@ -7700,6 +7752,33 @@
     "Esus4",
     "E",
     "C"
+   ]
+  },
+  {
+   "id": "ILwkE8olT7I",
+   "title": "Digsy's Dinner",
+   "artist": "Oasis",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "G.S.N. Tabs",
+   "url": "https://www.youtube.com/watch?v=ILwkE8olT7I",
+   "card": "cards/Oasis-Digsy-s-Dinner.webp?v=3ac31793",
+   "thumb": "thumbs/Oasis-Digsy-s-Dinner.webp?v=6baf977e",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1440,
+   "h": 3500,
+   "chords": [
+    "A",
+    "C#7",
+    "D",
+    "Dsus2",
+    "Asus4",
+    "D7",
+    "E",
+    "E7",
+    "F#m",
+    "Bm7"
    ]
   },
   {
@@ -7736,8 +7815,8 @@
    "rock": true,
    "channel": "Lex Guitar Tabs",
    "url": "https://www.youtube.com/watch?v=wtjoRQfmHQI",
-   "card": "cards/Oasis-Half-The-World-Away.webp?v=ec881eb8",
-   "thumb": "thumbs/Oasis-Half-The-World-Away.webp?v=3291ec5c",
+   "card": "cards/Oasis-Half-The-World-Away.webp?v=094c08e2",
+   "thumb": "thumbs/Oasis-Half-The-World-Away.webp?v=28750c72",
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
@@ -7747,7 +7826,7 @@
     "C/B",
     "C/G",
     "Fmaj7/C",
-    "Fm/C",
+    "Em/C",
     "Am",
     "Asus2",
     "D7",
@@ -7801,6 +7880,28 @@
    ]
   },
   {
+   "id": "7Fc5KPnarJo",
+   "title": "Love Like A Bomb",
+   "artist": "Oasis",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "Fretboard Fundamentals",
+   "url": "https://www.youtube.com/watch?v=7Fc5KPnarJo",
+   "card": "cards/Oasis-Love-Like-A-Bomb.webp?v=f21c2bdb",
+   "thumb": "thumbs/Oasis-Love-Like-A-Bomb.webp?v=08afe583",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 2756,
+   "chords": [
+    "E",
+    "E7",
+    "Asus2",
+    "Dsus2",
+    "G"
+   ]
+  },
+  {
    "id": "BN9bZdDOyZQ",
    "title": "Lyla",
    "artist": "Oasis",
@@ -7832,8 +7933,8 @@
    "rock": true,
    "channel": "Sparky Guitar",
    "url": "https://www.youtube.com/watch?v=p0Fpu1mZKOk",
-   "card": "cards/Oasis-Masterplan.webp?v=c668fb42",
-   "thumb": "thumbs/Oasis-Masterplan.webp?v=ad5b6dc0",
+   "card": "cards/Oasis-Masterplan.webp?v=232d7a0b",
+   "thumb": "thumbs/Oasis-Masterplan.webp?v=9f19f430",
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
@@ -7925,8 +8026,8 @@
    "rock": true,
    "channel": "Sparky Guitar",
    "url": "https://www.youtube.com/watch?v=B-BkCZrGp2M",
-   "card": "cards/Oasis-Shakermaker.webp?v=db07cbff",
-   "thumb": "thumbs/Oasis-Shakermaker.webp?v=e26026d6",
+   "card": "cards/Oasis-Shakermaker.webp?v=58daf383",
+   "thumb": "thumbs/Oasis-Shakermaker.webp?v=02f17de2",
    "thumbW": 560,
    "thumbH": 700,
    "w": 1400,
@@ -7979,8 +8080,8 @@
    "rock": true,
    "channel": "Lex Guitar Tabs",
    "url": "https://www.youtube.com/watch?v=qPTV5wkocv0",
-   "card": "cards/Oasis-Some-Might-Say.webp?v=279f9266",
-   "thumb": "thumbs/Oasis-Some-Might-Say.webp?v=b68a0c3e",
+   "card": "cards/Oasis-Some-Might-Say.webp?v=14c5c771",
+   "thumb": "thumbs/Oasis-Some-Might-Say.webp?v=2dd46512",
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
@@ -7992,8 +8093,7 @@
     "D",
     "A",
     "Em",
-    "C",
-    "E"
+    "C"
    ]
   },
   {
@@ -8091,6 +8191,31 @@
    ]
   },
   {
+   "id": "GwSh_jC4xqY",
+   "title": "The Hindu Times",
+   "artist": "Oasis",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "Behnam Guitar Tabs",
+   "url": "https://www.youtube.com/watch?v=GwSh_jC4xqY",
+   "card": "cards/Oasis-The-Hindu-Times.webp?v=1df1fbd8",
+   "thumb": "thumbs/Oasis-The-Hindu-Times.webp?v=48a65c01",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 3872,
+   "chords": [
+    "A",
+    "A5",
+    "D",
+    "D5",
+    "E",
+    "C",
+    "F/C",
+    "G/D"
+   ]
+  },
+  {
    "id": "6CVKC5LVAAs",
    "title": "Whatever",
    "artist": "Oasis",
@@ -8098,8 +8223,8 @@
    "rock": true,
    "channel": "Lex Guitar Tabs",
    "url": "https://www.youtube.com/watch?v=6CVKC5LVAAs",
-   "card": "cards/Oasis-Whatever.webp?v=9e333f44",
-   "thumb": "thumbs/Oasis-Whatever.webp?v=ae552f3d",
+   "card": "cards/Oasis-Whatever.webp?v=7eedc529",
+   "thumb": "thumbs/Oasis-Whatever.webp?v=294d79f3",
    "thumbW": 560,
    "thumbH": 700,
    "w": 1600,
@@ -8110,9 +8235,34 @@
     "Em7",
     "Dsus4",
     "Cadd9",
-    "F#",
     "E",
     "A"
+   ]
+  },
+  {
+   "id": "WPupZKbRTvo",
+   "title": "Who Feels Love?",
+   "artist": "Oasis",
+   "tag": "Tabs + Chords",
+   "rock": true,
+   "channel": "Fretboard Fundamentals",
+   "url": "https://www.youtube.com/watch?v=WPupZKbRTvo",
+   "card": "cards/Oasis-Who-Feels-Love.webp?v=cbbbbcfb",
+   "thumb": "thumbs/Oasis-Who-Feels-Love.webp?v=079aaf50",
+   "thumbW": 560,
+   "thumbH": 700,
+   "w": 1600,
+   "h": 1913,
+   "chords": [
+    "G5",
+    "Cadd9",
+    "G",
+    "G/B",
+    "G/E",
+    "G/D",
+    "G/F",
+    "G/Eb",
+    "Fsus2/G"
    ]
   },
   {
