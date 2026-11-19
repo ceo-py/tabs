@@ -187,12 +187,25 @@ def main():
                 os.remove(os.path.join(d, f))
                 print('  removed stale asset:', f)
 
+    # channel list is derived from the catalog so a new source channel only
+    # needs an entry in CHANNEL_URLS (id = the channel id used in songs.json)
+    CHANNEL_URLS = {
+        'GuitarZero2HeroExpress': 'https://www.youtube.com/@GuitarZero2HeroExpress',
+        'BernadetteTeachesMusic': 'https://www.youtube.com/@BernadetteTeachesMusic',
+        'Lex Guitar Tabs': 'https://www.youtube.com/@LexGuitarTabs',
+        'guitar cover with tabs & chords': 'https://www.youtube.com/@guitarcoverwithtab',
+        'ike': 'https://www.youtube.com/@Guitar-Jam.',
+        'Sparky Guitar': 'https://www.youtube.com/@SparkyGuitar',
+    }
+    used_channels = []
+    for s in songs:
+        c = s.get('channel') or ''
+        if c and c not in used_channels:
+            used_channels.append(c)
     payload = {
         'channels': [
-            {'id': 'GuitarZero2HeroExpress', 'name': 'GuitarZero2HeroExpress',
-             'url': 'https://www.youtube.com/@GuitarZero2HeroExpress'},
-            {'id': 'BernadetteTeachesMusic', 'name': 'BernadetteTeachesMusic',
-             'url': 'https://www.youtube.com/@BernadetteTeachesMusic'},
+            {'id': c, 'name': c, 'url': CHANNEL_URLS.get(c, 'https://www.youtube.com/')}
+            for c in used_channels
         ],
         'songs': songs,
     }

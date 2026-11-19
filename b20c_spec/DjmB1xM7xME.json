@@ -1,0 +1,39 @@
+{
+ "title": "SONGBIRD",
+ "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  ike",
+ "out": "out_gz/Oasis-Songbird.png",
+ "panels": [
+  {
+   "label": "CHORDS & TAB  ·  INTRO",
+   "t": 4,
+   "bbox": [0, 0, 1920, 620],
+   "png": "frames/b20c_DjmB1xM7xME/p0.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  G · G/F# · Em7",
+   "t": 20,
+   "bbox": [0, 0, 1920, 620],
+   "png": "frames/b20c_DjmB1xM7xME/p1.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  VERSE 2",
+   "t": 48,
+   "bbox": [0, 0, 1920, 620],
+   "png": "frames/b20c_DjmB1xM7xME/p2.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  G/F# · Em7",
+   "t": 68,
+   "bbox": [0, 0, 1920, 620],
+   "png": "frames/b20c_DjmB1xM7xME/p3.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  OUTRO",
+   "t": 92,
+   "bbox": [0, 0, 1920, 620],
+   "png": "frames/b20c_DjmB1xM7xME/p4.png"
+  }
+ ],
+ "note": "Chords: G (intro)  ·  G G/F# Em7 (verse, no section title printed on screen)  ·  G (verse 2)  ·  G/F# Em7  ·  G G/F# Em7 (outro)  ·  Strumming: not shown in the video - the channel shows standard notation and TAB only, there is no strumming pattern panel",
+ "diagram": "LETTERS"
+}

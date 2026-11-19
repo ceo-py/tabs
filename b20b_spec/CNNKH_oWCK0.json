@@ -1,0 +1,11 @@
+{
+  "title": "LIVE FOREVER",
+  "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  guitar cover with tabs & chords",
+  "out": "out_gz/Oasis-Live-Forever.png",
+  "panels": [
+    {"label": "SCORE  ·  CHORDS, NOTATION & TAB", "t": 20, "bbox": [0, 536, 1920, 544], "png": "frames/b20b_CNNKH_oWCK0/p0.png"},
+    {"label": "SCORE  ·  CHORDS, NOTATION & TAB  ·  LATER PART", "t": 180, "bbox": [0, 536, 1920, 544], "png": "frames/b20b_CNNKH_oWCK0/p1.png"}
+  ],
+  "note": "Chords: C D G Am7 Em7 FM7 FM7(9)   Strumming: not shown in the video - TAB notation only   On screen: tempo = 92",
+  "diagram": "LETTERS"
+}

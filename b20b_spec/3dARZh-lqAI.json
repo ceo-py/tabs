@@ -1,0 +1,11 @@
+{
+  "title": "CHAMPAGNE SUPERNOVA",
+  "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  guitar cover with tabs & chords",
+  "out": "out_gz/Oasis-Champagne-Supernova.png",
+  "panels": [
+    {"label": "SCORE  ·  CHORDS, NOTATION & TAB", "t": 15, "bbox": [0, 544, 1920, 536], "png": "frames/b20b_3dARZh-lqAI/p0.png"},
+    {"label": "SCORE  ·  CHORDS, NOTATION & TAB  ·  LATER PART", "t": 240, "bbox": [0, 544, 1920, 536], "png": "frames/b20b_3dARZh-lqAI/p1.png"}
+  ],
+  "note": "Chords: Aadd9 Aadd9/G F#m7(11) Esus4 E G A FM7 Gadd9 D/F#   Strumming: not shown in the video - TAB notation only   On screen: tempo = 74",
+  "diagram": "LETTERS"
+}

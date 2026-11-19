@@ -1,0 +1,79 @@
+# Nicro
+
+Всички видеа от канала (71). Флагове: TAB / COVER / BASS / жанр.
+
+`✅` = вече имаме карта за тази песен (в коятото и да е канал).
+
+| # | Видео | Флагове | Карта |
+|---|---|---|---|
+| 1 | [Enlighten the Disorder (By a Monster’s Hand Part 2) - Volbeat \| Guitar Cover](https://www.youtube.com/watch?v=LCJOxHLcRq8) | COVER | — |
+| 2 | [Who They Are - Volbeat \| Guitar Cover](https://www.youtube.com/watch?v=Pknpzlj5atc) | COVER | — |
+| 3 | [Dragula - Rob Zombie \| Guitar Cover](https://www.youtube.com/watch?v=4c1l3bf290s) | METAL COVER | — |
+| 4 | [Killing Fields - Shinedown \| Guitar Cover](https://www.youtube.com/watch?v=cfUvWYU72aE) | COVER | — |
+| 5 | [Sacred - Parkway Drive \| Guitar Cover](https://www.youtube.com/watch?v=Yc_g36Y-od0) | COVER | — |
+| 6 | [[TABS] STARSET - v 0 y a g e r (Intro) \| Guitar Cover with On-Screen Tabs](https://www.youtube.com/watch?v=1pDodrBfv_c) | TAB COVER | — |
+| 7 | [We Are the Wild - Powerwolf \| Guitar Cover](https://www.youtube.com/watch?v=9_DyxSQZcv0) | COVER | — |
+| 8 | [Given Up - Linkin Park \| Guitar Cover](https://www.youtube.com/watch?v=gv0mAWl4USQ) | ALT COVER | — |
+| 9 | [In My Sword I Trust - Ensiferum \| Guitar Cover](https://www.youtube.com/watch?v=Cm-F1FyS6jA) | COVER | — |
+| 10 | [Casualty - Linkin Park \| Guitar Cover](https://www.youtube.com/watch?v=GiBiYHLZ3Mc) | ALT COVER | — |
+| 11 | [King For A Day - Pierce The Veil \| Guitar Cover](https://www.youtube.com/watch?v=y0R5bSTwQc8) | COVER | — |
+| 12 | [Tangled In The Great Escape - Pierce The Veil \| Guitar Cover](https://www.youtube.com/watch?v=9hPSoYqaLp0) | COVER | — |
+| 13 | [Prisoners of Today - Billy Talent \| Guitar Cover](https://www.youtube.com/watch?v=YBLICJ1H2vg) | METAL COVER | — |
+| 14 | [Seven Days - Bullet For My Valentine \| Guitar Cover](https://www.youtube.com/watch?v=CJGGegB6-wA) | METAL COVER | — |
+| 15 | [B.Y.O.B. - System Of A Down \| Guitar Cover](https://www.youtube.com/watch?v=CeSBPseYlbk) | METAL COVER | — |
+| 16 | [The Pretender - Foo Fighters \| Guitar Cover](https://www.youtube.com/watch?v=rJLgS6m2usM) | ALT COVER | ✅ Foo Fighters — The Pretender |
+| 17 | [White Sparrows - Billy Talent \| Guitar Cover](https://www.youtube.com/watch?v=9aFfdMNhJ0M) | METAL COVER | — |
+| 18 | [Hate/Love - Electric Callboy \| Guitar Cover](https://www.youtube.com/watch?v=o91SFFPfy_g) | COVER | — |
+| 19 | [Demonic Depression - Volbeat \| Guitar Cover](https://www.youtube.com/watch?v=Zce849rX5_E) | COVER | — |
+| 20 | [Waking Up - 10 Years \| Guitar COver](https://www.youtube.com/watch?v=3WoV20X4NOE) | COVER | — |
+| 21 | [Decadence - Disturbed \| Guitar Cover](https://www.youtube.com/watch?v=dFO9lOQKS2k) | METAL COVER | — |
+| 22 | [Alienation - Three Days Grace \| Guitar Cover](https://www.youtube.com/watch?v=levoIlfrrio) | COVER | — |
+| 23 | [Nine Thou (Remix) - Styles Of Beyond \| Guitar Cover](https://www.youtube.com/watch?v=E8elO2cvOmQ) | COVER | — |
+| 24 | [THE HUMAN RADIO - Shinedown \| Guitar Cover](https://www.youtube.com/watch?v=mwGcsW9e7nA) | COVER | — |
+| 25 | [Stay with Me - In Flames \| Guitar Cover](https://www.youtube.com/watch?v=F322fAfaX6Y) | COVER | — |
+| 26 | [Sober and Irrelevant - In Flames \| Guitar Cover](https://www.youtube.com/watch?v=ti_NssUAmfE) | COVER | — |
+| 27 | [Red Cold River - Breaking Benjamin \| Guitar Cover](https://www.youtube.com/watch?v=objKhhCHD_U) | COVER | — |
+| 28 | [Big Fig Wasp - King Gizzard & The Lizard Wizard \| Guitar Cover](https://www.youtube.com/watch?v=ZkOgjM9-7cE) | COVER | — |
+| 29 | [DArkSide - Bring Me The Horizon \| Guitar Cover](https://www.youtube.com/watch?v=M9rC9ZlELIo) | COVER | — |
+| 30 | [Cynosure - In Flames \| Guitar Cover](https://www.youtube.com/watch?v=B4I97EPU7Yk) | COVER | — |
+| 31 | [Red Flag - Billy Talent \| Guitar Cover](https://www.youtube.com/watch?v=W8rVzOSo4Rw) | METAL COVER | — |
+| 32 | [The Calamity - Trivium \| Guitar Cover](https://www.youtube.com/watch?v=wTYbafEBVwo) | COVER | — |
+| 33 | [One Less Problem - Billy Talent \| Guitar Cover](https://www.youtube.com/watch?v=ofTCcMD9ewQ) | METAL COVER | — |
+| 34 | [Land Of The Sun - Kim Dracula \| Guitar Cover](https://www.youtube.com/watch?v=j8zRDDrO2XA) | COVER | — |
+| 35 | [Bleak - Opeth \| Guitar Cover](https://www.youtube.com/watch?v=w49V8jdI2cA) | COVER | — |
+| 36 | [Angels Calling - Sabaton \| Guitar Cover](https://www.youtube.com/watch?v=uSY2rQq_ZTY) | COVER | — |
+| 37 | [Scorpions - Wind of Change \| Guitar Cover](https://www.youtube.com/watch?v=gBdTpYhQ4dA) | METAL COVER | — |
+| 38 | [The Vengeful One - Disturbed \| Guitar Cover](https://www.youtube.com/watch?v=Y584Ipw38eg) | METAL COVER | — |
+| 39 | [The Poison - Bullet For My Valentine \| Guitar Cover](https://www.youtube.com/watch?v=DZLaxlA_6co) | METAL COVER | — |
+| 40 | [Venom of Venus - Powerwolf \| Guitar Cover](https://www.youtube.com/watch?v=9-3nQ0n0kM0) | COVER | — |
+| 41 | [System of a Down - B.Y.O.B \| Guitar Cover](https://www.youtube.com/watch?v=7rGDzP1f79k) | METAL COVER | — |
+| 42 | [Beat it - Michael Jackson \| Guitar Cover](https://www.youtube.com/watch?v=hVnHqu3OYyI) | POP COVER | — |
+| 43 | [Waking the Demon - Bullet for My Valentine \| Guitar Cover](https://www.youtube.com/watch?v=6FxV0Cwf65Y) | METAL COVER | — |
+| 44 | [Beauty in the Sorrow - Trivium \| Guitar Cover](https://www.youtube.com/watch?v=AbCMA_Z289Y) | COVER | — |
+| 45 | [Dirty Magic - The Offspring \| Guitar Cover](https://www.youtube.com/watch?v=fwLE3LLDaqI) | PUNK COVER | — |
+| 46 | [When the Moon Shines Red - Powerwolf \| Guitar Cover](https://www.youtube.com/watch?v=0YLjfnRFJMU) | COVER | — |
+| 47 | [Limits - Bad Omens \| Guitar Cover](https://www.youtube.com/watch?v=3mbtA8oJKB0) | COVER | — |
+| 48 | [The Vengeful One - Disturbed \| Guitar Cover](https://www.youtube.com/watch?v=jsxpxrbtE5k) | METAL COVER | — |
+| 49 | [Hit the Floor - Linkin Park \| Guitar Cover](https://www.youtube.com/watch?v=6GZ2x8k9S3Q) | ALT COVER | — |
+| 50 | [The Ghost That's Haunting You - Trivium \| Guitar Cover](https://www.youtube.com/watch?v=ORo99xBOV5w) | METAL COVER | — |
+| 51 | [Deceiver - Soen \| Guitar Cover](https://www.youtube.com/watch?v=SjO4eW4usRk) | COVER | — |
+| 52 | [Lady Of The Dark - Sabaton \| Guitar Cover](https://www.youtube.com/watch?v=Y8wL-71veKw) | COVER | — |
+| 53 | [Monster - Skillet \| Guitar Cover](https://www.youtube.com/watch?v=BoSdpDc5kYY) | COVER | — |
+| 54 | [The Last Fight - Bullet For My Valentine \| Guitar Cover](https://www.youtube.com/watch?v=e1k6B9kn1JI) | METAL COVER | — |
+| 55 | [Plug In Baby - Muse \| Guitar Cover](https://www.youtube.com/watch?v=K6G38sxHzdA) | ALT COVER | — |
+| 56 | [Shotgun Blues - Volbeat \| Guitar Cover](https://www.youtube.com/watch?v=IttN1dq_VHg) | COVER | — |
+| 57 | [Dying To Love - Bad Omens \| Guitar Cover](https://www.youtube.com/watch?v=zgkISbdbfNE) | COVER | — |
+| 58 | [Sacred & Wild - Powerwolf \| Guitar Cover](https://www.youtube.com/watch?v=LKWhBwoMlf8) | COVER | — |
+| 59 | [Somewhere I Belong - Linkin Park \| Guitar Cover](https://www.youtube.com/watch?v=DTMkXARA9PA) | ALT COVER | — |
+| 60 | [Shogun - Trivium \| Guitar Cover](https://www.youtube.com/watch?v=fYPm3Qwdu8g) | COVER | — |
+| 61 | [The Outsider - Black Veil Brides \| Guitar Cover](https://www.youtube.com/watch?v=UhvBihVsdQs) | COVER | — |
+| 62 | [Enlighten the Disorder (By a Monster’s Hand Part 2) - Volbeat \| Guitar Cover](https://www.youtube.com/watch?v=5fmkY0KPA9A) | COVER | — |
+| 63 | [Definition of Destiny - Billy Talent \| Guitar Cover](https://www.youtube.com/watch?v=bzHa5AH6Vuw) | METAL COVER | — |
+| 64 | [System of a Down - Toxicity \| Guitar Cover](https://www.youtube.com/watch?v=r_w0Lzp6FEo) | METAL COVER | — |
+| 65 | [Resurrection by Erection - Powerwolf \| Guitar Cover](https://www.youtube.com/watch?v=a5p6leBVkwE) | COVER | — |
+| 66 | [Last Resort - Papa Roach \| Guitar Cover](https://www.youtube.com/watch?v=BdgsiFee8Jg) | COVER | — |
+| 67 | [Hemorrhage (In My Hands) - Fuel \| Guitar Cover](https://www.youtube.com/watch?v=eKrD2rGdu4s) | COVER | — |
+| 68 | [Happiness - Three Days Grace \| Guitar Cover](https://www.youtube.com/watch?v=NFRiZpkeq4A) | COVER | — |
+| 69 | [Hit The Floor - Bullet For My Valentine \| Guitar Cover](https://www.youtube.com/watch?v=8_sS5xQC6BU) | METAL COVER | — |
+| 70 | [Young Again - Shinedown \| Guitar Cover](https://www.youtube.com/watch?v=eX4-hL8tQsY) | COVER | — |
+| 71 | [Billy Talent - Devil in a Midnight Mass \| Guitar Cover](https://www.youtube.com/watch?v=GLQEe7BH0Yc) | METAL COVER | — |

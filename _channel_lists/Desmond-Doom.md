@@ -1,0 +1,79 @@
+# Desmond Doom
+
+Всички видеа от канала (71). Флагове: TAB / COVER / BASS / жанр.
+
+`✅` = вече имаме карта за тази песен (в коятото и да е канал).
+
+| # | Видео | Флагове | Карта |
+|---|---|---|---|
+| 1 | [Desmond Doom - It's All Falling Down (SYNTHWAVE REMIX)](https://www.youtube.com/watch?v=4ZHj5cy0hjw) |  | — |
+| 2 | [Antichrist - Desmond Doom](https://www.youtube.com/watch?v=4WUdg2E8Kgk) |  | — |
+| 3 | [Fiend - Desmond Doom](https://www.youtube.com/watch?v=3WDaqn9zpXg) |  | — |
+| 4 | [How to write a Killing Joke song in 1 minute](https://www.youtube.com/watch?v=hRfYVmFuAPQ) |  | — |
+| 5 | [How to write a Dead Kennedys song in 1 minute](https://www.youtube.com/watch?v=5Asu5_yvxpQ) | PUNK | — |
+| 6 | [All I Want For Christmas Is Gainful Employment - Desmond Doom](https://www.youtube.com/watch?v=MIvr7DNfx6U) |  | — |
+| 7 | [How to make Shoegaze in 2 minutes](https://www.youtube.com/watch?v=yN67L4LJxgw) |  | — |
+| 8 | [Bats At The Beach EP - Desmond Doom (2025)](https://www.youtube.com/watch?v=bWY9TuyVofw) |  | — |
+| 9 | [Big Bad Baritone](https://www.youtube.com/watch?v=-EdxvT5B1rw) |  | — |
+| 10 | [10 Classic Post-Punk Basslines](https://www.youtube.com/watch?v=D9WdLUpSxF8) | PUNK | — |
+| 11 | [Post-Punk on a Beatle bass?](https://www.youtube.com/watch?v=3Wct5N5IcP4) | PUNK BASS | — |
+| 12 | [When Mom says "We have The Cure at home"](https://www.youtube.com/watch?v=0wIetVEc5cY) |  | — |
+| 13 | [Shut Your Bloody Mouth - Desmond Doom](https://www.youtube.com/watch?v=nsPiC1n_2_c) |  | — |
+| 14 | [LOFI-GOTH EP - Desmond Doom (2024)](https://www.youtube.com/watch?v=ZvA5SVC6h4A) |  | — |
+| 15 | [How to play Post-Punk guitar in 2 minutes](https://www.youtube.com/watch?v=H9saguHwP-o) | PUNK COVER | — |
+| 16 | ["We have Johnny Marr at home"](https://www.youtube.com/watch?v=BAEjaKSRFzU) |  | — |
+| 17 | [How to write a Radiohead song in 1 Minute](https://www.youtube.com/watch?v=2puoxeSFfeY) | ALT | — |
+| 18 | ["I Could Have Lied" by Red Hot Chili Peppers but it's goth](https://www.youtube.com/watch?v=m-Jk74JVN-8) | ALT | — |
+| 19 | [How to play Post-Punk bass in 1 minute](https://www.youtube.com/watch?v=WjbADCNdWcU) | PUNK BASS COVER | — |
+| 20 | [Lover's Song - Desmond Doom](https://www.youtube.com/watch?v=i05yOTzF5_A) |  | — |
+| 21 | [Doom And Bloom EP - Desmond Doom (2024)](https://www.youtube.com/watch?v=kJnua6RW5TQ) |  | — |
+| 22 | [Post-Punk shredding](https://www.youtube.com/watch?v=6Vo85xrn5zk) | PUNK | — |
+| 23 | [NEW Peter Hook Signature Bass from Eastwood Guitars! Demo](https://www.youtube.com/watch?v=4sZROGuceKc) | BASS | — |
+| 24 | [Masks - Desmond Doom (2023)](https://www.youtube.com/watch?v=EBwo34ha1Lc) |  | — |
+| 25 | [How to write 80's Horror music in 1 minute](https://www.youtube.com/watch?v=1Ok4zbzSpF8) |  | — |
+| 26 | [True Love Will Find You In The End - Desmond Doom (Daniel Johnston cover)](https://www.youtube.com/watch?v=Nmux3duS1GE) | COVER | — |
+| 27 | [How to Peter Hook in 1 Minute](https://www.youtube.com/watch?v=zlC_ZNMZpHU) |  | — |
+| 28 | [How to Johnny Marr in 1 minute](https://www.youtube.com/watch?v=dJ8FLE-96fs) |  | — |
+| 29 | [Steal these chord shapes for more FLAVOUR!](https://www.youtube.com/watch?v=CSFuKsmfopg) |  | — |
+| 30 | [The Big Boys - Desmond Doom](https://www.youtube.com/watch?v=QxR2ysF4fj8) |  | — |
+| 31 | [How to write an Echo and The Bunnymen song in 1 minute](https://www.youtube.com/watch?v=WtXKZyDejrc) |  | — |
+| 32 | [Safe and Warm (Instrumental) - Desmond Doom](https://www.youtube.com/watch?v=FDBgAySKDkM) |  | — |
+| 33 | [How to write a DARK Cure song in 1 minute](https://www.youtube.com/watch?v=kBlCMyXtAyI) |  | — |
+| 34 | [How to write a Police song in 1 minute](https://www.youtube.com/watch?v=_FO_SqDmy_w) |  | — |
+| 35 | [How to write a The Cure song in 1 minute](https://www.youtube.com/watch?v=7rsNbODR3GE) |  | — |
+| 36 | [A Charming Place - Desmond Doom FULL SONG](https://www.youtube.com/watch?v=WJiVt5LJXIs) |  | — |
+| 37 | [How to write a Sisters Of Mercy song in 1 minute](https://www.youtube.com/watch?v=TjmmJNLBJiY) |  | — |
+| 38 | [How to write a Bauhaus song in 1 minute](https://www.youtube.com/watch?v=SeXPeyoPmTY) |  | — |
+| 39 | [How to make a Depeche Mode song in 1 minute](https://www.youtube.com/watch?v=iAOnOVaqw6Q) | ALT | — |
+| 40 | [How to write a Smiths song in 1 minute](https://www.youtube.com/watch?v=JVX5TEWEuGQ) |  | — |
+| 41 | [If Joy Division wrote "Concrete" by Leningrad Sandwich](https://www.youtube.com/watch?v=rjv7oy3ifZs) |  | — |
+| 42 | [Can you play Shoegaze chords on bass?](https://www.youtube.com/watch?v=iWBbEFYGuNA) | BASS | — |
+| 43 | [Surf-Goth B-Sides - Desmond Doom (2022)](https://www.youtube.com/watch?v=iknTTn1XGmM) |  | — |
+| 44 | [When Mom says "We have The Smiths at home"](https://www.youtube.com/watch?v=aG5TMMXLLjg) | ALT | — |
+| 45 | [How to make Post-Punk in 1 minute](https://www.youtube.com/watch?v=MJE41lyB5PY) | PUNK | — |
+| 46 | [Desmond Doom - Love Is Quite Nice](https://www.youtube.com/watch?v=9ONky4K94cw) |  | — |
+| 47 | [If The Cure Wrote "Heart-Shaped Box" by Nirvana](https://www.youtube.com/watch?v=DrklQHX8bkw) | GRUNGE CLASSIC ALT | ✅ Nirvana — Heart Shaped Box |
+| 48 | ["I Hope I Never See Your Face Again" BASS Tutorial by Desmond Doom](https://www.youtube.com/watch?v=76QuOmxp5Ys) | BASS COVER | — |
+| 49 | [When Mom says "We have Joy Division at home"](https://www.youtube.com/watch?v=_AhuqgTLZFU) |  | — |
+| 50 | ["I Hope I Never See Your Face Again" Guitar Tutorial by Desmond Doom](https://www.youtube.com/watch?v=zABzyvKsVn0) | COVER | — |
+| 51 | [When Joy Division only gives you 40 seconds to audition](https://www.youtube.com/watch?v=_TrS-fcEJDA) |  | — |
+| 52 | [Far Away (You And Me) - Desmond Doom](https://www.youtube.com/watch?v=kEx7DCVwWTQ) |  | — |
+| 53 | [Blue Monday in the style of Rammstein](https://www.youtube.com/watch?v=u9ZzYILDhdc) | METAL | — |
+| 54 | [Wanted - Desmond Doom](https://www.youtube.com/watch?v=_f1Y7GIMS28) |  | — |
+| 55 | [If The Beatles wrote "Love Will Tear Us Apart" by Joy Division](https://www.youtube.com/watch?v=1JmHt-28ZfE) |  | — |
+| 56 | [If Joy Division wrote "1979" by Smashing Pumpkins FULL SONG](https://www.youtube.com/watch?v=xIIWrvCd8jw) | ALT | ✅ The Smashing Pumpkins — 1979 |
+| 57 | [Surf-Goth EP - Desmond Doom (2022)](https://www.youtube.com/watch?v=oHRZAKumetY) |  | — |
+| 58 | [If The Smiths wrote "No Surprises" by Radiohead](https://www.youtube.com/watch?v=UGwA-xRBMDA) | ALT | ✅ Radiohead — No Surprises |
+| 59 | [I Hate You, You Hate Me - Desmond Doom](https://www.youtube.com/watch?v=e2mSLU1xho8) |  | — |
+| 60 | [Now That You're Gone - Desmond Doom](https://www.youtube.com/watch?v=CYXUzJcbWZI) |  | — |
+| 61 | [Sky - Desmond Doom](https://www.youtube.com/watch?v=6yOCH1zW9cE) |  | — |
+| 62 | [It's All Falling Down - Desmond Doom](https://www.youtube.com/watch?v=QDF_08NHnQM) |  | — |
+| 63 | [I Hope I Never See Your Face Again - Desmond Doom](https://www.youtube.com/watch?v=nP2ZQ-qgieU) |  | — |
+| 64 | [Σ΄αναζητώ (Looking For You) [ Greek Post-Punk ]](https://www.youtube.com/watch?v=F-nb26DomGo) | PUNK | — |
+| 65 | [Μαύρα Σύννεφα (Black Clouds) - Desmond Doom](https://www.youtube.com/watch?v=oHRYGsLFKPE) |  | — |
+| 66 | [You'll Never Be A Rockstar (That's Okay)](https://www.youtube.com/watch?v=BY4s4vnS2XY) |  | — |
+| 67 | [Get Me Out - Desmond Doom](https://www.youtube.com/watch?v=1bj5A7A5xqk) |  | — |
+| 68 | [The Dissociation Song - Desmond Doom](https://www.youtube.com/watch?v=GODjtY52H-c) |  | — |
+| 69 | [Take Me Back - Desmond Doom](https://www.youtube.com/watch?v=AI1HJn2S5nQ) |  | — |
+| 70 | [Tomorrow Comes Today - Gorillaz (Post-Punk cover)](https://www.youtube.com/watch?v=SqDhOqvqJrI) | PUNK COVER | — |
+| 71 | [Deftones - Be Quiet And Drive (Desmond Doom cover)](https://www.youtube.com/watch?v=6FsUhky78b8) | METAL COVER | — |

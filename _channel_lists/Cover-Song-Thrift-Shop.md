@@ -1,0 +1,81 @@
+# Cover Song Thrift Shop
+
+Всички видеа от канала (73). Флагове: TAB / COVER / BASS / жанр.
+
+`✅` = вече имаме карта за тази песен (в коятото и да е канал).
+
+| # | Видео | Флагове | Карта |
+|---|---|---|---|
+| 1 | [Wheel - Ascend (Guitar cover, tabs on screen)](https://www.youtube.com/watch?v=vcOLmzPNEKc) | TAB COVER | — |
+| 2 | [Tutorial: Bad Luck - Zach Top (Acoustic)](https://www.youtube.com/watch?v=k_gOOLWmTHY) | COVER | — |
+| 3 | [Out of Touch - Osker (bass cover)](https://www.youtube.com/watch?v=G3lNIUaRmXM) | BASS COVER | — |
+| 4 | [Tutorial: I Never Lie - Zach Top (Acoustic)](https://www.youtube.com/watch?v=1m_h8AaFvvk) | COVER | — |
+| 5 | [I Never Lie - Zach Top (Acoustic Cover)](https://www.youtube.com/watch?v=JmZkr_nLG0U) | COVER | — |
+| 6 | [Dizzy - Jimmy Eat World (Tabs on Screen)](https://www.youtube.com/watch?v=vxxNSLNMtyw) | TAB | — |
+| 7 | [6 to 8 - AFI (Tabs on Screen)](https://www.youtube.com/watch?v=PN4tyJN6c04) | TAB POSTHC | — |
+| 8 | [Weak Tyrant - Snapcase (Tabs on Screen)](https://www.youtube.com/watch?v=-l71WZef6_Y) | TAB | — |
+| 9 | [How to play I Sure Can Smell the Rain by Blackhawk (Tabs on Screen)](https://www.youtube.com/watch?v=5yqDHff3Bls) | TAB COVER | — |
+| 10 | [In the End - Nothington (cover)](https://www.youtube.com/watch?v=ekXzIiPYPCE) | COVER | — |
+| 11 | [I Only Want You for Christmas - Alan Jackson (Guitar Cover)](https://www.youtube.com/watch?v=NCRCPRiKgpQ) | COVER | — |
+| 12 | [I Barf - Wolves of Glendale (cover)](https://www.youtube.com/watch?v=VPdepc6hWK0) | COVER | — |
+| 13 | [We Called it America - NOFX (cover)](https://www.youtube.com/watch?v=UxetXKw5mks) | PUNK COVER | — |
+| 14 | [Lunacy - Soen (cover)](https://www.youtube.com/watch?v=eYiecF8xeLQ) | COVER | — |
+| 15 | [Screaming Suicide - Metallica (cover)](https://www.youtube.com/watch?v=wsCRuCSf49o) | METAL COVER | — |
+| 16 | [Fedallah's Hearse - Propagandhi (cover)](https://www.youtube.com/watch?v=S9elWLfI5xI) | COVER | — |
+| 17 | [Every Solo from Imperial by Soen (Tabs on Screen)](https://www.youtube.com/watch?v=hwICvSvq4YY) | TAB | — |
+| 18 | [Don't Speak - No Doubt (Full band cover)](https://www.youtube.com/watch?v=XBICDSMcAtY) | COVER | — |
+| 19 | [Looking Down the Barrel of Today - Hatebreed (cover)](https://www.youtube.com/watch?v=nQSSdtZ4UKU) | METAL COVER | — |
+| 20 | [Fuck the Border - Propagandhi (cover)](https://www.youtube.com/watch?v=dv8COA3LEkc) | COVER | — |
+| 21 | [Brickrain (Original Song) (Instrumental)](https://www.youtube.com/watch?v=34vJNO3xmTw) |  | — |
+| 22 | [Every Solo from Sex, Love, and Rock n Roll by Social Distortion](https://www.youtube.com/watch?v=MCf-xWUX-zc) | PUNK | — |
+| 23 | [90's Alt Rock Guitar Solos - A Collection of the Best (cover)](https://www.youtube.com/watch?v=vQG0b7a0Pmg) | COVER | — |
+| 24 | [Come With Me - Deviates (cover)](https://www.youtube.com/watch?v=sXNy2vlVmec) | COVER | — |
+| 25 | [Dear Rosemary - Foo Fighters (Full band cover)](https://www.youtube.com/watch?v=K74xm6iuaJU) | ALT COVER | — |
+| 26 | [Every Solo from The Gray Race by Bad Religion](https://www.youtube.com/watch?v=7DOZSA9cVSc) | PUNK | — |
+| 27 | [Every Solo from Social Distortion's Self Titled Album](https://www.youtube.com/watch?v=z8L0FMbB3sM) | PUNK | — |
+| 28 | [Peach - Chevelle (cover)](https://www.youtube.com/watch?v=tjQ6wypdWHo) | METAL COVER | — |
+| 29 | [The Boy Who Destroyed the World - AFI (cover)](https://www.youtube.com/watch?v=GnJN7PuZNPI) | POSTHC COVER | — |
+| 30 | [90's Country Guitar Solos - A Collection of the Best, Part 2/2 (cover)](https://www.youtube.com/watch?v=ET-aO2XpfiU) | COVER | — |
+| 31 | [She Suffocates - Snapcase (cover)](https://www.youtube.com/watch?v=HJKCk6WmYqE) | COVER | — |
+| 32 | [Last Will and Testament - Propagandhi (cover)](https://www.youtube.com/watch?v=KgkbIFAF4-s) | METAL COVER | — |
+| 33 | [Every Solo from Somewhere Between Heaven and Hell by Social Distortion](https://www.youtube.com/watch?v=nzT9bttEA6I) | PUNK | — |
+| 34 | [90's Country Guitar Solos - A Collection of the Best, Part 1/2 (cover)](https://www.youtube.com/watch?v=SO2ZmoV2n-c) | COVER | — |
+| 35 | [Every Solo from White Light, White Heat, White Trash by Social Distortion](https://www.youtube.com/watch?v=rZ-cX4p-zCc) | PUNK | — |
+| 36 | [Venomous - Raised Fist (cover)](https://www.youtube.com/watch?v=B-sFvWFNwGY) | COVER | — |
+| 37 | [May 16 - Lagwagon (cover)](https://www.youtube.com/watch?v=kBoAyjteykg) | PUNK COVER | — |
+| 38 | [The Banger’s Embrace - Propagandhi (cover)](https://www.youtube.com/watch?v=KQx1dAbwxWw) | COVER | — |
+| 39 | [Traitors Gate - Judas Priest (cover)](https://www.youtube.com/watch?v=ANLYOzvsW5A) | METAL COVER | — |
+| 40 | [Face to the Floor - Chevelle (cover)](https://www.youtube.com/watch?v=MhAGIGsbz4Y) | METAL COVER | — |
+| 41 | [Achin to Be - Pinhead Gunpowder (cover)](https://www.youtube.com/watch?v=a4s0ITSG7jM) | COVER | — |
+| 42 | [Modern Man - Bad Religion (cover)](https://www.youtube.com/watch?v=csWaWHEp81E) | PUNK COVER | — |
+| 43 | [Comply/Resist - Propagandhi (cover)](https://www.youtube.com/watch?v=X-MtcGIZwn4) | COVER | — |
+| 44 | [Old Regime - Bad Religion (cover)](https://www.youtube.com/watch?v=2LFXJrJ8yOY) | PUNK COVER | — |
+| 45 | [Age of Unreason - Bad Religion (cover)](https://www.youtube.com/watch?v=ZVolwW2mR8w) | PUNK COVER | — |
+| 46 | [Rock It Off - Stray Cats (cover)](https://www.youtube.com/watch?v=vv12jcoGEKM) | COVER | — |
+| 47 | [Pub Feed - The Chats (cover)](https://www.youtube.com/watch?v=W3CCeju-tBo) | COVER | — |
+| 48 | [Never Too Much - Luther Vandross (guitar cover)](https://www.youtube.com/watch?v=VlvHnRxfrSE) | COVER | — |
+| 49 | [A-Ten - Millencolin (cover)](https://www.youtube.com/watch?v=I2GqgqM6rsg) | COVER | — |
+| 50 | [Truth and Purpose - The Hope Conspiracy (cover)](https://www.youtube.com/watch?v=Aw0mCpWsTvo) | COVER | — |
+| 51 | [Carved Out - The Hope Conspiracy (cover)](https://www.youtube.com/watch?v=ZoyjZfxErGI) | COVER | — |
+| 52 | [Harrison Bergeron - Snapcase (cover)](https://www.youtube.com/watch?v=pPx36UiCVlI) | COVER | — |
+| 53 | [Burn After Reading - Nothington (cover)](https://www.youtube.com/watch?v=UPfNtUSTPbI) | COVER | — |
+| 54 | [Tartuffe - Propagandhi (cover)](https://www.youtube.com/watch?v=GHdoO-q5xzY) | COVER | — |
+| 55 | [Cop Just out of Frame - Propagandhi (cover)](https://www.youtube.com/watch?v=Jue-F-dF7XU) | COVER | — |
+| 56 | [Cat Fight (Over a Dog Like Me) - Stray Cats (cover)](https://www.youtube.com/watch?v=JbAB_uO6C7c) | COVER | — |
+| 57 | [Chaos from Within - Bad Religion (cover)](https://www.youtube.com/watch?v=duEysk-RQ74) | PUNK COVER | — |
+| 58 | [Tertium Non Datur - Propagandhi (cover)](https://www.youtube.com/watch?v=2WjQURIojmo) | COVER | — |
+| 59 | [Vicarious - Tool (cover)](https://www.youtube.com/watch?v=tZBMFGAX9D0) | METAL COVER | — |
+| 60 | [Skeleton Vanguard - Throwdown (cover)](https://www.youtube.com/watch?v=JnUpdnPQ5Vg) | COVER | — |
+| 61 | [Caboose - Snapcase (cover)](https://www.youtube.com/watch?v=aGU-Zpm33bg) | COVER | — |
+| 62 | [The Trooper - Iron Maiden (Cover)](https://www.youtube.com/watch?v=kofxAjzJRn4) | METAL COVER | — |
+| 63 | [Without Love - Propagandhi (cover)](https://www.youtube.com/watch?v=Y2qqq_WQn2Q) | COVER | — |
+| 64 | [Beautiful - Creed (cover)](https://www.youtube.com/watch?v=PUUROiDp4Uo) | CLASSIC COVER | — |
+| 65 | [Dead in the Water - Arrows at Dawn (cover)](https://www.youtube.com/watch?v=QJvrHy0MDwM) | COVER | — |
+| 66 | [Transistor - 311 (cover)](https://www.youtube.com/watch?v=QX0WoDbqNjk) | COVER | — |
+| 67 | [Dwight Yoakam - Fast as You (cover)](https://www.youtube.com/watch?v=-WjhZhZyhlo) | COVER | — |
+| 68 | [Bridge Burning - Foo Fighters (cover)](https://www.youtube.com/watch?v=OWxSQ-Df8u4) | ALT COVER | — |
+| 69 | [Holy Water - Soundgarden (cover)](https://www.youtube.com/watch?v=Zp8k2SHfLC4) | GRUNGE ALT COVER | — |
+| 70 | [Human(e) Meat - Propagandhi](https://www.youtube.com/watch?v=1Jjdxw1gpTo) |  | — |
+| 71 | [The Funeral Procession - Propagandhi](https://www.youtube.com/watch?v=kH5enU2s2bo) |  | — |
+| 72 | [Let's Live it Up - Brian Setzer Orchestra (cover)](https://www.youtube.com/watch?v=2Vvp8Lziv_Q) | COVER | — |
+| 73 | [The Funeral Procession - Propagandhi (cover)](https://www.youtube.com/watch?v=yiZe4CqtGt0) | COVER | — |

@@ -1,0 +1,57 @@
+{
+ "title": "ROLL WITH IT",
+ "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  ike",
+ "out": "out_gz/Oasis-Roll-With-It.png",
+ "panels": [
+  {
+   "label": "CHORDS & TAB  ·  INTRO",
+   "t": 8,
+   "bbox": [0, 0, 1920, 570],
+   "png": "frames/b20c_dqS2wUriKG8/p0.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  VERSE 1",
+   "t": 24,
+   "bbox": [0, 0, 1920, 570],
+   "png": "frames/b20c_dqS2wUriKG8/p1.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  VERSE 2",
+   "t": 40,
+   "bbox": [0, 0, 1920, 570],
+   "png": "frames/b20c_dqS2wUriKG8/p2.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  Cadd9 · G/B · A7sus4",
+   "t": 48,
+   "bbox": [0, 0, 1920, 570],
+   "png": "frames/b20c_dqS2wUriKG8/p3.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  BRIDGE",
+   "t": 64,
+   "bbox": [0, 0, 1920, 570],
+   "png": "frames/b20c_dqS2wUriKG8/p4.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  SOLO",
+   "t": 112,
+   "bbox": [0, 0, 1920, 570],
+   "png": "frames/b20c_dqS2wUriKG8/p5.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  VERSE 4",
+   "t": 168,
+   "bbox": [0, 0, 1920, 570],
+   "png": "frames/b20c_dqS2wUriKG8/p6.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  OUTRO",
+   "t": 184,
+   "bbox": [0, 0, 1920, 570],
+   "png": "frames/b20c_dqS2wUriKG8/p7.png"
+  }
+ ],
+ "note": "Chords: D7 C9 G (intro)  ·  G (verse 1)  ·  G Cadd9 (verse 2)  ·  Cadd9 G/B A7sus4 (chorus progression, no section title printed on screen)  ·  F G (bridge)  ·  G (solo)  ·  G Cadd9 G/B (verse 4)  ·  G (outro)  ·  Strumming: not shown in the video - the channel shows standard notation and TAB only, there is no strumming pattern panel",
+ "diagram": "LETTERS"
+}

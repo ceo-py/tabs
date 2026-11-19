@@ -73,7 +73,7 @@ def discover():
 
     # --- GuitarZero2HeroExpress ---
     rows = []
-    for bi in range(1, 20):
+    for bi in range(1, 21):
         p = os.path.join(ROOT, 'gz_batches', 'batch%d.json' % bi)
         if not os.path.exists(p):
             continue
@@ -103,7 +103,7 @@ def discover():
             'artist': r['artist'],
             'tag': r.get('tag', ''),
             'rock': bool(r.get('rock')),
-            'channel': 'GuitarZero2HeroExpress',
+            'channel': r.get('source_channel', 'GuitarZero2HeroExpress'),
             'url': r['url'],
             'card': out,
         }

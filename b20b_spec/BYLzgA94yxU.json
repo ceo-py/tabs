@@ -1,0 +1,11 @@
+{
+  "title": "D'YOU KNOW WHAT I MEAN?",
+  "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  guitar cover with tabs & chords",
+  "out": "out_gz/Oasis-D-You-Know-What-I-Mean.png",
+  "panels": [
+    {"label": "SCORE  ·  CHORDS, NOTATION & TAB", "t": 30, "bbox": [0, 576, 1920, 504], "png": "frames/b20b_BYLzgA94yxU/p0.png"},
+    {"label": "SCORE  ·  CHORDS, NOTATION & TAB  ·  LATER PART", "t": 110, "bbox": [0, 576, 1920, 504], "png": "frames/b20b_BYLzgA94yxU/p1.png"}
+  ],
+  "note": "Chords: Em7 G6 Dsus2 A Esus4 E C   Strumming: not shown in the video - TAB notation only   On screen: tempo = 80, Capo. fret 2, N.C. intro with muted strums, (with wah), let ring",
+  "diagram": "LETTERS"
+}

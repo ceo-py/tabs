@@ -1,0 +1,85 @@
+# Max Niessl
+
+Всички видеа от канала (77). Флагове: TAB / COVER / BASS / жанр.
+
+`✅` = вече имаме карта за тази песен (в коятото и да е канал).
+
+| # | Видео | Флагове | Карта |
+|---|---|---|---|
+| 1 | [TOOL - TICKS & LEECHES // Guitar Cover + Tabs](https://www.youtube.com/watch?v=1Jb894nng3I) | TAB METAL COVER | — |
+| 2 | [RUSSIAN CIRCLES - YOUNGBLOOD // Guitar Cover + Tabs](https://www.youtube.com/watch?v=HG0nNDjFfzo) | TAB COVER | — |
+| 3 | [TOOL - SOBER // Guitar Cover + Tabs](https://www.youtube.com/watch?v=GJL7_Cpa3ns) | TAB METAL COVER | — |
+| 4 | [OPETH - GHOST OF PERDITION // Guitar Cover + Tabs](https://www.youtube.com/watch?v=zvTRLQ3WylM) | TAB METAL COVER | — |
+| 5 | [TOOL - SCHISM // Guitar Cover + Tabs](https://www.youtube.com/watch?v=aCOsH0qF1i4) | TAB METAL COVER | — |
+| 6 | [TOOL - FORTY SIX & 2 // Guitar Cover + Tabs](https://www.youtube.com/watch?v=xwgM63cOc7k) | TAB METAL COVER | — |
+| 7 | [ATONIAN - THE RAVENOUS // Guitar Playthrough + Tabs](https://www.youtube.com/watch?v=LZTehKKNzPk) | TAB | — |
+| 8 | [TOOL - JIMMY // Guitar Cover + Tabs](https://www.youtube.com/watch?v=z9O9UpWz4vA) | TAB METAL COVER | — |
+| 9 | [TOOL - OPIATE² // Guitar Cover + Tabs](https://www.youtube.com/watch?v=DXrX9QJ7cIQ) | TAB METAL COVER | — |
+| 10 | [TOOL - DISPOSITION \| REFLECTION \| TRIAD // Guitar Cover + Tabs](https://www.youtube.com/watch?v=53YAFV-8C_0) | TAB METAL COVER | — |
+| 11 | [WARMUP WITH TOOL // Guitar Exercise](https://www.youtube.com/watch?v=-fFPBsuj3lA) | METAL | — |
+| 12 | [SYSTEM OF A DOWN - B.Y.O.B. // Guitar Cover + Tabs](https://www.youtube.com/watch?v=pUV5pysscDY) | TAB METAL COVER | — |
+| 13 | [TOOL - EON BLUE APOCALYPSE \| THE PATIENT // Guitar Cover + Tabs](https://www.youtube.com/watch?v=rDQOr0A262c) | TAB METAL COVER | — |
+| 14 | [KARNIVOOL - NEW DAY // Guitar Cover + Tabs](https://www.youtube.com/watch?v=U9YeZPqgAYc) | TAB COVER | — |
+| 15 | [TOOL - SWAMP SONG // Guitar Cover + Tabs](https://www.youtube.com/watch?v=kgFvpnwZozI) | TAB METAL COVER | — |
+| 16 | [TOOL - ÆNEMA // Guitar Cover + Tabs](https://www.youtube.com/watch?v=NincUFM20zc) | TAB METAL COVER | — |
+| 17 | [CHEVELLE - GHOST AND RAZOR // Guitar Cover + Tabs](https://www.youtube.com/watch?v=odY1nXI4rvk) | TAB METAL COVER | — |
+| 18 | [TOOL - PUSHIT (Salival) // Guitar Cover + Tabs](https://www.youtube.com/watch?v=2qbLuEiGaIw) | TAB METAL COVER | — |
+| 19 | [SOEN - LUMERIAN // Guitar Cover + Tabs](https://www.youtube.com/watch?v=RU0FOSYYTN4) | TAB COVER | — |
+| 20 | [TOOL - LATERALUS // Guitar Cover + Tabs](https://www.youtube.com/watch?v=ff1zdt2Dvtg) | TAB METAL COVER | — |
+| 21 | [SOEN - MONARCH // Guitar Cover + Tabs](https://www.youtube.com/watch?v=JnKIhHsL6R4) | TAB COVER | — |
+| 22 | [OPETH - TO BID YOU FAREWELL // Guitar Cover + Tabs](https://www.youtube.com/watch?v=M0lTsO_SSkc) | TAB COVER | — |
+| 23 | [ADAM JONES - THE WITNESS // Fullband Cover](https://www.youtube.com/watch?v=gmbJyBQ1N4o) | COVER | — |
+| 24 | [ADAM JONES - THE WITNESS // Guitar Cover + Tabs](https://www.youtube.com/watch?v=NesUCLY__vs) | TAB COVER | — |
+| 25 | [SOEN - ANTAGONIST // Guitar Cover + Tabs](https://www.youtube.com/watch?v=NDPZ3EckNec) | TAB COVER | — |
+| 26 | [TOOL - INTENSION \| RIGHT IN TWO // Guitar Cover + Tabs](https://www.youtube.com/watch?v=T-SF5pCwAQc) | TAB METAL COVER | — |
+| 27 | [MASTODON - SLEEPING GIANT // Guitar Cover + Tabs](https://www.youtube.com/watch?v=BG6FgndmtD4) | TAB COVER | — |
+| 28 | [TOOL - THE POT // Guitar Cover + Tabs](https://www.youtube.com/watch?v=2Dk5HbRfUdM) | TAB METAL COVER | — |
+| 29 | [TOOL - PRISON SEX // Guitar Cover + Tabs](https://www.youtube.com/watch?v=u3F2lSX7iq4) | TAB METAL COVER | — |
+| 30 | [TOOL - STRANGLEHOLD // Fullband Cover + Tabs](https://www.youtube.com/watch?v=oVPPCd2Odxw) | TAB METAL COVER | — |
+| 31 | [GOJIRA - MOUTH OF KALA // Guitar Cover + Tabs](https://www.youtube.com/watch?v=cYQff1ZIaN0) | TAB COVER | — |
+| 32 | [TOOL - 7EMPEST (Revisited) // Guitar Solo Cover + Tabs](https://www.youtube.com/watch?v=B07ULgwc-oQ) | TAB METAL COVER | — |
+| 33 | [TOOL - EULOGY // Guitar Cover + Tabs](https://www.youtube.com/watch?v=ScJETM93xIU) | TAB METAL COVER | — |
+| 34 | [TOOL - H. // Guitar Cover + Tabs](https://www.youtube.com/watch?v=Mjm2-7aBuyE) | TAB METAL COVER | — |
+| 35 | [OPETH - THE GRAND CONJURATION // Guitar Cover + Tabs](https://www.youtube.com/watch?v=kk0qNVw8e7E) | TAB COVER | — |
+| 36 | [TOOL - PARABOL \| PARABOLA // Guitar Cover + Tabs](https://www.youtube.com/watch?v=yO9Wu5bBc1g) | TAB METAL COVER | — |
+| 37 | [TOOL - VICARIOUS // Guitar Cover + Tabs](https://www.youtube.com/watch?v=HFW-6GjiieE) | TAB METAL COVER | — |
+| 38 | [INTRONAUT - CUBENSIS // Guitar Cover + Tabs](https://www.youtube.com/watch?v=R9fb6uhTINY) | TAB COVER | — |
+| 39 | [TOOL - JAMBI // Guitar Cover + Tabs](https://www.youtube.com/watch?v=eInU5MZMGKc) | TAB METAL COVER | — |
+| 40 | [KYUSS - SUPA SCOOPA AND MIGHTY SCOOP // Guitar Cover + Tabs](https://www.youtube.com/watch?v=ZGThoB9SrgQ) | TAB COVER | — |
+| 41 | [MAX NIESSL - LIMBO // Guitar Playthrough + Tabs](https://www.youtube.com/watch?v=hpyE8yTjesc) | TAB | — |
+| 42 | [TOOL - LOST KEYS \| ROSETTA STONED // Guitar Cover + Tabs](https://www.youtube.com/watch?v=xoX2NRpot1g) | TAB METAL COVER | — |
+| 43 | [MAX NIESSL - LIMBO // Original Music](https://www.youtube.com/watch?v=M-uhqebehVQ) |  | — |
+| 44 | [TOOL - STINKFIST // Guitar Cover + Tabs](https://www.youtube.com/watch?v=qOcNtpF-Lwk) | TAB METAL COVER | — |
+| 45 | [KARNIVOOL - SHUTTERSPEED // Guitar Cover + Tabs](https://www.youtube.com/watch?v=-GuHjro-nac) | TAB COVER | — |
+| 46 | [TOOL - THE GRUDGE // Guitar Cover + Tabs](https://www.youtube.com/watch?v=GhnkQnbSK7k) | TAB METAL COVER | — |
+| 47 | [A PERFECT CIRCLE - ORESTES // Guitar Cover + Tabs](https://www.youtube.com/watch?v=iwWqU5K6pCE) | TAB ALT COVER | — |
+| 48 | [LEPROUS - FOREIGNER // Guitar Cover + Tabs](https://www.youtube.com/watch?v=fW0h01hRbvo) | TAB CLASSIC COVER | — |
+| 49 | [KARNIVOOL - C.O.T.E. // Guitar Cover + Tabs](https://www.youtube.com/watch?v=R4r9OW6NFfU) | TAB COVER | — |
+| 50 | [TOOL - DESCENDING // Guitar Cover + Tabs](https://www.youtube.com/watch?v=el37hdQK6GU) | TAB METAL COVER | — |
+| 51 | [TOOL - INVINCIBLE // Guitar Cover + Tabs](https://www.youtube.com/watch?v=6MuGznhJfoo) | TAB METAL COVER | — |
+| 52 | [TOOL - CULLING VOICES // Guitar Cover + Tabs](https://www.youtube.com/watch?v=yyBO6cc0-TI) | TAB METAL COVER | — |
+| 53 | [TOOL - 7EMPEST // Guitar Cover + Tabs](https://www.youtube.com/watch?v=KUUFz5A4qwA) | TAB METAL COVER | — |
+| 54 | [TOOL - PNEUMA // Guitar Cover + Tabs](https://www.youtube.com/watch?v=FLK6lhwXAb8) | TAB METAL COVER | — |
+| 55 | [SOEN - LASCIVIOUS // Guitar Cover + Tabs](https://www.youtube.com/watch?v=hjPWcp1BIFE) | TAB COVER | — |
+| 56 | [TOOL - FEAR INOCULUM // Guitar Cover + Tabs](https://www.youtube.com/watch?v=nPX11TSQ9k0) | TAB METAL COVER | — |
+| 57 | [WHEEL - VULTURES // Guitar Cover + Tabs](https://www.youtube.com/watch?v=xjsX14CS_bo) | TAB COVER | — |
+| 58 | [SOEN - KURAMAN // Guitar Cover + Tabs](https://www.youtube.com/watch?v=4LCyzKvEsIk) | TAB COVER | — |
+| 59 | [KARNIVOOL - CHANGE // Guitar Cover + Tabs](https://www.youtube.com/watch?v=mEYKWI-cSNs) | TAB COVER | — |
+| 60 | [SOEN - LUNACY // Guitar Cover + Tabs](https://www.youtube.com/watch?v=fMNKVo_uR4g) | TAB COVER | — |
+| 61 | [TOOL - DESCENDING (Live in Birmingham) // Guitar Cover + Tabs](https://www.youtube.com/watch?v=UgMoNf-CGw4) | TAB METAL COVER | — |
+| 62 | [TOOL - INVINCIBLE (Live in Birmingham) // Guitar Cover + Tabs](https://www.youtube.com/watch?v=kgpMQqUDH1c) | TAB METAL COVER | — |
+| 63 | [THE OCEAN - DEVONIAN: NASCENT // Guitar Cover + Tabs](https://www.youtube.com/watch?v=a8nDU1nquMU) | TAB COVER | — |
+| 64 | [LEPROUS - DARE YOU // Guitar Cover + Tabs](https://www.youtube.com/watch?v=T0BbLkLn2FM) | TAB COVER | — |
+| 65 | [LEPROUS - BILATERAL // Guitar Cover + Tabs](https://www.youtube.com/watch?v=DbN1tHA5gQk) | TAB COVER | — |
+| 66 | [MASTODON - BLUE WALSH // Guitar Cover + Tabs](https://www.youtube.com/watch?v=qOCQwF5l0Vg) | TAB COVER | — |
+| 67 | [ALL THAT REMAINS - TWO WEEKS // Guitar Solo Cover + Tabs](https://www.youtube.com/watch?v=4Y0fey-Qxzo) | TAB COVER | — |
+| 68 | [IN FLAMES - CALL MY NAME // Guitar Cover + Tabs](https://www.youtube.com/watch?v=2Naf-dWPSVo) | TAB COVER | — |
+| 69 | [IN FLAMES - DEEP INSIDE // Guitar Cover + Tabs](https://www.youtube.com/watch?v=DNtYtPcGh_w) | TAB COVER | — |
+| 70 | [IN FLAMES - VOICES // Guitar Cover + Tabs](https://www.youtube.com/watch?v=3Vjq6Ai9q9o) | TAB COVER | — |
+| 71 | [SOEN - LOTUS // Guitar Cover + Tabs](https://www.youtube.com/watch?v=v0gSqfOlXnA) | TAB COVER | — |
+| 72 | [SOEN - VITRIOL // Guitar Cover + Tabs](https://www.youtube.com/watch?v=kWs36C_ajio) | TAB COVER | — |
+| 73 | [IN FLAMES - BURN // Guitar Cover + Tabs](https://www.youtube.com/watch?v=vHhUNo8rKlo) | TAB COVER | — |
+| 74 | [SOEN - OPPONENT // Guitar Cover + Tabs](https://www.youtube.com/watch?v=Qtl3wjuhiUI) | TAB COVER | — |
+| 75 | [IN FLAMES - I, THE MASK // Guitar Cover + Tabs](https://www.youtube.com/watch?v=0t9qeBMowCA) | TAB COVER | — |
+| 76 | [THE OCEAN - PERMIAN: THE GREAT DYING // Guitar Cover + Tabs](https://www.youtube.com/watch?v=j8NCZptEh3w) | TAB COVER | — |
+| 77 | [SOEN - RIVAL // Guitar Cover + Tabs](https://www.youtube.com/watch?v=mXIJHotB_nA) | TAB COVER | — |

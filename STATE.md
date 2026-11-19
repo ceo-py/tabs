@@ -270,3 +270,102 @@ VPS: `/home/ceo/production/tabs/` = web root, `/home/ceo/production/tabs-repo/` 
 | `chord_shapes.py` | речникът с формите + автоматично генериране на липсващи |
 | `chord_voicings.py` | намира изиграема позиция за произволен акорд |
 | `strip_link.py` | маха линка към видеото от футъра (само в сайт асетите) |
+
+---
+
+## 9. ПАРТИДА 20 — Oasis (4 нови канала) · състояние при спиране 18 ноември 2026, 13:20
+
+**Работата е спряна по нареждане на потребителя. Нищо не е комитнато за партида 20.**
+
+### Какво е готово
+* `gz_batches/batch20.json` — 20 урока (score >= 30), всеки с `source_channel`
+* **20/20 видеа свалени** в `dl/w4_<ID>.mp4` (1080p60, 43–230 MB)
+* **12 от 20 карти ПОСТРОЕНИ и проверени визуално** (всички `LETTERS`):
+  * `b20b` — guitar cover with tabs & chords: **8/8**
+    (D'You Know What I Mean?, I Hope I Think I Know, Live Forever, Morning Glory,
+     Rock 'n' Roll Star, Slide Away, Supersonic, Champagne Supernova)
+  * `b20c` — ike: **4/4** (Lyla, Roll With It, Songbird, Stay Young)
+  * спецификациите са в `b20b_spec/` (8) и `b20c_spec/` (4), всички с `diagram: LETTERS`
+  * картите са в `out_gz/Oasis-*.png` (12 файла)
+* `_b20_classify.py` — готов, пише `chords_diagram_p22.json` (ще обере 12-те готови)
+* `import_cards.py` — `range(1, 21)` + `channel` от `source_channel` (тествано: каталогът
+  остава стабилен на 389, 0 промени)
+* `site_build.py` — списъкът с канали се генерира динамично през `CHANNEL_URLS`
+
+### Какво НЕ е направено
+| # | задача | статус |
+|---|---|---|
+| 1 | **b20a** — Lex Guitar Tabs, 5 урока (Half The World Away, Whatever, Cigarettes & Alcohol, She's Electric, Some Might Say) | 0 спецификации. Агентът беше в измерване на геометрията и откри, че **layout-ът се различава между видеа от един и същ канал** → трябва отделни bbox-и за всяко видео |
+| 2 | **b20d** — Sparky Guitar, 3 урока (Columbia, Masterplan, Shakermaker) | 0 спецификации. Агентът беше в измерване на геометрията |
+| 3 | класификация `chords_diagram_p22.json` | не е пусната |
+| 4 | pipeline (import_cards -> merge -> chord_extract -> chord_shapes -> site_build) | не е пуснат |
+| 5 | commit + push на партида 20 | не е направен |
+| 6 | деплой на VPS-а | блокиран — машината е жива, но задушена (`Exceeded MaxStartups`), чака физически рестарт |
+| 7 | `REMAINING-LESSONS.md` + `STATE.md` след партида 20 | не е обновен |
+| 8 | маркираните списъци след новите карти | не е прегенерирано (виж т. 9.1) |
+
+### Как се продължава
+```powershell
+# 1. рестартирай агентите за b20a (5) и b20d (3) — има готови сканери:
+#    b20a_grab.py / b20a_probe.py / b20a_grid.py / b20a_sheet.py / b20a_arrows.py
+#    b20d_grab.py / b20d_scan.py / b20d_sheet.py / b20d_tiles.py
+py -3.14 b20a_build.py wtjoRQfmHQI 6CVKC5LVAAs 1F7ZncckR1o 42GX06WDX5w qPTV5wkocv0
+py -3.14 b20d_build.py Lbs---ONA3I p0Fpu1mZKOk B-BkCZrGp2M
+
+# 2. класификация (ще вземе всички 20)
+py -3.14 _b20_classify.py          # -> chords_diagram_p22.json
+
+# 3. pipeline
+py -3.14 import_cards.py           # 389 -> 409
+py -3.14 merge_chord_diagrams.py
+py -3.14 chord_extract.py
+py -3.14 chord_shapes.py
+py -3.14 site_build.py             # бавен ~13 мин
+py -3.14 list_remaining.py         # -> REMAINING-LESSONS.md
+```
+
+### 9.1 Маркиране „вече го имаме“ в research списъците — ГОВОРЕНО
+
+Направено е на 18 ноември 2026. `_mark_have.py` сверява целия корпус
+(112 канала / 50 490 видеа) с `songs.json` и прегенерира:
+
+| файл | какво е променено |
+|---|---|
+| `_channel_lists/*.md` (112) | нова колона `Карта`: `✅ Артист — Песен` за всяко видео с готова карта |
+| `_artist_lists/*.md` (95) | нова колона `Имаме`: колко видеа с tab от този артист вече покриваме |
+| `_artists_per_channel.md` / `.csv` (11 651 реда) | същата колка по канал |
+| `_oasis_by_song.md` | маркира покритите Oasis песни |
+| `_have_map.json` | машинен mapping URL -> нашата карта |
+
+Резултат при създаването: **2 731 от 50 490 видеа** маркирани (389 карти).
+Проверена извадка от 20 случайни съвпадения — няма лъжливи.
+
+⚠️ **Правило за съвпадение (важно):** изисква се името на артиста да е в
+заглавието на видеото. По-меко правило („песен съвпада, артистът не е написан“)
+беше изпробвано и **отрязано** — даваше ~40% лъжливи маркери, защото някои канали
+публикуват cover-и под **грешно име на артист** (напр. GZ2H публикува
+„Come Out And Play“ с „Billie Eilish“, а song-ът е на The Offspring).
+
+⚠️ Списъците трябва да се прегенерират **след** импорта на партида 20, за да се
+появят и 20-те нови Oasis карти:
+```powershell
+py -3.14 _mark_have.py
+py -3.14 _oasis_coverage.py
+```
+
+### 9.2 Покритие на Oasis — 56 канонични песни
+
+`_oasis_coverage.md` (генериран от `_oasis_coverage.py`):
+* канонични Oasis песни: **56**
+* с готова карта при създаването: **2** (Wonderwall, Don't Look Back In Anger)
+* остават: **54** — от тях **25 имат видео с tab** в корпуса (обхванати от партида 20)
+* **29 нямат нито едно видео** в измерените 112 канала → за тях трябва друг източник
+
+### 9.3 Източникови канали на партида 20
+
+| канал | handle | channel id | уроци |
+|---|---|---|---|
+| Lex Guitar Tabs | @LexGuitarTabs | `UCN4wqAJ7UYPnVRGKshckZJQ` | 5 |
+| guitar cover with tabs & chords | @guitarcoverwithtab | `UCeWHmkuMBM760nryL8wLfLg` | 8 |
+| ike | @Guitar-Jam. | `UCOXYqrNa6diSXKD8wl5EpIA` | 4 |
+| Sparky Guitar | @SparkyGuitar | `UCR8OM6seRnlh6bvZinGyyjA` | 3 |

@@ -1,0 +1,45 @@
+{
+ "title": "LYLA",
+ "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  ike",
+ "out": "out_gz/Oasis-Lyla.png",
+ "panels": [
+  {
+   "label": "CHORDS & TAB  ·  INTRO",
+   "t": 4,
+   "bbox": [0, 0, 1920, 618],
+   "png": "frames/b20c_BN9bZdDOyZQ/p0.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  VERSE 1",
+   "t": 16,
+   "bbox": [0, 0, 1920, 618],
+   "png": "frames/b20c_BN9bZdDOyZQ/p1.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  CHORUS",
+   "t": 70,
+   "bbox": [0, 0, 1920, 618],
+   "png": "frames/b20c_BN9bZdDOyZQ/p2.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  VERSE 2",
+   "t": 112,
+   "bbox": [0, 0, 1920, 618],
+   "png": "frames/b20c_BN9bZdDOyZQ/p3.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  INTERLUDE",
+   "t": 172,
+   "bbox": [0, 0, 1920, 618],
+   "png": "frames/b20c_BN9bZdDOyZQ/p4.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  CHORUS",
+   "t": 190,
+   "bbox": [0, 0, 1920, 618],
+   "png": "frames/b20c_BN9bZdDOyZQ/p5.png"
+  }
+ ],
+ "note": "Chords: A (intro)  ·  Dadd9/A Fmaj7/A G6/A A (verse 1)  ·  D A A D A G D (chorus)  ·  Dadd9/A Fmaj7/A (verse 2)  ·  E G (interlude)  ·  A D A G D A D A (final chorus)  ·  Capo: fret 2 (printed on the intro panel)  ·  Strumming: not shown in the video - the channel shows standard notation and TAB only, there is no strumming pattern panel",
+ "diagram": "LETTERS"
+}

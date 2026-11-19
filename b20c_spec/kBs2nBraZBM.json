@@ -1,0 +1,39 @@
+{
+ "title": "STAY YOUNG",
+ "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  ike",
+ "out": "out_gz/Oasis-Stay-Young.png",
+ "panels": [
+  {
+   "label": "TAB  ·  INTRO",
+   "t": 8,
+   "bbox": [0, 0, 1920, 640],
+   "png": "frames/b20c_kBs2nBraZBM/p0.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  VERSE 1",
+   "t": 16,
+   "bbox": [0, 0, 1920, 640],
+   "png": "frames/b20c_kBs2nBraZBM/p1.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  CHORUS",
+   "t": 64,
+   "bbox": [0, 0, 1920, 640],
+   "png": "frames/b20c_kBs2nBraZBM/p2.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  VERSE 2",
+   "t": 104,
+   "bbox": [0, 0, 1920, 640],
+   "png": "frames/b20c_kBs2nBraZBM/p3.png"
+  },
+  {
+   "label": "CHORDS & TAB  ·  SOLO",
+   "t": 168,
+   "bbox": [0, 0, 1920, 640],
+   "png": "frames/b20c_kBs2nBraZBM/p4.png"
+  }
+ ],
+ "note": "Chords: D (verse 1)  ·  D F#7 G G/F# Em7 A (chorus)  ·  D Em7 G (verse 2)  ·  the intro and the solo panels show standard notation and TAB only, without chord names  ·  Strumming: not shown in the video - the channel shows standard notation and TAB only, there is no strumming pattern panel",
+ "diagram": "LETTERS"
+}

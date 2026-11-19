@@ -1,0 +1,11 @@
+{
+  "title": "MORNING GLORY",
+  "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  guitar cover with tabs & chords",
+  "out": "out_gz/Oasis-Morning-Glory.png",
+  "panels": [
+    {"label": "SCORE  ·  CHORDS, NOTATION & TAB", "t": 50, "bbox": [0, 568, 1920, 512], "png": "frames/b20b_01gU00k6rY4/p0.png"},
+    {"label": "SCORE  ·  CHORDS, NOTATION & TAB  ·  LATER PART", "t": 170, "bbox": [0, 576, 1920, 504], "png": "frames/b20b_01gU00k6rY4/p1.png"}
+  ],
+  "note": "Chords: Em7 D A7sus4 Cadd9 B   Strumming: not shown in the video - TAB notation only   On screen: tempo = 137",
+  "diagram": "LETTERS"
+}
