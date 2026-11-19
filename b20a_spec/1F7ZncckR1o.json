@@ -1,0 +1,13 @@
+{
+  "title": "CIGARETTES & ALCOHOL",
+  "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  Lex Guitar Tabs",
+  "out": "out_gz/Oasis-Cigarettes-Alcohol.png",
+  "panels": [
+    {"label": "TAB  ·  UPPER PART", "t": 90,
+     "bbox": [0, 390, 1920, 150], "png": "frames/b20a_1F7ZncckR1o/p0.png"},
+    {"label": "TAB  ·  LOWER PART", "t": 90,
+     "bbox": [0, 888, 1920, 192], "png": "frames/b20a_1F7ZncckR1o/p1.png"}
+  ],
+  "note": "Chords: not shown in the video - TAB notation only   Strumming: not shown in the video - TAB notation only",
+  "diagram": "DIAGRAM"
+}

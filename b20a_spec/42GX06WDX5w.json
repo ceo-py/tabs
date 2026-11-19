@@ -1,0 +1,13 @@
+{
+  "title": "SHE'S ELECTRIC",
+  "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  Lex Guitar Tabs",
+  "out": "out_gz/Oasis-She-s-Electric.png",
+  "panels": [
+    {"label": "TAB & STRUMMING  ·  UPPER PART", "t": 100,
+     "bbox": [0, 360, 1920, 158], "png": "frames/b20a_42GX06WDX5w/p0.png"},
+    {"label": "TAB  ·  LOWER PART", "t": 100,
+     "bbox": [0, 900, 1920, 180], "png": "frames/b20a_42GX06WDX5w/p1.png"}
+  ],
+  "note": "Chords: not shown in the video - TAB notation only   Strumming: up and down strum arrows over the TAB in the upper panel",
+  "diagram": "DIAGRAM"
+}
