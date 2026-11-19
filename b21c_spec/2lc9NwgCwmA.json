@@ -1,0 +1,33 @@
+{
+ "title": "INSTANT KARMA",
+ "subtitle": "John Lennon  ·  Guitar Cover  ·  Tabs + Chords  ·  Top Guitar Players",
+ "out": "out_gz/Oasis-Instant-Karma.png",
+ "panels": [
+  {
+   "label": "TAB & NOTATION  ·  SECTION A",
+   "t": 10,
+   "bbox": [0, 186, 1920, 392],
+   "png": "frames/b21c_2lc9NwgCwmA/p0.png"
+  },
+  {
+   "label": "TAB & NOTATION  ·  SECTION B  ·  ENDING 1",
+   "t": 30,
+   "bbox": [0, 186, 1920, 392],
+   "png": "frames/b21c_2lc9NwgCwmA/p1.png"
+  },
+  {
+   "label": "TAB & NOTATION  ·  SECTION C  ·  ENDING 2",
+   "t": 70,
+   "bbox": [0, 186, 1920, 392],
+   "png": "frames/b21c_2lc9NwgCwmA/p2.png"
+  },
+  {
+   "label": "TAB & NOTATION  ·  SECTION D",
+   "t": 80,
+   "bbox": [0, 186, 1920, 392],
+   "png": "frames/b21c_2lc9NwgCwmA/p3.png"
+  }
+ ],
+ "note": "Chords: no chord letters on screen - the video shows standard notation plus TAB only (sections A to G, tempo quarter note = 119)   Strumming: not shown in the video - TAB notation only",
+ "diagram": "DIAGRAM"
+}

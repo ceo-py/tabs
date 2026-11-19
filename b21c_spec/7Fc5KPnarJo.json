@@ -1,0 +1,51 @@
+{
+ "title": "LOVE LIKE A BOMB",
+ "subtitle": "Oasis  ·  Guitar Cover  ·  Tabs + Chords  ·  Fretboard Fundamentals",
+ "out": "out_gz/Oasis-Love-Like-A-Bomb.png",
+ "panels": [
+  {
+   "label": "INTRO  ·  E  E7  x3",
+   "t": 6,
+   "bbox": [0, 976, 304, 84],
+   "png": "frames/b21c_7Fc5KPnarJo/p0.png"
+  },
+  {
+   "label": "CHORD DIAGRAM  ·  E",
+   "t": 20,
+   "bbox": [1678, 0, 236, 354],
+   "png": "frames/b21c_7Fc5KPnarJo/p1.png"
+  },
+  {
+   "label": "CHORDS & LYRICS  ·  Asus2  Dsus2  G  E",
+   "t": 16,
+   "bbox": [0, 850, 1844, 230],
+   "png": "frames/b21c_7Fc5KPnarJo/p2.png"
+  },
+  {
+   "label": "CHORD DIAGRAM  ·  Asus2",
+   "t": 32,
+   "bbox": [1678, 0, 236, 354],
+   "png": "frames/b21c_7Fc5KPnarJo/p3.png"
+  },
+  {
+   "label": "CHORD DIAGRAM  ·  G",
+   "t": 68,
+   "bbox": [1678, 0, 236, 354],
+   "png": "frames/b21c_7Fc5KPnarJo/p4.png"
+  },
+  {
+   "label": "CHORD DIAGRAM  ·  E7",
+   "t": 92,
+   "bbox": [1678, 0, 236, 354],
+   "png": "frames/b21c_7Fc5KPnarJo/p5.png"
+  },
+  {
+   "label": "CHORD DIAGRAM  ·  Dsus2",
+   "t": 104,
+   "bbox": [1678, 0, 236, 354],
+   "png": "frames/b21c_7Fc5KPnarJo/p6.png"
+  }
+ ],
+ "note": "Chords: E  E7  Asus2  Dsus2  G   Strumming: not shown in the video - the channel shows chord names, lyrics and fret diagrams only (no TAB and no strumming pattern)",
+ "diagram": "LETTERS"
+}
